@@ -9,7 +9,6 @@ doc-type: Event
 last-substantial-update: 2023-01-06
 kt: 11652
 thumbnail: 3412701.jpeg
-exl-id: 27e82c62-56aa-4f1e-8a9d-0314d5c20ba0
 ---
 # Commerce and Coffee - E-Commerce Trends
 

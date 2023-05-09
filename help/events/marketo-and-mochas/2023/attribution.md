@@ -7,7 +7,6 @@ doc-type: Event
 last-substantial-update: 2023-01-31
 kt: 11764
 thumbnail: 3413506.jpeg
-exl-id: 993ef1f5-024e-47d9-a57a-cea7eec6f8d1
 ---
 # Marketo and Mochas - Marketo Measure Attribution
 

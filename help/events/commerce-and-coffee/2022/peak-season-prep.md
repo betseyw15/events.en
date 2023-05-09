@@ -9,7 +9,6 @@ doc-type: Value Video
 last-substantial-update: 2023-01-06
 kt: 11648
 thumbnail: 3412587.jpeg
-exl-id: 608ada26-dbca-44f8-934c-c9e77f1e5911
 ---
 # Commerce and Coffee: Peak Season Preparation
 

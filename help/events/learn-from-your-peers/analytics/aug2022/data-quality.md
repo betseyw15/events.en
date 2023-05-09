@@ -7,7 +7,6 @@ doc-type: Event
 last-substantial-update: 2023-02-09
 kt: 11850
 thumbnail: 3414203.jpeg
-exl-id: 0ede7fa2-d61b-4376-b734-3057cd15fed2
 ---
 # Data quality and adoption in [!DNL Analytics]
 

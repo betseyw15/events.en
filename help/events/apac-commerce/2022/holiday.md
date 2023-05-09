@@ -7,7 +7,6 @@ role: Leader, Architect, Developer, Data Architect, Admin, User
 level: Beginner
 last-substantial-update: 2022-10-31
 kt: 11355
-exl-id: 5bdeada4-1dd0-4b9b-a5fb-854ae9e8b659
 ---
 # Holiday Readiness 2022
 

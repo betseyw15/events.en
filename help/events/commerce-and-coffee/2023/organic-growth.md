@@ -9,7 +9,6 @@ doc-type: Event
 last-substantial-update: 2023-03-03
 jira: KT-11945
 thumbnail: 3416128.jpeg
-exl-id: 8a61bf0d-aeec-4280-9a2a-233e5114c167
 ---
 # Commerce & Coffee: Organic Growth
 

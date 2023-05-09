@@ -9,7 +9,6 @@ doc-type: Event
 last-substantial-update: 2023-01-06
 kt: 11654
 thumbnail: 3412715.jpeg
-exl-id: 899f2cf3-d0cc-4d7f-a5bb-c1e2d3ef6d20
 ---
 # 2021 Holiday Retrospective
 

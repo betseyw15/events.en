@@ -8,7 +8,6 @@ solution: Commerce,Magento Business Intelligence
 role: Leader,User,Data Architect
 level: Beginner,Intermediate
 thumbnail: 342409.jpeg
-exl-id: 2af16665-6973-4811-9cc8-a16a9d1839ff
 ---
 # MBI - Ask an Expert
 

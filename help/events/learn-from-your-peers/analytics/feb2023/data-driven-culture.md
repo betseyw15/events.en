@@ -6,7 +6,6 @@ doc-type: Event
 last-substantial-update: 2023-02-09
 kt: 11836
 thumbnail: 3414131.jpeg
-exl-id: 4dff4c71-cf8e-47da-8cf4-a2bb349d58fd
 ---
 # Building a Data Driven Culture
 

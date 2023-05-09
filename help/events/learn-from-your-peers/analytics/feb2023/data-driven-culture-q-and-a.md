@@ -6,7 +6,6 @@ doc-type: Event
 last-substantial-update: 2023-02-16
 jira: KT-11881
 thumbnail: 3415614.jpeg
-exl-id: bb36d86e-d63d-4a46-847e-f38ad8dc7eb2
 ---
 # [!DNL Adobe Analytics] Building a Data Driven Culture Follow-up Q&A
 

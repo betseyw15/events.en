@@ -9,7 +9,6 @@ doc-type: Event
 last-substantial-update: 2023-01-06
 kt: 11605
 thumbnail: 3412273.jpeg
-exl-id: f2620350-b9cb-4780-aecc-21a0097324a5
 ---
 # Commerce & Coffee - Peak Season 'Ask Me Anything'
 

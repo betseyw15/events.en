@@ -1,7 +1,6 @@
 ---
 title: '[!DNL Experience Makers - Learn from your peers]'
 description: 'Learn from Adobe experts and peers how you can get the most from your Adobe solutions. [!DNL Experience Makers - Learn from your peers] is a global series of virtual customer learning events, focusing on diving deeper into [!DNL Adobe Experience Cloud] solutions.'
-exl-id: 464fcf6a-e215-464e-8888-43ebebc261c3
 ---
 # [!DNL Experience Makers - Learn from your peers] {#overview}
 

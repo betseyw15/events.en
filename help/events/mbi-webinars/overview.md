@@ -1,7 +1,6 @@
 ---
 title: MBI Events
 description: Explore the MBI recorded webinars, which cover a wide range of topics and best practices for using MBI to its fullest potential.
-exl-id: 73b30133-c85c-43e0-a292-2170cb59b7e3
 ---
 # MBI Webinars
 

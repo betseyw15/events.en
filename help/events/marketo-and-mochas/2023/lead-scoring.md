@@ -7,7 +7,6 @@ doc-type: Event
 last-substantial-update: 2023-01-06
 kt: 11655
 thumbnail: 3412722.jpeg
-exl-id: 00980cfe-f723-4aa1-ba93-404fdf937924
 ---
 # Marketo and Mochas - Lead Scoring
 

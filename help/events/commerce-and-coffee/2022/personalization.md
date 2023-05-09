@@ -9,7 +9,6 @@ doc-type: Event
 last-substantial-update: 2023-01-06
 kt: 11651
 thumbnail: 3412700.jpeg
-exl-id: 93aaba31-3395-4ae4-b1ba-f9f48a93c436
 ---
 # Commerce and Coffee - Personalization
 

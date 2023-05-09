@@ -8,7 +8,6 @@ solution: Marketo Engage
 last-substantial-update: 2023-03-03
 jira: KT-12415
 thumbnail: 3416250.jpeg
-exl-id: 918aac13-6a47-43cf-80d6-19d08eae6c08
 ---
 # Templates, tokens, and teamwork - Make your Adobe [!DNL Marketo Engage] content scalable
 

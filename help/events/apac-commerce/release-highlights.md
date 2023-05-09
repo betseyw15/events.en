@@ -8,7 +8,6 @@ last-substantial-update: 2022-11-04
 kt: 11424
 thumbnail: 3410838.jpeg
 hidefromtoc: true
-exl-id: dabf1ad9-0b6e-4a0a-91ab-900577000c95
 ---
 # Adobe Commerce Roadmap Highlights
 

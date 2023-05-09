@@ -7,7 +7,6 @@ doc-type: Event
 last-substantial-update: 2023-03-31
 jira: KT-13023
 thumbnail: 3417670.jpeg
-exl-id: d8a3cfee-b946-4f7e-a92c-5b57e603771e
 ---
 # Learn how a small team maximizes their instance
 

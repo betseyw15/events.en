@@ -7,7 +7,6 @@ doc-type: Event
 last-substantial-update: 2023-02-09
 kt: 11848
 thumbnail: 342096.jpeg
-exl-id: 4a7cd458-47f0-4201-b65d-d47b38532756
 ---
 # Tell impactful stories with data
 

@@ -6,7 +6,6 @@ doc-type: Event
 last-substantial-update: 2023-02-09
 kt: 11847
 thumbnail: 3414194.jpeg
-exl-id: b4c02a65-012f-4e1d-9b35-dd931120b229
 ---
 # [!DNL Adobe Analytics] Documentation Mission Possible
 

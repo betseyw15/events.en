@@ -7,7 +7,6 @@ doc-type: Event
 last-substantial-update: 2023-03-16
 jira: KT-12926
 thumbnail: 3416666.jpeg
-exl-id: 1444aab2-c8ca-4515-b38a-6cd882534272
 ---
 # Marketo and Mochas - Deliverability (Part 1)
 
