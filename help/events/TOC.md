@@ -23,3 +23,4 @@ user-guide-description: A collection of event recordings forcused on using Adobe
 + [MBI Webinars](mbi-webinars/overview.md)
 + [Skill Builder](skill-builder/overview.md)
 + [The Skill Exchange](skill-exchange/overview.md)
++ [Workfront](workfront/overview.md)
