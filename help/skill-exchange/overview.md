@@ -29,11 +29,11 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
 <table>
   <tr>
    <td>
-      <a href="/help/events/analytics/jun2021/getting-started.md">
+      <a href="/help/analytics/jun2021/getting-started.md">
       <img alt="Analytics Getting Started" src="./assets/analytics-getting-started.png"/>
       </a>
       <div>
-         <a href="/help/events/analytics/jun2021/getting-started.md"><strong>Adobe Analytics Getting Started</strong></a>
+         <a href="/help/analytics/jun2021/getting-started.md"><strong>Adobe Analytics Getting Started</strong></a>
 <!----         <br/><em>foo</em> --->
       </div>
       <p>
@@ -42,11 +42,11 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
       </p>
     </td>
    <td>
-      <a href="/help/events/marketo/feb2022/data-maintenance.md">
+      <a href="/help/marketo/feb2022/data-maintenance.md">
       <img alt="Data Maintenance" src="./assets/data-maintenance.png"/>
       </a>
       <div>
-         <a href="/help/events/marketo/feb2022/data-maintenance.md"><strong>Data Maintenance</strong></a>
+         <a href="/help/marketo/feb2022/data-maintenance.md"><strong>Data Maintenance</strong></a>
 <!----         <br/><em>foo</em> --->
       </div>
       <p>
@@ -55,11 +55,11 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
       </p>
     </td>
    <td>
-      <a href="/help/events/workfront/apr2022/ten-tips.md">
+      <a href="/help/workfront/apr2022/ten-tips.md">
       <img alt="10 Tips to Wow Your Workfront" src="./assets/workfront-10-tips.png"/>
       </a>
       <div>
-         <a href="/help/events/workfront/apr2022/ten-tips.md"><strong>10 Tips to Wow Your Workfront</strong></a>
+         <a href="/help/workfront/apr2022/ten-tips.md"><strong>10 Tips to Wow Your Workfront</strong></a>
 <!----         <br/><em>foo</em> --->
       </div>
       <p>

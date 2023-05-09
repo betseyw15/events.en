@@ -15,11 +15,11 @@ The topics are repeated occasionally to accommodate any new questions that the c
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/getting-started.html">
+    <a href="https://experienceleague.adobe.com/docs/commerce-events/mbi/2021/getting-started.html">
       <img alt="Getting Started with MBI" src="./assets/getting-started-mbi.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/getting-started.html">
+      <a href="https://experienceleague.adobe.com/docs/commerce-events/mbi/2021/getting-started.html">
         <strong>Getting Started with MBI</strong>
       </a>
     </div>
@@ -28,11 +28,11 @@ The topics are repeated occasionally to accommodate any new questions that the c
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2022/manage-data-sets.html">
+    <a href="https://experienceleague.adobe.com/docs/commerce-events/mbi/2022/manage-data-sets.html">
       <img alt="Managing Data Sets in MBI" src="./assets/managing-data-sets-mbi.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2022/manage-data-sets.html">
+      <a href="https://experienceleague.adobe.com/docs/commerce-events/mbi/2022/manage-data-sets.html">
         <strong>Managing Data Sets in MBI</strong>
       </a>
     </div>
@@ -41,11 +41,11 @@ The topics are repeated occasionally to accommodate any new questions that the c
     <p>
   </td>
    <td>
-    <a href="https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/optimize-data-warehouse.html">
+    <a href="https://experienceleague.adobe.com/docs/commerce-events/mbi/2021/optimize-data-warehouse.html">
       <img alt="Optimize Your MBI Data Warehouse" src="./assets/optimize-data-warehouse.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/optimize-data-warehouse.html">
+      <a href="https://experienceleague.adobe.com/docs/commerce-events/mbi/2021/optimize-data-warehouse.html">
         <strong>Optimize Your MBI Data Warehouse</strong>
       </a>
     </div>

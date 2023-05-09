@@ -11,11 +11,11 @@ A library of recorded Workfront events where experts and peers share thoughts on
 <table>
   <tr>
    <td>
-      <a href="/help/events/user-groups/workfront-system-maintenance.md">
+      <a href="/help/user-groups/workfront-system-maintenance.md">
       <img alt="Workfront System Maintenance" src="./assets/workfront-system-maintenance.png"/>
       </a>
       <div>
-         <a href="/help/events/user-groups/workfront-system-maintenance.md"><strong>Workfront System Maintenance</strong></a>
+         <a href="/help/user-groups/workfront-system-maintenance.md"><strong>Workfront System Maintenance</strong></a>
 <!----         <br/><em>foo</em> --->
       </div>
       <p>
@@ -24,11 +24,11 @@ A library of recorded Workfront events where experts and peers share thoughts on
       </p>
     </td>
    <td>
-      <a href="/help/events/user-groups/reporting-and-dashboards.md">
+      <a href="/help/user-groups/reporting-and-dashboards.md">
       <img alt="Reporting and Dashboards" src="./assets/reporting-and-dashboards.png"/>
       </a>
       <div>
-         <a href="/help/events/user-groups/reporting-and-dashboards.md"><strong>Reporting & Dashboards</strong></a>
+         <a href="/help/user-groups/reporting-and-dashboards.md"><strong>Reporting & Dashboards</strong></a>
 <!----         <br/><em>foo</em> --->
       </div>
       <p>
@@ -37,11 +37,11 @@ A library of recorded Workfront events where experts and peers share thoughts on
       </p>
     </td>
    <td>
-      <a href="/help/events/user-groups/agile-in-marketing.md">
+      <a href="/help/user-groups/agile-in-marketing.md">
       <img alt="Agile in Marketing" src="./assets/agile-in-marketing.png"/>
       </a>
       <div>
-         <a href="/help/events/user-groups/agile-in-marketing.md"><strong>Agile in Marketing</strong></a>
+         <a href="/help/user-groups/agile-in-marketing.md"><strong>Agile in Marketing</strong></a>
 <!----         <br/><em>foo</em> --->
       </div>
       <p>
