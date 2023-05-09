@@ -5,6 +5,7 @@ role: Leader
 cloud: Experience Cloud
 product: adobe experience manager
 solution: Experience Manager
+feature-set: Experience Manager
 feature: Release Information
 level: Intermediate
 type: Event
