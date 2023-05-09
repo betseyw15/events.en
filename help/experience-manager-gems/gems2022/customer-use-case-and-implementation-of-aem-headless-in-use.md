@@ -1,6 +1,8 @@
 ---
 title: Customer Use Case & Implementation of AEM Headless in Use
 description: Session announcement
+solution: Experience Manager
+feature-set: Experience Manager
 version: 6.5
 feature: AEM Community Lens
 topic: Administration
