@@ -14,9 +14,9 @@ Preparation is key to success and in this webinar we will walk you through the b
 
 You will hear from Jason Ford, Manager Commerce Solutions Consulting APAC, and Sophia Gray, Senior Commerce Account Manager, who will be covering the following topics:
 
- * Campaign preparation
- * Performance considerations
- * Surging your infrastructure for optimal performance
+* Campaign preparation
+* Performance considerations
+* Surging your infrastructure for optimal performance
 
 The peak season is expected to be strong in 2022, with eCommerce continuing to be the go-to channel for all shoppers. Using techniques shared during this session, you and your team can successfully and effectively promote your goods and/or services on your site.
 

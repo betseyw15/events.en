@@ -14,4 +14,4 @@ Please join current Adobe Marketo Engage Champions, Darshil Shah, Jenny Robertso
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417670/?quality=12&learn=on)
 
-Click **[here](/help/assets/small-team-instance.pdf){target="_blank"}** for the session slides.
+Click **[here](assets/small-team-instance.pdf){target="_blank"}** for the session slides.

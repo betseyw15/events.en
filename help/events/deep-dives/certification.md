@@ -14,4 +14,4 @@ Have you been interested in the certification process and how it can help your M
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416760/?quality=12&learn=on)
 
-Click **[here](/help/assets/certification.pdf){target="_blank"}** for the session slides.
+Click **[here](assets/certification.pdf){target="_blank"}** for the session slides.

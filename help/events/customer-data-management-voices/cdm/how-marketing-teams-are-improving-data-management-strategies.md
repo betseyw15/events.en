@@ -12,9 +12,9 @@ thumbnail: 340371.jpg
 
 An infinite amount of user information can be beneficial, but most companies struggle with efficiently capturing data at scale and in real time to inform business decisions. In this webinar, learn how you can
 
- * Improve their data collection and management practices
- * Remove data collection friction points
- * Best practices for working with multi-solution data collection setups
- * Increase performance on your web properties
+* Improve their data collection and management practices
+* Remove data collection friction points
+* Best practices for working with multi-solution data collection setups
+* Increase performance on your web properties
 
 >[!VIDEO](https://video.tv.adobe.com/v/340371/?quality=12&learn=on)

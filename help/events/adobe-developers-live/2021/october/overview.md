@@ -5,7 +5,7 @@ sub-product: sites, content-services
 ---
 # Adobe Developers Live {#overview}
 
-<img alt="Adobe Developers Live" src="/help/assets/adl.png" />
+<img alt="Adobe Developers Live" src="assets/adl.png" />
 
 On October 4-5, 2021, Adobe Developers Live brought together Adobe developers and experience builders with diverse backgrounds and a singular purpose - to create incredible end-to-end experiences. This two-day conference featured important developer updates, technical sessions and community networking opportunities.
 
@@ -21,7 +21,7 @@ Connect with fellow devs and join the session conversations in Experience League
   <tr>
    <td>
       <a href="headless.md">
-      <img alt="Headless Sites" src="/help/assets/mathias.png"/>
+      <img alt="Headless Sites" src="assets/mathias.png"/>
       </a>
       <div>
          <a href="headless.md"><strong>Headless Sites</strong></a>         
@@ -34,7 +34,7 @@ Connect with fellow devs and join the session conversations in Experience League
      </td>   
      <td>
       <a href="aep-integration.md">
-      <img alt="Overview of Adobe Experience Platform integration" src="/help/assets/eric.png"/>
+      <img alt="Overview of Adobe Experience Platform integration" src="assets/eric.png"/>
       </a>
       <div>
          <a href="aep-integration.md"><strong>Overview of Adobe Experience Platform integration</strong></a>
@@ -48,7 +48,7 @@ Connect with fellow devs and join the session conversations in Experience League
    </td>
      <td>
       <a href="pdf-services-api.md">
-      <img alt="Generating documents and capturing e-signatures in your apps using Adobe Sign API" src="/help/assets/ben.png"/>
+      <img alt="Generating documents and capturing e-signatures in your apps using Adobe Sign API" src="assets/ben.png"/>
       </a>
       <div>
          <a href="pdf-services-api.md"><strong>Generating documents and capturing e-signatures in your apps using Adobe Sign API</strong></a>

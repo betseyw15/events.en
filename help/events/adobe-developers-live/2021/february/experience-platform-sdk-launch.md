@@ -21,4 +21,4 @@ Continue the conversation in **[Experience League Communities](http://adobe.ly/3
 
 >[!VIDEO](https://video.tv.adobe.com/v/331761/?quality=12&learn=on&hidetitle=true)
 
-Click **[here](/help/assets/experience-platform-sdk-launch.pdf)** for the session slides.
+Click **[here](assets/experience-platform-sdk-launch.pdf)** for the session slides.

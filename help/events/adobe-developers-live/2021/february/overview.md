@@ -5,7 +5,7 @@ sub-product: sites, content-services
 ---
 # Adobe Developers Live | Content {#overview}
 
-<img alt="Adobe Developers Live" src="/help/assets/adl.png" />
+<img alt="Adobe Developers Live" src="assets/adl.png" />
 
 On February 8-9, 2021, Adobe Developers Live: Content brought together developers and experience builders with diverse backgrounds and a singular purpose – to create incredible end-to-end experiences.
 
@@ -19,7 +19,7 @@ Connect with fellow devs and join the session conversations in **[Experience Lea
   <tr>
    <td>
       <a href="headless-graphql-content-fragments.md">
-      <img alt="Headless - GraphQL with Content Fragments" src="/help/assets/jabran.png"/>
+      <img alt="Headless - GraphQL with Content Fragments" src="assets/jabran.png"/>
       </a>
       <div>
          <a href="headless-graphql-content-fragments.md"><strong>Headless - GraphQL with Content Fragments</strong></a>         
@@ -32,7 +32,7 @@ Connect with fellow devs and join the session conversations in **[Experience Lea
      </td>   
      <td>
       <a href="rapid-frontend-devlopment.md">
-      <img alt="Frontend Dev - Your future workflow to rapidly build & deploy the frontend of your site." src="/help/assets/gabriel.png"/>
+      <img alt="Frontend Dev - Your future workflow to rapidly build & deploy the frontend of your site." src="assets/gabriel.png"/>
       </a>
       <div>
          <a href="rapid-frontend-devlopment.md"><strong>Frontend Dev - Your future workflow to rapidly build & deploy the frontend of your site.</strong></a>
@@ -46,7 +46,7 @@ Connect with fellow devs and join the session conversations in **[Experience Lea
    </td>
      <td>
       <a href="get-ready-aem-cloud.md">
-      <img alt="Get ready for the Cloud Service - Migration best practices" src="/help/assets/andreea.png"/>
+      <img alt="Get ready for the Cloud Service - Migration best practices" src="assets/andreea.png"/>
       </a>
       <div>
          <a href="get-ready-aem-cloud.md"><strong>Get ready for the Cloud Service - Migration best practices</strong></a>

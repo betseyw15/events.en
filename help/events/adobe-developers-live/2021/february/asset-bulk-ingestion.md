@@ -21,4 +21,4 @@ Continue the conversation in **[Experience League Communities](http://adobe.ly/3
 
 >[!VIDEO](https://video.tv.adobe.com/v/331769/?quality=12&learn=on&hidetitle=true)
 
-Click **[here](/help/assets/asset-bulk-ingestion.pdf)** for the session slides.
+Click **[here](assets/asset-bulk-ingestion.pdf)** for the session slides.

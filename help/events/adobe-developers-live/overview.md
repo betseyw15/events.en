@@ -5,7 +5,7 @@ solution: Experience Cloud, Experience Manager
 ---
 # Adobe Developers Live {#overview}
 
-<img alt="Adobe Developers Live" src="/help/assets/adl.png" />
+<img alt="Adobe Developers Live" src="assets/adl.png" />
 
 Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose – to create incredible end-to-end experiences. This two-day conference will feature important developer updates, technical sessions and community networking opportunities.
 
@@ -27,7 +27,7 @@ Check out the all of the other [sessions](2021/october/overview.md) !
   <tr>
    <td>
       <a href="./2021/october/headless.md">
-      <img alt="Headless Sites" src="/help/assets/mathias.png"/>
+      <img alt="Headless Sites" src="assets/mathias.png"/>
       </a>
       <div>
          <a href="./2021/october/headless.md"><strong>Headless Sites</strong></a>         
@@ -40,7 +40,7 @@ Check out the all of the other [sessions](2021/october/overview.md) !
      </td>   
      <td>
       <a href="./2021/october/aep-integration.md">
-      <img alt="Overview of Adobe Experience Platform integration" src="/help/assets/eric.png"/>
+      <img alt="Overview of Adobe Experience Platform integration" src="assets/eric.png"/>
       </a>
       <div>
          <a href="./2021/october/aep-integration.md"><strong>Overview of Adobe Experience Platform integration</strong></a>
@@ -54,7 +54,7 @@ Check out the all of the other [sessions](2021/october/overview.md) !
    </td>
      <td>
       <a href="./2021/october/pdf-services-api.md">
-      <img alt="Generating documents and capturing e-signatures in your apps using Adobe Sign API" src="/help/assets/ben.png"/>
+      <img alt="Generating documents and capturing e-signatures in your apps using Adobe Sign API" src="assets/ben.png"/>
       </a>
       <div>
          <a href="./2021/october/pdf-services-api.md"><strong>Generating documents and capturing e-signatures in your apps using Adobe Sign API</strong></a>
@@ -78,7 +78,7 @@ Check out the all of the other [sessions](2021/february/overview.md).
   <tr>
    <td>
       <a href="./2021/february/headless-graphql-content-fragments.md">
-      <img alt="Headless - GraphQL with Content Fragments" src="/help/assets/jabran.png"/>
+      <img alt="Headless - GraphQL with Content Fragments" src="assets/jabran.png"/>
       </a>
       <div>
          <a href="./2021/february/headless-graphql-content-fragments.md"><strong>Headless - GraphQL with Content Fragments</strong></a>         
@@ -91,7 +91,7 @@ Check out the all of the other [sessions](2021/february/overview.md).
      </td>   
      <td>
       <a href="./2021/february/rapid-frontend-devlopment.md">
-      <img alt="Frontend Dev - Your future workflow to rapidly build & deploy the frontend of your site." src="/help/assets/gabriel.png"/>
+      <img alt="Frontend Dev - Your future workflow to rapidly build & deploy the frontend of your site." src="assets/gabriel.png"/>
       </a>
       <div>
          <a href="./2021/february/rapid-frontend-devlopment.md"><strong>Frontend Dev - Your future workflow to rapidly build & deploy the frontend of your site.</strong></a>
@@ -105,7 +105,7 @@ Check out the all of the other [sessions](2021/february/overview.md).
    </td>
      <td>
       <a href="./2021/february/get-ready-aem-cloud.md">
-      <img alt="Get ready for the Cloud Service - Migration best practices" src="/help/assets/andreea.png"/>
+      <img alt="Get ready for the Cloud Service - Migration best practices" src="assets/andreea.png"/>
       </a>
       <div>
          <a href="./2021/february/get-ready-aem-cloud.md"><strong>Get ready for the Cloud Service - Migration best practices</strong></a>

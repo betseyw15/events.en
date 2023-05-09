@@ -10,7 +10,7 @@ hidefromtoc: true
 ---
 # Adobe Experience Manager Gems
 
-![](/help/assets/ADX_Gems.png)
+![](assets/ADX_Gems.png)
 
 >[!NOTE]
 >

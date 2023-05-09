@@ -16,7 +16,7 @@ Adobe Developers Live: Commerce 2022 brings together developers and experience b
   <tr>
    <td>
       <a href="headless.md">
-      <img alt="Headless Sites" src="/help/assets/mathias.png"/>
+      <img alt="Headless Sites" src="assets/mathias.png"/>
       </a>
       <div>
          <a href="headless.md"><strong>Headless Sites</strong></a>         
@@ -29,7 +29,7 @@ Adobe Developers Live: Commerce 2022 brings together developers and experience b
      </td>   
      <td>
       <a href="aep-integration.md">
-      <img alt="Overview of Adobe Experience Platform integration" src="/help/assets/eric.png"/>
+      <img alt="Overview of Adobe Experience Platform integration" src="assets/eric.png"/>
       </a>
       <div>
          <a href="aep-integration.md"><strong>Overview of Adobe Experience Platform integration</strong></a>
@@ -43,7 +43,7 @@ Adobe Developers Live: Commerce 2022 brings together developers and experience b
    </td>
      <td>
       <a href="pdf-services-api.md">
-      <img alt="Generating documents and capturing e-signatures in your apps using Adobe Sign API" src="/help/assets/ben.png"/>
+      <img alt="Generating documents and capturing e-signatures in your apps using Adobe Sign API" src="assets/ben.png"/>
       </a>
       <div>
          <a href="pdf-services-api.md"><strong>Generating documents and capturing e-signatures in your apps using Adobe Sign API</strong></a>

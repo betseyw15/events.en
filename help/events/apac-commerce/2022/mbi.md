@@ -17,9 +17,9 @@ In this webinar we discuss how you can get the most out of your commerce data us
 
 You will hear from Daniel Rios (Senior Manager, Product Management) who will be covering the following topics:
 
- * Transforming data into value
- * Building a strong data foundation
- * Combining MBI and Analytics data
+* Transforming data into value
+* Building a strong data foundation
+* Combining MBI and Analytics data
 
 You will also see a live demo of the platform to bring these concepts to life.
 

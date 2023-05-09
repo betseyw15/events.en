@@ -23,7 +23,7 @@ Join the sessions below to learn:
   <tr>
    <td>
       <a href="./2022/welcome.md">
-      <img alt="Welcome address and AEM overview" src="/help/assets/welcome.png" >
+      <img alt="Welcome address and AEM overview" src="assets/welcome.png" >
       </a>
       <div>
          <a href="./2022/welcome.md"><strong>Welcome address and AEM overview</strong></a>         
@@ -36,7 +36,7 @@ Join the sessions below to learn:
    </td>
    <td>
       <a href="./2022/assets-for-all.md">
-      <img alt="Assets for All" src="/help/assets/assets-for-all.png" >
+      <img alt="Assets for All" src="assets/assets-for-all.png" >
       </a>
       <div>
          <a href="./2022/assets-for-all.md"><strong>Extending Adobe Experience Manager Headless with Adobe App Builder</strong></a>         
@@ -49,7 +49,7 @@ Join the sessions below to learn:
    </td>
    <td>
       <a href="./2022/supply-chain.md">
-      <img alt="Building a Content Supply Chain that Scales" src="/help/assets/supply-chain.png"/ >
+      <img alt="Building a Content Supply Chain that Scales" src="assets/supply-chain.png"/ >
       </a>
       <div>
          <a href="./2022/supply-chain.md"><strong>Building a Content Supply Chain that Scales</strong></a>         

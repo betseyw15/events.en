@@ -22,4 +22,4 @@ Continue the conversation in **[Experience League Communities](http://adobe.ly/3
 
 >[!VIDEO](https://video.tv.adobe.com/v/331737/?quality=12&learn=on&hidetitle=true)
 
-Click **[here](/help/assets/rapid-frontend-devlopment.pdf)** for the session slides.
+Click **[here](assets/rapid-frontend-devlopment.pdf)** for the session slides.
