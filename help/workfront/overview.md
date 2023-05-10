@@ -28,7 +28,7 @@ A library of recorded Workfront events where experts and peers share thoughts on
       <img alt="Reporting and Dashboards" src="assets/reporting-and-dashboards.png"/>
       </a>
       <div>
-         <a href="/help/user-groups/reporting-and-dashboards.md"><strong>Reporting & Dashboards</strong></a>
+         <a href="user-groups/reporting-and-dashboards.md"><strong>Reporting & Dashboards</strong></a>
 <!----         <br/><em>foo</em> --->
       </div>
       <p>

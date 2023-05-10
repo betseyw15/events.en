@@ -14,6 +14,6 @@ event-guests: Sandra Hausmann,Chetan Prasad,Peter Fransen
 
 Learn the benefits of in-app messaging as a real-time engagement channel and how to configure and author personalized mobile app experiences in Adobe Journey Optimizer.
 
-[![ExL LIVE May 24 2023](assets/May24_exl_live_banner_web_1920_WebBanner.png)](https://www.youtube.com/watch?v=ABhwYw44r2g)
+[![ExL LIVE May 24 2023](./../assets/May24_exl_live_banner_web_1920_WebBanner.png)](https://www.youtube.com/watch?v=ABhwYw44r2g)
 
 Click the image above to go to the show page on YouTube.
