@@ -15,16 +15,16 @@ eventcard__product is-size-12
 <table>
   <tr>
    <td>
-      <a href="/help/adobe-developers-live/overview.md">
-      <img alt="Adobe Developers Live" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png"/>
+      <a href="/help/adobe-campaign-insider/overview.md">
+      <img alt="Adobe Campaign Insider Series" src="https://cdn.experienceleague.adobe.com/thumb/adobe-campaign-insider-series.png"/>
       </a>
       <div>
-         <a href="/help/adobe-developers-live/overview.md"><strong>Adobe Developers Live</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Experience Manager, Experience Platform, Document Services</em>
+         <a href="/help/adobe-developers-live/overview.md"><strong>Adobe Campaign Insider Series</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Campaign</em>
       </div>
       <p>
         <br/>
-         Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose - to create incredible end-to-end experiences.
+         Tips & tricks and inspiration for Adobe Campaign customers to help evolve cross-channel marketing strategies, elevate team marketing practitioner skills, and help organizations launch more advanced cross-channel marketing strategies.
       </p>
     </td>
    <td>
