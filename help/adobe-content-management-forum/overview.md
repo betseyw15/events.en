@@ -4,7 +4,7 @@ description: A collection of session recordings from Adobe Content Management Fo
 ---
 # Adobe Content Management Forum {#overview}
 
-Learn from Adobe experts as they discuss the current and future state of content management strategy, deliverables, challenges, and technical requirements. This virtual event includes a special keynote from Kurt Benkert, NFL quarterback and business consultant, and Haresh Kumar, Director of Strategy and Product Marketing, as they discuss how having the right tools in place can help you access creative assets and simplify everyday tasks, in order to unlock the power of content velocity
+Learn from Adobe experts as they discuss the current and future state of content management strategy, deliverables, challenges, and technical requirements. This virtual event includes a special keynote from Kurt Benkert, NFL quarterback and business consultant, and Haresh Kumar, Director of Strategy and Product Marketing, as they discuss how having the right tools in place can help you access creative assets and simplify everyday tasks, in order to unlock the power of content velocity.
 
 Join the sessions below to learn:
 

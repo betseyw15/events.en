@@ -20,7 +20,7 @@ eventcard__product is-size-12
       </a>
       <div>
          <a href="/help/adobe-developers-live/overview.md"><strong>Adobe Campaign Insider Series</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;"> *SOLUTIONS* Adobe Campaign</em>
+        <br/><em class="title is-size-7" style="color: #858585;"> Adobe Campaign</em>
       </div>
       <p>
         <br/>
@@ -28,16 +28,16 @@ eventcard__product is-size-12
       </p>
     </td>
    <td>
-      <a href="/help/adobe-developers-live/overview.md">
-      <img alt="Adobe Developers Live" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png"/>
+      <a href="/help/adobe-content-management-forum/overview.md">
+      <img alt="Adobe Content Management Forum" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-content-management-forum.png"/>
       </a>
       <div>
-         <a href="/help/adobe-developers-live/overview.md"><strong>Adobe Developers Live</strong></a>
-        <br/><em class="title is-size-8" style="color: #858585;"> *SOLUTIONS* Experience Manager, Experience Platform, Document Services</em>
+         <a href="/help/adobe-content-management-forum/overview.md"><strong>Adobe Content Management Forum</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Manager</em>
       </div>
       <p>
         <br/>
-         Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose - to create incredible end-to-end experiences.
+         Learn from Adobe experts as they discuss the current and future state of content management strategy, deliverables, challenges, and technical requirements.
       </p>
     </td>
    <td>
@@ -46,22 +46,48 @@ eventcard__product is-size-12
       </a>
       <div>
          <a href="/help/adobe-developers-live/overview.md"><strong>Adobe Developers Live</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce, Adobe Experience Manager, Adobe Experience Platform, Document Services, Workfront</em>
       </div>
       <p>
         <br/>
          Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose - to create incredible end-to-end experiences.
       </p>
-      <br/><em>Experience Manager, Experience Platform, Document Services</em>
     </td>
   </tr>
-  <tr>
+    <tr>
+   <td>
+      <a href="/help/adobe-campaign-insider/overview.md">
+      <img alt="Adobe Campaign Insider Series" src="https://cdn.experienceleague.adobe.com/thumb/adobe-campaign-insider-series.png"/>
+      </a>
+      <div>
+         <a href="/help/adobe-developers-live/overview.md"><strong>Adobe Campaign Insider Series</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;"> Adobe Campaign</em>
+      </div>
+      <p>
+        <br/>
+         Tips & tricks and inspiration for Adobe Campaign customers to help evolve cross-channel marketing strategies, elevate team marketing practitioner skills, and help organizations launch more advanced cross-channel marketing strategies.
+      </p>
+    </td>
+   <td>
+      <a href="/help/adobe-content-management-forum/overview.md">
+      <img alt="Adobe Content Management Forum" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-content-management-forum.png"/>
+      </a>
+      <div>
+         <a href="/help/adobe-content-management-forum/overview.md"><strong>Adobe Content Management Forum</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Manager</em>
+      </div>
+      <p>
+        <br/>
+         Learn from Adobe experts as they discuss the current and future state of content management strategy, deliverables, challenges, and technical requirements.
+      </p>
+    </td>
    <td>
       <a href="/help/adobe-developers-live/overview.md">
       <img alt="Adobe Developers Live" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png"/>
       </a>
       <div>
          <a href="/help/adobe-developers-live/overview.md"><strong>Adobe Developers Live</strong></a>
-        <br/><em class="eventcard__product is-size-12">Experience Manager, Experience Platform, Document Services</em>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce, Adobe Experience Manager, Adobe Experience Platform, Document Services, Workfront</em>
       </div>
       <p>
         <br/>
