@@ -21,4 +21,4 @@ Continue the conversation in **[Experience League Communities](http://adobe.ly/3
 
 >[!VIDEO](https://video.tv.adobe.com/v/332022/?quality=12&learn=on&hidetitle=true)
 
-Click **[here](assets/content-delivery-on-aemcs.pdf)** for the session slides.
+Click **[here](/help/adobe-developers-live/assets/content-delivery-on-aemcs.pdf)** for the session slides.

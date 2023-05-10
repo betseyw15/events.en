@@ -19,4 +19,4 @@ Continue the conversation in **[Experience League Communities](http://adobe.ly/3
 
 >[!VIDEO](https://video.tv.adobe.com/v/331770/?quality=12&learn=on&hidetitle=true)
 
-Click **[here](assets/developer-experience.pdf)** for the session slides.
+Click **[here](/help/adobe-developers-live/assets/developer-experience.pdf)** for the session slides.
