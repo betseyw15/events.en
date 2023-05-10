@@ -16,20 +16,20 @@ user-guide-description: This is a description for the user guide that will be di
     + [Make Metadata work for your business](content-and-commerce/2022/metadata.md)
     + [Headless for Commerce and PWA Studio](content-and-commerce/2022/headless-pwa.md)
   + 2021 {#2021}
-    + [Authoring Fundamentals](./content-and-commerce/2021/authoring-fundamentals.md)
-    + [Media Library Administration](./content-and-commerce/2021/media-library-administration.md)
-    + [Collaboration Tools](./content-and-commerce/2021/collaboration-tools.md)
-    + [Omnichannel experiences](./content-and-commerce/2021/omnichannel-experiences.md)
-    + [MSM and Translation](./content-and-commerce/2021/multi-site-management-web-translation.md)
-    + [Content Management](./content-and-commerce/2021/traditional-headless-content-management.md)
+    + [Authoring Fundamentals](content-and-commerce/2021/authoring-fundamentals.md)
+    + [Media Library Administration](content-and-commerce/2021/media-library-administration.md)
+    + [Collaboration Tools](content-and-commerce/2021/collaboration-tools.md)
+    + [Omnichannel experiences](content-and-commerce/2021/omnichannel-experiences.md)
+    + [MSM and Translation](content-and-commerce/2021/multi-site-management-web-translation.md)
+    + [Content Management](content-and-commerce/2021/traditional-headless-content-management.md)
   + 2020 {#2020}
-    + [Asset Link](./content-and-commerce/2020/asset-link.md)
-    + [Brand Portal](./content-and-commerce/2020/brand-portal.md)
-    + [Dynamic Media](./content-and-commerce/2020/dynamic-media.md)
-    + [Folder Structure and Search](./content-and-commerce/2020/folder-structure-search.md)
-    + [Metadata](./content-and-commerce/2020/metadata.md)
+    + [Asset Link](content-and-commerce/2020/asset-link.md)
+    + [Brand Portal](content-and-commerce/2020/brand-portal.md)
+    + [Dynamic Media](content-and-commerce/2020/dynamic-media.md)
+    + [Folder Structure and Search](content-and-commerce/2020/folder-structure-search.md)
+    + [Metadata](content-and-commerce/2020/metadata.md)
   + 2019 {#2019}
-    + [Testing Best Practices with Cloud Manager](./content-and-commerce/2019/cloud-manager-testing.md)
+    + [Testing Best Practices with Cloud Manager](content-and-commerce/2019/cloud-manager-testing.md)
 + Customer journeys {#customer-journeys}
   + [Overview](customer-journeys/overview.md)
   + 2022 {#2022}
