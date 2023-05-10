@@ -15,8 +15,8 @@ eventcard__product is-size-12
 <table>
   <tr>
    <td>
-      <a href="/help/adobe-campaign-insider/overview.md">
-      <img alt="Adobe Campaign Insider Series" src="https://cdn.experienceleague.adobe.com/thumb/adobe-campaign-insider-series.png"/>
+      <a href="/help/apac-commerce/overview.md">
+      <img alt="Adobe Campaign Insider Series" src="https://cdn.experienceleague.adobe.com/thumb/apac-commerce-series.png"/>
       </a>
       <div>
          <a href="/help/adobe-developers-live/overview.md"><strong>Adobe Campaign Insider Series</strong></a>
@@ -54,18 +54,18 @@ eventcard__product is-size-12
       </p>
     </td>
   </tr>
-    <tr>
+  <tr>
    <td>
-      <a href="/help/adobe-campaign-insider/overview.md">
-      <img alt="Adobe Campaign Insider Series" src="https://cdn.experienceleague.adobe.com/thumb/adobe-campaign-insider-series.png"/>
+      <a href="/help/apac-commerce/overview.md">
+      <img alt="APAC Adobe Commerce Webinars" src="https://cdn.experienceleague.adobe.com/thumb/apac-commerce-series.png"/>
       </a>
       <div>
-         <a href="/help/adobe-developers-live/overview.md"><strong>Adobe Campaign Insider Series</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;"> Adobe Campaign</em>
+         <a href="/help/apac-commerce/overview.md"><strong>APAC Adobe Commerce Webinars</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
       </div>
       <p>
         <br/>
-         Tips & tricks and inspiration for Adobe Campaign customers to help evolve cross-channel marketing strategies, elevate team marketing practitioner skills, and help organizations launch more advanced cross-channel marketing strategies.
+         The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Commerce customers that covers a wide range of topics from best practices to product roadmap and industry trends.
       </p>
     </td>
    <td>
