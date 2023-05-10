@@ -39,7 +39,7 @@ user-guide-description: AEM GEM Sessions
 
 --->
 Our latest AEM GEMs webinar on **Accelerating Adobe Experience Manager Cloud Service development with Rapid Development Environments** has been conducted on *February 22nd, 2023*. 
-The **recording** can be found here: [AEM Rapid Development Environments webinar](/help/gems2023/Rapid-Development-Environments.md)
+The **recording** can be found here: [AEM Rapid Development Environments webinar](gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
 >

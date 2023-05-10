@@ -50,8 +50,8 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 <table style="max-width: 1214px;">
 
 <tr>
-  <td style="vertical-align: top;"><a href="/help/experience-league-live/episodes/exl-live-episode-04-21-22.md">
-      <img alt="Experience League LIVE Apr 21" src="./assets/youtube-thumbnails/april-21-yt.jpg">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-21-22.md">
+      <img alt="Experience League LIVE Apr 21" src="assets/youtube-thumbnails/april-21-yt.jpg">
     </a>
     <div>
       <a href="/help/experience-league-live/episodes/exl-live-episode-04-21-22.md">
