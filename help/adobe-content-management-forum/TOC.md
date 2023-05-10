@@ -7,7 +7,7 @@ feature-set: Experience Manager, Experience Manager Sites, Experience Manager As
 
 # Adobe Developers Live Events {#events}
 
-+ [Overview](./overview.md)
++ [Overview](overview.md)
 + 2022 {#2022}
   + [Welcome address and AEM overview](2022/welcome.md)
   + [Extending Adobe Experience Manager Headless with Adobe App Builder](2022/headless.md)

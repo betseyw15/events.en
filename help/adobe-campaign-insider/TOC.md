@@ -7,7 +7,7 @@ feature-set: Campaign
 
 # Adobe Campaign Insider Series {#events}
 
-+ [Adobe Campaign Insider Series](overview.md)
++ [Overview](overview.md)
 + 2022 {#2022}
   + [Customer Spotlight - Microsoft](./2022/microsoft.md)
   + [Customer Spotlight - Center Parcs](./2022/center-parcs.md)

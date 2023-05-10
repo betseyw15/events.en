@@ -6,7 +6,7 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
 
 # [!DNL Experience Makers - Learn from your peers] {#events}
 
-+ [Experience Makers](./overview.md)
++ [Experience Makers](overview.md)
 + Analytics {#analytics}
   + 2023 {#2023}
     + February {#feb2023}
