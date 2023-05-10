@@ -7,7 +7,7 @@ feature-set: Workfront
 
 # Workfront Events {#workfront-recordings}
 
-+ [Workfront User Groups and Webinars](home.md)
++ [Workfront User Groups and Webinars](overview.md)
 + Administration {#administration}
   + [Audit Trails & Compliance](user-groups/audit-trails-and-compliance.md)
   + [Automating Workflows with Workfront Fusion](user-groups/automating-workflows-with-workfront-fusion.md)
