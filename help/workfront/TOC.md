@@ -5,7 +5,7 @@ user-guide-description: Workfront Events
 feature-set: Workfront
 ---
 
-# Workfront Events {#events}
+# Workfront Events {#workfront-recordings}
 
 + [Workfront User Groups and Webinars](home.md)
 + Administration {#administration}

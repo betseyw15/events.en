@@ -11,7 +11,7 @@ event-cta-text-live: Join live
 doc-type: live event
 ---
 
-# Marketo and Mochas {#events}
+# Marketo and Mochas {#marketo-and-mochas-recordings}
 
 + [Overview](overview.md)
 + 2023 {#2023}

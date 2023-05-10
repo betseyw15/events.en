@@ -5,7 +5,7 @@ breadcrumb-title: AEM GEMs events
 feature-set: Experience Manager
 ---
 
-# Experience Manager GEMS events {#gems}
+# Experience Manager GEMS events {#experience-manager-gems-recordings}
 
 + [Overview](overview.md)
 + 2023 {#gems2023}

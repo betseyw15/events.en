@@ -5,7 +5,7 @@ user-guide-description: The customer data management destination for the technic
 feature-set: Experience Platform
 ---
 
-# Customer Data Management Voices {#events}
+# Customer Data Management Voices {#customer-data-management-voices-recordings}
 
 + [Overview](overview.md)
 + Customer Data Management Building Blocks {#cdm}

@@ -4,7 +4,7 @@ breadcrumb-title: Commerce and Coffee Events
 user-guide-description: Adobe Commerce and Coffee is a video library where experts and peers have shared their thoughts and ideas on how to use Adobe Commerce.
 ---
 
-# Commerce and Coffee {#events}
+# Commerce and Coffee {#commerce-and-coffee-recordings}
 
 + [Overview](overview.md)
 + 2023 {#2023}

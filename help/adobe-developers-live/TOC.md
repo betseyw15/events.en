@@ -5,7 +5,7 @@ user-guide-description: Collection of recordings from the Adobe Developer Live C
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
 ---
 
-# Adobe Developers Live Events {#events}
+# Adobe Developers Live Events {#adobe-developers-live-recordings}
 
 + [Overview](overview.md)
 + 2022 {#2022}

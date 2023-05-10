@@ -11,7 +11,7 @@ event-cta-text-live: Join live
 doc-type: live event
 ---
 
-# Deep Dives {#events}
+# Deep Dives {#deep-dives-recordings}
 
 + [Overview](overview.md)
 + Deep Dives in Marketo {#deep-dives-marketo}

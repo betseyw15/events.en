@@ -5,7 +5,7 @@ user-guide-description: Collection of recordings from Experience Makers The Skil
 event-series: The Skill Exchange
 ---
 
-# The Skill Exchange {#events}
+# The Skill Exchange {#the-skill-exchange-recordings}
 
 + [Overview](overview.md)
 + Analytics {#analytics}

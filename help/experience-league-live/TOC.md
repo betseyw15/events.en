@@ -11,7 +11,7 @@ event-cta-text-live: Join live
 doc-type: live event
 ---
 
-# Experience League Live Events {#events}
+# Experience League Live Events {#experience-league-live-recordings}
 
 + [Overview](overview.md)
 + Episodes {#episodes}

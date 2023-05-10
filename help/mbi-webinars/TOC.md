@@ -4,7 +4,7 @@ breadcrumb-title: MBI Events
 user-guide-description: MBI Events is a video library where experts and peers have shared their thoughts and ideas on Adobe Commerce.
 ---
 
-# MBI Events {#events}
+# MBI Events  {#mbi-webinars-recordings}
 
 + [Overview](overview.md)
 + 2022 {#2022}

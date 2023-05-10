@@ -46,7 +46,7 @@ A library of recorded Workfront events where experts and peers share thoughts on
       </div>
       <p>
         <br/>
-         Agile experts discuss the high points and trends they’ve seen with agile, general agility in business, and how they use Workfront for agile.
+         Agile experts discuss the high points and trends they've seen with agile, general agility in business, and how they use Workfront for agile.
       </p>
     </td>
   </tr>

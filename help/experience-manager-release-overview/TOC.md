@@ -5,7 +5,7 @@ user-guide-description: Get a quick overview of the latest features on Adobe Exp
 breadcrumb-title: AEM CS Release Updates
 ---
 
-# Adobe Experience Manager as a Cloud Service release updates {#aemcsupdates}
+# Adobe Experience Manager as a Cloud Service release updates {#aemcs-release-update-recordings}
 
 + [Overview](overview.md)
 + 2023 {#2023}

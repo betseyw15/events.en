@@ -3,7 +3,7 @@ user-guide-title: Skill Builder
 user-guide-description: This is a description for the user guide that will be displayed on the landing page.
 ---
 
-# Skill Builder {#skill-builder}
+# Skill Builder {#skill-builder-recordings}
 
 + [Overview](overview.md)
 + Content and Commerce {#content-and-commerce}

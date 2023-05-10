@@ -4,7 +4,7 @@ user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Collection of recordings from [!DNL Experience Makers Learn from your peers]"
 ---
 
-# [!DNL Experience Makers - Learn from your peers] {#events}
+# [!DNL Experience Makers - Learn from your peers] {#learn-from-your-peers-recordings}
 
 + [Experience Makers](overview.md)
 + Analytics {#analytics}

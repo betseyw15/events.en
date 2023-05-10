@@ -5,7 +5,7 @@ user-guide-description: Tips & tricks and inspiration for Adobe Campaign custome
 feature-set: Campaign
 ---
 
-# Adobe Campaign Insider Series {#events}
+# Adobe Campaign Insider Series {#adobe-campaign-insider-recordings}
 
 + [Overview](overview.md)
 + 2022 {#2022}
