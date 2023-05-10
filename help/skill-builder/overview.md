@@ -11,7 +11,7 @@ Skill Builder is a webinar series designed to build your knowledge base and maxi
 <table>
 <tr>
   <td>
-    <img alt="Content and Commerce" src="/help/skill-builder/assets/commerce.png" />
+    <img alt="Content and Commerce" src="assets/commerce.png" />
     <div>
       <strong>Content and Commerce</strong>
     </div>
@@ -23,7 +23,7 @@ Skill Builder is a webinar series designed to build your knowledge base and maxi
     </a>
   </td>
   <td>
-    <img alt="Customer journeys" src="/help/skill-builder/assets/customer-journey.png" />
+    <img alt="Customer journeys" src="assets/customer-journey.png" />
     <div>
       <strong>Customer journeys</strong>
     </div>
@@ -35,7 +35,7 @@ Skill Builder is a webinar series designed to build your knowledge base and maxi
     </a>
   </td>
   <td>
-    <img alt="Data and insights" src="/help/skill-builder/assets/data-insights.png" />
+    <img alt="Data and insights" src="assets/data-insights.png" />
     <div>
       <strong>Data and insights</strong>
     </div>

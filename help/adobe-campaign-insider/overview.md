@@ -15,8 +15,8 @@ Tips & tricks and inspiration for Adobe Campaign customers to help evolve cross-
 <table>
   <tr>
    <td>
-      <a href="./2022/cross-channel.md">
-      <img alt="Level up Your Cross-channel Marketing with Adobe Campaign Classic" src="./assets/cross-channel.png"/>
+      <a href="2022/cross-channel.md">
+      <img alt="Level up Your Cross-channel Marketing with Adobe Campaign Classic" src="assets/cross-channel.png"/>
       </a>
       <div>
          <a href="./2022/cross-channel.md"><strong>Level up Your Cross-channel Marketing with Adobe Campaign Classic</strong></a>
@@ -24,8 +24,8 @@ Tips & tricks and inspiration for Adobe Campaign customers to help evolve cross-
       </div>
    </td>
    <td>
-      <a href="./2022/integrations.md">
-      <img alt="Adobe Campaign integrations with a marketing ecosystem" src="./assets/integrations.png"/>
+      <a href="2022/integrations.md">
+      <img alt="Adobe Campaign integrations with a marketing ecosystem" src="assets/integrations.png"/>
       </a>
       <div>
          <a href="./2022/integrations.md"><strong>Adobe Campaign integrations with a marketing ecosystem</strong></a>
@@ -33,11 +33,11 @@ Tips & tricks and inspiration for Adobe Campaign customers to help evolve cross-
       </div>
    </td>
    <td>
-      <a href="./2022/tips.md">
+      <a href="2022/tips.md">
       <img alt="Time saving tips from a pro" src="./assets/tips.png"/>
       </a>
       <div>
-         <a href="./2022/tips.md"><strong>Time saving tips from a pro</strong></a>
+         <a href="2022/tips.md"><strong>Time saving tips from a pro</strong></a>
          <br/>
       </div>
    </td>

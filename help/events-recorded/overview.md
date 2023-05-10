@@ -20,7 +20,7 @@ eventcard__product is-size-12
       </a>
       <div>
          <a href="/help/adobe-developers-live/overview.md"><strong>Adobe Campaign Insider Series</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Campaign</em>
+        <br/><em class="title is-size-7" style="color: #858585;"> *SOLUTIONS* Adobe Campaign</em>
       </div>
       <p>
         <br/>
@@ -33,7 +33,7 @@ eventcard__product is-size-12
       </a>
       <div>
          <a href="/help/adobe-developers-live/overview.md"><strong>Adobe Developers Live</strong></a>
-        <br/><em>Experience Manager, Experience Platform, Document Services</em>
+        <br/><em class="title is-size-8" style="color: #858585;"> *SOLUTIONS* Experience Manager, Experience Platform, Document Services</em>
       </div>
       <p>
         <br/>

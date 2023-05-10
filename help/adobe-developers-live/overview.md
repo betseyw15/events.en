@@ -26,11 +26,11 @@ Check out the all of the other [sessions](2021/october/overview.md) !
 <table>
   <tr>
    <td>
-      <a href="./2021/october/headless.md">
+      <a href="2021/october/headless.md">
       <img alt="Headless Sites" src="assets/mathias.png"/>
       </a>
       <div>
-         <a href="./2021/october/headless.md"><strong>Headless Sites</strong></a>         
+         <a href="2021/october/headless.md"><strong>Headless Sites</strong></a>         
          <br/><em>with Mathias Siegl, Principal Product Manager, AEM Sites</em>
       </div>
       <p>
@@ -39,11 +39,11 @@ Check out the all of the other [sessions](2021/october/overview.md) !
       </p>
      </td>   
      <td>
-      <a href="./2021/october/aep-integration.md">
+      <a href="2021/october/aep-integration.md">
       <img alt="Overview of Adobe Experience Platform integration" src="assets/eric.png"/>
       </a>
       <div>
-         <a href="./2021/october/aep-integration.md"><strong>Overview of Adobe Experience Platform integration</strong></a>
+         <a href="2021/october/aep-integration.md"><strong>Overview of Adobe Experience Platform integration</strong></a>
          <br/><em>with Eric Knee, Principal Enterprise Solution Architect</em>
       </div>
       <p>
@@ -53,11 +53,11 @@ Check out the all of the other [sessions](2021/october/overview.md) !
    </td>
    </td>
      <td>
-      <a href="./2021/october/pdf-services-api.md">
+      <a href="2021/october/pdf-services-api.md">
       <img alt="Generating documents and capturing e-signatures in your apps using Adobe Sign API" src="assets/ben.png"/>
       </a>
       <div>
-         <a href="./2021/october/pdf-services-api.md"><strong>Generating documents and capturing e-signatures in your apps using Adobe Sign API</strong></a>
+         <a href="2021/october/pdf-services-api.md"><strong>Generating documents and capturing e-signatures in your apps using Adobe Sign API</strong></a>
          <br/><em>with Ben Vanderberg, Principal Developer Evangelist</em>
       </div>
       <p>
@@ -77,11 +77,11 @@ Check out the all of the other [sessions](2021/february/overview.md).
 <table>
   <tr>
    <td>
-      <a href="./2021/february/headless-graphql-content-fragments.md">
+      <a href="2021/february/headless-graphql-content-fragments.md">
       <img alt="Headless - GraphQL with Content Fragments" src="assets/jabran.png"/>
       </a>
       <div>
-         <a href="./2021/february/headless-graphql-content-fragments.md"><strong>Headless - GraphQL with Content Fragments</strong></a>         
+         <a href="2021/february/headless-graphql-content-fragments.md"><strong>Headless - GraphQL with Content Fragments</strong></a>         
          <br/><em>with Jabran Asghar, Sr. Software Engineer</em>
       </div>
       <p>
@@ -90,11 +90,11 @@ Check out the all of the other [sessions](2021/february/overview.md).
       </p>
      </td>   
      <td>
-      <a href="./2021/february/rapid-frontend-devlopment.md">
+      <a href="2021/february/rapid-frontend-devlopment.md">
       <img alt="Frontend Dev - Your future workflow to rapidly build & deploy the frontend of your site." src="assets/gabriel.png"/>
       </a>
       <div>
-         <a href="./2021/february/rapid-frontend-devlopment.md"><strong>Frontend Dev - Your future workflow to rapidly build & deploy the frontend of your site.</strong></a>
+         <a href="2021/february/rapid-frontend-devlopment.md"><strong>Frontend Dev - Your future workflow to rapidly build & deploy the frontend of your site.</strong></a>
          <br/><em>with Gabriel Walt, Sr. Product Manager</em>
       </div>
       <p>
@@ -104,11 +104,11 @@ Check out the all of the other [sessions](2021/february/overview.md).
    </td>
    </td>
      <td>
-      <a href="./2021/february/get-ready-aem-cloud.md">
+      <a href="2021/february/get-ready-aem-cloud.md">
       <img alt="Get ready for the Cloud Service - Migration best practices" src="assets/andreea.png"/>
       </a>
       <div>
-         <a href="./2021/february/get-ready-aem-cloud.md"><strong>Get ready for the Cloud Service - Migration best practices</strong></a>
+         <a href="2021/february/get-ready-aem-cloud.md"><strong>Get ready for the Cloud Service - Migration best practices</strong></a>
          <br/><em>with Andreea Moise, Sr. Software Engineer</em>
       </div>
       <p>

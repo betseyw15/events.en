@@ -13,11 +13,11 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
 <table style="max-width: 50%;">
   <tr>
     <td>
-      <a href="./2023/2023-4-0.md">
-        <img alt="2023.4.0 Release" src="./2023/assets/2023-4-0-thumb.png" />
+      <a href="2023/2023-4-0.md">
+        <img alt="2023.4.0 Release" src="2023/assets/2023-4-0-thumb.png" />
       </a>
       <div>
-        <a href="./2023/2023-4-0.md">
+        <a href="2023/2023-4-0.md">
           <strong>Release | 2023.4.0</strong>
           <br/>
         </a>
@@ -35,11 +35,11 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
 <table style="max-width: 50%;">
   <tr>
     <td>
-      <a href="./2023/2023-2-0.md">
-        <img alt="2023.2.0 Release" src="./2023/assets/2023-2-0-thumb.png" />
+      <a href="2023/2023-2-0.md">
+        <img alt="2023.2.0 Release" src="2023/assets/2023-2-0-thumb.png" />
       </a>
       <div>
-        <a href="./2023/2023-2-0.md">
+        <a href="2023/2023-2-0.md">
           <strong>Release | 2023.2.0</strong>
           <br/>
         </a>
@@ -50,11 +50,11 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
       <p>
     </td>
     <td>
-      <a href="./2023/2023-1-0.md">
-        <img alt="2023.1.0 Release" src="./2023/assets/2023-1-0-thumb.png" />
+      <a href="2023/2023-1-0.md">
+        <img alt="2023.1.0 Release" src="2023/assets/2023-1-0-thumb.png" />
       </a>
       <div>
-        <a href="./2023/2023-1-0.md">
+        <a href="2023/2023-1-0.md">
           <strong>Release | 2023.1.0</strong>
           <br/>
         </a>
@@ -65,11 +65,11 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
       <p>
     </td>
     <td>
-      <a href="./2022/2022-10-0.md">
-        <img alt="2022.10.0 Release" src="./2022/assets/2022-10-0-thumb.png" />
+      <a href="2022/2022-10-0.md">
+        <img alt="2022.10.0 Release" src="2022/assets/2022-10-0-thumb.png" />
       </a>
       <div>
-        <a href="./2022/2022-10-0.md">
+        <a href="2022/2022-10-0.md">
           <strong>Release | 2022.10.0</strong>
           <br/>
         </a>
@@ -81,11 +81,11 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
     </td>
   <tr>  
     <td>
-      <a href="./2022/2022-8-0.md">
-        <img alt="2022.8.0 Release" src="./2022/assets/2022-8-0-thumb.png" />
+      <a href="2022/2022-8-0.md">
+        <img alt="2022.8.0 Release" src="2022/assets/2022-8-0-thumb.png" />
       </a>
       <div>
-        <a href="./2022/2022-8-0.md">
+        <a href="2022/2022-8-0.md">
           <strong>Release | 2022.8.0</strong>
           <br/>
         </a>
@@ -96,11 +96,11 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
       <p>
     </td>
     <td>
-      <a href="./2022/2022-7-0.md">
-        <img alt="2022.7.0 Release" src="./2022/assets/2022-7-0-thumb.png" />
+      <a href="2022/2022-7-0.md">
+        <img alt="2022.7.0 Release" src="2022/assets/2022-7-0-thumb.png" />
       </a>
       <div>
-        <a href="./2022/2022-7-0.md">
+        <a href="2022/2022-7-0.md">
           <strong>Release | 2022.7.0</strong>
           <br/>
         </a>
@@ -111,11 +111,11 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
       <p>
     </td>
     <td>
-      <a href="./2022/2022-6-0.md">
-        <img alt="2022.6.0 Release" src="./2022/assets/2022-6-0-thumb.png" />
+      <a href="2022/2022-6-0.md">
+        <img alt="2022.6.0 Release" src="2022/assets/2022-6-0-thumb.png" />
       </a>
       <div>
-        <a href="./2022/2022-6-0.md">
+        <a href="2022/2022-6-0.md">
           <strong>Release | 2022.6.0</strong>
           <br/>
         </a>
@@ -128,11 +128,11 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
   </tr>
   <tr>
     <td>
-      <a href="./2022/2022-5-0.md">
-        <img alt="2022.5.0 Release" src="./2022/assets/2022-5-0-thumb.png" />
+      <a href="2022/2022-5-0.md">
+        <img alt="2022.5.0 Release" src="2022/assets/2022-5-0-thumb.png" />
       </a>
       <div>
-        <a href="./2022/2022-5-0.md">
+        <a href="2022/2022-5-0.md">
           <strong>Release | 2022.5.0</strong>
           <br/>
         </a>
@@ -143,11 +143,11 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
       <p>
     </td>
     <td>
-      <a href="./2022/2022-4-0.md">
-        <img alt="2022.4.0 Release" src="./2022/assets/2022-4-0.png" />
+      <a href="2022/2022-4-0.md">
+        <img alt="2022.4.0 Release" src="2022/assets/2022-4-0.png" />
       </a>
       <div>
-        <a href="./2022/2022-4-0.md">
+        <a href="2022/2022-4-0.md">
           <strong>Release | 2022.4.0</strong>
           <br/>
         </a>
@@ -158,11 +158,11 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
       <p>
     </td>
     <td>
-      <a href="./2022/2022-3-0.md">
-        <img alt="2022.3.0 Release" src="./2022/assets/2022-3-0.png" />
+      <a href="2022/2022-3-0.md">
+        <img alt="2022.3.0 Release" src="2022/assets/2022-3-0.png" />
       </a>
       <div>
-        <a href="./2022/2022-3-0.md">
+        <a href="2022/2022-3-0.md">
           <strong>Release | 2022.3.0</strong>
           <br/>
         </a>
@@ -185,11 +185,11 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
 <table style="max-width: 50%;">
   <tr>
     <td>
-      <a href="./2023/2023-2-0.md">
-        <img alt="2023.2.0 Release" src="./2023/assets/2023-2-0-thumb.png" />
+      <a href="2023/2023-2-0.md">
+        <img alt="2023.2.0 Release" src="2023/assets/2023-2-0-thumb.png" />
       </a>
       <div>
-        <a href="./2023/2023-2-0.md">
+        <a href="2023/2023-2-0.md">
           <strong>Release | 2023.2.0</strong>
           <br/>
         </a>
@@ -207,11 +207,11 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
 <table style="max-width: 50%;">
   <tr>
     <td>
-      <a href="./2023/2023-1-0.md">
-        <img alt="2023.1.0 Release" src="./2023/assets/2023-1-0-thumb.png" />
+      <a href="2023/2023-1-0.md">
+        <img alt="2023.1.0 Release" src="2023/assets/2023-1-0-thumb.png" />
       </a>
       <div>
-        <a href="./2023/2023-1-0.md">
+        <a href="2023/2023-1-0.md">
           <strong>Release | 2023.1.0</strong>
           <br/>
         </a>
@@ -222,11 +222,11 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
       <p>
     </td>
     <td>
-      <a href="./2022/2022-10-0.md">
-        <img alt="2022.10.0 Release" src="./2022/assets/2022-10-0-thumb.png" />
+      <a href="2022/2022-10-0.md">
+        <img alt="2022.10.0 Release" src="2022/assets/2022-10-0-thumb.png" />
       </a>
       <div>
-        <a href="./2022/2022-10-0.md">
+        <a href="2022/2022-10-0.md">
           <strong>Release | 2022.10.0</strong>
           <br/>
         </a>
@@ -237,11 +237,11 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
       <p>
     </td>  
     <td>
-      <a href="./2022/2022-8-0.md">
-        <img alt="2022.8.0 Release" src="./2022/assets/2022-8-0-thumb.png" />
+      <a href="2022/2022-8-0.md">
+        <img alt="2022.8.0 Release" src="2022/assets/2022-8-0-thumb.png" />
       </a>
       <div>
-        <a href="./2022/2022-8-0.md">
+        <a href="2022/2022-8-0.md">
           <strong>Release | 2022.8.0</strong>
           <br/>
         </a>
@@ -254,11 +254,11 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
   </tr>
   <tr> 
     <td>
-      <a href="./2022/2022-7-0.md">
-        <img alt="2022.7.0 Release" src="./2022/assets/2022-7-0-thumb.png" />
+      <a href="2022/2022-7-0.md">
+        <img alt="2022.7.0 Release" src="2022/assets/2022-7-0-thumb.png" />
       </a>
       <div>
-        <a href="./2022/2022-7-0.md">
+        <a href="2022/2022-7-0.md">
           <strong>Release | 2022.7.0</strong>
           <br/>
         </a>
@@ -269,11 +269,11 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
       <p>
     </td>
     <td>
-      <a href="./2022/2022-6-0.md">
-        <img alt="2022.6.0 Release" src="./2022/assets/2022-6-0-thumb.png" />
+      <a href="2022/2022-6-0.md">
+        <img alt="2022.6.0 Release" src="2022/assets/2022-6-0-thumb.png" />
       </a>
       <div>
-        <a href="./2022/2022-6-0.md">
+        <a href="2022/2022-6-0.md">
           <strong>Release | 2022.6.0</strong>
           <br/>
         </a>
@@ -284,11 +284,11 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
       <p>
     </td>
     <td>
-      <a href="./2022/2022-5-0.md">
-        <img alt="2022.5.0 Release" src="./2022/assets/2022-5-0-thumb.png" />
+      <a href="2022/2022-5-0.md">
+        <img alt="2022.5.0 Release" src="2022/assets/2022-5-0-thumb.png" />
       </a>
       <div>
-        <a href="./2022/2022-5-0.md">
+        <a href="2022/2022-5-0.md">
           <strong>Release | 2022.5.0</strong>
           <br/>
         </a>
@@ -301,11 +301,11 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
   </tr>
   <tr>     
     <td>
-      <a href="./2022/2022-4-0.md">
-        <img alt="2022.4.0 Release" src="./2022/assets/2022-4-0.png" />
+      <a href="2022/2022-4-0.md">
+        <img alt="2022.4.0 Release" src="2022/assets/2022-4-0.png" />
       </a>
       <div>
-        <a href="./2022/2022-4-0.md">
+        <a href="2022/2022-4-0.md">
           <strong>Release | 2022.4.0</strong>
           <br/>
         </a>
@@ -316,11 +316,11 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
       <p>
     </td>
     <td>
-      <a href="./2022/2022-3-0.md">
-        <img alt="2022.3.0 Release" src="./2022/assets/2022-3-0.png" />
+      <a href="2022/2022-3-0.md">
+        <img alt="2022.3.0 Release" src="2022/assets/2022-3-0.png" />
       </a>
       <div>
-        <a href="./2022/2022-3-0.md">
+        <a href="2022/2022-3-0.md">
           <strong>Release | 2022.3.0</strong>
           <br/>
         </a>
@@ -331,11 +331,11 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
       <p>
     </td>
     <td>
-      <a href="./2022/2022-1-0.md">
-        <img alt="2022-1-0 Release" src="./2022/assets/2022-1-0.png" />
+      <a href="2022/2022-1-0.md">
+        <img alt="2022-1-0 Release" src="2022/assets/2022-1-0.png" />
       </a>
       <div>
-        <a href="./2022/2022-1-0.md">
+        <a href="2022/2022-1-0.md">
           <strong>Release | 2022.1.0</strong>
           <br/>
         </a>

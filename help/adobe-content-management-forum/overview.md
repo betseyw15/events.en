@@ -22,11 +22,11 @@ Join the sessions below to learn:
 <table>
   <tr>
    <td>
-      <a href="./2022/welcome.md">
+      <a href="2022/welcome.md">
       <img alt="Welcome address and AEM overview" src="assets/welcome.png" >
       </a>
       <div>
-         <a href="./2022/welcome.md"><strong>Welcome address and AEM overview</strong></a>         
+         <a href="2022/welcome.md"><strong>Welcome address and AEM overview</strong></a>         
          <br/><em>with Elliot Sedegah, Haresh Kumar, and Kurt Benkert</em>
       </div>
       <p>
@@ -35,11 +35,11 @@ Join the sessions below to learn:
       </p>
    </td>
    <td>
-      <a href="./2022/assets-for-all.md">
+      <a href="2022/assets-for-all.md">
       <img alt="Assets for All" src="assets/assets-for-all.png" >
       </a>
       <div>
-         <a href="./2022/assets-for-all.md"><strong>Extending Adobe Experience Manager Headless with Adobe App Builder</strong></a>         
+         <a href="2022/assets-for-all.md"><strong>Extending Adobe Experience Manager Headless with Adobe App Builder</strong></a>         
          <br/><em>with Purnima Rachoor Roy</em>
       </div>
       <p>
@@ -48,11 +48,11 @@ Join the sessions below to learn:
       </p>
    </td>
    <td>
-      <a href="./2022/supply-chain.md">
+      <a href="2022/supply-chain.md">
       <img alt="Building a Content Supply Chain that Scales" src="assets/supply-chain.png"/ >
       </a>
       <div>
-         <a href="./2022/supply-chain.md"><strong>Building a Content Supply Chain that Scales</strong></a>         
+         <a href="2022/supply-chain.md"><strong>Building a Content Supply Chain that Scales</strong></a>         
          <br/><em>with  Marc Angelinovich</em>
       </div>
       <p>
