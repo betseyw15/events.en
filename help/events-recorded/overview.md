@@ -151,7 +151,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
       <img alt="Experience Manager Release Overview" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png"/>
       </a>
       <div>
-         <a href="/help/experience-manager-release-overview/overview.mdd"><strong>Experience Manager Release Overview</strong></a>
+         <a href="/help/experience-manager-release-overview/overview.md"><strong>Experience Manager Release Overview</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Manager</em>
       </div>
       <p>
