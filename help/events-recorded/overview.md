@@ -14,7 +14,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
   <tr>
    <td>
       <a href="/help/adobe-campaign-insider/overview.md">
-      <img alt="Adobe Developers Live" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-campaign-insider-series.png"/>      
+      <img alt="Adobe Campaign Insider" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-campaign-insider-series.png"/>      
       </a>
       <div>
          <a href="/help/adobe-campaign-insider/overview.md"><strong>Adobe Campaign Insider Series</strong></a>
@@ -81,7 +81,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
     </td>
    <td>
       <a href="/help/commerce-and-coffee/overview.md">
-      <img alt="Adobe Developers Live" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png"/>
+      <img alt="Commerce and Coffee" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png"/>
       </a>
       <div>
          <a href="/help/commerce-and-coffee/overview.md"><strong>Commerce and Coffee</strong></a>
@@ -133,6 +133,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
          Experience League LIVE is a live streaming show produced by the Experience League team. It's a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.
       </p>
     </td>
+  <tr>  
    <td>
       <a href="/help/experience-manager-gems/overview.md">
       <img alt="Experience Manager GEMS" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png"/>
@@ -159,5 +160,87 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
          Get a quick overview of the latest features on Adobe Experience Manager as a Cloud Service. These are short, roughly 10 minutes videos delivered by the AEM product team that share highlights of the latest release.
       </p>
     </td>
+    <td>
+      <a href="/help/learn-from-your-peers/overview.md">
+      <img alt="Learn from your Peers" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png"/>
+      </a>
+      <div>
+         <a href="/help/learn-from-your-peers/overview.md"><strong>Learn from your Peers</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Marketo</em>
+      </div>
+      <p>
+        <br/>
+         Learn from Adobe experts and peers how to get the most from your Adobe solutions. With topics selected for practitioners, by practitioners, these interactive sessions share "art of the possible" use cases, best practices, and tips & tricks.
+      </p>
+    </td>
   </tr>
+  <tr>  
+   <td>
+      <a href="/help/marketo-and-mochas/overview.md">
+      <img alt="Marketo and Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png"/>
+      </a>
+      <div>
+         <a href="/help/marketo-and-mochas/overview.md"><strong>Marketo and Mochas</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Marketo</em>
+      </div>
+      <p>
+        <br/>
+         Marketo and Mochas will help you to gain a better understanding how to use Adobe Marketo to support your business.
+      </p>
+    </td>
+    <td>
+      <a href="/help/mbi-webinars/overview.md">
+      <img alt="MBI Webinars" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
+      </a>
+      <div>
+         <a href="/help/mbi-webinars/overview.md"><strong>MBI Webinars</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
+      </div>
+      <p>
+        <br/>
+         The MBI webinar series is a periodic event for MBI customers. The webinars cover a wide range of topics and best practices for using MBI to its fullest potential.
+      </p>
+    </td>
+    <td>
+      <a href="/help/skill-builder/overview.md">
+      <img alt="Skill Builder" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png"/>
+      </a>
+      <div>
+         <a href="/help/skill-builder/overview.md"><strong>Skill Builders</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Commerce, Adobe Experience Manager, Adobe Campaign, Adobe Marketo, Adobe Target, Customer Journey Analytics, Real-Time CDP</em>
+      </div>
+      <p>
+        <br/>
+         Skill Builder is a webinar series designed to build your knowledge base and maximize your investment in Adobe Experience Cloud.
+      </p>
+    </td>
+  </tr>
+  <tr>  
+   <td>
+      <a href="/help/skill-exchange/overview.md">
+      <img alt="Marketo and Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
+      </a>
+      <div>
+         <a href="/help/skill-exchange/overview.md"><strong>Skill Exchange</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Experience Manager, Adobe Marketo, Adobe Workfront</em>
+      </div>
+      <p>
+        <br/>
+         Experience Makers The Skill Exchange is a global series of virtual customer learning events, focusing on diving deeper into Adobe Experience Cloud solutions. This program provides opportunity to learn from Adobe product experts and expert peers through sharing of best practices and tips & tricks.
+      </p>
+    </td>
+    <td>
+      <a href="/help/workfront/overview.md">
+      <img alt="Workfront" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png"/>
+      </a>
+      <div>
+         <a href="/help/workfront/overview.md"><strong>Workfront</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Workfront</em>
+      </div>
+      <p>
+        <br/>
+         A library of recorded Workfront events where experts and peers share thoughts on how to use Workfront.
+      </p>
+    </td>
+  </tr>    
 </table>
