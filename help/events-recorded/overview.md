@@ -242,5 +242,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
          A library of recorded Workfront events where experts and peers share thoughts on how to use Workfront.
       </p>
     </td>
+    <td>
+    </td>
   </tr>    
 </table>
