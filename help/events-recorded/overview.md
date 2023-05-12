@@ -6,7 +6,7 @@ description: A collection of event recordings forcused on using Adobe's Enterpri
 
 ## With Experience League, learning is an event.
 
-Stay in the loop on exclusive events and webinars to expand your learning. Visit this space often to view recordings of past events like Experience League LIVE, Skill Builders, Developers Live, and more. If you want to register for an upcoming event, take a look at the [upcoming events](https://experienceleague.adobe.com/) on Experience League.
+Stay in the loop on exclusive events and webinars to expand your learning. Visit this space often to view recordings of past events like Experience League LIVE, Skill Builders, Developers Live, and more. If you want to register for an upcoming event, take a look at the [upcoming events](https://%65xperienceleague.adobe.com/events/?lang=en) on Experience League.
 
 ## Event Series
 
