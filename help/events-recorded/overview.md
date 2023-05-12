@@ -2,7 +2,7 @@
 title: Adobe Experience League Events
 description: A collection of event recordings forcused on using Adobe's Enterprise products
 ---
-# Adobe Experience League Events {#events}
+# Adobe Experience League Event Recordings {#events}
 
 ## With Experience League, learning is an event.
 
