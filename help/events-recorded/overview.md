@@ -10,11 +10,11 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
 
 ## Event Series
 
-<table style="max-width:60%">
+<table>
   <tr>
    <td>
       <a href="/help/adobe-campaign-insider/overview.md">
-      <img alt="Adobe Campaign Insider" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-campaign-insider-series.png"/>      
+      <img style="width:100%" alt="Adobe Campaign Insider" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-campaign-insider-series.png"/>      
       </a>
       <div>
          <a href="/help/adobe-campaign-insider/overview.md"><strong>Adobe Campaign Insider Series</strong></a>
@@ -27,7 +27,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
     </td>
    <td>
       <a href="/help/adobe-content-management-forum/overview.md">
-      <img alt="Adobe Content Management Forum" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-content-management-forum.png"/>
+      <img style="width:100%" alt="Adobe Content Management Forum" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-content-management-forum.png"/>
       </a>
       <div>
          <a href="/help/adobe-content-management-forum/overview.md"><strong>Adobe Content Management Forum</strong></a>
@@ -40,7 +40,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
     </td>
    <td>
       <a href="/help/adobe-developers-live/overview.md">
-      <img alt="Adobe Developers Live" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png"/>
+      <img style="width:100%" alt="Adobe Developers Live" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png"/>
       </a>
       <div>
          <a href="/help/adobe-developers-live/overview.md"><strong>Adobe Developers Live</strong></a>
@@ -53,7 +53,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
     </td>
    <td>
       <a href="/help/apac-commerce/overview.md">
-      <img alt="APAC Adobe Commerce Webinars" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png"/>
+      <img style="width:100%" alt="APAC Adobe Commerce Webinars" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png"/>
       </a>
       <div>
          <a href="/help/apac-commerce/overview.md"><strong>APAC Adobe Commerce Webinars</strong></a>
@@ -68,7 +68,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
     <tr>
    <td>
       <a href="/help/commerce-and-coffee/overview.md">
-      <img alt="Commerce and Coffee" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png"/>
+      <img style="width:100%" alt="Commerce and Coffee" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png"/>
       </a>
       <div>
          <a href="/help/commerce-and-coffee/overview.md"><strong>Commerce and Coffee</strong></a>
@@ -81,7 +81,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
     </td>
    <td>
       <a href="/help/customer-data-management-voices/overview.md">
-      <img alt="Customer Data Management Voices" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png"/>
+      <img style="width:100%" alt="Customer Data Management Voices" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png"/>
       </a>
       <div>
          <a href="/help/customer-data-management-voices/overview.md"><strong>Customer Data Management Voices</strong></a>
@@ -94,7 +94,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
     </td>
    <td>
       <a href="/help/deep-dives/overview.md">
-      <img alt="Deep Dives" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png"/>
+      <img style="width:100%" alt="Deep Dives" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png"/>
       </a>
       <div>
          <a href="/help/deep-dives/overview.md"><strong>Deep Dives</strong></a>
@@ -107,7 +107,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
     </td>
    <td>
       <a href="/help/experience-league-live/overview.md">
-      <img alt="Experience League LIVE" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png"/>
+      <img style="width:100%" alt="Experience League LIVE" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png"/>
       </a>
       <div>
          <a href="/help/experience-league-live/overview.md"><strong>Experience League LIVE</strong></a>
@@ -121,7 +121,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
   <tr>  
    <td>
       <a href="/help/experience-manager-gems/overview.md">
-      <img alt="Experience Manager GEMS" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png"/>
+      <img style="width:100%" alt="Experience Manager GEMS" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png"/>
       </a>
       <div>
          <a href="/help/experience-manager-gems/overview.md"><strong>Experience Manager GEMS</strong></a>
@@ -134,7 +134,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
     </td>
     <td>
       <a href="/help/experience-manager-release-overview/overview.md">
-      <img alt="Experience Manager Release Overview" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png"/>
+      <img style="width:100%" alt="Experience Manager Release Overview" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png"/>
       </a>
       <div>
          <a href="/help/experience-manager-release-overview/overview.md"><strong>Experience Manager Release Overview</strong></a>
@@ -147,7 +147,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
     </td>
     <td>
       <a href="/help/learn-from-your-peers/overview.md">
-      <img alt="Learn from your Peers" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png"/>
+      <img style="width:100%" alt="Learn from your Peers" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png"/>
       </a>
       <div>
          <a href="/help/learn-from-your-peers/overview.md"><strong>Learn from your Peers</strong></a>
@@ -160,7 +160,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
     </td>
    <td>
       <a href="/help/marketo-and-mochas/overview.md">
-      <img alt="Marketo and Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png"/>
+      <img style="width:100%" alt="Marketo and Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png"/>
       </a>
       <div>
          <a href="/help/marketo-and-mochas/overview.md"><strong>Marketo and Mochas</strong></a>
@@ -175,7 +175,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
   <tr>  
     <td>
       <a href="/help/mbi-webinars/overview.md">
-      <img alt="MBI Webinars" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
+      <img style="width:100%" alt="MBI Webinars" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
       </a>
       <div>
          <a href="/help/mbi-webinars/overview.md"><strong>MBI Webinars</strong></a>
@@ -188,7 +188,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
     </td>
     <td>
       <a href="/help/skill-builder/overview.md">
-      <img alt="Skill Builder" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png"/>
+      <img style="width:100%" alt="Skill Builder" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png"/>
       </a>
       <div>
          <a href="/help/skill-builder/overview.md"><strong>Skill Builders</strong></a>
@@ -201,7 +201,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
     </td>
    <td>
       <a href="/help/skill-exchange/overview.md">
-      <img alt="Marketo and Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
+      <img style="width:100%" alt="Marketo and Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
       </a>
       <div>
          <a href="/help/skill-exchange/overview.md"><strong>Skill Exchange</strong></a>
@@ -214,7 +214,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
     </td>
     <td>
       <a href="/help/workfront/overview.md">
-      <img alt="Workfront" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png"/>
+      <img style="width:100%" alt="Workfront" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png"/>
       </a>
       <div>
          <a href="/help/workfront/overview.md"><strong>Workfront</strong></a>
