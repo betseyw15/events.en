@@ -51,8 +51,6 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
          Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose - to create incredible end-to-end experiences.
       </p>
     </td>
-  </tr>
-  <tr>
    <td>
       <a href="/help/apac-commerce/overview.md">
       <img alt="APAC Adobe Commerce Webinars" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png"/>
@@ -66,6 +64,8 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
          The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Commerce customers that covers a wide range of topics from best practices to product roadmap and industry trends.
       </p>
     </td>
+    </tr>
+    <tr>
    <td>
       <a href="/help/commerce-and-coffee/overview.md">
       <img alt="Commerce and Coffee" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png"/>
@@ -92,8 +92,6 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
          Your destination as a customer data management technical and marketing practice leader and specialist. A one stop shop to hear from your peers, get inspired and learn about developments in martech.
       </p>
     </td>
-    </tr>
-  <tr>
    <td>
       <a href="/help/deep-dives/overview.md">
       <img alt="Deep Dives" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png"/>
@@ -160,8 +158,6 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
          Learn from Adobe experts and peers how to get the most from your Adobe solutions. With topics selected for practitioners, by practitioners, these interactive sessions share "art of the possible" use cases, best practices, and tips & tricks.
       </p>
     </td>
-  </tr>
-  <tr>  
    <td>
       <a href="/help/marketo-and-mochas/overview.md">
       <img alt="Marketo and Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png"/>
@@ -175,6 +171,8 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
          Marketo and Mochas will help you to gain a better understanding how to use Adobe Marketo to support your business.
       </p>
     </td>
+  </tr>
+  <tr>  
     <td>
       <a href="/help/mbi-webinars/overview.md">
       <img alt="MBI Webinars" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
@@ -201,8 +199,6 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
          Skill Builder is a webinar series designed to build your knowledge base and maximize your investment in Adobe Experience Cloud.
       </p>
     </td>
-  </tr>
-  <tr>  
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img alt="Marketo and Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
@@ -228,8 +224,6 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
         <br/>
          A library of recorded Workfront events where experts and peers share thoughts on how to use Workfront.
       </p>
-    </td>
-    <td>
     </td>
   </tr>    
 </table>
