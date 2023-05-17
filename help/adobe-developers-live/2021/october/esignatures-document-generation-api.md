@@ -1,7 +1,7 @@
 ---
 title: Generate documents and capture e-signatures in your apps using Document Generation and Sign APIs
 description: A look at how the Adobe Document Generation API provides a powerful new way to generate impactful documents. In this session, you will learn how Adobe Document Generation API combined with Adobe Sign API, provides an easy way to generate dynamic documents ready to be processed through the Sign workflow.
-solution: Document Services
+solution: Acrobat Services
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
