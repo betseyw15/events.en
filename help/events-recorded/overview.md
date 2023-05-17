@@ -44,7 +44,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
       </a>
       <div>
          <a href="/help/adobe-developers-live/overview.md"><strong>Adobe Developers Live</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce, Adobe Experience Manager, Adobe Experience Platform, Document Services, Workfront</em>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce, Adobe Experience Manager, Adobe Experience Platform, Acrobat Services, Workfront</em>
       </div>
       <p>
         <br/>

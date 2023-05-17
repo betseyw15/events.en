@@ -1,7 +1,7 @@
 ---
 title: Parsing PDF - Extracting PDF content intelligently into JSON format with PDF Extract API
 description: A look at how the PDF Extract service in Adobe PDF Services API can make parsing PDF as easy as parsing JSON. In this session, you'll learn what PDF Extract API does, why it's different from anything you've seen before, and how to use it to create unique PDF experiences without knowing anything about the PDF specification or PDF "internals". With PDF Extract API, it's just JSON!
-solution: Document Services
+solution: Acrobat Services
 feature: Developer Tools
 topic: Development
 role: Developer, Architect

@@ -1,7 +1,7 @@
 ---
 title: Generating documents and capturing e-signatures in your apps using Adobe Sign API
 description: Adobe Document Generation API is a powerful document creation service driven by Microsoft Word templates merged with your data. When combined with Adobe Sign API, developers have an easy way to generate dynamic documents ready to be processed through the Sign workflow.
-solution: Document Services
+solution: Acrobat Services
 feature: Developer Tools
 topic: Development
 role: Developer, Architect

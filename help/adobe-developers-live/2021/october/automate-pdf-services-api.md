@@ -1,7 +1,7 @@
 ---
 title: Automate the creation and manipulation of PDFs using PDF Services API
 description: Adobe's PDF Services API lets developers create, combine, export, OCR and extract data from PDFs through powerful and flexible cloud-based APIs. In this session, you will learn how you can get started using Adobe PDF Services API to integrate document experiences into your apps. Also you will learn to use the free Adobe PDF Embed API to transform PDF viewing experience on the web using UI controls and derive user analytics out of PDF.
-solution: Document Services
+solution: Acrobat Services
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
