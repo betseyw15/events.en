@@ -11,16 +11,29 @@ The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Com
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/commerce-events/apac-commerce/2022/analysis-tool.html">
-      <img alt="Adobe Commerce Site Wide Analysis Tool" src="./assets/analysis-tool.png" />
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
+      <img alt="Adobe Commerce Site Wide Analysis Tool" src="https://video.tv.adobe.com/v/3419132?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/commerce-events/apac-commerce/2022/analysis-tool.html">
-        <strong>Adobe Commerce Site Wide Analysis Tool</strong>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
+        <strong>Streamline Your Business with Adobe's PaaS Cloud Commerce</strong>
       </a>
     </div>
     <p>
-    <em>This webinar is ideal for merchants who want to get real-time access to all system insights, proactive steps to resolve any Adobe Commerce site problems and monitor overall site health.</em>
+    <em>Join our webinar to discover the benefits of Adobe's Commerce Cloud PaaS solution, whether you're self-hosting and curious about PaaS or an existing customer seeking to optimize your setup.</em>
+    <p>
+  </td>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/ai-personalisation.html">
+      <img alt="Benefits of upgrading to Adobe Commerce 2.4.4" src="https://video.tv.adobe.com/v/3419107?format=jpeg" />
+    </a>
+     <div>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/ai-personalisation.html">
+        <strong>AI Powered Personalisation</strong>
+      </a>
+    </div>
+    <p>
+    <em>Harness the power of AI for an exceptional customer experience with Adobe's investment in AI and its integration into Commerce.</em>
     <p>
   </td>
   <td>
@@ -36,19 +49,6 @@ The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Com
     <em>Join this webinar to learn how to take control of your infrastructure with New Relic. Approach your next campaign with absolute confidence by accessing and understanding your infrastructure data.</em>
     <p>
   </td>  
-  <td>
-    <a href="https://experienceleague.adobe.com/docs/commerce-events/apac-commerce/2022/upgrade.html">
-      <img alt="Benefits of upgrading to Adobe Commerce 2.4.4" src="./assets/upgrade.png" />
-    </a>
-     <div>
-      <a href="https://experienceleague.adobe.com/docs/commerce-events/apac-commerce/2022/upgrade.html">
-        <strong>Benefits of upgrading to Adobe Commerce 2.4.4</strong>
-      </a>
-    </div>
-    <p>
-    <em>The latest Adobe Commerce release marks a step forward in commerce capabilities, security and performance. Join this webinar to find out how to plan and execute a smooth upgrade to take advantage of the latest improvements.</em>
-    <p>
-  </td>
 </tr>
 </table>
 
