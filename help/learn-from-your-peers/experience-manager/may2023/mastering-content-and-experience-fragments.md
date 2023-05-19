@@ -3,6 +3,7 @@ title: Mastering Content & Experience Fragments
 description: Revolutionize the way you create content and unlock its full potential with this webinar on content reusability.
 solution: Experience Manager
 version: Cloud Service
+feature-set: Experience Manager
 feature: Content Fragments, Experience Fragments
 topic: Content Management
 role: User
