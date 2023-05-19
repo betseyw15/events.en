@@ -26,6 +26,4 @@ In this session, you will learn:
 * Editable Templates tips and tricks
 * Putting them all together to create powerful content building blocks
  
-Thanks for the support! It's convenient that the slides can live on the event page so that we don't have to include that in the post-event email separately.
-
 >[!VIDEO](https://video.tv.adobe.com/v/3419557/?learn=on)
