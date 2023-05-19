@@ -29,4 +29,3 @@ In this session, you will learn:
 You can access the presentation slides [here](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM%20Content%20fragments%20and%20Experience%20Fragments%20Webinar%20Session%20Final.pdf)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419557/?learn=on)
-
