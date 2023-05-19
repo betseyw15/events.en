@@ -22,6 +22,9 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
       + [Documentation Mission Possible](analytics/june2022/mission-possible.md)
     + March {#mar2022}
       + [Telling Impactful Stories with Data](analytics/mar2022/stories-with-data.md)
++ Experience Manager {#experience-manager}
+  + May {#may2023} 
+    + [Mastering Content & Experience Fragments](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
   + May {#may2023}
     + [Cracking the Personalization at Scale Code using Marketo Engage](marketo/may2023/personalization-at-scale.md)
