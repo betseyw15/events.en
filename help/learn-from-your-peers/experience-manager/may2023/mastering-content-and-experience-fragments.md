@@ -26,6 +26,6 @@ In this session, you will learn:
 * Editable Templates tips and tricks
 * Putting them all together to create powerful content building blocks
 
-You can access the presentation slides [here](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM%20Content%20fragments%20and%20Experience%20Fragments%20Webinar%20Session%20Final.pdf)
+You can access the presentation slides [here](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419557/?learn=on)
