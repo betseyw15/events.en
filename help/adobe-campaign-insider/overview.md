@@ -1,10 +1,10 @@
 ---
-title: Adobe Campaign Insider Series
-description: Tips & tricks and inspiration for Adobe Campaign customers to help evolve cross-channel marketing strategies, elevate team marketing practitioner skills, and help organizations launch more advanced cross-channel marketing strategies.
+title: Adobe [!DNL Campaign] Insider Series
+description: Tips & tricks and inspiration for Adobe [!DNL Campaign] customers to help evolve cross-channel marketing strategies, elevate team marketing practitioner skills, and help organizations launch more advanced cross-channel marketing strategies.
 ---
-# Adobe Campaign Insider Series
+# Adobe [!DNL Campaign] Insider Series
 
-Tips & tricks and inspiration for Adobe Campaign customers to help evolve cross-channel marketing strategies, elevate team marketing practitioner skills, and help organizations launch more advanced cross-channel marketing strategies.
+Tips & tricks and inspiration for Adobe [!DNL Campaign] customers to help evolve cross-channel marketing strategies, elevate team marketing practitioner skills, and help organizations launch more advanced cross-channel marketing strategies.
 
 >[!TIP]
 >
@@ -16,19 +16,19 @@ Tips & tricks and inspiration for Adobe Campaign customers to help evolve cross-
   <tr>
    <td>
       <a href="2022/cross-channel.md">
-      <img alt="Level up Your Cross-channel Marketing with Adobe Campaign Classic" src="assets/cross-channel.png"/>
+      <img alt="Level up Your Cross-channel Marketing with Adobe [!DNL Campaign Classic]" src="assets/cross-channel.png"/>
       </a>
       <div>
-         <a href="./2022/cross-channel.md"><strong>Level up Your Cross-channel Marketing with Adobe Campaign Classic</strong></a>
+         <a href="./2022/cross-channel.md"><strong>Level up Your Cross-channel Marketing with Adobe [!DNL Campaign Classic]</strong></a>
          <br/>
       </div>
    </td>
    <td>
       <a href="2022/integrations.md">
-      <img alt="Adobe Campaign integrations with a marketing ecosystem" src="assets/integrations.png"/>
+      <img alt="Adobe [!DNL Campaign] integrations with a marketing ecosystem" src="assets/integrations.png"/>
       </a>
       <div>
-         <a href="./2022/integrations.md"><strong>Adobe Campaign integrations with a marketing ecosystem</strong></a>
+         <a href="./2022/integrations.md"><strong>Adobe [!DNL Campaign] integrations with a marketing ecosystem</strong></a>
          <br/>
       </div>
    </td>

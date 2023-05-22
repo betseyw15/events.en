@@ -1,5 +1,5 @@
 ---
-title: Building a Content Supply Chain that Scales
+title: Build a content supply chain that scales
 description: Join Marc Angelinovich and learn how to build a content supply chain that scales for personalization.
 solution: Experience Manager,Experience Manager as a Cloud Service
 topic: Personalization
@@ -9,7 +9,7 @@ kt: 10786
 thumbnail: 345382.png
 ---
 
-# Building a Content Supply Chain that Scales
+# Build a content supply chain that scales
 
 Join Marc Angelinovich and learn how to build a content supply chain that scales for personalization.
 
