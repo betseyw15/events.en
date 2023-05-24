@@ -25,15 +25,15 @@ Develop real-time customer profiles by pulling data from all sources to create p
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-      <img alt="Develop and customize data models in Adobe Campaign Classic" src="assets/343829.jpeg" />
+      <img alt="Develop and customize data models in Adobe [!DNL Campaign Classic]" src="assets/343829.jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-        <strong>Develop and customize data models in Adobe Campaign Classic</strong>
+        <strong>Develop and customize data models in Adobe [!DNL Campaign Classic]</strong>
       </a>
     </div>
     <p>
-    <em>Join this session with our Campaign Trainer to learn how to develop a data schema inside a data model within Campaign Classic.</em>
+    <em>Join this session with our Campaign Trainer to learn how to develop a data schema inside a data model within [!DNL Campaign Classic].</em>
     <p>
   </td>  
   <td>

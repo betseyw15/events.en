@@ -1,5 +1,5 @@
 ---
-title: Adobe Campaign Classic V7 vs V8
+title: Adobe [!DNL Campaign Classic] V7 vs V8
 description: Join this session to hear about the latest Product updates as well as understand differences between V7 and V8 from our Product Managers.
 solution: Campaign Classic v7, Campaign v8
 role: Admin, User
@@ -9,7 +9,7 @@ thumbnail: 343823.jpeg
 hideFromToc: true
 hideFromSearch: true
 ---
-# Adobe Campaign Classic V7 vs V8
+# Adobe [!DNL Campaign Classic] V7 vs V8
 
 Join this session to hear about the latest Product updates as well as understand differences between V7 and V8 from our Product Managers.
 
