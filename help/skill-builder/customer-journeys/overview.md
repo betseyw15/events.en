@@ -12,15 +12,15 @@ Develop real-time customer profiles by pulling data from all sources to create p
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-      <img alt="Better together - Adobe Marketo Engage and Real-Time CDP" src="assets/343824.jpeg" />
+      <img alt="Better together - Adobe [!DNL Marketo Engage] and Real-Time CDP" src="assets/343824.jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-        <strong>Better together - Adobe Marketo Engage and Real-Time CDP</strong>
+        <strong>Better together - Adobe [!DNL Marketo Engage] and Real-Time CDP</strong>
       </a>
     </div>
     <p>
-    <em>Learn how to orchestrate B2B campaigns with Marketo Engage and RT-CDP (B2B edition) and what are top use cases and advantages unlocked.</em>
+    <em>Learn how to orchestrate B2B campaigns with [!DNL Marketo Engage] and RT-CDP (B2B edition) and what are top use cases and advantages unlocked.</em>
     <p>
   </td>
   <td>

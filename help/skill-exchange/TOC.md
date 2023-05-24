@@ -74,18 +74,18 @@ event-series: The Skill Exchange
     + [Scalability and Efficiency Using Tokens](marketo/feb2022/using-tokens.md)
     + [Utilizing Engagement Programs To Engage Your Customers](marketo/feb2022/utilize-engagement-programs.md)
   + August 2021 {#aug2021}
-    + [Creating Programs within Marketo Engage](marketo/aug2021/create-programs.md)
-    + [Marketo Engage Rockstars](marketo/aug2021/engage-rockstars.md)
+    + [Creating Programs within [!DNL Marketo Engage]](marketo/aug2021/create-programs.md)
+    + [[!DNL Marketo Engage] Rockstars](marketo/aug2021/engage-rockstars.md)
     + [Power of a Smart Campaign](marketo/aug2021/smart-campaign.md)
     + [Program Member Custom Fields](marketo/aug2021/program-member-custom-fields.md)
-    + [Reporting within Marketo Engage](marketo/aug2021/reporting.md)
+    + [Reporting within [!DNL Marketo Engage]](marketo/aug2021/reporting.md)
     + [Your Marketo Roadmap](marketo/aug2021/marketo-roadmap.md)
   + February 2021 {#feb2021}
     + [A Top-Rope Dive Into Custom Objects and Velocity](marketo/feb2021/custom-objects.md)
-    + [Adobe Marketo Engage Rockstar Segment](marketo/feb2021/rockstar.md)
-    + [Creating Programs Within Adobe Marketo Engage](marketo/feb2021/create-programs.md)
+    + [Adobe [!DNL Marketo Engage] Rockstar Segment](marketo/feb2021/rockstar.md)
+    + [Creating Programs Within Adobe [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
     + [Power of a Smart Campaign](marketo/feb2021/power-of-smart-campaign.md)
-    + [Reporting within Marketo Engage](marketo/feb2021/reporting-within-marketo.md)
+    + [Reporting within [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
     + [Ultimate Tips & Tricks For Your Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
   + April 2022 {#apr2022}
