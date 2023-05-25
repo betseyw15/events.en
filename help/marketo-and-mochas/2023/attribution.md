@@ -7,6 +7,7 @@ doc-type: Event
 last-substantial-update: 2023-01-31
 kt: 11764
 thumbnail: 3413506.jpeg
+event-start-time: 2023-1-24 08:30-8
 ---
 # Marketo and Mochas - Marketo Measure Attribution
 

@@ -12,6 +12,7 @@ doc-type: Event
 last-substantial-update: 2023-01-31
 kt: 11797
 thumbnail: kt-11797.jpeg
+event-start-time: 2023-2-22 08:30-8
 ---
 # Accelerating AEM as a Cloud Service development with Rapid Development Environments
 

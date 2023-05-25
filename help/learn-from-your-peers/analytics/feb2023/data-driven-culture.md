@@ -6,6 +6,7 @@ doc-type: Event
 last-substantial-update: 2023-02-09
 kt: 11836
 thumbnail: 3414131.jpeg
+event-start-time: 2023-2-2 08:30-8
 ---
 # Building a Data Driven Culture
 

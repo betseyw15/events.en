@@ -9,6 +9,7 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 11630
+event-start-time: 2023-1-18 08:30-8
 ---
 # AEM Best Practices Analyzer for on premise and AMS environments
 

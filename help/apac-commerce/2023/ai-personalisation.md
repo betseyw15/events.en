@@ -10,6 +10,7 @@ level: Beginner
 last-substantial-update: 2023-05-03
 jira: KT-13194
 thumbnail: 3419107.jpeg
+event-start-time: 2023-5-2 08:30-8
 ---
 
 # AI Powered Personalisation

@@ -8,6 +8,7 @@ doc-type: Event
 last-substantial-update: 2023-05-05
 jira: KT-13214
 thumbnail: 3419133.jpeg
+event-start-time: 2023-5-4 08:30-8
 ---
 
 # Cracking the Personalization at Scale Code using Marketo Engage 

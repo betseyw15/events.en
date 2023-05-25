@@ -12,6 +12,7 @@ doc-type: Event
 last-substantial-update: 2023-05-19
 jira: KT-13305
 thumbnail: 3419557.jpeg
+event-start-time: 2023-5-16 08:30-8
 ---
 
 # Mastering Content & Experience Fragments On-Demand Webinar
