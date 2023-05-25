@@ -16,7 +16,7 @@ A library of recorded Workfront events where experts and peers share thoughts on
       </a>
       <div>
          <a href="user-groups/workfront-system-maintenance.md"><strong>Workfront System Maintenance</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -29,7 +29,7 @@ A library of recorded Workfront events where experts and peers share thoughts on
       </a>
       <div>
          <a href="user-groups/reporting-and-dashboards.md"><strong>Reporting & Dashboards</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -42,7 +42,7 @@ A library of recorded Workfront events where experts and peers share thoughts on
       </a>
       <div>
          <a href="user-groups/agile-in-marketing.md"><strong>Agile in Marketing</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>

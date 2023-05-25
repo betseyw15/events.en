@@ -34,7 +34,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
       </a>
       <div>
          <a href="analytics/jun2021/getting-started.md"><strong>Adobe Analytics Getting Started</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -47,7 +47,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
       </a>
       <div>
          <a href="marketo/feb2022/data-maintenance.md"><strong>Data Maintenance</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -60,7 +60,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
       </a>
       <div>
          <a href="workfront/apr2022/ten-tips.md"><strong>10 Tips to Wow Your Workfront</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>

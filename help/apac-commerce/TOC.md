@@ -18,7 +18,7 @@ user-guide-description: Adobe Commerce Events is a video library where experts a
     + [Upgrading to 2.4.4](2022/upgrade.md)
 + [Release Roadmap Highlights](release-highlights.md)
   
-<!---+ Commerce Events {#commerce-events}
+<!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)
   + 2022 {#2022}
     + [Top Tips and Tricks for Adobe Campaign Standard](customer-journeys/2022/tips-and-tricks.md)
@@ -31,4 +31,4 @@ user-guide-description: Adobe Commerce Events is a video library where experts a
     + [Sensei and Analysis Workspace](data-and-insights/2022/sensei.md)
     + [Personalize and automate with Adobe Target](data-and-insights/2022/personalize.md)
     + [Analytics and Target applications for Mobile and Apps](data-and-insights/2022/mobile-and-apps.md)
-    + [Cross Device Analytics and Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md) --->
+    + [Cross Device Analytics and Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md) -->
