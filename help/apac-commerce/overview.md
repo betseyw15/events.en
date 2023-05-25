@@ -37,11 +37,11 @@ The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Com
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/commerce-events/apac-commerce/2022/new-relic.html">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
       <img alt="New Relic Masterclass" src="./assets/new-relic.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/commerce-events/apac-commerce/2022/new-relic.html">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
         <strong>New Relic Masterclass</strong>
       </a>
     </div>

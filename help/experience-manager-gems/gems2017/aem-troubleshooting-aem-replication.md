@@ -32,4 +32,4 @@ Replication is a central feature in AEM as it allows publishing authored content
 >
 >* [AEM Indexing and JCR Query](aem-indexing-jcr-query.md)
 >* [Troubleshooting AEM Replication](aem-troubleshooting-aem-replication.md)
->* [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html)
+<!-- >>* [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html) -->

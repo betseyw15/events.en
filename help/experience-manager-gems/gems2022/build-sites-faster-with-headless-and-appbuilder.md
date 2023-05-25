@@ -23,6 +23,6 @@ This webinar was conducted on March 23rd, 2022 and presented by Duy Nguyen, Soft
 
 >[!MORELIKETHIS]
 >
->* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/)
+<!-- >>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/) -->
 >* [Corresponding Contextual Thread](https://adobe.ly/3LkSWdm)
 >* Please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/) to get notified about upcoming webinars.

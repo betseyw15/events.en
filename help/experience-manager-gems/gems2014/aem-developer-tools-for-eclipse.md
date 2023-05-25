@@ -23,7 +23,7 @@ Stefan Egli, Developer, Adobe
 
 ## Related links {#related-links}
 
-* [AEM Developer Tools for Eclipse - documentation](http://docs.adobe.com/docs/en/dev-tools/aem-eclipse.html)
+* [AEM Developer Tools for Eclipse - documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/eclipse.html)
 * [AEM Developer Tools Download Site](http://eclipse.adobe.com/aem/dev-tools/)
 * [Sling IDE Tooling](https://sling.apache.org/documentation/development/ide-tooling.html)
 * [Forum for discussions & questions](http://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html)

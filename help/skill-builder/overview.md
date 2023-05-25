@@ -18,7 +18,7 @@ Skill Builder is a webinar series designed to build your knowledge base and maxi
     <p>
     <em>Create and manage a range of engaging websites, mobile apps, and forms. Plus learn to build multi-channel commerce experiences on a single platform with our flexible, AI-powered commerce solution.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Browse Sessions</span>
     </a>
   </td>
@@ -30,7 +30,7 @@ Skill Builder is a webinar series designed to build your knowledge base and maxi
     <p>
     <em>Develop real-time customer profiles by pulling data from all sources to create personalized, cross-channel journeys.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Browse Sessions</span>
     </a>
   </td>
@@ -42,7 +42,7 @@ Skill Builder is a webinar series designed to build your knowledge base and maxi
     <p>
     <em>Drive real-time personalization on any channel using online and offline data insights across your entire organization.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Browse Sessions</span>
     </a>
   </td>  

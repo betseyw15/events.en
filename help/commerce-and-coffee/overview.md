@@ -12,11 +12,11 @@ The Commerce & Coffee series is for existing Adobe Commerce customers of all ski
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/commerce-events/apac-commerce/2022/analysis-tool.html">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html">
       <img alt="Adobe Commerce Site Wide Analysis Tool" src="./assets/analysis-tool.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/commerce-events/apac-commerce/2022/analysis-tool.html">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html">
         <strong>Adobe Commerce Site Wide Analysis Tool</strong>
       </a>
     </div>
@@ -25,11 +25,11 @@ The Commerce & Coffee series is for existing Adobe Commerce customers of all ski
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/commerce-events/apac-commerce/2022/new-relic.html">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
       <img alt="New Relic Masterclass" src="./assets/new-relic.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/commerce-events/apac-commerce/2022/new-relic.html">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
         <strong>New Relic Masterclass</strong>
       </a>
     </div>
@@ -38,11 +38,11 @@ The Commerce & Coffee series is for existing Adobe Commerce customers of all ski
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/commerce-events/apac-commerce/2022/upgrade.html">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html">
       <img alt="Benefits of upgrading to Adobe Commerce 2.4.4" src="./assets/upgrade.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/commerce-events/apac-commerce/2022/upgrade.html">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html">
         <strong>Benefits of upgrading to Adobe Commerce 2.4.4</strong>
       </a>
     </div>

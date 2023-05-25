@@ -34,7 +34,7 @@ AEM:
 [https://docs.adobe.com/docs/en/aem/6-2/develop/the-basics/clientlibs.html](https://docs.adobe.com/docs/en/aem/6-2/develop/the-basics/clientlibs.html)  
 [https://docs.adobe.com/docs/en/aem/6-2/develop/mobile-web/responsive.html](https://docs.adobe.com/docs/en/aem/6-2/develop/mobile-web/responsive.html)  
 [https://docs.adobe.com/docs/en/aem/6-2/develop/components/developer-mode.html](https://docs.adobe.com/docs/en/aem/6-2/develop/components/developer-mode.html)  
-[https://helpx.adobe.com/experience-manager/kb/performance-tuning-tips.html](https://helpx.adobe.com/experience-manager/kb/performance-tuning-tips.html)
+[https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html)
 
 AEM Components:  
 [https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components](https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components)  
@@ -49,7 +49,7 @@ JavaScript Performance:
 [https://developers.google.com/web/tools/chrome-devtools/?hl=en](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
 
 Profiler:  
-[https://visualvm.java.net/](https://visualvm.java.net/)
+[https://visualvm.java.net/](https://docs.oracle.com/javase/8/docs/technotes/guides/visualvm/intro.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

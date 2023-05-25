@@ -17,5 +17,5 @@ With all the noise in the market about CDPs, it’s difficult to know where to f
 ## Additional Information
 
 *[People and Process Best Practices for Customer Data Management](people-and-process.md)
-*[Build Superb Experiences with your First-Party Data](https://experienceleague.adobe.com/docs/customer-data-management-voices-events/build-superb-experiences-with-your-first-party-data.html)
+*[Build Superb Experiences with your First-Party Data](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html)
 *[Case Study - TSB banks on real-time data personalization for every customer.](https://business.adobe.com/customer-success-stories/tsb-case-study.html)

@@ -26,7 +26,7 @@ Automate the output of assets for all channels and screens with Dynamic Media.
 *[Dynamic Media Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html#dynamic-media)
 *[Rich Media Strategy Kickstart Guide](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[Rich Media Strategy Image Preset Guide](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
-*[Image is Everything Blog Series](https://blog.adobe.com/en/2019/04/11/image-is-everything-part-1-has-your-rich-media-strategy-expired.html#gs.iou0ek)
+*[Image is Everything Blog Series](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)
 
 ## Series Recordings
 
