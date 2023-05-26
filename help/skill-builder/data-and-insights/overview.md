@@ -12,7 +12,7 @@ Drive real-time personalization on any channel using online and offline data ins
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
-      <img alt="Personalize and automate with Adobe Target" src="assets/343821.jpeg" />
+      <img alt="Personalize and automate with Adobe Target" src="https://video.tv.adobe.com/v/343821?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
@@ -25,7 +25,7 @@ Drive real-time personalization on any channel using online and offline data ins
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
-      <img alt="2022 Innovations and trends" src="assets/343818.jpeg" />
+      <img alt="2022 Innovations and trends" src="https://video.tv.adobe.com/v/343818?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
@@ -38,7 +38,7 @@ Drive real-time personalization on any channel using online and offline data ins
   </td>  
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
-      <img alt="Analytics and Target applications for Mobile and Apps" src="assets/343819.jpeg" />
+      <img alt="Analytics and Target applications for Mobile and Apps" src="https://video.tv.adobe.com/v/343819?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">

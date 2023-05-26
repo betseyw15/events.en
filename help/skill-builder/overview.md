@@ -30,7 +30,7 @@ Skill Builder is a webinar series designed to build your knowledge base and maxi
     <p>
     <em>Develop real-time customer profiles by pulling data from all sources to create personalized, cross-channel journeys.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Browse Sessions</span>
     </a>
   </td>
@@ -42,7 +42,7 @@ Skill Builder is a webinar series designed to build your knowledge base and maxi
     <p>
     <em>Drive real-time personalization on any channel using online and offline data insights across your entire organization.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Browse Sessions</span>
     </a>
   </td>  

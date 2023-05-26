@@ -12,7 +12,7 @@ Develop real-time customer profiles by pulling data from all sources to create p
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-      <img alt="Better together - Adobe Marketo Engage and Real-Time CDP" src="assets/343824.jpeg" />
+      <img alt="Better together - Adobe Marketo Engage and Real-Time CDP" src="https://video.tv.adobe.com/v/343824?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
@@ -25,7 +25,7 @@ Develop real-time customer profiles by pulling data from all sources to create p
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-      <img alt="Develop and customize data models in Adobe Campaign Classic" src="assets/343829.jpeg" />
+      <img alt="Develop and customize data models in Adobe Campaign Classic" src="https://video.tv.adobe.com/v/343829?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
@@ -38,7 +38,7 @@ Develop real-time customer profiles by pulling data from all sources to create p
   </td>  
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html">
-      <img alt="Top Tips and Tricks for Adobe Campaign Standard" src="assets/343828.jpeg" />
+      <img alt="Top Tips and Tricks for Adobe Campaign Standard" src="https://video.tv.adobe.com/v/343828?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html">
