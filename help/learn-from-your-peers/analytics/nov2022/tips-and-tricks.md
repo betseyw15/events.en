@@ -6,6 +6,7 @@ doc-type: Event
 last-substantial-update: 2023-02-09
 kt: 11845
 thumbnail: 3414191.jpeg
+exl-id: a4602675-9bd6-4d49-9561-bdbce9141830
 ---
 # [!DNL Adobe Analytics] Champion Tips and Tricks
 

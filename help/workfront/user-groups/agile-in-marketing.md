@@ -5,6 +5,7 @@ role: Admin, User
 level: Intermediate
 kt: 9989
 thumbnail: 341224.jpeg
+exl-id: 3b12e5ac-3193-4533-8192-e156777fb517
 ---
 # Agile in Marketing (Sep 15, 2020)
 

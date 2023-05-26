@@ -5,6 +5,7 @@ uuid: d4f70700-328c-42f9-9fd8-5181d2ba1697
 topic-tags: troubleshoot, best_practices
 discoiquuid: d11b23ec-d7cf-47ce-9767-60b53b1015b6
 targetaudience: target-audience advanced;target-audience ongoing
+exl-id: 30a68d44-f4f1-4370-8e96-edc6f9cbfe1a
 ---
 # AEM Indexing and JCR Query{#aem-indexing-and-jcr-query}
 
@@ -22,8 +23,15 @@ targetaudience: target-audience advanced;target-audience ongoing
 
 AEM Documentation
 
-* [Oak Queries and Indexing](https://docs.adobe.com/docs/en/aem/6-3/deploy/platform/queries-and-indexing.html)
-* [Best Practices for Queries and Indexing](https://docs.adobe.com/docs/en/aem/6-3/deploy/best-practices/best-practices-for-queries-and-indexing.html)
+>[!CAUTION]
+>
+>**All recorded sessions are listed in the navigation on the left**.
+
+>[!WARNING]
+>
+>AEM versions 6.4 and older are End of Life and no longer sold by Adobe.  Adobe recommends upgrading to the latest version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Archived versions of the documentation can be accessed from this [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>As it relates to this session please see *Oak Queries and Indexing* and *Best Practices for Queries and Indexing* in the AEM 6.3 documentation.
 
 Oak Documentation
 

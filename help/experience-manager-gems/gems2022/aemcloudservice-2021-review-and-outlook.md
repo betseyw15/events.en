@@ -10,6 +10,7 @@ role: User
 level: Intermediate
 kt: 10055
 thumbnail: 341444.jpeg
+exl-id: 6ccb55f7-bf15-4f88-8822-950ca9de5e15
 ---
 # Adobe Experience Manager as a Cloud Service: 2021 review and 2022 outlook
 
@@ -23,6 +24,6 @@ This webinar was conducted on January 25th, 2022 and presented by Bertrand de Co
 
 >[!MORELIKETHIS]
 >
->* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-adobe-experience-manager-as-a-cloud-service-2021-review-and-2022-outlook/)
+>* [Corresponding Adobe Experience Manager User Group Event page](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266)
 >* [Corresponding Contextual Thread](https://adobe.ly/3rqbSOz)
 >* Please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/) to get notified about upcoming webinars.

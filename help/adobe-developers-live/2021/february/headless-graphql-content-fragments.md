@@ -11,13 +11,13 @@ version: Cloud Service
 kt: 7171
 type: Event
 thumbnail: 331280.jpg
+exl-id: a545a81e-efa5-485f-a653-6cee86e29065
 ---
-
 # Headless: GraphQL with Content Fragments
 
 Learn about the new headless capabilities with the most recent Content Fragment enhancements. This session will focus on the GraphQL API for Adobe Experience Manager Cloud Service.
 
-Continue the conversation in **[Experience League Communities](http://adobe.ly/36Yd3v6)**.
+Continue the conversation in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331280/?quality=12&learn=on&hidetitle=true)
 

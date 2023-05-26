@@ -8,6 +8,7 @@ doc-type: Event
 last-substantial-update: 2022-11-11
 kt: 11437
 thumbnail: 3411011.jpeg
+exl-id: a5cee1f7-3f1c-445a-a463-086a40c6194e
 ---
 # Putting it all Together
 

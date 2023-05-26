@@ -7,6 +7,7 @@ role: Developer, Architect
 level: Experienced
 kt: 9137
 type: Event
+exl-id: dadd18a7-99de-4570-9f04-4deafb736244
 ---
 # Build Event-Driven Experiences with Custom I/O Events
 

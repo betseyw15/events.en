@@ -7,6 +7,7 @@ role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner
 kt: 10788
 thumbnail: 345378.png
+exl-id: 9d867d04-debc-4ebd-8c17-487ab83fc807
 ---
 
 # Assets for all

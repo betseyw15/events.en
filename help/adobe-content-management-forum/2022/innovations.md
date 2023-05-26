@@ -7,6 +7,7 @@ role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner
 kt: 10789
 thumbnail: 345379.png
+exl-id: fb45a679-ab98-46c5-bc5b-243bdd43ad6e
 ---
 
 # [!DNL Experience Manager as a Cloud Service] innovations

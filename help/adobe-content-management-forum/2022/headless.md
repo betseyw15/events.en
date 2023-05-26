@@ -8,8 +8,8 @@ role: Leader, Architect, Developer, Admin
 level: Intermediate, Experienced
 kt: 10790
 thumbnail: 345380.png
+exl-id: 84c85f98-98e5-44fe-96b4-5a6e4546cece
 ---
-
 # Extending [!DNL Experience Manager] Headless with Adobe [!DNL App Builder]
 
 Sean Steimer and Kelvin Xu talk about [!DNL Experience Manager] Headless and [!DNL App Builder]. From event-driven integrations, scalable server-less processing to single page applications (SPA), [!DNL App Builder] brings powerful capabilities for integrating Adobe [!DNL Experience Manager] with third-party systems in a headless fashion. Get a view into some real-world use-cases and common patterns where [!DNL App Builder] has been used for extending Adobe [!DNL Experience Manager].

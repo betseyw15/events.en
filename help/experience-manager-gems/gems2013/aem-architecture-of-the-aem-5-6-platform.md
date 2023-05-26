@@ -4,6 +4,7 @@ description: Learn about the evolution of the architecture of the AEM applicatio
 uuid: 6c7d287b-4dec-4ea8-9731-881c736429d9
 discoiquuid: 3049a99b-1ee0-492d-80c3-4d31d70fa452
 targetaudience: target-audience advanced
+exl-id: 45140275-a13e-445b-ae92-df37aa022d2d
 ---
 # Architecture of the AEM 5.6 platform{#architecture-of-the-aem-platform}
 

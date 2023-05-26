@@ -4,6 +4,7 @@ description: The AEM Developer Tools for Eclipse is a set of Eclipse plugins aim
 uuid: cb4bb28a-8370-4425-b082-3516b35f3125
 discoiquuid: dfefaa5f-0800-4d6c-99c0-430b2d960079
 targetaudience: target-audience advanced
+exl-id: 539da93f-b3be-4c66-81de-fe97fcb19727
 ---
 # AEM Developer Tools for Eclipse{#aem-developer-tools-for-eclipse}
 
@@ -23,10 +24,9 @@ Stefan Egli, Developer, Adobe
 
 ## Related links {#related-links}
 
-* [AEM Developer Tools for Eclipse - documentation](http://docs.adobe.com/docs/en/dev-tools/aem-eclipse.html)
-* [AEM Developer Tools Download Site](http://eclipse.adobe.com/aem/dev-tools/)
+* [AEM Developer Tools for Eclipse - documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/eclipse.html)
 * [Sling IDE Tooling](https://sling.apache.org/documentation/development/ide-tooling.html)
-* [Forum for discussions & questions](http://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html)
+* [Forum for discussions & questions](https://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html)
 * [Issue reporting & tracking](https://github.com/Adobe-Marketing-Cloud/aem-eclipse-developer-tools/issues)
-* [Hobbes.js: UI Testing Framework](http://docs.adobe.com/docs/en/aem/6-0/develop/components/hobbes.html)
+* [Hobbes.js: UI Testing Framework](https://docs.adobe.com/docs/en/aem/6-0/develop/components/hobbes.html)
 * [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

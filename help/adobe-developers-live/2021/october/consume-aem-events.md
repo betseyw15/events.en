@@ -9,6 +9,7 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9122
 type: Event
+exl-id: 3d05c830-6471-4306-9b2a-5c9513153fc3
 ---
 # Build an app that consumes Adobe Experience Manager Events
 

@@ -1,6 +1,7 @@
 ---
 title: Skill Builder - Content and Commerce
 description: Recorded webinar series to build your knowledge base and maximize your investment in Adobe Content and Commerce Solutions
+exl-id: 9345d894-5059-485f-93ba-ea47d251e8c7
 ---
 # Content and Commerce
 
@@ -12,7 +13,7 @@ Create and manage a range of engaging websites, mobile apps, and forms. Plus lea
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
-      <img alt="Deliver Headless Experiences with Adobe Experience Manager" src="assets/343816.jpeg" />
+      <img alt="Deliver Headless Experiences with Adobe Experience Manager" src="https://video.tv.adobe.com/v/343816?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
@@ -25,7 +26,7 @@ Create and manage a range of engaging websites, mobile apps, and forms. Plus lea
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
-      <img alt="Make Metadata work for your business in Adobe Experience Manager Assets" src="assets/343815.jpeg" />
+      <img alt="Make Metadata work for your business in Adobe Experience Manager Assets" src="https://video.tv.adobe.com/v/343815?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
@@ -38,7 +39,7 @@ Create and manage a range of engaging websites, mobile apps, and forms. Plus lea
   </td>  
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">
-      <img alt="Get the most out of the Enterprise Workflow Management" src="assets/343817.jpeg" />
+      <img alt="Get the most out of the Enterprise Workflow Management" src="https://video.tv.adobe.com/v/343817?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">

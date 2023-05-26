@@ -5,6 +5,7 @@ role: User
 level: Beginner
 kt: 9788
 thumbnail: 340626.jpeg
+exl-id: 669d8140-40db-4024-9968-3fca674b73cd
 ---
 # Consumption-based Solutions in the Magento Marketplace
 

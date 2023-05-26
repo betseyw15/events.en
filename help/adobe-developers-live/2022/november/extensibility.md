@@ -11,6 +11,7 @@ doc-type: Event
 last-substantial-update: 2022-11-15
 kt: 11484
 thumbnail: 3411305.jpeg
+exl-id: d20a1cc2-ff3a-4b7f-8ea5-c672a702fb33
 ---
 # Introduction into UI Extensibility and the New Content Fragment UI
 

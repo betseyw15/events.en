@@ -9,6 +9,7 @@ level: Intermediate, Experienced
 solution: Experience Manager Sites
 kt: 10791
 thumbnail: 345381.png
+exl-id: 87511f79-d1dd-417f-8be5-6c688ea25883
 ---
 
 # Developer best practices to speed time-to-market using AEM Sites

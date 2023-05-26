@@ -4,6 +4,7 @@ description: Learn about fluid experiences and its application in managing conte
 uuid: b7ee2de4-385a-486f-80e4-741e3965ed28
 discoiquuid: 0a81aa6a-94f6-4e38-98fb-c48809899a24
 targetaudience: target-audience advanced
+exl-id: 0172cee5-fe07-499c-a6cb-3a8f6e402539
 ---
 # AEM Fluid Experiences for headless usecases{#aem-fluid-experiences-for-headless-usecases}
 

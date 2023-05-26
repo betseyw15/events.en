@@ -1,6 +1,7 @@
 ---
 title: Skill Builder Overview
 description: Drive real-time personalization on any channel using online and offline data insights across your entire organization.
+exl-id: dbb8c5dc-596d-4f89-8a81-3ea201dd4b6b
 ---
 # Data and insights
 
@@ -11,11 +12,11 @@ Drive real-time personalization on any channel using online and offline data ins
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/personalize.html">
-      <img alt="Personalize and automate with Adobe Target" src="assets/343821.jpeg" />
+    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
+      <img alt="Personalize and automate with Adobe Target" src="https://video.tv.adobe.com/v/343821?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/personalize.html">
+      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
         <strong>Personalize and automate with Adobe Target</strong>
       </a>
     </div>
@@ -24,11 +25,11 @@ Drive real-time personalization on any channel using online and offline data ins
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/innovations.html">
-      <img alt="2022 Innovations and trends" src="assets/343818.jpeg" />
+    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
+      <img alt="2022 Innovations and trends" src="https://video.tv.adobe.com/v/343818?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/innovations.html">
+      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
         <strong>2022 Innovations and trends</strong>
       </a>
     </div>
@@ -37,11 +38,11 @@ Drive real-time personalization on any channel using online and offline data ins
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/mobile-and-apps.html">
-      <img alt="Analytics and Target applications for Mobile and Apps" src="assets/343819.jpeg" />
+    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
+      <img alt="Analytics and Target applications for Mobile and Apps" src="https://video.tv.adobe.com/v/343819?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/mobile-and-apps.html">
+      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
         <strong>Analytics and Target applications for Mobile and Apps</strong>
       </a>
     </div>

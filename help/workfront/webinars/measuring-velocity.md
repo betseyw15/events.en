@@ -5,6 +5,7 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9912
+exl-id: 7ed7887f-acc5-43dd-b0dc-e64341f969ca
 ---
 # Ask the Expert - Measuring velocity
 

@@ -7,6 +7,7 @@ role: Developer, Architect
 level: Experienced
 kt: 9220
 type: Event
+exl-id: e5d8a8fc-20aa-416d-986a-765a756077b6
 ---
 # An overview of Adobe Exchange, the 3rd party developer marketplace
 

@@ -5,6 +5,7 @@ solution: Experience Platform,Real-time Customer Data Platform,Journey Optimizer
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
+exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
 ---
 # Experience League LIVE
 
@@ -16,16 +17,8 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-5-24-23.md">
-      <img alt="Experience League LIVE May 24" src="assets/May24_exl_live_banner_web_1920_WebBanner.png">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-5-24-23.md">
-        <strong>Maximize your mobile app's potential with Adobe Journey Optimizer</strong>
-      </a>
-      <br/><em>with Sandra Hausmann, Chetan Prasad, and Peter Fransen</em>
-      <br/><em>May 24, 2023</em>
-    </div>
+  <td>
+    Please return soon for information. We will be holding TWO shows in June 2023, and will have the information here soon.
   </td>
 </tr>
 </table>

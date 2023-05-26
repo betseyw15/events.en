@@ -6,6 +6,7 @@ role: User
 level: Intermediate, Experienced
 kt: 10327
 thumbnail: 342559.jpeg
+exl-id: 2f47b7af-0802-4f64-9f28-2b2520a8c4b3
 ---
 # [!DNL Marketo Engage] Rockstars
 

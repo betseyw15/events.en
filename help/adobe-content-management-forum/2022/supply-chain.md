@@ -7,6 +7,7 @@ role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate
 kt: 10786
 thumbnail: 345382.png
+exl-id: 93c3b60d-c3a2-4ba9-8282-83184c986f68
 ---
 
 # Build a content supply chain that scales

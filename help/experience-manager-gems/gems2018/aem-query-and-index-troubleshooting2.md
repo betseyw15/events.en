@@ -4,6 +4,7 @@ description: This is a continuation of last year's session AEM Indexing and JCR 
 uuid: da172124-bef7-45b8-91f4-86fc37d03f5d
 discoiquuid: 7d95cb2b-9fc4-4d0e-8a70-a751f4487f77
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
+exl-id: 01d8eb23-1dc2-4040-8576-daa52bf58783
 ---
 # AEM Query and Index Troubleshooting{#aem-query-and-index-troubleshooting}
 

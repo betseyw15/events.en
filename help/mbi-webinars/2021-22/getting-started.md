@@ -8,6 +8,7 @@ solution: Commerce, Magento Business Intelligence
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 342501.jpeg
+exl-id: 4d0843b1-251d-45dc-94ab-85a35b71771f
 ---
 # Getting Started with MBI
 

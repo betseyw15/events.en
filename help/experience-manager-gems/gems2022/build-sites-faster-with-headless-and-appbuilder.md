@@ -10,6 +10,7 @@ role: Developer
 level: Intermediate
 kt: 10053
 thumbnail: 341311.jpeg
+exl-id: 2b8158e3-3122-4ce6-ad0a-3124664fd0aa
 ---
 # Build websites faster with AEM Headless and App Builder
 
@@ -23,6 +24,8 @@ This webinar was conducted on March 23rd, 2022 and presented by Duy Nguyen, Soft
 
 >[!MORELIKETHIS]
 >
->* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/)
 >* [Corresponding Contextual Thread](https://adobe.ly/3LkSWdm)
 >* Please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/) to get notified about upcoming webinars.
+
+
+<!-- >>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/) -->

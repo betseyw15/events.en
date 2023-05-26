@@ -7,6 +7,7 @@ role: Developer, Architect
 level: Experienced
 kt: 9200
 type: Event
+exl-id: a9fa4da2-4b03-46be-a251-8384934d2847
 ---
 # Extending Adobe Commerce using Adobe I/O
 

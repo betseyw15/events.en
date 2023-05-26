@@ -11,6 +11,7 @@ doc-type: Event
 last-substantial-update: 2022-11-15
 kt: 11474
 thumbnail: 3411298.jpeg
+exl-id: 32cef22c-f1b9-41b8-95a2-b2d3eea5b150
 ---
 # Build Your First React App
 

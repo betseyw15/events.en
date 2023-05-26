@@ -1,6 +1,7 @@
 ---
 title: Experience Makers The Skill Exchange
 description: Experience Makers The Skill Exchange is a global series of virtual customer learning events, focusing on diving deeper into Adobe Experience Cloud solutions.
+exl-id: 90283549-2f9d-4d05-9d76-9252bcff1c9a
 ---
 # Experience Makers The Skill Exchange {#overview}
 
@@ -34,7 +35,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
       </a>
       <div>
          <a href="analytics/jun2021/getting-started.md"><strong>Adobe Analytics Getting Started</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -47,7 +48,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
       </a>
       <div>
          <a href="marketo/feb2022/data-maintenance.md"><strong>Data Maintenance</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -60,7 +61,7 @@ Experience Makers The Skill Exchange is a global series of virtual customer lear
       </a>
       <div>
          <a href="workfront/apr2022/ten-tips.md"><strong>10 Tips to Wow Your Workfront</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>

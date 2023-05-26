@@ -4,6 +4,7 @@ description: Learn how to use and extend Social Component Framework in AEM 6. Ge
 uuid: ea0d66a9-258c-45a7-92c9-8f43b7615080
 discoiquuid: bb43bdf0-8d8d-40c2-865f-ad675348e667
 targetaudience: target-audience advanced
+exl-id: 46cb81e7-bd1d-4ee7-b15f-178e25eedd5a
 ---
 # Social Component Framework in AEM 6{#social-component-framework-in-aem}
 
@@ -24,4 +25,4 @@ Siddharth Palaniswami, Sr. Software Engineering Lead, Adobe
 ## Related links {#related-links}
 
 * [Github link for code sample](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
-* [Social Component Framework](http://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)
+* [Social Component Framework](https://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)

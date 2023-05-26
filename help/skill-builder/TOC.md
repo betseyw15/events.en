@@ -47,3 +47,5 @@ user-guide-description: This is a description for the user guide that will be di
     + [Personalize and automate with Adobe Target](data-and-insights/2022/personalize.md)
     + [Analytics and Target applications for Mobile and Apps](data-and-insights/2022/mobile-and-apps.md)
     + [Cross Device Analytics and Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md)
+
+<!--    + [Adobe Campaign Classic V7 vs V8](customer-journeys/2022/classic-v7-vs-v8.md) -->

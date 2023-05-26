@@ -1,6 +1,7 @@
 ---
 title: Skill Builder - Customer Journeys
 description: Recorded webinar series to help you develop real-time customer profiles by pulling data from all sources to create personalized, cross-channel journeys.
+exl-id: 0ea7bc07-8b82-4aba-abaa-78ac7f4c8ce2
 ---
 # Customer Journeys
 
@@ -38,7 +39,7 @@ Develop real-time customer profiles by pulling data from all sources to create p
   </td>  
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html">
-      <img alt="Top Tips and Tricks for Adobe Campaign Standard" src="assets/343828.jpeg" />
+      <img alt="Top Tips and Tricks for Adobe Campaign Standard" src="https://video.tv.adobe.com/v/343828?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html">

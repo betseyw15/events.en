@@ -29,5 +29,5 @@ In this first of three livestream sessions regarding data collection for the Ado
 * [Free Web SDK provisioning](https://adobe.ly/websdkaccess){target="_blank"}
 * [Info on First Party Device IDs in the Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
 * [Adobe Experience Platform Debugger overview and download](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
-* [Mobile SDK Docs](https://aep-sdks.gitbook.io/docs/){target="_blank"}
+* [Mobile SDK Docs](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
 * [Hybrid app collection information](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}

@@ -4,6 +4,7 @@ description: Learn the coolest tips and tricks about [!DNL AEM Sites] Touch UI. 
 uuid: 2d11ca50-d3cf-43e3-8256-358d72d03a44
 discoiquuid: 30cbcfed-fd63-465a-be79-eb2cfeec9078
 targetaudience: target-audience advanced
+exl-id: 0952e105-d33f-4dcf-9932-e93e1091db86
 ---
 # Tips and tricks for [!DNL AEM Sites] Touch UI{#tips-and-tricks-for-aem-sites-touch-ui}
 

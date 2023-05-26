@@ -5,6 +5,7 @@ role: Admin, Leader, User
 level: Intermediate, Experienced
 kt: 10564
 thumbnail: 343817.jpeg
+exl-id: 43b1aaad-fcff-4770-8379-4a440231b69e
 ---
 # Get the most out of the Enterprise Workflow Management
 

@@ -9,6 +9,7 @@ level: Beginner
 version: Cloud Service
 kt: 9214
 type: Event
+exl-id: 22aeadb5-3244-4f79-b44e-a1f41764665f
 ---
 # An introduction to the Adobe Developer Console
 

@@ -8,6 +8,7 @@ role: Developer, Architect
 level: Experienced
 kt: 9140
 type: Event
+exl-id: e3bea0bb-d31a-4089-a0be-af3816d43e7e
 ---
 # Data Collection for digital experiences - Client Performance and the power of server-side integrations
 

@@ -5,6 +5,7 @@ version: Standard
 solution: Campaign
 kt: 10503
 thumbnail: 343522.jpeg
+exl-id: 94e5dd3a-aeba-49b1-9ec3-36328f80e38b
 ---
 # Adobe Campaign Standard Customer Spotlight - Microsoft
 

@@ -1,6 +1,7 @@
 ---
 title: Adobe Content Management Forum
 description: A collection of session recordings from Adobe Content Management Forum
+exl-id: 8c882248-0790-4a50-bf8f-55dce1f68b6b
 ---
 # Adobe Content Management Forum {#overview}
 

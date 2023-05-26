@@ -4,6 +4,7 @@ description: With Adobe Experience Manager 6.2 a new template editor has been in
 uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
+exl-id: f29e6070-62d3-472c-9772-d470134e76d1
 ---
 # Managing your content with the template editor of Adobe Experience Manager{#managing-your-content-with-the-template-editor-of-adobe-experience-manager}
 
@@ -27,5 +28,8 @@ Chat expert,
 
 ## Related links {#related-links}
 
-* [Page Templates](https://docs.adobe.com/docs/en/aem/6-2/develop/templates/page-templates-editable.html)
-* [Creating Page Templates](https://docs.adobe.com/docs/en/aem/6-2/author/site-page-features/templates.html)
+>[!WARNING]
+>
+>AEM versions 6.4 and older are End of Life and no longer sold by Adobe.  Adobe recommends upgrading to the latest version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Archived versions of the documentation can be accessed from this [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>As it relates to this session please see *Page Templates* and *Creating Page Templates* in the AEM 6.2 documentation.

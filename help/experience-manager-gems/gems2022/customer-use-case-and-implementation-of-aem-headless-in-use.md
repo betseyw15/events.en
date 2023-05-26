@@ -8,6 +8,7 @@ feature: AEM Community Lens
 topic: Administration
 role: User
 level: Intermediate
+exl-id: 5f75ebf2-1a15-4d1d-b233-6de1cfecd11f
 ---
 # AEM GEMs feature - Customer Use Case & Implementation of AEM Headless in Use
 

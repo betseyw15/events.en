@@ -8,6 +8,7 @@ role: Developer, Architect
 level: Experienced
 kt: 9206
 type: Event
+exl-id: fffd2485-a373-43b0-a38e-5ed573c82cc1
 ---
 # Introduction to Adobe PDF Services API
 

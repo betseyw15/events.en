@@ -4,6 +4,7 @@ description: Learn everything about the Core Components and their related featur
 uuid: 8bfd82ac-b61d-4ff2-9251-3664456e6b41
 discoiquuid: b7e90b65-d6e9-49f5-b43c-3c47cf6aeae8
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
+exl-id: 8433df98-80ec-4d29-9656-633a639c62e8
 ---
 # AEM Core Components{#aem-core-components}
 

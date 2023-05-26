@@ -9,6 +9,7 @@ level: Experienced
 version: Cloud Service
 kt: 9144
 type: Event
+exl-id: 5be5c205-d856-4f42-b700-a6daa70b6ac2
 ---
 # Headless Adobe Experience Manager Sites
 

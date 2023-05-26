@@ -5,6 +5,7 @@ role: Admin
 level: Beginner, Intermediate
 kt: 10011
 thumbnail: 341213.jpeg
+exl-id: 625a74fd-9113-462f-a743-e9b066eafdd3
 ---
 # Workfront System Maintenance (July 27, 2021)
 

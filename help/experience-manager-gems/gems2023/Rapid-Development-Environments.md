@@ -12,6 +12,8 @@ doc-type: Event
 last-substantial-update: 2023-01-31
 kt: 11797
 thumbnail: kt-11797.jpeg
+event-start-time: 2023-2-22 08:30-8
+exl-id: 6749cb7d-9130-4855-8a6a-8818810339ae
 ---
 # Accelerating AEM as a Cloud Service development with Rapid Development Environments
 
@@ -34,5 +36,5 @@ RDEs allow developers to swiftly deploy and review changes, minimizing the amoun
 
 >[!NOTE]
 >
->* For session specific community interactions on Experience League, please visit this [Contextual Thread](http://bit.ly/3x1Cl8x)
+>* For session specific community interactions on Experience League, please visit this [Contextual Thread](https://bit.ly/3x1Cl8x)
 >* To receive notifications regarding our upcoming webinars, please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/).

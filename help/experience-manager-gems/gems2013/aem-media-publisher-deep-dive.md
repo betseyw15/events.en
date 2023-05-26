@@ -4,6 +4,7 @@ description: Get an overview of the CQ 5.6 Commerce Framework from an architectu
 uuid: 20701264-a2fb-4f8e-a818-02247acbb2eb
 discoiquuid: a6a4f598-2f3b-4428-9237-40b1d21b482e
 targetaudience: target-audience advanced
+exl-id: d4579ae7-70f8-4ad4-9f4f-7f2a4182a827
 ---
 # AEM 5.6 Media Publisher deep dive {#aem-media-publisher-deep-dive}
 
@@ -24,5 +25,5 @@ John Fait
 ## Related links {#related-links}
 
 * [Documentation](https://docs.adobe.com/content/docs/en/cq/5-6-1/media-publisher.html)
-* [DPS Product Page](http://www.adobe.com/ca/products/digital-publishing-suite-family.html)
-* [DPS Cloud Service](https://digitalpublishing.acrobat.com/welcome.html)
+* [DPS Product Page](https://www.adobe.com/ca/products/digital-publishing-suite-family.html)
+* [DPS Cloud Service](https://helpx.adobe.com/digital-publishing-suite/help/eol-statement-for-dpsc.html)

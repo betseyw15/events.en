@@ -8,6 +8,7 @@ solution: Commerce,Magento Business Intelligence
 role: Leader, User, Data Architect
 level: Intermediate
 thumbnail: 342496.jpeg
+exl-id: 958d2e09-e4bd-4f6c-91d8-3aa83368013f
 ---
 # Holiday Readiness with MBI
 

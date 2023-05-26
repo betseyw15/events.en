@@ -7,6 +7,7 @@ level: Beginner, Intermediate, Experienced
 topic: Personalization
 kt: 10948
 thumbnail: 346384.jpeg
+exl-id: b2bc5f1a-b557-402d-a8bb-9ac4553c449a
 ---
 # Drive business value with content personalization in AEM
 

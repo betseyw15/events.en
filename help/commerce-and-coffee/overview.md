@@ -1,22 +1,23 @@
 ---
 title: Commerce and Coffee
 description: The Adobe Commerce and Coffee series focuses on Commerce strategies and tactics, supported by statistics reflective of the event topic.
+exl-id: b843ec27-295a-406c-971b-f3ba4ee9e002
 ---
 # Commerce and Coffee
 
 The Commerce & Coffee series is for existing Adobe Commerce customers of all skill levels and features Sr. Commerce Strategy Consultant, Corey Gelato. The series focuses on Commerce strategies and tactics, supported by statistics reflective of the event topic. Following the presentation, there is a live demonstration showcasing how to put the strategies discussed into action within a Commerce platform. Each event concludes by giving attendees an opportunity to ask questions live and engage with the Adobe experts directly. You'll leave each event with a renewed sense of why and how to stay competitive and achieve success, all while maximizing what your Adobe Commerce platform has to offer.
 
-<!---
+<!--
 ## What's New
 
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/commerce-events/apac-commerce/2022/analysis-tool.html">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html">
       <img alt="Adobe Commerce Site Wide Analysis Tool" src="./assets/analysis-tool.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/commerce-events/apac-commerce/2022/analysis-tool.html">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html">
         <strong>Adobe Commerce Site Wide Analysis Tool</strong>
       </a>
     </div>
@@ -25,11 +26,11 @@ The Commerce & Coffee series is for existing Adobe Commerce customers of all ski
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/commerce-events/apac-commerce/2022/new-relic.html">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
       <img alt="New Relic Masterclass" src="./assets/new-relic.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/commerce-events/apac-commerce/2022/new-relic.html">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
         <strong>New Relic Masterclass</strong>
       </a>
     </div>
@@ -38,11 +39,11 @@ The Commerce & Coffee series is for existing Adobe Commerce customers of all ski
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/commerce-events/apac-commerce/2022/upgrade.html">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html">
       <img alt="Benefits of upgrading to Adobe Commerce 2.4.4" src="./assets/upgrade.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/commerce-events/apac-commerce/2022/upgrade.html">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html">
         <strong>Benefits of upgrading to Adobe Commerce 2.4.4</strong>
       </a>
     </div>
@@ -52,7 +53,7 @@ The Commerce & Coffee series is for existing Adobe Commerce customers of all ski
   </td>
 </tr>
 </table>
---->
+-->
 
 >[!TIP]
 >

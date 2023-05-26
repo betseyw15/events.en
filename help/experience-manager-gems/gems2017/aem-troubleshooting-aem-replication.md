@@ -6,6 +6,7 @@ content-type: troubleshooting
 topic-tags: troubleshoot
 discoiquuid: 563fbea0-fad3-45da-8d38-5ee736bd3588
 targetaudience: target-audience new;target-audience ongoing
+exl-id: 57ec5972-cf2a-4655-89f1-4d65efc0717b
 ---
 # Troubleshooting AEM Replication{#troubleshooting-aem-replication}
 
@@ -32,4 +33,4 @@ Replication is a central feature in AEM as it allows publishing authored content
 >
 >* [AEM Indexing and JCR Query](aem-indexing-jcr-query.md)
 >* [Troubleshooting AEM Replication](aem-troubleshooting-aem-replication.md)
->* [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html)
+<!-- >>* [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html) -->

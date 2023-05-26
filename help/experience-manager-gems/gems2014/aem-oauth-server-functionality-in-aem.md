@@ -1,9 +1,10 @@
 ---
 title: OAuth server functionality in AEM - Embrace federation and unleash your REST APIs!
-description: Get an introduction to the OAuth 2 framework and the Granite OAuth server feature. Adobe Experience Manager (AEM) is implemented to be run in an OSGi environment and is based on REST principles. 
+description: Get an introduction to the OAuth 2 framework and the Granite OAuth server feature. Adobe Experience Manager (AEM) is implemented to be run in an OSGi environment and is based on REST principles.
 uuid: 5fa01808-033f-456d-a024-c28f60e1e4b7
 discoiquuid: b53df422-3625-40f4-b7fe-9945f2ec71f6
 targetaudience: target-audience advanced
+exl-id: 8ab5d16c-22fc-4210-87b3-16dacb9f5254
 ---
 # OAuth server functionality in AEM - Embrace federation and unleash your REST APIs!{#oauth-server-functionality-in-aem-embrace-federation-and-unleash-your-rest-apis}
 

@@ -7,6 +7,7 @@ level: Beginner
 version: Cloud Service
 kt: 9152
 type: Event
+exl-id: 90bd3f58-823c-4cca-be35-ab55d88d4799
 ---
 # What's new in Adobe Experience Manager Assets as a Cloud Service
 

@@ -7,6 +7,7 @@ role: Developer, Architect
 level: Experienced
 kt: 9151
 type: Event
+exl-id: 5f6ef72e-20ea-410f-965d-200335bab9cb
 ---
 # Relevance in search creates a relevant ecommerce experience
 

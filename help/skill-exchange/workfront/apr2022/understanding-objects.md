@@ -6,6 +6,7 @@ role: User
 level: Beginner
 kt: 10309
 thumbnail: 342519.jpeg
+exl-id: ab3c5b59-b1c9-4522-993a-4fe5496c7234
 ---
 # Understanding Objects in Workfront
 

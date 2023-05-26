@@ -5,6 +5,7 @@ uuid: 823b2bda-411b-49af-9a75-ab5eb9562d57
 topic-tags: troubleshoot
 discoiquuid: 58c61b72-166b-4c7e-ab63-3edd68e3e925
 targetaudience: target-audience advanced
+exl-id: 19ded93d-2183-4a26-9dc6-8c25cdd4caeb
 ---
 # Troubleshooting Sling Content Distribution{#troubleshooting-sling-content-distribution}
 
@@ -24,11 +25,12 @@ Timothee Maret, Senior Developer, Adobe
 
 ## Resources {#resources}
 
-User Sychronization
+>[!WARNING]
+>
+>AEM versions 6.4 and older are End of Life and no longer sold by Adobe.  Adobe recommends upgrading to the latest version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Archived versions of the documentation can be accessed from this [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>As it relates to this session please see *User Sychronization* in the AEM documentation.
 
-* [AEM 6.3 Documentation](https://docs.adobe.com/docs/en/aem/6-3/administer/security/security/sync.html)
-* [AEM 6.2 Documentation](https://docs.adobe.com/docs/en/aem/6-2/administer/security/security/sync.html)
-* [AEM 6.1 Documentation](https://docs.adobe.com/docs/en/aem/6-1/administer/security/security/sync.html)
 * [Apache Sling Content Distribution](https://sling.apache.org/documentation/bundles/content-distribution.html)
 * [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 

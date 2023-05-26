@@ -7,8 +7,8 @@ role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate
 kt: 10787
 thumbnail: 345377.png
+exl-id: 2d129fbf-bad4-468b-a2a1-46acd44600d7
 ---
-
 # Simplified, integrated, and headless
 
 Join Adrienne Tsai and Arun Taneja as they uncover the power of forms with new, intuitive authoring tools, expanded integrations with Microsoft, as well as headless delivery options.

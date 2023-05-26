@@ -9,6 +9,7 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9196
 type: Event
+exl-id: 7da38135-7c38-4bc1-b5f4-3e7d492e6f35
 ---
 # Deep dive into Adobe Experience Manager as a Cloud Service continuous delivery model
 

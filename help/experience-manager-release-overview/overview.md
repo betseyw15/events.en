@@ -2,8 +2,9 @@
 title: Adobe Experience Manager as a Cloud Service release overview
 description: Get a quick overview of the latest features on Adobe Experience Manager as a Cloud Service
 user-guide-breadcrumb: AEM Release Events
+exl-id: 15bc0a37-79c6-47f7-958b-96b47fe8b3ff
 ---
-<!---
+<!--
 # Adobe Experience Manager as a Cloud Service release updates
 
 Get a quick overview of the latest features on Adobe Experience Manager as a Cloud Service. These are short, roughly 10 minutes videos delivered by the AEM product team that share highlights of the latest release.
@@ -174,7 +175,7 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
     </td>
   </tr>
 </table>
---->
+-->
 
 # Adobe Experience Manager as a Cloud Service release updates
 

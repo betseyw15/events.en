@@ -4,6 +4,7 @@ description: We describe the features of Oak Lucene indexes and how they can be 
 uuid: 7664c6b2-3f09-4de4-9ade-b934465ac829
 discoiquuid: f69d9c38-a316-4409-94b3-5ff576034bf3
 targetaudience: target-audience advanced
+exl-id: 671b41ee-851b-460b-86d9-8b3a24587408
 ---
 # Oak Lucene Indexes{#oak-lucene-indexes}
 
@@ -28,5 +29,10 @@ We describe the features of Oak Lucene indexes and how they can be used to get y
 
 ## Related links {#related-links}
 
-* [Oak Queries and Indexing](https://docs.adobe.com/docs/en/aem/6-1/deploy/platform/queries-and-indexing.html)
+>[!WARNING]
+>
+>AEM versions 6.4 and older are End of Life and no longer sold by Adobe.  Adobe recommends upgrading to the latest version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Archived versions of the documentation can be accessed from this [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>As it relates to this session please see *Oak Queries and Indexing* in the AEM 6.1 documentation.
+
 * [Oak Documentation: Lucene Index](https://jackrabbit.apache.org/oak/docs/query/lucene.html)

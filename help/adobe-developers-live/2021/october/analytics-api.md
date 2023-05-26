@@ -7,6 +7,7 @@ role: Developer, Architect
 level: Experienced
 kt: 9212
 type: Event
+exl-id: b6482778-0d28-4d18-9055-1bb09b063138
 ---
 # Adobe Analytics APIs you need to know in 2021
 
