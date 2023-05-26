@@ -4,6 +4,7 @@ description: Learn about upgrade mechanisms in CQ/AEM, which allows upgrading CQ
 uuid: 76e69880-3d93-49bd-98fa-0e2f34afe5f2
 discoiquuid: 97d8dc55-0f38-4505-88af-27e08b173407
 targetaudience: target-audience advanced
+exl-id: 59101371-c17d-45cc-a184-6ce7ebb01fe2
 ---
 # AEM 5.6 upgrade mechanisms {#aem-upgrade-mechanisms}
 

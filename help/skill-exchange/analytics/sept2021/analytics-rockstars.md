@@ -6,6 +6,7 @@ role: User
 level: Intermediate, Experienced
 kt: 10459
 thumbnail: 343323.jpeg
+exl-id: 0b264d9d-e503-4012-9416-523464158656
 ---
 # Rockstar Segment
 

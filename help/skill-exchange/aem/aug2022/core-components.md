@@ -9,6 +9,7 @@ role: User
 level: Beginner, Intermediate, Experienced
 kt: 10944
 thumbnail: 346383.jpeg
+exl-id: e87938ed-3c47-4711-bda0-16585a2a4308
 ---
 # AEM Core Components & Style Systems
 

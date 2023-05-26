@@ -4,6 +4,7 @@ description: Scaling AEM Authors is primarily about scaling Oak, but what is the
 uuid: 5dab0a6c-2b3c-40fc-866a-b630215d1cd8
 discoiquuid: 0b0d99a4-60be-4e25-9169-5a9717fbcaa2
 targetaudience: target-audience advanced
+exl-id: 8960b457-323b-4a68-a66b-b1cd3bc798af
 ---
 # Experiments in AEM Author Scalability{#experiments-in-aem-author-scalability}
 

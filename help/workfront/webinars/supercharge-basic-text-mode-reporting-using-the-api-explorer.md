@@ -5,6 +5,7 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9918
+exl-id: ea4716c9-2c61-4c44-9d2a-cbd4f07699d5
 ---
 # Ask the Expert - Supercharge Basic Text Mode Reporting using the API Explorer
 

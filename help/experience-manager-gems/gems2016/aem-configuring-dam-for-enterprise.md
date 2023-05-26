@@ -5,6 +5,7 @@ uuid: de15b14d-4316-4c7e-b9b4-55287b47171e
 dms: dam
 discoiquuid: 7a41c23a-1b45-43f4-8b41-13d206ce6e87
 targetaudience: target-audience advanced
+exl-id: 4d9bd5a8-9052-42e6-87df-2c1bdfce575a
 ---
 # Configuring the DAM for Enterprise{#configuring-the-dam-for-enterprise}
 

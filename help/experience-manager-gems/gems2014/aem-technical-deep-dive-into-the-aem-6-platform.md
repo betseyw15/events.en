@@ -4,6 +4,7 @@ description: Deep dive into the new repository architecture and learn the key di
 uuid: 8038fb68-e841-4d35-affd-c32d53e4cc8f
 discoiquuid: 1374a0f7-4456-47ba-b061-1b6d67d12d55
 targetaudience: target-audience advanced
+exl-id: d76a0437-2fdd-490d-a575-f64bbe449d7f
 ---
 # Technical deep dive into the AEM 6 platform{#technical-deep-dive-into-the-aem-platform}
 

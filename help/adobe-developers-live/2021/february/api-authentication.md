@@ -11,6 +11,7 @@ version: Cloud Service
 kt: 7167
 type: Event
 thumbnail: 331768.jpg
+exl-id: 27e1a74d-f922-4a5c-bf8a-1c16a47d3e9e
 ---
 # API authentication with Adobe Experience Manager as a Cloud Service
 

@@ -4,6 +4,7 @@ description: Join Gabriel Walt and Justin Edelson for a peek into what we’ve b
 uuid: 4cb22075-1f96-45fb-b9c3-41d8516b4c87
 discoiquuid: 15ac160d-b272-4725-ba6f-217b1ee70d4d
 targetaudience: target-audience advanced
+exl-id: 4dc755e7-4e98-4f40-9df5-a8ad135e6a64
 ---
 # Technical Sneak Peek{#technical-sneak-peek}
 

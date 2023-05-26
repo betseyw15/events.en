@@ -8,6 +8,7 @@ role: Developer, Architect
 level: Experienced
 kt: 9221
 type: Event
+exl-id: 263a098a-02c1-489c-9a9d-37efc9c6b0ef
 ---
 # Introduction to Creative Cloud Libraries and Asset Browser APIs
 

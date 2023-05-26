@@ -8,6 +8,7 @@ doc-type: Event
 last-substantial-update: 2022-11-11
 kt: 11441
 thumbnail: 3411013.jpeg
+exl-id: e94a086b-b323-4b25-8f24-12dd256ee6d5
 ---
 # Mastering Your Adobe Analytics Toolbelt
 

@@ -6,6 +6,7 @@ role: User
 level: Beginner
 kt: 9767
 thumbnail: 340592.jpeg
+exl-id: df4772b7-2dd9-4859-97c2-db9507ecbd03
 ---
 # Marketo Engage Experience Makers Spotlight
 

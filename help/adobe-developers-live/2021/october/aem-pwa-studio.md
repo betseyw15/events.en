@@ -9,6 +9,7 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9142
 type: Event
+exl-id: 2d942b30-f073-4c30-9154-67fe57963ca4
 ---
 # Experience Manager Extension for PWA Studio
 

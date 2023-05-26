@@ -5,6 +5,7 @@ uuid: d4f70700-328c-42f9-9fd8-5181d2ba1697
 topic-tags: troubleshoot, best_practices
 discoiquuid: d11b23ec-d7cf-47ce-9767-60b53b1015b6
 targetaudience: target-audience advanced;target-audience ongoing
+exl-id: 30a68d44-f4f1-4370-8e96-edc6f9cbfe1a
 ---
 # AEM Indexing and JCR Query{#aem-indexing-and-jcr-query}
 

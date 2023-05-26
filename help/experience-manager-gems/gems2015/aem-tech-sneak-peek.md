@@ -4,6 +4,7 @@ description: Get a peek into what we’ve been working on for the next generatio
 uuid: a0eae408-c0a2-44a4-abca-040895955570
 discoiquuid: 78af3b2f-b010-4753-bacc-18696a598ded
 targetaudience: target-audience advanced
+exl-id: 1f21ad13-cd08-450b-acbe-85748611087a
 ---
 # AEM Tech Sneak Peek{#aem-tech-sneak-peek}
 

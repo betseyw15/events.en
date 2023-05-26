@@ -4,6 +4,7 @@ description: This AEM Gem will detail how to run AEM on MongoDB in a production 
 uuid: 8ca5b7d0-b71e-481c-961c-c91ee987f374
 discoiquuid: 198f9f6e-4156-468a-88d7-6902f51dd6c1
 targetaudience: target-audience advanced
+exl-id: a730275f-cfc9-4fbe-aa7b-d0a5220a8417
 ---
 # Running AEM on MongoDB{#running-aem-on-mongodb}
 

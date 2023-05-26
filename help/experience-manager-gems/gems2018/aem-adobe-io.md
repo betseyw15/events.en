@@ -4,6 +4,7 @@ description: Tired of building connectors for AEM? Come learn how you can expose
 uuid: 78a98ffd-cdca-462a-8915-fd936a270232
 discoiquuid: 4c239cfb-5c0f-45d7-a856-acdfd015df5d
 targetaudience: target-audience advanced
+exl-id: b7b4b4cb-93f3-49a8-a542-44847d9b8f24
 ---
 # Real-time and lightweight: build event-driven integrations with AEM using Adobe I/O Events{#real-time-and-lightweight-build-event-driven-integrations-with-aem-using-adobe-i-o-events}
 

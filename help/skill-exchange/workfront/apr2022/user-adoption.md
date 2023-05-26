@@ -6,6 +6,7 @@ role: User
 level: Beginner
 kt: 10311
 thumbnail: 342522.jpeg
+exl-id: b7231e62-e252-41d6-a5f6-41e1edd83eb2
 ---
 # Considerations for Conquering User Adoption
 

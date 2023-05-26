@@ -1,6 +1,7 @@
 ---
 title: Adobe Experience League Events
 description: A collection of event recordings forcused on using Adobe's Enterprise products
+exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
 ---
 # Adobe Experience League Event Recordings {#events}
 

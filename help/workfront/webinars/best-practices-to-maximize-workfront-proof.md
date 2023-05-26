@@ -5,6 +5,7 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9916
+exl-id: c7333635-834d-4d78-9dea-f64e3205c78a
 ---
 # Ask the Expert - Best Practices to Maximize Workfront Proof
 

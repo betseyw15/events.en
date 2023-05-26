@@ -6,6 +6,7 @@ role: User
 level: Intermediate, Experienced
 kt: 10322
 thumbnail: 342532.jpeg
+exl-id: ed305d50-8cb1-45ab-9980-dc32eaef5d30
 ---
 # Marketing Channels, Please Use Responsibly
 

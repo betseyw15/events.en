@@ -4,6 +4,7 @@ description: Learn how to extend the AEM 6.0 user interface. With the new resour
 uuid: 2937bc6f-9ae8-4acf-a965-a16ef6e56a16
 discoiquuid: b1c4e69a-bc0e-445c-8e3e-c03ead18e76e
 targetaudience: target-audience advanced
+exl-id: 0604122c-2296-4db4-a70d-e9d11280b6bd
 ---
 # User interface customization for AEM 6{#user-interface-customization-for-aem}
 

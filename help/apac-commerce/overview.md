@@ -1,6 +1,7 @@
 ---
 title: APAC Commerce Webinar Series
 description: The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Commerce customers that covers a wide range of topics from best practices to product roadmap and industry trends.
+exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
 ---
 # APAC Commerce Webinar Series
 

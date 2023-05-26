@@ -4,6 +4,7 @@ description: Learn how AEM and Microsoft Translator deliver machine translation 
 uuid: c25c9806-560c-46ef-b9c0-ffe0af296ed9
 discoiquuid: c976c008-4f51-4146-8c34-265e9707be6a
 targetaudience: target-audience advanced
+exl-id: babdfd59-ec80-47ba-a369-8461bbdb9b8f
 ---
 # Machine translation in AEM{#machine-translation-in-aem}
 

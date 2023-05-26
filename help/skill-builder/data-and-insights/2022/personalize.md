@@ -6,6 +6,7 @@ role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
 kt: 10578
 thumbnail: 343821.jpeg
+exl-id: 4e97c331-65de-49d0-b1a6-6360cef80000
 ---
 # Personalise and automate with Adobe Target
 

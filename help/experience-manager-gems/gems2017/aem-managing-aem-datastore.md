@@ -4,6 +4,7 @@ description: The session provides an overview of the DataStore (DS) and details 
 uuid: 65aabe5c-2f33-4caf-a01c-803e2c71f49d
 discoiquuid: 2d92a9bf-4a98-46d9-8b4c-583654e5bac0
 targetaudience: target-audience advanced
+exl-id: 85a7f830-5a72-499e-9b41-797537fbf2be
 ---
 # Managing AEM DataStore{#managing-aem-datastore}
 

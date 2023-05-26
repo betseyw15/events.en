@@ -11,8 +11,8 @@ version: Cloud Service
 kt: 7173
 type: Event
 thumbnail: 331739.jpg
+exl-id: 089d3908-49c4-47c1-8941-c59ba3befcd1
 ---
-
 # Moving Adobe Experience Manager to the Cloud - Challenges, Stories, Solutions 
 
 A panel with Ian Boston, Tomek Rekawek, and Carlos Sanchez, on how we successfully moved Adobe Experience Manager to the Cloud.

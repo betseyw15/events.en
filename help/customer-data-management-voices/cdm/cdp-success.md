@@ -7,6 +7,7 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10633
 thumbnail: 344312.jpeg
+exl-id: 87bed2ec-5ad6-4eab-bf68-30275aaea2db
 ---
 # Selecting a Customer Data Platform for Success
 

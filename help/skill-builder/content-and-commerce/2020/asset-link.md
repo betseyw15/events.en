@@ -12,6 +12,7 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 7342
+exl-id: 143c57da-554b-4437-a228-e8642e622ebc
 ---
 # Asset Link - Adobe Experience Manager Asset Series
 

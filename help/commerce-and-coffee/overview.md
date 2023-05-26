@@ -1,6 +1,7 @@
 ---
 title: Commerce and Coffee
 description: The Adobe Commerce and Coffee series focuses on Commerce strategies and tactics, supported by statistics reflective of the event topic.
+exl-id: b843ec27-295a-406c-971b-f3ba4ee9e002
 ---
 # Commerce and Coffee
 

@@ -8,6 +8,7 @@ doc-type: Event
 last-substantial-update: 2022-11-11
 kt: 11440
 thumbnail: 3411012.jpeg
+exl-id: de11ebbb-5333-4a5f-a866-801f15d8cd45
 ---
 # Skill Exchange Event Sept 2022 Analytics Grow Making Adobe Analytics Your Own
 

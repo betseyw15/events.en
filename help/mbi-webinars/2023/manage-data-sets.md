@@ -8,6 +8,7 @@ solution: Commerce, Magento Business Intelligence
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 344680.jpeg
+exl-id: fa45b78f-9dc6-4466-a7d1-0deeb08c4d2c
 ---
 # Manage Data Sets in MBI
 

@@ -5,6 +5,7 @@ uuid: 97e4ee67-f218-4ff9-9d9a-452963ba6deb
 topic-tags: analytics
 discoiquuid: 84a24cd3-1420-48e0-ae7a-dfa4a68ce657
 targetaudience: target-audience advanced
+exl-id: 7fa784ab-07f3-4ea8-b748-5c612a90a95f
 ---
 # Solr as an Oak index for AEM{#solr-as-an-oak-index-for-aem}
 

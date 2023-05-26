@@ -4,6 +4,7 @@ description: Presentation covers high level ContextHub architecture with some de
 uuid: f8789846-ff15-4cd5-9102-3b7394da5958
 discoiquuid: e714ec87-355c-4373-b547-98d544d73c9e
 targetaudience: target-audience advanced
+exl-id: b9942c91-e5e0-4d65-832f-dd96883cf569
 ---
 # Introduction to ContextHub in AEM 6.4{#introduction-to-contexthub-in-aem}
 

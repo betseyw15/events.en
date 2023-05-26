@@ -11,6 +11,7 @@ doc-type: Event
 last-substantial-update: 2022-11-15
 kt: 11473
 thumbnail: 3411297.jpeg
+exl-id: 265da931-4b78-4fb4-ab1c-c5e2c42c4076
 ---
 # AEM Rockstar Headless
 

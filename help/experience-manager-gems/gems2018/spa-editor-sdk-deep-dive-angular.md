@@ -4,6 +4,7 @@ description: Deep dive with us into the development of Single-Page-Applications 
 uuid: 4ac2d85b-63f9-4d74-a8c0-7857be6b3d84
 discoiquuid: 3b050b88-e1c3-4a42-81ce-bd1b321a01e7
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
+exl-id: 003c4eb7-814a-4ab3-bd31-0030366b5bcb
 ---
 # SPA Editor SDK Deep Dive - Part 2 - Angular{#spa-editor-sdk-deep-dive-part-angular}
 

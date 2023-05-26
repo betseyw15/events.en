@@ -5,6 +5,7 @@ solution: Experience Platform,Real-time Customer Data Platform,Journey Optimizer
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
+exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
 ---
 # Experience League LIVE
 

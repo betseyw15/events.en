@@ -4,6 +4,7 @@ description: In this session, we will present AEM 6.3 capabilities and best prac
 uuid: 19ef8f6e-90ab-4724-9cc3-febe30543f00
 discoiquuid: 6a78c294-abc1-4ebb-bd9d-f9abe214ad98
 targetaudience: target-audience advanced
+exl-id: b68fee5a-1dac-4488-8725-ec6ef73db549
 ---
 # AEM 6.3 Ready for the World - Translation Integration & Best Practices{#aem-ready-for-the-world-translation-integration-best-practices}
 

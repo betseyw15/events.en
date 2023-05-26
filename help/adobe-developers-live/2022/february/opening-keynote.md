@@ -5,6 +5,7 @@ role: User
 level: Beginner
 kt: 9791
 thumbnail: 340620.jpeg
+exl-id: 52a9fcb0-2e87-4413-9dae-01cf7329ec7a
 ---
 # Opening Keynote
 

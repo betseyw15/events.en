@@ -8,6 +8,7 @@ role: Developer, Architect
 level: Experienced
 kt: 9207
 type: Event
+exl-id: 653f2e63-7dfb-44ed-8d11-bdbf64c80574
 ---
 # Generating documents and capturing e-signatures in your apps using Adobe Sign API
 

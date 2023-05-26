@@ -6,6 +6,7 @@ role: User
 level: Beginner
 kt: 9709
 thumbnail: 340312.jpeg
+exl-id: 41d558d2-e8ee-49aa-9605-84f82a8bdee6
 ---
 # Get inFORMation - The Ultimate Tips & Tricks For Your Forms
 

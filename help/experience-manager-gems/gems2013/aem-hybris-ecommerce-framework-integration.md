@@ -4,6 +4,7 @@ description: Learn about our integration solution for hybris into AEM. We begin 
 uuid: d09192f9-c9a3-43db-8538-d581838e1e27
 discoiquuid: 7fc5a2ec-df8c-44c1-95d0-050d77f82349
 targetaudience: target-audience advanced
+exl-id: 3fb71915-e0b0-4919-966f-cc0417d708c6
 ---
 # hybris/AEM 5.6 eCommerce framework integration{#hybris-aem-ecommerce-framework-integration}
 

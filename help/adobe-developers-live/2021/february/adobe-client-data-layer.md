@@ -12,6 +12,7 @@ version: Cloud Service
 kt: 7162
 type: Event
 thumbnail: 331733.jpg
+exl-id: 8419f5e7-bbae-44e7-ab19-61e05c7a3b03
 ---
 # Adobe Client Data Layer - Track Your Visitor Data 
 

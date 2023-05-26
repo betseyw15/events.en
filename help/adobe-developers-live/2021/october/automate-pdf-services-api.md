@@ -8,6 +8,7 @@ role: Developer, Architect
 level: Experienced
 kt: 9209
 type: Event
+exl-id: cc887be7-3ef4-42f7-a58f-f93b85dea259
 ---
 # Automate the creation and manipulation of PDFs using PDF Services API
 

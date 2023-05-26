@@ -8,6 +8,7 @@ level: Experienced
 version: Cloud Service
 kt: 9181
 type: Event
+exl-id: ca53c085-2f41-4400-8d88-4d9ed2beef0d
 ---
 # Enrich Commerce Experiences with Associated Content
 

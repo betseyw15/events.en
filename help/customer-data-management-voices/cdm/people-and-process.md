@@ -7,6 +7,7 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10634
 thumbnail: 344313.jpeg
+exl-id: c7ff138e-0865-4b89-a1e6-be9cdd95059e
 ---
 # CDP Best Practices - People and Process
 

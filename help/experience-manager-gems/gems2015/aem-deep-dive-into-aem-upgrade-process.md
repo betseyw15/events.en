@@ -4,6 +4,7 @@ description: Learn about the general upgrade scenario, upgrade extension points,
 uuid: 2468da9b-178a-4fff-bf8e-57a3b0548d5c
 discoiquuid: 86781dba-fe73-46f9-a5d0-a4f04c0c1fc5
 targetaudience: target-audience advanced
+exl-id: 0cfaac3f-f333-4a32-82c4-d363a84cce2c
 ---
 # Deep dive into AEM upgrade process{#deep-dive-into-aem-upgrade-process}
 

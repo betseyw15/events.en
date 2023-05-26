@@ -9,6 +9,7 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9118
 type: Event
+exl-id: 0755b764-5871-4e4f-8afd-1831ba2a8bbe
 ---
 # Behind the scenes of Adobe Experience Manager with SRE guild members
 

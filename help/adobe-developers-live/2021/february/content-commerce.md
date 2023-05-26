@@ -12,8 +12,8 @@ version: Cloud Service
 kt: 7188
 type: Event
 thumbnail: 331851.jpg
+exl-id: 3c0af2d0-c672-4f69-b5c7-9467661fc15e
 ---
-
 # Content and Commerce with Adobe Experience Manager as a Cloud Service
 
 This session helps developers to get started with Commerce on Adobe Experience Manager as a Cloud Service - from the local setup of Adobe Experience Manager SDK + Commerce Integration Framework to Adobe Experience Manager & Magento in the cloud.
