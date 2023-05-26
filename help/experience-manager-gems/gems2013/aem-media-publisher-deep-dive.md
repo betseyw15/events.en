@@ -25,5 +25,5 @@ John Fait
 ## Related links {#related-links}
 
 * [Documentation](https://docs.adobe.com/content/docs/en/cq/5-6-1/media-publisher.html)
-* [DPS Product Page](http://www.adobe.com/ca/products/digital-publishing-suite-family.html)
+* [DPS Product Page](https://www.adobe.com/ca/products/digital-publishing-suite-family.html)
 * [DPS Cloud Service](https://helpx.adobe.com/digital-publishing-suite/help/eol-statement-for-dpsc.html)

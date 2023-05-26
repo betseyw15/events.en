@@ -18,7 +18,7 @@ exl-id: b541fca1-de05-444a-adb5-44398d0df9ad
 
 Load your existing React or Angular SPA in the Page Editor and, with minimal intervention, enable authors to insert content that they edit in-context.
 
-Continue the conversation in **[Experience League Communities](http://adobe.ly/36Yd3v6)**.
+Continue the conversation in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331743/?quality=12&learn=on&hidetitle=true)
 

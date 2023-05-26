@@ -18,6 +18,6 @@ exl-id: 4f912544-210d-45f3-b1c5-1d5b857793b5
 
 Make your site installable on mobile devices and available offline with just a click, no matter whether it is a web app or a traditional site.
 
-Continue the conversation in **[Experience League Communities](http://adobe.ly/36Yd3v6)**.
+Continue the conversation in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331742/?quality=12&learn=on&hidetitle=true)

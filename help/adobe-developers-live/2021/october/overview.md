@@ -89,6 +89,6 @@ Connect with fellow devs and join the session conversations in Experience League
 
 ### App Builder
 
-* [App Builder Overview](http://adobe.ly/aem-appbuilder)
-* [App Builder Developer Guide](http://adobe.ly/appbuilder)
-* [App Builder Trial Program Sign Up](http://adobe.ly/appbuilder-trial)
+* [App Builder Overview](https://adobe.ly/aem-appbuilder)
+* [App Builder Developer Guide](https://adobe.ly/appbuilder)
+* [App Builder Trial Program Sign Up](https://adobe.ly/appbuilder-trial)

@@ -17,7 +17,7 @@ exl-id: e1c21502-0fa5-4514-b6a5-dcc04842b114
 
 Join Gabriel Walt, Product Manager for Experience Manager, to get an overview of the big themes that drive Adobe Experience Manager’s roadmap and how the sessions relate.
 
-Continue the conversation in **[Experience League Communities](http://adobe.ly/36Yd3v6)**.
+Continue the conversation in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331279/?quality=12&learn=on&hidetitle=true)
 

@@ -17,7 +17,7 @@ exl-id: 774bdb45-6179-4763-8e4a-0f61a5785406
 
 Learn how to manage environment variables with Adobe Experience Manager as a Cloud Service and use them in the context of a build process or OSGI configuration variables.
 
-Continue the conversation in **[Experience League Communities](http://adobe.ly/36Yd3v6)**.
+Continue the conversation in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332304/?quality=12&learn=on&hidetitle=true)
 

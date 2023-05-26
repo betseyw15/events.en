@@ -17,7 +17,7 @@ exl-id: 0ff6f6cb-5dbf-4c81-b78c-b30558e29e10
 
 This session helps developers to get started with Forms on Adobe Experience Manager as a Cloud Service - from the local setup of Adobe Experience Manager Forms and covering customization.
 
-Continue the conversation in **[Experience League Communities](http://adobe.ly/36Yd3v6)**.
+Continue the conversation in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332306/?quality=12&learn=on&hidetitle=true)
 

@@ -17,7 +17,7 @@ exl-id: 40ddb1fc-13ec-4db1-b344-98d0ee805075
 
 A look behind the scenes sharing insights on strategy and innovation around Adobe Experience Manager in the Cloud while describing the major changes leading to where we are today.
 
-Continue the conversation in **[Experience League Communities](http://adobe.ly/36Yd3v6)**.
+Continue the conversation in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331278/?quality=12&learn=on&hidetitle=true)
 

@@ -29,7 +29,7 @@ Learn about the query engine of Oak and how it compares to Jackrabbit 2.x. The s
 
 ## Related links {#related-links}
 
-[Oak Documentation](http://jackrabbit.apache.org/oak/docs/)
+[Oak Documentation](https://jackrabbit.apache.org/oak/docs/)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

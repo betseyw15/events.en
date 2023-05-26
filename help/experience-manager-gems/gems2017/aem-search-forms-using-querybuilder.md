@@ -28,10 +28,11 @@ Demo
 
 AEM Documentation
 
-* [Querybuilder API, AEM 6.3](https://docs.adobe.com/docs/en/aem/6-3/develop/search/querybuilder-api.html)
-* [Querybuilder API, AEM 6.2](https://docs.adobe.com/docs/ko/aem/6-2/develop/search/querybuilder-api.html)
-* [Querybuilder API, AEM 6.1](https://docs.adobe.com/docs/ko/aem/6-1/develop/search/querybuilder-api.html)
-* [Querybuilder API, AEM 6.0](https://docs.adobe.com/docs/ko/aem/6-0/develop/search/querybuilder-api.html)
+>[!WARNING]
+>
+>AEM versions 6.4 and older are End of Life and no longer sold by Adobe.  Adobe recommends upgrading to the latest version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Archived versions of the documentation can be accessed from this [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>As it relates to this session please see *Querybuilder API* in the AEM documentation.
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

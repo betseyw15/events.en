@@ -25,4 +25,4 @@ Siddharth Palaniswami, Sr. Software Engineering Lead, Adobe
 ## Related links {#related-links}
 
 * [Github link for code sample](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
-* [Social Component Framework](http://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)
+* [Social Component Framework](https://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)

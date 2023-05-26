@@ -24,6 +24,6 @@ Peter Klassen, Product Manager, Adobe
 
 ## Related links {#related-links}
 
-* [AEM 6.0 Release Notes](http://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
-* [Managing AEM 6.0](http://docs.adobe.com/docs/en/aem/6-0/manage.html)
-* [Planning your upgrade to AEM 6.0](http://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)
+* [AEM 6.0 Release Notes](https://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
+* [Managing AEM 6.0](https://docs.adobe.com/docs/en/aem/6-0/manage.html)
+* [Planning your upgrade to AEM 6.0](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)

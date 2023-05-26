@@ -20,7 +20,10 @@ Determining if an AEM instance is healthy is not a simple task. This session wil
 
 [Get File](assets/aem-gems-health-checks-for-aem.pdf)
 
+>[!WARNING]
+>
+>AEM versions 6.4 and older are End of Life and no longer sold by Adobe.  Adobe recommends upgrading to the latest version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Archived versions of the documentation can be accessed from this [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+
 ## Related links {#related-links}
 
-* [AEM Documentation](https://docs.adobe.com/docs/en/aem/6-3/administer/operations/operations-dashboard.html#Health%20Reports)
 * [Sling Documentation](https://sling.apache.org/documentation/bundles/sling-health-check-tool.html)

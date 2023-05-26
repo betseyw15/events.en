@@ -30,6 +30,6 @@ Presenter slides - Part 2
 
 ## Related links {#related-links}
 
-* [Apache Sling Eventing and Jobhandling](http://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
-* [Discovery API and its implementations](http://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
-* [Offloading Jobs](http://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)
+* [Apache Sling Eventing and Jobhandling](https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
+* [Discovery API and its implementations](https://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
+* [Offloading Jobs](https://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)

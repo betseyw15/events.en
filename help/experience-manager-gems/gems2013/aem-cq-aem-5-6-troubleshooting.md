@@ -24,4 +24,4 @@ Thierry Yge, Senior Support Engineer, Adobe
 
 ## Related links {#related-links}
 
-[Documentation](http://docs.adobe.com/docs/en/cq/current/howto/troubleshoot.html)
+[Documentation](https://docs.adobe.com/docs/en/cq/current/howto/troubleshoot.html)

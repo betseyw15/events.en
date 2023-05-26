@@ -18,6 +18,6 @@ exl-id: 367217d0-5b22-4428-a70d-572aa56f2d09
 
 Learn how to use Adobe Developer App Builder to build custom Asset Compute worker for asset processing during ingestion into Adobe Experience Manager.
 
-Continue the conversation in **[Experience League Communities](http://adobe.ly/36Yd3v6)**.
+Continue the conversation in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331849/?quality=12&learn=on&hidetitle=true)

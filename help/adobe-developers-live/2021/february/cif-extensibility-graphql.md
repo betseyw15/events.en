@@ -18,7 +18,7 @@ exl-id: c41fd457-a8aa-4ab5-a7e4-67562aa77d63
 
 Learn how to extend Commerce core components using GraphQL.
 
-Continue the conversation in **[Experience League Communities](http://adobe.ly/36Yd3v6)**.
+Continue the conversation in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331850/?quality=12&learn=on&hidetitle=true)
 
