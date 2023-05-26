@@ -4,6 +4,7 @@ description: In this session, Justin Edelson, Global Evangelist for AEM and co-p
 uuid: aef962ac-5e21-4582-9da2-cdfa6f5f18ff
 discoiquuid: 3210944a-4a03-495a-b652-3c9e54ecbc22
 targetaudience: target-audience advanced
+exl-id: 7bd87758-ba62-44d8-b2d1-a8bb7225a42a
 ---
 # Inside ACS AEM Commons & Tools{#inside-acs-aem-commons-tools}
 

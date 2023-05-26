@@ -4,6 +4,7 @@ description: While AEM work is pretty self-contained, we AT/AAM/AA consultants w
 uuid: 6967a5c8-5eca-488c-9548-facef7bb55c0
 discoiquuid: 40741bd1-4995-4627-9c7c-2d5f2cd68760
 targetaudience: target-audience advanced
+exl-id: 15b63fdf-ba96-44a7-9e7e-9a41b4ee053d
 ---
 # AEM Integrations - a solid foundation goes a long way{#aem-integrations-a-solid-foundation-goes-a-long-way}
 

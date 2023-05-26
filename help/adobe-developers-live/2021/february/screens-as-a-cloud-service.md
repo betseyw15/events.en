@@ -12,8 +12,8 @@ version: Cloud Service
 kt: 7164
 type: Event
 thumbnail: 331767.jpg
+exl-id: 11c79583-4260-4b83-95c3-615ac7b49f3f
 ---
-
 # Adobe Experience Manager Screens as a Cloud Service
 
 Re-imagining Adobe Experience Manager Screens as a Cloud Service: a journey from being tightly coupled to a CMS to becoming a fully managed and scalable cloud service.

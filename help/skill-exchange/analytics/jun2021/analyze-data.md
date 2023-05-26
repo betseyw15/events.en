@@ -9,6 +9,7 @@ feature: Analytics Basics, Analysis Workspace, Visualizations, Segmentation, Met
 doc-type: Event
 kt: 10318
 thumbnail: 342528.jpeg
+exl-id: 1169e01e-19c5-4cfc-a6b5-d050f006955f
 ---
 # Adobe Analytics: Analyzing the Data
 

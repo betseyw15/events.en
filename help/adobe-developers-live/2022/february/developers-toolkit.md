@@ -5,6 +5,7 @@ role: Developer
 level: Beginner
 kt: 9786
 thumbnail: 340621.jpeg
+exl-id: 042d34a9-38c2-490d-bed6-bbc7c037981a
 ---
 # A glance into a Commerce Developer’s Toolkit
 

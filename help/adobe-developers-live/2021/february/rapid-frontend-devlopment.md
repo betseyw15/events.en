@@ -12,8 +12,8 @@ version: Cloud Service
 kt: 7177
 type: Event
 thumbnail: 331737.jpg
+exl-id: 9b221a85-5e8b-486c-9d47-17f939c9a59c
 ---
-
 # Rapid Frontend Development - Your Future Workflow 
 
 Use Site Templates to create new sites in few clicks, and bring back the fun of frontend development with the rapid deployment of frontend assets like CSS & JS.

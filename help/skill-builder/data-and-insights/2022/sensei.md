@@ -6,6 +6,7 @@ role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
 kt: 10580
 thumbnail: 343830.jpeg
+exl-id: 7f0a7ba7-0b93-4fa7-961f-b981914dadcb
 ---
 # Using Sensei to take Analysis Workspace to the next level
 

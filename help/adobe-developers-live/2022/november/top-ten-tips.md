@@ -11,6 +11,7 @@ doc-type: Event
 last-substantial-update: 2022-11-15
 kt: 11476
 thumbnail: 3411300.jpeg
+exl-id: e0c082d4-d35b-4653-9deb-d8b647add3b3
 ---
 # Top 10 Tips to Speed Up Your Adobe Experience Manager Site
 

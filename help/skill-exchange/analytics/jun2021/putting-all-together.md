@@ -6,6 +6,7 @@ role: User
 level: Beginner
 kt: 10319
 thumbnail: 342529.jpeg
+exl-id: 9e4311a2-09d4-4786-ad35-f4980babd5dc
 ---
 # Adobe Analytics: Putting it All Together
 

@@ -10,8 +10,8 @@ role: Developer
 level: Experienced
 kt: 7166
 thumbnail: 331734.jpg
+exl-id: 442098f1-512a-4801-8bf1-85fc84be4aca
 ---
-
 # Adobe Experience Platform Launch Demo
 
 Quickly and easily deploy and manage your client-side marketing & advertising tags with AEP Launch, learn how to customize, and write your own extensions.

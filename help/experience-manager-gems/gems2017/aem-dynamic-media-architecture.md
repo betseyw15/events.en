@@ -4,6 +4,7 @@ description: Join Cynthia Tillo, Principal Product Manager, Adobe Digital Market
 uuid: 66934879-1d50-49bd-879a-463f59657b6a
 discoiquuid: e9e8768d-25a8-4b20-b129-1b1e1732dbb9
 targetaudience: target-audience advanced
+exl-id: e2039012-97a0-4a56-ae6d-b946e8c94075
 ---
 # AEM Dynamic Media 6.3 Architecture{#aem-dynamic-media-architecture}
 

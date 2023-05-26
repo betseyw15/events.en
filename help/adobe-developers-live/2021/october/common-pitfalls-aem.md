@@ -9,6 +9,7 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9179
 type: Event
+exl-id: eba2ef69-59f1-4d1f-9405-78aee5764295
 ---
 # Tales from the front lines - how to avoid common pitfalls in Experience Manager CS
 

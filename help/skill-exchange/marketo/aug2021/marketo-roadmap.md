@@ -6,6 +6,7 @@ role: User
 level: Intermediate, Experienced
 kt: 10329
 thumbnail: 342564.jpeg
+exl-id: bca21526-3565-4bc3-bbf3-870b69683999
 ---
 # Your Marketo Roadmap
 

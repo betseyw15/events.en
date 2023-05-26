@@ -4,6 +4,7 @@ description: Learn how to fine tune your AEM Dispatcher cache. Learn about the n
 uuid: eb15e787-4487-4c0e-aa16-b9685bb580e8
 discoiquuid: 0d0eb59a-cc06-4b0e-960b-c82aa229f382
 targetaudience: target-audience advanced
+exl-id: d8c79afe-5a39-4e1b-9413-fec80bd4ff9b
 ---
 # Dispatcher caching - New features and optimizations{#dispatcher-caching-new-features-and-optimizations}
 

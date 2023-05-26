@@ -7,6 +7,7 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10632
 thumbnail: 344311.jpeg
+exl-id: 57d7697c-455e-428e-95ed-7a29852a702a
 ---
 # Streamlining Your First Mile of Data Management
 

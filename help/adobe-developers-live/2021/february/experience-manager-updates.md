@@ -2,7 +2,7 @@
 title: Adobe Experience Manager Updates
 description: Join Gabriel Walt, Product Manager for Experience Manager, to get an overview of the big themes that drive Adobe Experience Manager’s roadmap and how the sessions relate. This session was delivered as part of Adobe Developers Live Content event.
 solution: Experience Manager
-product:  experience manager
+product: experience manager
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -11,8 +11,8 @@ version: Cloud Service
 kt: 7165
 type: Event
 thumbnail: 331279.jpg
+exl-id: e1c21502-0fa5-4514-b6a5-dcc04842b114
 ---
-
 # Adobe Experience Manager Updates
 
 Join Gabriel Walt, Product Manager for Experience Manager, to get an overview of the big themes that drive Adobe Experience Manager’s roadmap and how the sessions relate.

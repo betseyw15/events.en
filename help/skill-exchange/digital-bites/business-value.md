@@ -6,6 +6,7 @@ level: Intermediate
 kt: 11122
 thumbnail: 3409235.jpeg
 hidefromtoc: yes
+exl-id: cecbe138-a8d2-41ec-9be0-0689d543be2e
 ---
 # How to unlock business value across the customer journey
 

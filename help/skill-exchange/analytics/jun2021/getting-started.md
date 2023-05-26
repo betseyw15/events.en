@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 10317
 thumbnail: 342527.jpeg
+exl-id: 11cc8092-7f69-495d-a2a5-fd5a8c0d61fe
 ---
 # Adobe Analytics: Getting Started
 

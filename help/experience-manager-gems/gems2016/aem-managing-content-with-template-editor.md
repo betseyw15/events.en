@@ -4,6 +4,7 @@ description: With Adobe Experience Manager 6.2 a new template editor has been in
 uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
+exl-id: f29e6070-62d3-472c-9772-d470134e76d1
 ---
 # Managing your content with the template editor of Adobe Experience Manager{#managing-your-content-with-the-template-editor-of-adobe-experience-manager}
 

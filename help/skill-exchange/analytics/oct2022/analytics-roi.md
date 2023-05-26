@@ -8,6 +8,7 @@ doc-type: Event
 last-substantial-update: 2022-12-01
 kt: 11534
 thumbnail: 3411898.jpeg
+exl-id: 81599546-fbd9-4805-9e96-924a38fe3e4c
 ---
 # Grow Track - Adobe Analytics ROI
 

@@ -6,6 +6,7 @@ role: Admin, Leader, User
 level: Beginner
 kt: 10577
 thumbnail: 343810.jpeg
+exl-id: 25ef45fe-6cc8-4321-8077-19037dc6d6ca
 ---
 # Innovations in Content Personalization that deliver Business Value
 

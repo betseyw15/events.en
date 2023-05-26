@@ -4,6 +4,7 @@ description: While you may not be in a position to move completely to the use of
 uuid: debfe153-74e7-4e52-9fec-494e7ca6c780
 discoiquuid: 4e22b290-b352-4371-a734-fdbed3d25838
 targetaudience: target-audience advanced
+exl-id: 9f7d017c-acf7-4f0b-87a5-14370ae7bb84
 ---
 # Deliver managed content to your native apps{#delivering-managed-content-to-your-native-apps}
 

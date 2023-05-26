@@ -5,6 +5,7 @@ role: Admin, User
 level: Beginner, Intermediate
 kt: 10003
 thumbnail: 341225.jpeg
+exl-id: 076f1d0e-b700-4091-9502-0bc04168e132
 ---
 # Marketing workflows and approvals, Leap 2020 (July 1, 2020)
 

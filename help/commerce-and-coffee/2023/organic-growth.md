@@ -10,6 +10,7 @@ last-substantial-update: 2023-03-03
 jira: KT-11945
 thumbnail: 3416128.jpeg
 event-start-time: 2023-2-23 08:30-8
+exl-id: 4fdec906-bf81-4c78-ab01-57453b704994
 ---
 # Commerce & Coffee: Organic Growth
 

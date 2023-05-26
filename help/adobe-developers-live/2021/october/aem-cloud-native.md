@@ -9,6 +9,7 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9117
 type: Event
+exl-id: 47af6bc4-43b9-4676-a746-a313ac15c16c
 ---
 # Cloud-native extensibility for Experience Cloud - What’s in it for Experience Manager developers
 

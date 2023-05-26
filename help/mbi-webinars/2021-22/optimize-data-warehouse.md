@@ -8,6 +8,7 @@ solution: Commerce, Magento Business Intelligence
 role: Leader, User, Data Architect
 level: Intermediate, Experienced
 thumbnail: 342562.jpeg
+exl-id: 34e017c3-721d-459a-8f38-76cc165e2d02
 ---
 # Optimize Your MBI Data Warehouse
 

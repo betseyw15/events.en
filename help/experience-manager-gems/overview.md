@@ -10,7 +10,7 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM Sessions
-
+exl-id: 595f6977-935a-4859-9cfd-161d45847f85
 ---
 # Adobe Experience Manager Gems
 
@@ -67,5 +67,3 @@ Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com
 * Connection: Network with peers and Adobe personnel for guidance and best practices from implementation to expanding product use
 * Quick Answers: Extensive pool of real-world use case answers to support successful active use of Adobe solutions
 * Ideation & Feedback: Intake customer product ideas and provide valuable VoC feedback to product teams
-
-

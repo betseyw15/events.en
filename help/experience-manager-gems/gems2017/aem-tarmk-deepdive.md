@@ -4,6 +4,7 @@ description: Ever wondered what is inside the TarMK's tar files? What is a segme
 uuid: 67aed294-c1f2-422e-a568-7a2e19eb60d1
 discoiquuid: 3c650f0e-e16b-4a18-9462-90cdde8a2f10
 targetaudience: target-audience advanced
+exl-id: 42ec8561-d39c-4798-88ff-7d3f5275ee13
 ---
 # Into the tar pit: a TarMK deep dive{#into-the-tar-pit-a-tarmk-deep-dive}
 

@@ -4,6 +4,7 @@ description: Determining if an AEM instance is healthy is not a simple task. Thi
 uuid: 33d6c0e2-9bf8-443d-babe-2ceda52a1837
 discoiquuid: 8b674cc3-c88a-48a4-b113-abf3efd5069f
 targetaudience: target-audience advanced
+exl-id: 03298b03-360c-43af-9ece-ad95b49f581b
 ---
 # Building Health Checks for AEM{#building-health-checks-for-aem}
 

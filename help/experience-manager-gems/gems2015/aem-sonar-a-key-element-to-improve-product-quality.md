@@ -4,6 +4,7 @@ description: Learn how to use Sonar to help improve product quality, including U
 uuid: f193d261-0e70-4758-8b0f-47c7b288e9e9
 discoiquuid: e0a955be-47e1-4d78-ab20-c4747b06d094
 targetaudience: target-audience advanced
+exl-id: 76a7b594-788e-4b1a-9122-774c0ba0469e
 ---
 # Sonar - A key element to improve product quality{#sonar-a-key-element-to-improve-product-quality}
 

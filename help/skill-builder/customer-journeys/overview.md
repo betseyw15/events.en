@@ -1,6 +1,7 @@
 ---
 title: Skill Builder - Customer Journeys
 description: Recorded webinar series to help you develop real-time customer profiles by pulling data from all sources to create personalized, cross-channel journeys.
+exl-id: 0ea7bc07-8b82-4aba-abaa-78ac7f4c8ce2
 ---
 # Customer Journeys
 

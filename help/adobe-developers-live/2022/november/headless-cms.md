@@ -11,6 +11,7 @@ doc-type: Event
 last-substantial-update: 2022-11-15
 kt: 11475
 thumbnail: 3411299.jpeg
+exl-id: 04540d26-1719-4d98-9ef4-6a1988918db2
 ---
 # Adobe Experience Manager as a Headless CMS - Where/When/Why?
 

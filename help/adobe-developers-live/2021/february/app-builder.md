@@ -10,8 +10,8 @@ version: Cloud Service
 kt: 7175
 type: Event
 thumbnail: 331741.jpg
+exl-id: 5c303ecd-d33e-48c6-94da-f8bbb07577f1
 ---
-
 # Adobe Developer App Builder Deep Dive 
 
 OK, so want to hear more Adobe Developer App Builder developer stuff? Join us and see App Builder in action: code, security, headfull and headless apps, CI/CD and more.

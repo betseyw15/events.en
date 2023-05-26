@@ -8,6 +8,7 @@ doc-type: Event
 last-substantial-update: 2022-11-11
 kt: 11438
 thumbnail: 3411008.jpeg
+exl-id: 7ddaabd5-2b0a-457a-8a01-30d41769886b
 ---
 # Analytics Learn Experience Makers Spotlight
 

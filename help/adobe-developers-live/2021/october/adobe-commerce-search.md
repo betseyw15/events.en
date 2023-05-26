@@ -7,6 +7,7 @@ role: Developer, Architect
 level: Experienced
 kt: 9147
 type: Event
+exl-id: 94b241a6-b52a-470c-9af3-e93f04776860
 ---
 # Keeping Adobe Commerce Live Search results fresh in real-time
 

@@ -4,6 +4,7 @@ description: AEM Screens is the new digital signage solution integrated into Ado
 uuid: a6c42610-4a3d-4575-ac27-fc154d58c13d
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
+exl-id: 1beeb807-c3b3-425c-8053-06cd2d359c35
 ---
 # Introduction to AEM Screens{#introduction-to-aem-screens}
 

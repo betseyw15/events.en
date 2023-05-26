@@ -4,6 +4,7 @@ description: Experience Manager provides an agile solution to design, anticipate
 uuid: 6cb2db2b-f465-412f-8039-e0281454b264
 discoiquuid: 98f017e8-42e3-436f-b7e4-a60e57042617
 targetaudience: target-audience advanced
+exl-id: ac1cbab8-eb54-401a-b425-423faedba367
 ---
 # Deep Dive into Adobe Experience Manager 6.4{#deep-dive-into-adobe-experience-manager}
 

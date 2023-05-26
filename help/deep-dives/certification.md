@@ -7,6 +7,7 @@ doc-type: Event
 last-substantial-update: 2023-03-16
 jira: KT-12941
 thumbnail: 3416760.jpeg
+exl-id: af0a6310-5fc9-4109-adab-edd16682ce6d
 ---
 # Investing in Yourself - Adobe Marketo Engage Certification
 

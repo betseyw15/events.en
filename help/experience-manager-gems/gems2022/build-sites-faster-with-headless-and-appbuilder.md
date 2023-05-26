@@ -10,6 +10,7 @@ role: Developer
 level: Intermediate
 kt: 10053
 thumbnail: 341311.jpeg
+exl-id: 2b8158e3-3122-4ce6-ad0a-3124664fd0aa
 ---
 # Build websites faster with AEM Headless and App Builder
 

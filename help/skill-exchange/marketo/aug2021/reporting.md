@@ -6,6 +6,7 @@ role: User
 level: Beginner
 kt: 10325
 thumbnail: 342557.jpeg
+exl-id: fc869a40-a170-4eaa-a94a-cd5d206e2aaa
 ---
 # Reporting within Marketo Engage
 

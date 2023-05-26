@@ -4,6 +4,7 @@ description: You need to create the next level of fluid experiences to keep up w
 uuid: 126e5518-b8c0-41e7-9b99-78d9d80b18b0
 discoiquuid: 77929dd9-2a0b-45e2-bffb-7a6e6ac1d9bd
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
+exl-id: 2b326d24-e734-4f19-b4dd-9e538f80497a
 ---
 # Creating Headless Omnichannel Experiences with AEM 6.5{#creating-headless-omnichannel-experiences-with-aem}
 

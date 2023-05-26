@@ -4,6 +4,7 @@ description: Learn the Best Practices around the rich configurations and use of 
 uuid: c55837d1-5703-44a9-b901-ab2e68d75dcb
 discoiquuid: d4220ddf-360a-4068-9558-b42f29038cc7
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
+exl-id: 1c9d4251-10b5-46cd-aad4-1c29683ef6e0
 ---
 # AEM Rich Text Editor (RTE) Deep Dive{#aem-rich-text-editor-rte-deep-dive}
 

@@ -1,6 +1,7 @@
 ---
 title: Adobe Campaign Insider Series
 description: Tips & tricks and inspiration for Adobe Campaign customers to help evolve cross-channel marketing strategies, elevate team marketing practitioner skills, and help organizations launch more advanced cross-channel marketing strategies.
+exl-id: 5ab4c6a7-a5ad-4ab5-94c4-7cdff1466c2a
 ---
 # Adobe Campaign Insider Series
 

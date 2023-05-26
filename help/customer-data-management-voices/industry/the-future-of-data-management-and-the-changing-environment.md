@@ -9,6 +9,7 @@ doc-type: Event
 thumbnail: 332077.jpg
 kt: 7333
 type: Event
+exl-id: b3821cbf-b11d-4524-bf05-4e2c77300e30
 ---
 # The Future of Data Management and the Changing Environment
 

@@ -6,6 +6,7 @@ role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 kt: 10572
 thumbnail: 343822.jpeg
+exl-id: 86eb7396-72c9-4a3e-9689-22cb77184a21
 ---
 # Keynote - Customer Journey trends and innovation across B2B & B2C
 

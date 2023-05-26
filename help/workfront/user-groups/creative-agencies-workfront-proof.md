@@ -5,6 +5,7 @@ role: User
 level: Beginner, Intermediate
 kt: 9999
 thumbnail: 341411.jpeg
+exl-id: 02e598a3-3874-4dd7-b17b-0bf663d1e077
 ---
 # Creative Agencies: Workfront Proof (August 11, 2020)
 
