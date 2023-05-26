@@ -38,7 +38,6 @@ user-guide-description: This is a description for the user guide that will be di
     + [Customer Journey trends and innovation across B2B & B2C](customer-journeys/2022/keynote.md)
     + [Better together - Adobe Marketo Engage and Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
     + [B2B experiences with Marketo Engage and Adobe Experience Cloud](customer-journeys/2022/b2b-experiences.md)
-<!--    + [Adobe Campaign Classic V7 vs V8](customer-journeys/2022/classic-v7-vs-v8.md) -->
 + Data and insights {#data-and-insights}
   + [Overview](data-and-insights/overview.md)
   + 2022 {#2022}
@@ -47,3 +46,5 @@ user-guide-description: This is a description for the user guide that will be di
     + [Personalize and automate with Adobe Target](data-and-insights/2022/personalize.md)
     + [Analytics and Target applications for Mobile and Apps](data-and-insights/2022/mobile-and-apps.md)
     + [Cross Device Analytics and Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md)
+
+<!--    + [Adobe Campaign Classic V7 vs V8](customer-journeys/2022/classic-v7-vs-v8.md) -->
