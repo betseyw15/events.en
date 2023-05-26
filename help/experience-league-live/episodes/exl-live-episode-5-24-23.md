@@ -3,7 +3,7 @@ title: Maximize your mobile app's potential with Adobe Journey Optimizer
 description: Learn the benefits of in-app messaging as a real-time engagement channel and how to configure and author personalized mobile app experiences in Adobe Journey Optimizer.
 solution: Journey Optimizer
 kt: KT-13220
-thumbnail: 3419194.jpeg
+thumbnail: https://video.tv.adobe.com/v/3419194?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=ABhwYw44r2g
 event-cta-url-reg: null
 event-start-time: 2023-5-24 08:30-8
@@ -15,3 +15,4 @@ exl-id: 558800ab-ea45-460b-9970-1714bdb4dcf7
 Learn the benefits of in-app messaging as a real-time engagement channel and how to configure and author personalized mobile app experiences in Adobe Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419194/?quality=12&learn=on)
+
