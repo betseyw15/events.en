@@ -152,7 +152,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
       </a>
       <div>
          <a href="/help/learn-from-your-peers/overview.md"><strong>Learn from your Peers</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Marketo</em>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Experience Manager, Adobe Marketo</em>
       </div>
       <p>
         <br/>
