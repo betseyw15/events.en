@@ -3,7 +3,7 @@ title: Analytics in the office or on the go
 description: With so many demands on your time and attention, you need to be able to create and access business insights in any setting - whether you're behind a desk or out and about.
 solution: Analytics
 kt: 11360
-thumbnail: 3410834.jpeg
+thumbnail: https://video.tv.adobe.com/v/3410834?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=0-eNrncuNDc
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-221118.html
 event-start-time: 2022-11-18 09:00-8

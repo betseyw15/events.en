@@ -2,7 +2,7 @@
 title: AEM from Headful to Headless (and everything in between)
 description: A detailed breakdown of the most common Adobe Experience Manager Sites implementations.
 solution: Experience Manager
-thumbnail: 342475.jpeg
+thumbnail: https://video.tv.adobe.com/v/342475?format=jpeg
 event-cta-url: https://youtu.be/idByz7WrhbQ
 event-start-time: 2022-04-21 09:00-7
 event-guests: Amol Anand, Sachin Mali, Sean Steimer
