@@ -3,7 +3,7 @@ title: Experience League LIVE, Episode 2 - Make Your Next Audience Segment Smart
 description: The success of every good marketing campaign hinges on precisely targeting your audience. With the new Adobe Experience Platform Segment Builder, you can build your next audience segment using profile data and time-based user behavior across channels. There's no better way to ensure that your messages reach the people who need to hear them most. Join us for a discussion featuring three Adobe experts who've been instrumental in bringing this technology to you. We'll show you effective ways to create both simple and complex segments.
 solution: Experience Platform
 kt: 8581
-thumbnail: 336422.jpg
+thumbnail: https://video.tv.adobe.com/v/336422?format=jpeg
 event-cta-url:
 event-start-time: 2021-08-26 09:00-7
 event-guests: Aaron Shields,Yaya Wang,Andres Monroy

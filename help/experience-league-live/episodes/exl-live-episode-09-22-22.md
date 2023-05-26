@@ -3,7 +3,7 @@ title: Execute your campaigns in Adobe Journey Optimizer
 description: Adobe Target and Adobe Real-time Customer Data Platform can be integrated to provide a more personalized customer experience. In this livestream event, see how integrating these two platforms can help businesses collect data in real time, and then create and test targeted experiences. See the end to end process of this powerful capability in a live demonstration.
 solution: Journey Optimizer
 kt: 11028
-thumbnail: 3409504.jpeg
+thumbnail: https://video.tv.adobe.com/v/3409504?format=jpeg
 event-cta-url: null
 event-start-time: 2022-09-22 08:30-7
 event-guests: Sandra Hausmann,Frederic Mary,Bridgette Darling
