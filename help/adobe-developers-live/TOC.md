@@ -81,7 +81,7 @@ feature-set: Experience Manager, Experience Manager Sites, Experience Manager As
     + [Overview](2021/october/overview.md)
     + [Opening Keynote](2021/october/keynote.md)
     + [Accelerating Transition to Experience Manager CS](2021/october/accelerate-transistion.md)
-    + [Adobe Analytics APIs you need to know in 2021](2021/october/analytics-api.md)
+    + [Adobe [!DNL Analytics] APIs you need to know in 2021](2021/october/analytics-api.md)
     + [Adobe Client Data Layer](2021/october/adobe-client-data-layer.md)
     + [Adobe Commerce and the Community Contribution Model](2021/october/community-contribution-model.md)
     + [Adobe Commerce Live Search Results](2021/october/adobe-commerce-search.md)

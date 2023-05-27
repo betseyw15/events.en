@@ -14,7 +14,7 @@ In this session learn how to leverage Dynamic Content to send more targeted, rel
 
 **Key Takeaways**
 
-* Streamline your Marketo Engage program builds and save time by utilizing Dynamic Content
+* Streamline your [!DNL Marketo Engage] program builds and save time by utilizing Dynamic Content
 * Learn how to segment your database to power your Dynamic Content
 * Report on the impact of your Dynamic Content to guide future marketing decisions
 

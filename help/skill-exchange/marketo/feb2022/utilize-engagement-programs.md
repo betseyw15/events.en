@@ -1,6 +1,6 @@
 ---
 title: Nurture 101 - Utilizing Engagement Programs To Engage Your Customers
-description: Learn the basics of engagement programs inside of Marketo Engage including example use cases and tips and tricks.
+description: Learn the basics of engagement programs inside of [!DNL Marketo Engage] including example use cases and tips and tricks.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -10,7 +10,7 @@ exl-id: f0c137c3-57db-4a84-8ce8-4944221e1782
 ---
 # Nurture 101 - Utilizing Engagement Programs To Engage Your Customers
 
-Learn the basics of engagement programs inside of Marketo Engage including example use cases and tips and tricks.
+Learn the basics of engagement programs inside of [!DNL Marketo Engage] including example use cases and tips and tricks.
 
 **Key Takeaways**
 

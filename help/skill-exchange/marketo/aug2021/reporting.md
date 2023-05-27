@@ -1,6 +1,6 @@
 ---
-title: Reporting within Marketo Engage
-description: This session will review all of the Reporting Tools available in Marketo Engage including  Reports  Smart Lists  Analyzers  MPI  Email Insights
+title: Reporting within [!DNL Marketo Engage]
+description: This session will review all of the Reporting Tools available in [!DNL Marketo Engage] including  Reports  Smart Lists  Analyzers  MPI  Email Insights
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -8,9 +8,9 @@ kt: 10325
 thumbnail: 342557.jpeg
 exl-id: fc869a40-a170-4eaa-a94a-cd5d206e2aaa
 ---
-# Reporting within Marketo Engage
+# Reporting within [!DNL Marketo Engage]
 
-This session will review all of the Reporting Tools available in Marketo Engage including:
+This session will review all of the Reporting Tools available in [!DNL Marketo Engage] including:
 
 * Reports
 * Smart Lists
@@ -23,7 +23,7 @@ This session will review all of the Reporting Tools available in Marketo Engage 
 * When to use Standard Reports vs. Smart Lists
   * Subscriptions
 
-You will leave this session with an understanding of high level reporting capabilities within Marketo Engage, and a deep dive into Reports and Smart Lists.
+You will leave this session with an understanding of high level reporting capabilities within [!DNL Marketo Engage], and a deep dive into Reports and Smart Lists.
 
 A live Q&A at the end of this session will answer any of your outstanding questions.
 

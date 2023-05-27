@@ -12,8 +12,8 @@ Join the sessions below to learn:
 * How to modernize experience management that democratizes content authoring, making omni-channel delivery a breeze, and scaling personalization to make every experience count.
 * How to build a content supply chain that scales for personalization
 * How to speed time to market for new site creation and reduce reliance on technical resources
-* The newest innovations for Experience Manager offered as a cloud-native service and how you adapt to ever-changing market expectations while staying ahead
-* How to build sites faster with Adobe Experience Manager as a Headless CMS, using GraphQL and Content Fragments
+* The newest innovations for [!DNL Experience Manager] offered as a cloud-native service and how you adapt to ever-changing market expectations while staying ahead
+* How to build sites faster with Adobe [!DNL Experience Manager] as a Headless CMS, using GraphQL and Content Fragments
 * Developer best practices to speed time to market for Adobe Experience Manager Sites
 
 >[!TIP]
@@ -40,12 +40,12 @@ Join the sessions below to learn:
       <img alt="Assets for All" src="assets/assets-for-all.png" >
       </a>
       <div>
-         <a href="2022/assets-for-all.md"><strong>Extending Adobe Experience Manager Headless with Adobe App Builder</strong></a>         
+         <a href="2022/assets-for-all.md"><strong>Extending Adobe [!DNL Experience Manager] Headless with Adobe [!DNL App Builder]</strong></a>         
          <br/><em>with Purnima Rachoor Roy</em>
       </div>
       <p>
         <br/>
-          Learn about how Assets Essentials is the new Digital Asset Management system for Departments and mid sized companies.
+          Learn about how [!DNL Assets Essentials] is the new [!DNL Digital Asset Management] system for departments and mid sized companies.
       </p>
    </td>
    <td>

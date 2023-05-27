@@ -22,7 +22,7 @@ user-guide-description: Adobe Commerce Events is a video library where experts a
   + [Overview](commerce-events/overview.md)
   + 2022 {#2022}
     + [Top Tips and Tricks for Adobe Campaign Standard](customer-journeys/2022/tips-and-tricks.md)
-    + [Develop and customize data models in Adobe Campaign Classic](customer-journeys/2022/data-models.md)
+    + [Develop and customize data models in Adobe [!DNL Campaign Classic]](customer-journeys/2022/data-models.md)
 
 + Data and insights {#commerce-release-updates}
   + [Overview](commerce-release-updates/overview.md)
