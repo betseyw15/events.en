@@ -18,6 +18,8 @@ Register for future events **[here](https://developerevents.adobe.com/)**.
 >
 >**All recorded sessions are listed in the navigation on the left**.
 
+<!--
+
 ## October 2021
 
 Adobe product teams across Adobe Experience Cloud, Document Cloud and Creative Cloud showcased the latest tech advances and developer tools powering design, content creation workflows, document services and customer experience management across industries.
@@ -119,3 +121,5 @@ Check out the all of the other [sessions](2021/february/overview.md).
    </td>
   </tr>
 </table>
+
+-->

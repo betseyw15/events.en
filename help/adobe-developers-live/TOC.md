@@ -8,6 +8,19 @@ feature-set: Experience Manager, Experience Manager Sites, Experience Manager As
 # Adobe Developers Live Events {#adobe-developers-live-recordings}
 
 + [Overview](overview.md)
++ 2023 {#2023}
+  + May {#may2023}
+    + [Opening Keynote](2023/may/keynote.md)
+    + [API tour](2023/may/new-apis.md)
+    + [Deep-dive into AEM Core Components for E-Mail and Forms](2023/may/core-components.md)
+    + [Embed Assets picker](2023/may/asset-picker.md)
+    + [Editing with Microsoft 365/Google Workspace](2023/may/microsoft-365.md)
+    + [Faster Deployments](2023/may/workflows.md)
+    + [Fireside Chat with AEM Product Leaders](2023/may/fireside.md)
+    + [JavaScript blocks](2023/may/javascript-blocks.md)
+    + [Seamless Integration of AEM Assets with Applications](2023/may/seamless-intergration.md)
+    + [Understand GraphQL API](2023/may/graphql.md)
+    + [Universal editor](2023/may/universal-editor.md)
 + 2022 {#2022}
   + February - Commerce {#feb2022}
     + [Overview](2022/february/overview.md)
