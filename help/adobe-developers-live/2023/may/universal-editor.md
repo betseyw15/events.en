@@ -10,8 +10,8 @@ doc-type: Event
 last-substantial-update: 2023-05-27
 jira: KT-13357
 thumbnail: 3419942.jpeg
+exl-id: b7ab083b-9525-4f10-b2f8-e7a62639029a
 ---
-
 # Author Anything with Universal Editor
 
 Author Anything with Universal Editor

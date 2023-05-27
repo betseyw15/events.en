@@ -10,8 +10,8 @@ doc-type: Event
 last-substantial-update: 2023-05-27
 jira: KT-13355
 thumbnail: 3419944.jpeg
+exl-id: 2efaec68-b6b8-41f5-80ee-814d6c8d4880
 ---
-
 # Hands-on creating a site with the new JavaScript blocks
 
 Hands-on creating a site with the new JavaScript blocks

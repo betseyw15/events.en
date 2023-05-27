@@ -10,8 +10,8 @@ doc-type: Event
 last-substantial-update: 2023-05-27
 jira: KT-13356
 thumbnail: 3419947.jpeg
+exl-id: 6ff8fbd0-ee80-42bf-b448-4faad707d4df
 ---
-
 # Learn workflows and tips for faster deployments with Rapid Development Environments (RDE)
 
 Learn workflows and tips for faster deployments with Rapid Development Environments (RDE)

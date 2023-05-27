@@ -10,8 +10,8 @@ doc-type: Event
 last-substantial-update: 2023-05-27
 jira: KT-13359
 thumbnail: 3419940.jpeg
+exl-id: c52fd8ed-47f5-42b2-943d-7412a30a9ee9
 ---
-
 # How to embed our latest Assets picker into other UI/products and integrate with 3rd party applications using API
 
 How to embed our latest Assets picker into other UI/products and integrate with 3rd party applications using API

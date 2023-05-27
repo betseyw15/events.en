@@ -10,8 +10,8 @@ doc-type: Event
 last-substantial-update: 2023-05-27
 jira: KT-13354
 thumbnail: 3419946.jpeg
+exl-id: 80627b28-91c0-4792-b7b1-3f3a56d20283
 ---
-
 # API Tour - Get to know the new APIs we shipped in the last 6 months
 
 API Tour - Get to know the new APIs we shipped in the last 6 months

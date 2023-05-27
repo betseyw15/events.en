@@ -10,8 +10,8 @@ doc-type: Event
 last-substantial-update: 2023-05-27
 jira: KT-13363
 thumbnail: 3419941.jpeg
+exl-id: 6f9ff326-51e3-4820-a07c-8faf1d153b9d
 ---
-
 # Fireside Chat with AEM Product Leaders
 
 Fireside Chat with Adobe Experience Manager Product Leaders

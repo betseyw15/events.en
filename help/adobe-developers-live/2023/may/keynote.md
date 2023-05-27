@@ -10,8 +10,8 @@ doc-type: Event
 last-substantial-update: 2023-05-27
 jira: KT-13353
 thumbnail: 3419949.jpeg
+exl-id: 26be1605-1ce9-488a-880f-7386067c79ae
 ---
-
 # Opening Keynote
 
 Keynote: Building next gen composable services with Adobe Experience Manager
