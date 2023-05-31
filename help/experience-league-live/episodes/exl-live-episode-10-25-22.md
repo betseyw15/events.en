@@ -3,6 +3,8 @@ title: Deliver the right offer at the right time with decision management
 description: Adobe Target and Adobe Real-time Customer Data Platform can be integrated to provide a more personalized customer experience. In this livestream event, see how integrating these two platforms can help businesses collect data in real time, and then create and test targeted experiences. See the end to end process of this powerful capability in a live demonstration.
 solution: Journey Optimizer
 kt: 11028
+feature: Offers
+role: User
 thumbnail: https://video.tv.adobe.com/v/3410560?format=jpeg
 event-cta-text: Set Reminder
 event-cta-url: https://www.youtube.com/watch?v=f1T9XU9TCJU
