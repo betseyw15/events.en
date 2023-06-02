@@ -17,8 +17,16 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
 <tr>
-  <td>
-    Please return soon for information. We will be holding TWO shows in June 2023, and will have the information here soon.
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-6-14-23.md">
+      <img alt="Experience League LIVE June 14" src="assets/Jun14_2023_exl_live_banner_web_1920_WebBanner.png">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-6-14-23.md">
+        <strong>Explore the future of Adobe Journey Optimizer with the web channel and content experimentation</strong>
+      </a>
+      <br/><em>with Sandra Hausmann, Robert Calangiu, Erik Wiener, and Daniel Cristian Popescu</em>
+      <br/><em>June 14, 2023</em>
+    </div>
   </td>
 </tr>
 </table>

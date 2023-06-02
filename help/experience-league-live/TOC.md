@@ -15,6 +15,7 @@ doc-type: live event
 
 + [Overview](overview.md)
 + Episodes {#episodes}
+  + [Ep. 25: Explore the future of Adobe Journey Optimizer with the web channel and content experimentation](episodes/exl-live-episode-6-14-23.md)
   + [Ep. 24: Maximize your mobile app's potential with Adobe Journey Optimizer](episodes/exl-live-episode-5-24-23.md)
   + [Ep. 23: Get data collection and event forwarding up and running with just a few clicks!](episodes/exl-live-episode-4-25-23.md)
   + [Ep. 22: Speeding up your web experiences](episodes/exl-live-episode-2-16-23.md)
