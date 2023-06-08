@@ -4,7 +4,7 @@ description: Revolutionize the way you create content and unlock its full potent
 solution: Experience Manager
 version: Cloud Service
 feature-set: Experience Manager, Experience Manager Assets, Experience Manager Sites
-feature: Content Fragments, Experience Fragments
+feature: Content Fragments, Experience Fragments, Learn From Your Peers
 topic: Content Management
 role: User
 level: Intermediate
