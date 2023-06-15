@@ -15,3 +15,5 @@ event-guests: Sandra Hausmann,Robert Calangiu,Erik Wiener,Daniel Cristian Popesc
 The new web channel enables marketers to build web campaigns with a WYSIWYG visual designer. In addition, Journey Optimizer now allows you to experiment on content in any channel - email, web, push, in-app, SMS, and more.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420129/?learn=on)
+
+Have questions about it? Continue the discussion on this topic on the Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-explore-the/m-p/599366#M121).
