@@ -39,15 +39,15 @@ The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Com
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-      <img alt="New Relic Masterclass" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
+      <img alt="Composable commerce strategies for scalable and agile e-commerce" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-        <strong>New Relic Masterclass</strong>
+        <strong>Composable commerce strategies for scalable and agile e-commerce</strong>
       </a>
     </div>
     <p>
-    <em>Join this webinar to learn how to take control of your infrastructure with New Relic. Approach your next campaign with absolute confidence by accessing and understanding your infrastructure data.</em>
+    <em>Join us for an insightful webinar that will delve into the world of composable architecture and how it is revolutionising the e-commerce landscape.</em>
     <p>
   </td>  
 </tr>
