@@ -4,6 +4,7 @@ description: As part of Adobe Experience Manager, CQ 5.6 provides a new Commerce
 uuid: cf925889-3538-4ae4-a82c-a8e5d30ad1ab
 discoiquuid: c2876633-70b8-46d9-b63d-581b40ec0fef
 targetaudience: target-audience advanced
+exl-id: e08c14f4-a46a-43b0-a7a0-18c4a778324b
 ---
 # eCommerce Integration Framework {#ecommerce-integration-framework}
 

@@ -27,6 +27,6 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
     + [Mastering Content & Experience Fragments](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
   + May {#may2023}
-    + [Cracking the Personalization at Scale Code using Marketo Engage](marketo/may2023/personalization-at-scale.md)
+    + [Cracking the Personalization at Scale Code using [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
   + March {#mar2023}
     + [How to Make Your [!DNL Adobe Marketo Engage] Content Scalable](marketo/mar2023/templates-tokens-teamwork.md)

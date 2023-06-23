@@ -11,6 +11,7 @@ doc-type: Event
 last-substantial-update: 2022-11-15
 kt: 11486
 thumbnail: 3411307.jpeg
+exl-id: b34ee63f-cafb-4a65-8c2d-1a6be812be23
 ---
 # Closing - Rock Star Results and What's Next for Developers
 

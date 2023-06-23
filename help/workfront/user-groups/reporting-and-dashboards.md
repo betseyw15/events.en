@@ -5,6 +5,7 @@ role: Admin, User
 level: Beginner, Intermediate
 kt: 10005
 thumbnail: 341216.jpeg
+exl-id: 0e25c990-3d00-4735-99df-e3af726e0db3
 ---
 # Reporting & Dashboards (March 16, 2021)
 

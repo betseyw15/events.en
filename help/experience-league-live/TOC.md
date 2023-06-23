@@ -15,11 +15,12 @@ doc-type: live event
 
 + [Overview](overview.md)
 + Episodes {#episodes}
+  + [Ep. 25: Explore the future of Adobe Journey Optimizer with the web channel and content experimentation](episodes/exl-live-episode-6-14-23.md)
   + [Ep. 24: Maximize your mobile app's potential with Adobe Journey Optimizer](episodes/exl-live-episode-5-24-23.md)
   + [Ep. 23: Get data collection and event forwarding up and running with just a few clicks!](episodes/exl-live-episode-4-25-23.md)
   + [Ep. 22: Speeding up your web experiences](episodes/exl-live-episode-2-16-23.md)
   + [Ep. 21: Data collection highlights and roadmap](episodes/exl-live-episode-1-26-23.md)
-  + [Ep. 20: Analytics in the office or on the go](episodes/exl-live-episode-11-18-22.md)
+  + [Ep. 20: [!DNL Analytics] in the office or on the go](episodes/exl-live-episode-11-18-22.md)
   + [Ep. 19: Deliver the right offer at the right time with decision management](episodes/exl-live-episode-10-25-22.md)
   + [Ep. 18: Execute your campaigns in Adobe Journey Optimizer](episodes/exl-live-episode-09-22-22.md)
   + [Ep. 17: Providing a more personalized customer experience in real time](episodes/exl-live-episode-09-20-22.md)
@@ -38,5 +39,5 @@ doc-type: live event
   + [Ep. 4: Who clicked that? And then what did they do?](episodes/exl-live-episode-04.md)
   + [Ep. 3: Expert tips to make your holiday campaigns stand out](episodes/exl-live-episode-03.md)
   + [Ep. 2: Make Your Next Audience Segment Smarter than Ever](episodes/exl-live-episode-02.md)
-  + [Ep. 1: My Three Favorite Adobe Analytics Implementation Tips](episodes/exl-live-episode-01.md)
+  + [Ep. 1: My Three Favorite Adobe [!DNL Analytics] Implementation Tips](episodes/exl-live-episode-01.md)
 + [Experience League LIVE Assets](exl-live-assets.md)

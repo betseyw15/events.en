@@ -6,7 +6,7 @@ short-description: Learn how to create a site in AEM by using a pre-defined Site
 solution: Experience Manager
 sub-product: Experience Manager Sites
 kt: 9397
-thumbnail: 338798.jpg
+thumbnail: https://video.tv.adobe.com/v/338798?format=jpeg
 event-cta-url: 
 event-start-time: 2021-11-18 09:00-8
 event-guests: Danny Gordon,Shankari Panchapakesan,Gabriel Walt

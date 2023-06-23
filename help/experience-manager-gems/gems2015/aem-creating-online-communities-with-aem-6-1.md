@@ -4,6 +4,7 @@ description: Learn how to leverage AEM’s powerful authoring interface to build
 uuid: 5b685948-697f-4095-85ad-f62db189bb30
 discoiquuid: 62b6b8d4-b763-4801-9918-447a2c5deb01
 targetaudience: target-audience advanced
+exl-id: a36621d4-2c80-4a45-aa71-cd31fffb56fc
 ---
 # Create online communities with AEM 6.1{#creating-online-communities-with-aem}
 

@@ -5,6 +5,7 @@ version: Classic v7
 solution: Campaign
 kt: 10504
 thumbnail: 343523.jpeg
+exl-id: 5cb90af1-0111-44d8-898d-2c9d6e6bb85c
 ---
 # Time saving tips from a pro!
 

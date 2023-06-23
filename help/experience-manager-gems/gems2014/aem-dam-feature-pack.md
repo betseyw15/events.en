@@ -4,6 +4,7 @@ description: Learn about the DAM FP2 for AEM 5.6.1. This feature pack focuses on
 uuid: 027cce69-9bd8-46f7-b581-85169c261baa
 discoiquuid: b5983511-3a13-4b31-aa22-738b85709b79
 targetaudience: target-audience advanced
+exl-id: 3ff96bbe-b9a0-4390-b263-bc0800e7b313
 ---
 # How to get the most out of your DAM Feature Pack{#how-to-get-the-most-out-of-your-dam-feature-pack}
 

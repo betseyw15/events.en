@@ -5,6 +5,7 @@ role: Admin, User
 level: Beginner, Intermediate
 kt: 9992
 thumbnail: 341221.jpeg
+exl-id: 39b16148-8a13-466a-9636-6ebe76662933
 ---
 # Creative Agencies: Reporting & Dashboards (Jun 14, 2020)
 

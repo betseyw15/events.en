@@ -3,7 +3,7 @@ title: Ask the experts - Useful extensions in Tags (Launch) to help super charge
 description: Are you thinking about migrating your implementation to the new Adobe Web SDK?  We will run through some of our favorite extensions in the Adobe Tags library that will help as you take your data collection to the next level.
 solution: Data Collection,Experience Platform
 kt: 10528
-thumbnail: 346610.jpeg
+thumbnail: https://video.tv.adobe.com/v/346610?format=jpeg
 event-start-time: 2022-08-23 09:00-7
 event-cta-url: 
 event-guests: Rudi Shumpert,Jeff Chasin,Eric Matisoff

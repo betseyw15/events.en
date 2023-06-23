@@ -8,6 +8,7 @@ role: User
 level: Intermediate, Experienced
 kt: 10480
 thumbnail: 343347.jpeg
+exl-id: b4fd2501-a210-4bc5-a571-20ae566ffc1b
 ---
 # Analysis Workspace Tips & Tricks you need to know in 2021
 

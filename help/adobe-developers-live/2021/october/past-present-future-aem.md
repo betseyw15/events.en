@@ -9,6 +9,7 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9120
 type: Event
+exl-id: 8316f219-103a-4632-8d8e-fa23a94c5ebc
 ---
 # Past, Present, and Future of Adobe Experience Manager
 

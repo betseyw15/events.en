@@ -8,6 +8,7 @@ role: Developer, Architect
 level: Experienced
 kt: 9148
 type: Event
+exl-id: fa5ef844-11ac-433f-acb5-7a8419e5bb5e
 ---
 # Launch Server Side is Great, but What if it Could...
 

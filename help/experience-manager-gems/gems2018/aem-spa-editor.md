@@ -4,6 +4,7 @@ description: As Single-Page Application (SPA) make the overall visitor experienc
 uuid: d61f7398-c3e8-475a-a3c3-f71a8106c8f4
 discoiquuid: 8c6673c0-635e-453d-abf0-5d0db313329a
 targetaudience: target-audience advanced
+exl-id: 8c96fc76-2a09-4b06-a146-ce0fdf216ebf
 ---
 # AEM SPA Editor{#aem-spa-editor}
 

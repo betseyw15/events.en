@@ -4,6 +4,7 @@ description: In this session, Peter Klassen - Product Manager, looks JCR Reposit
 uuid: 53be1e40-6fe9-44b5-a015-ba7ad7801d7c
 discoiquuid: f4f6e2b0-7910-4d1d-a024-583ef17ffcda
 targetaudience: target-audience advanced
+exl-id: 674467f9-d05d-49ab-b457-975f413342fe
 ---
 # Technical overview of the AEM 6 platform{#technical-overview-of-the-aem-platform}
 
@@ -23,6 +24,6 @@ Peter Klassen, Product Manager, Adobe
 
 ## Related links {#related-links}
 
-* [AEM 6.0 Release Notes](http://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
-* [Managing AEM 6.0](http://docs.adobe.com/docs/en/aem/6-0/manage.html)
-* [Planning your upgrade to AEM 6.0](http://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)
+* [AEM 6.0 Release Notes](https://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
+* [Managing AEM 6.0](https://docs.adobe.com/docs/en/aem/6-0/manage.html)
+* [Planning your upgrade to AEM 6.0](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)

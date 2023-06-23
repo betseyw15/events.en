@@ -4,6 +4,7 @@ description: Join Sham Hassan Chikkegowda, CS Engineer, and Timothee Maret, Seni
 uuid: 1fef0c03-50fc-4874-aab3-6b8908a91938
 discoiquuid: eec3e83c-b167-457e-8db7-41dfebb3b406
 targetaudience: target-audience advanced
+exl-id: 03f14808-7906-4e02-97bc-2da2273df817
 ---
 # Utilizing SAML in Adobe Experience Manager deployments{#utilizing-saml-in-adobe-experience-manager-deployments}
 

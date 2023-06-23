@@ -10,6 +10,7 @@ user-guide-description: Adobe Commerce Events is a video library where experts a
 + 2023 {#2023}
     + [Adobe's PaaS Cloud Commerce](2023/adobes-paas-cloud-commerce.md)  
     + [AI-Powered Personalisation](2023/ai-personalisation.md)
+    + [Composable commerce strategies](2023/composable-commerce.md)
 + 2022 {#2022}
     + [Holiday Readiness 2022](2022/holiday.md)
     + [New Relic Masterclass](2022/new-relic.md)
@@ -18,11 +19,11 @@ user-guide-description: Adobe Commerce Events is a video library where experts a
     + [Upgrading to 2.4.4](2022/upgrade.md)
 + [Release Roadmap Highlights](release-highlights.md)
   
-<!---+ Commerce Events {#commerce-events}
+<!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)
   + 2022 {#2022}
     + [Top Tips and Tricks for Adobe Campaign Standard](customer-journeys/2022/tips-and-tricks.md)
-    + [Develop and customize data models in Adobe Campaign Classic](customer-journeys/2022/data-models.md)
+    + [Develop and customize data models in Adobe [!DNL Campaign Classic]](customer-journeys/2022/data-models.md)
 
 + Data and insights {#commerce-release-updates}
   + [Overview](commerce-release-updates/overview.md)
@@ -31,4 +32,4 @@ user-guide-description: Adobe Commerce Events is a video library where experts a
     + [Sensei and Analysis Workspace](data-and-insights/2022/sensei.md)
     + [Personalize and automate with Adobe Target](data-and-insights/2022/personalize.md)
     + [Analytics and Target applications for Mobile and Apps](data-and-insights/2022/mobile-and-apps.md)
-    + [Cross Device Analytics and Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md) --->
+    + [Cross Device Analytics and Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md) -->

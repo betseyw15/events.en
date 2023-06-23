@@ -8,6 +8,7 @@ level: Beginner, Intermediate, Experienced
 doc-type: Event
 kt: 10471
 thumbnail: 343342.jpeg
+exl-id: 1a91d2e8-508a-4e48-8cb5-fab7f1560b69
 ---
 # Adobe Real-Time Customer Data Platform and Healthcare Shield
 

@@ -4,6 +4,7 @@ description: In this session, we will present AEM 6.3 capabilities and best prac
 uuid: 19ef8f6e-90ab-4724-9cc3-febe30543f00
 discoiquuid: 6a78c294-abc1-4ebb-bd9d-f9abe214ad98
 targetaudience: target-audience advanced
+exl-id: b68fee5a-1dac-4488-8725-ec6ef73db549
 ---
 # AEM 6.3 Ready for the World - Translation Integration & Best Practices{#aem-ready-for-the-world-translation-integration-best-practices}
 
@@ -24,6 +25,8 @@ Mathias Siegel, Sr Product Manager, [!DNL AEM Sites], Adobe
 
 ## Related links {#related-links}
 
-* [AEM Sites Translation Documents](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation.html  )
-* [Managing Multilingual Assets](https://docs.adobe.com/docs/en/aem/6-3/author/assets/managing-assets-touch-ui/multilingual-assets.html)
-* [Translation Best Practices Documentation](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation/tc-bp.html)
+>[!WARNING]
+>
+>AEM versions 6.4 and older are End of Life and no longer sold by Adobe.  Adobe recommends upgrading to the latest version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Archived versions of the documentation can be accessed from this [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>As it relates to this session please see *AEM Sites Translation Documents*, *Translation Best Practices Documentation* and *Managing Multilingual Assets* in the AEM 6.3 documentation.

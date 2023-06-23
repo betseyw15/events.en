@@ -4,6 +4,7 @@ description: This session explains the principles behind the querybuilder compar
 uuid: 867545ac-e175-4bd8-9d17-b5423f29031f
 discoiquuid: c7e8b80f-1eb3-4fa7-9d36-c76b493bd351
 targetaudience: target-audience advanced
+exl-id: f0fd2a81-80c9-41df-844b-d94362c9f27a
 ---
 # Search forms made easy with the AEM querybuilder{#search-forms-made-easy-with-the-aem-querybuilder}
 
@@ -27,10 +28,11 @@ Demo
 
 AEM Documentation
 
-* [Querybuilder API, AEM 6.3](https://docs.adobe.com/docs/en/aem/6-3/develop/search/querybuilder-api.html)
-* [Querybuilder API, AEM 6.2](https://docs.adobe.com/docs/ko/aem/6-2/develop/search/querybuilder-api.html)
-* [Querybuilder API, AEM 6.1](https://docs.adobe.com/docs/ko/aem/6-1/develop/search/querybuilder-api.html)
-* [Querybuilder API, AEM 6.0](https://docs.adobe.com/docs/ko/aem/6-0/develop/search/querybuilder-api.html)
+>[!WARNING]
+>
+>AEM versions 6.4 and older are End of Life and no longer sold by Adobe.  Adobe recommends upgrading to the latest version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Archived versions of the documentation can be accessed from this [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>As it relates to this session please see *Querybuilder API* in the AEM documentation.
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

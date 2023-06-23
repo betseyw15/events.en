@@ -4,6 +4,7 @@ description: Learn the patterns for responsive design in CQ and how to provide a
 uuid: 20f50539-8299-4080-818c-77201047022b
 discoiquuid: 5d79cfc0-a128-445b-9745-fd3722b550ac
 targetaudience: target-audience advanced
+exl-id: 29d15dc9-7e53-4ec3-ad4f-eb58be7d2e27
 ---
 # Mobile-First Development with CQ Made Easy{#mobile-first-development-with-cq-made-easy}
 
@@ -19,4 +20,4 @@ Bruce Lefebvre, Computer Scientist, Adobe
 
 ## Related links {#related-links}
 
-[Presenter slides and Resources](http://brucelefebvre.com/blog/2013/09/18/cq-gems-mobile-first-development/)
+[Presenter slides and Resources](https://brucelefebvre.com/blog/2013/09/18/cq-gems-mobile-first-development/)

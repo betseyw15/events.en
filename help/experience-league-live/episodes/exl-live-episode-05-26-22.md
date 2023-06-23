@@ -3,7 +3,7 @@ title: Ask the experts - The basics of Web SDK
 description: Find out about the Web SDK. We'll show you all the basics of the Web SDK, including reasoning behind it, how it works, and important use cases that it powers.
 solution: Data Collection,Experience Platform
 kt: 10412
-thumbnail: 343335.jpeg
+thumbnail: https://video.tv.adobe.com/v/343335?format=jpeg
 event-cta-url: 
 event-start-time: 2022-05-26 09:00-7
 event-guests: Doug Moore, Eric Matisoff, Rudi Shumpert, Jeff Chasin
@@ -29,5 +29,5 @@ In this first of three livestream sessions regarding data collection for the Ado
 * [Free Web SDK provisioning](https://adobe.ly/websdkaccess){target="_blank"}
 * [Info on First Party Device IDs in the Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
 * [Adobe Experience Platform Debugger overview and download](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
-* [Mobile SDK Docs](https://aep-sdks.gitbook.io/docs/){target="_blank"}
+* [Mobile SDK Docs](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
 * [Hybrid app collection information](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}

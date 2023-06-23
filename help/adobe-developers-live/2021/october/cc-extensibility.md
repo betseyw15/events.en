@@ -8,6 +8,7 @@ role: Developer, Architect
 level: Experienced
 kt: 9138
 type: Event
+exl-id: a307d5d7-dc49-4745-ad64-25d6a3375faf
 ---
 # Building Plugins for Adobe Photoshop and XD using the Unified Extensibility Platform
 

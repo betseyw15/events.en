@@ -8,6 +8,7 @@ level: Beginner
 last-substantial-update: 2022-10-31
 kt: 11371
 thumbnail: 3410646.jpeg
+exl-id: 857c5b59-fc03-42ed-aed0-506c761cda37
 ---
 # Transforming data into value with MBI
 
@@ -19,7 +20,7 @@ You will hear from Daniel Rios (Senior Manager, Product Management) who will be 
 
 * Transforming data into value
 * Building a strong data foundation
-* Combining MBI and Analytics data
+* Combining MBI and [!DNL Analytics] data
 
 You will also see a live demo of the platform to bring these concepts to life.
 

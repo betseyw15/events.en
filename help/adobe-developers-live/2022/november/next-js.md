@@ -11,6 +11,7 @@ level: Intermediate
 last-substantial-update: 2022-11-15
 kt: 11482
 thumbnail: 3411303.jpeg
+exl-id: d62ea5f5-9239-44f5-9e5d-4d543e94f1c0
 ---
 # Bring In-Context and Headless Authoring to Your Next.JS App
 

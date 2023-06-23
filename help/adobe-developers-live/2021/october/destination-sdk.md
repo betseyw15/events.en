@@ -8,6 +8,7 @@ role: Developer, Architect
 level: Experienced
 kt: 9146
 type: Event
+exl-id: 2355378d-9d5b-4143-97d5-d5a79b7ff2e9
 ---
 # Introducing Adobe Experience Platform Destination SDK
 

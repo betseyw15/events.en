@@ -12,6 +12,7 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 7340
+exl-id: f1b3db2f-8533-4f80-83ca-38b4380d7642
 ---
 # Brand Portal - Adobe Experience Manager Asset Series
 

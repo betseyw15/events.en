@@ -6,6 +6,7 @@ role: User
 level: Beginner
 kt: 9771
 thumbnail: 340591.jpeg
+exl-id: 5032a4e6-066e-4413-b673-f91f3d67f557
 ---
 # The Hidden Gem In Your Database: Re-Engaged Records
 

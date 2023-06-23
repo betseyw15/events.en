@@ -4,6 +4,7 @@ description: AEM Screens is the new digital signage solution integrated into Ado
 uuid: a6c42610-4a3d-4575-ac27-fc154d58c13d
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
+exl-id: 1beeb807-c3b3-425c-8053-06cd2d359c35
 ---
 # Introduction to AEM Screens{#introduction-to-aem-screens}
 
@@ -28,5 +29,10 @@ Sample Project
 
 ## Related links {#related-links}
 
-* [Deploying Screens](https://docs.adobe.com/docs/en/aem/6-2/deploy/screens.html)
-* [Screens Concept](https://docs.adobe.com/docs/en/aem/6-2/administer/screens.html)
+
+>[!WARNING]
+>
+>AEM versions 6.4 and older are End of Life and no longer sold by Adobe.  Adobe recommends upgrading to the latest version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Archived versions of the documentation can be accessed from this [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>As it relates to this session please see *Deploying Screens* and *Screens Concept* in the AEM 6.2 documentation.
+

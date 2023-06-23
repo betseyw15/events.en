@@ -1,5 +1,5 @@
 ---
-title: Adobe Marketo Engage Champion Deep Dive Email Nurture
+title: Adobe [!DNL Marketo Engage] Champion Deep Dive Email Nurture
 description: Lead Nurturing, Drip Marketing, strategic email content can go by many different names. Email nurture is a proven strategy that has countless uses for an organization, yet can be a complete mystery to many marketers and salespeople, so this powerful strategy often goes unused. In this session, you will learn key factors to consider that will help you be more confident in creating your own lead nurturing strategy, talk through some examples of successful nurtures and help you learn how to apply these strategies across your organization to meet your unique goals.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -7,8 +7,8 @@ doc-type: Event
 last-substantial-update: 2023-05-03
 jira: KT-13153
 thumbnail: 3418903.jpeg
+exl-id: 3990f951-8480-4d17-be19-ec4fa9c14f5c
 ---
-
 # Email Nurture
 
 Lead Nurturing, Drip Marketing, strategic email content can go by many different names. Email nurture is a proven strategy that has countless uses for an organization, yet can be a complete mystery to many marketers and salespeople, so this powerful strategy often goes unused. In this session, you will learn key factors to consider that will help you be more confident in creating your own lead nurturing strategy, talk through some examples of successful nurtures and help you learn how to apply these strategies across your organization to meet your unique goals.

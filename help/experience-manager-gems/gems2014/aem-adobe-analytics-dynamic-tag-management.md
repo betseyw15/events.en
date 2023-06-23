@@ -5,6 +5,7 @@ uuid: 0af8b03b-18dc-4701-93c6-65acdc85b6a2
 topic-tags: Dynamictagmanagement
 discoiquuid: a91aeec3-337f-4cfd-850d-6ece0041e550
 targetaudience: target-audience advanced
+exl-id: 852e578e-0594-4482-9ee8-a4b30248f99a
 ---
 # Deploy Adobe Analytics on a local AEM instance via the DTM cloud service{#how-to-deploy-adobe-analytics-on-a-local-aem-instance-by-using-the-dynamic-tag-management-cloud-service}
 
@@ -24,7 +25,7 @@ Sandro Looser, Solution Architect, Adobe
 
 ## Related links {#related-links}
 
-[Integrating with Adobe Dynamic Tag Management](http://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
+[Integrating with Adobe Dynamic Tag Management](https://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
 
 [DTM Help](https://experienceleague.adobe.com/docs/data-collection.html?lang=en)
 

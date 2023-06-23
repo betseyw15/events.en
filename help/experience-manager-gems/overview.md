@@ -10,7 +10,7 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM Sessions
-
+exl-id: 595f6977-935a-4859-9cfd-161d45847f85
 ---
 # Adobe Experience Manager Gems
 
@@ -18,7 +18,7 @@ user-guide-description: AEM GEM Sessions
 
 ## Previous AEM GEMs event!
 
-<!---  Remove the comment marks, and put the upcoming event in the below table
+<!--  Remove the comment marks, and put the upcoming event in the below table
 
 <table style="max-width: 1214px;">
 <tr>
@@ -37,7 +37,7 @@ user-guide-description: AEM GEM Sessions
 </tr>
 </table>
 
---->
+-->
 Our latest AEM GEMs webinar on **Accelerating Adobe Experience Manager Cloud Service development with Rapid Development Environments** has been conducted on *February 22nd, 2023*. 
 The **recording** can be found here: [AEM Rapid Development Environments webinar](gems2023/Rapid-Development-Environments.md)
 
@@ -67,5 +67,3 @@ Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com
 * Connection: Network with peers and Adobe personnel for guidance and best practices from implementation to expanding product use
 * Quick Answers: Extensive pool of real-world use case answers to support successful active use of Adobe solutions
 * Ideation & Feedback: Intake customer product ideas and provide valuable VoC feedback to product teams
-
-

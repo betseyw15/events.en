@@ -9,6 +9,7 @@ topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
+exl-id: ac690121-876c-4eba-8b61-71b463e7df3b
 ---
 # Looking under the hood - Cloud Manager 2022
 

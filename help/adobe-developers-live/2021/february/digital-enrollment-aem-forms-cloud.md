@@ -11,13 +11,13 @@ version: Cloud Service
 kt: 7403
 type: Event
 thumbnail: 332305.jpg
+exl-id: 2acdcc8d-dafa-4b49-bfa5-502e7058f29b
 ---
-
 # Digital Enrollment Experiences with Experience Manager Forms in the Cloud
 
 This session focuses on the journey of Forms from on-premise to cloud. It will also cover the enablement of digital enrollment use cases through demos.
 
-Continue the conversation in **[Experience League Communities](http://adobe.ly/36Yd3v6)**.
+Continue the conversation in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332305/?quality=12&learn=on&hidetitle=true)
 

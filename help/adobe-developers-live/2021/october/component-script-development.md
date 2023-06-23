@@ -9,6 +9,7 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9177
 type: Event
+exl-id: ba85855c-2624-486d-a754-370fb1308c5a
 ---
 # Best practices for component scripts development and deployment in Experience Manager as a Cloud Service
 

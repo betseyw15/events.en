@@ -1,6 +1,8 @@
 ---
 title: Adobe Experience League Events
-description: A collection of event recordings forcused on using Adobe's Enterprise products
+description: A collection of event recordings focused on using Adobe's Enterprise products
+mini-toc-levels: 0
+exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
 ---
 # Adobe Experience League Event Recordings {#events}
 
@@ -151,7 +153,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
       </a>
       <div>
          <a href="/help/learn-from-your-peers/overview.md"><strong>Learn from your Peers</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Marketo</em>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Experience Manager, Adobe Marketo</em>
       </div>
       <p>
         <br/>

@@ -6,6 +6,7 @@ role: User
 level: Intermediate, Experienced
 kt: 10316
 thumbnail: 342526.jpeg
+exl-id: 32199b8b-1797-4b29-9755-e5165a04c0fe
 ---
 # Tips & Tricks: Calculated Fields Everyone Should Know -and How to Report on Them!
 

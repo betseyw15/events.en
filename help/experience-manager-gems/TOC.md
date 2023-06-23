@@ -115,7 +115,7 @@ feature-set: Experience Manager
   + [Streamlining multilingual content process](gems2013/aem-streamlining-multilingual-content-process.md)
   + [AEM 5.6 upgrade mechanisms](gems2013/aem-upgrade-mechanisms.md)
 
-<!---
+<!--
 + [Archive] {#archive}
     + [AEM 6 Oak: MongoMK and Queries](archive/aem-oak-mongomk-and-queries.md)
     + [Search forms made easy with the AEM querybuilder](archive/aem-search-forms-using-querybuilder.md)
@@ -208,4 +208,4 @@ feature-set: Experience Manager
     + [Adobe I/O Events - Analytics Triggers](archive/aem-analytics-triggers.md)
     + [Introducing the AEM Modernization Suite](archive/introducing-the-aem-modernization-suite.md)
     + [AEM Query and Index Troubleshooting](archive/aem-query-and-index-troubleshooting2.md)
---->
+-->

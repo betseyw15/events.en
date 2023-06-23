@@ -6,6 +6,7 @@ role: User
 level: Intermediate, Experienced
 kt: 10328
 thumbnail: 342560.jpeg
+exl-id: cc05f2e6-8fb4-4aba-b32c-20a7da6e24b4
 ---
 # Unlocking the Potential of Program Member Custom Fields
 
