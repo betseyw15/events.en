@@ -10,7 +10,7 @@ feature-set: Experience Manager
 + [Overview](overview.md)
 + 2023 {#gems2023}
   + [AEM Certification - technical](gems2023/aem-certification-technical.md)
-  + [Accelerating Experience Manager as a Cloud Service development with Rapid Development Environments](gems2023/rapid-development-environments.md)
+  + [Accelerating Experience Manager as a Cloud Service development with Rapid Development Environments](/help/experience-manager-gems/gems2023/rapid-development-environments.md)
   + [AEM Best Practices Analyzer for on premise and AMS environments](gems2023/aem-best-practices-analyzer.md)
 + 2022 {#gems2022}
   + [Customer Use Case & Implementation of AEM Headless in Use](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
