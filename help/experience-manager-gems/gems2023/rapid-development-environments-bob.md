@@ -20,6 +20,7 @@ This webinar has been conducted on February 22nd, 2023. Please view the recordin
 ## Session Description
 
 In order to deploy changes, current Cloud Development environments require the use of a process that employs extensive code security and quality rules called a CI/CD pipeline. For situations where quick and iterative changes are needed, Adobe has introduced Rapid Development Environments (RDEs for short).
+
 RDEs allow developers to swiftly deploy and review changes, minimizing the amount of time needed to test features that are proven to work on a local development environment.
 
 ## Presenters
