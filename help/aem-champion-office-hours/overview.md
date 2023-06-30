@@ -1,12 +1,15 @@
 ---
-title: APAC Commerce Webinar Series
-description: The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Commerce customers that covers a wide range of topics from best practices to product roadmap and industry trends.
-exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
+title: AEM Champion Office Hours
+description: This Adobe Experience Manager User Group (AEMUG) is facilitated by the 2022-2023 AEM Champion Class. Champions will use this AEMUG as the platform for their monthly office hours
+
 ---
-# APAC Commerce Webinar Series
+# AEM Champion Office Hours
 
-The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Commerce customers that covers a wide range of topics from best practices to product roadmap and industry trends. Hear from various product experts across the business and join live for an opportunity to ask questions and engage with the team directly. This series will help you to be successful on, and maximize your investment in the Adobe Commerce platform.
+This Adobe Experience Manager User Group (AEMUG) is facilitated by the 2022-2023 AEM Champion Class. Champions will use this AEMUG as the platform for their monthly office hours, where AEM practitioners and developers of all experience levels can attend and have their toughest questions answered by expert Experience Manager customers, partners, and consultants.
 
+If you are interested in advancing your knowledge and use of Adobe Experience Manager, interacting with Experience Manager thought leaders, and earning exclusive swag - then join the AEM Champion Office Hours User Group today! 
+
+<!--
 ## What's New
 
 <table>
@@ -52,6 +55,7 @@ The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Com
   </td>  
 </tr>
 </table>
+-->
 
 >[!TIP]
 >
