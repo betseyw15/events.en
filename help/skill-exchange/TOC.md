@@ -11,7 +11,7 @@ event-series: The Skill Exchange
 + Analytics {#analytics}
   + May 2023 {#may2023}
     + [Adobe Analytics Tips & Tricks](analytics/may2023/tips-and-tricks.md)
-    + [Migrate to EDDL/WebSDK](analytics/may2023/tips-and-tricks.md)
+    + [Migrate to EDDL/WebSDK](analytics/may2023/migrate.md)
     + [Rockstar Tips](analytics/may2023/rockstar-tips.md)
     + [Increase Productivity](analytics/may2023/productivity.md)
     + [Understanding Metrics](analytics/may2023/metrics.md)
