@@ -26,6 +26,8 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
   + May {#may2023} 
     + [Mastering Content & Experience Fragments](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
+  + June {#june2023}
+    + [Track, Analyze, and Optimize your Marketing Campaigns](marketo/june2023/marketing-campaigns.md)
   + May {#may2023}
     + [Cracking the Personalization at Scale Code using [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
   + March {#mar2023}
