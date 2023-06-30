@@ -17,8 +17,16 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
 <tr>
-  <td>
-    Come back soon to find more details regarding our upcoming show on <b>July 20, 2023</b>. We will be talking about the new <b>Audience Portal and Composition features in Real-Time CDP</b>.
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-20-23.md">
+      <img alt="Experience League LIVE July 20, 2023" src="assets/July20_2023_exl_live_banner_web_1920_WebBanner.png">
+    </a>
+    <div>
+      <a href="/help/experience-league-live/episodes/exl-live-episode-07-20-23.md">
+        <strong>Actionable audiences, in one place, from any source, with standard controls</strong>
+      </a>
+      <br/><em>with Aaron Shields, Kim Whatcott, and Andres Monroy</em>
+      <br/><em>July 20, 2023</em>
+    </div>
   </td>
 </tr>
 </table>
