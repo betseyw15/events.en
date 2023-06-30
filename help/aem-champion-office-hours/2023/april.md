@@ -5,8 +5,6 @@ solution: Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager
 version: Cloud Service
-role: Leader, Architect, Developer
-level: Beginner, Intermediate, Experienced
 doc-type: Event
 last-substantial-update: 2023-06-30
 jira: KT-13182

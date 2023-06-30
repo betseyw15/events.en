@@ -5,8 +5,6 @@ solution: Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager
 version: Cloud Service
-role: Leader, Architect, Developer
-level: Beginner, Intermediate, Experienced
 role: User
 level: Intermediate
 doc-type: Value Video
