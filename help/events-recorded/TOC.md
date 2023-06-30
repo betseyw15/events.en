@@ -11,6 +11,7 @@ user-guide-description: A collection of event recordings forcused on using Adobe
   + [Adobe Campaign Insider Series](https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html)
   + [Adobe Content Management Forum](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
   + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
+  + [AEM Champion Office Hours](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
   + [APAC Commerce Events](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
   + [Commerce and Coffee](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
   + [Customer Data Management Voices](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
@@ -49,6 +50,7 @@ user-guide-description: A collection of event recordings forcused on using Adobe
   + Adobe Experience Manager {#aem}
     + [Adobe Content Management Forum](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
     + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
+    + [AEM Champion Office Hours](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
     + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
     + [Experience Manager GEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
     + [Experience Manager Release Overview](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html)
