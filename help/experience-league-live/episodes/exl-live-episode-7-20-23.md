@@ -6,7 +6,7 @@ kt: KT-13220
 thumbnail: https://video.tv.adobe.com/v/3421425?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=QaJy9Tp-vTE
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230720.html
-event-start-time: 2023-6-14 09:00-7
+event-start-time: 2023-7-20 09:00-7
 event-guests: Aaron Shields,Kim Whatcott,Andres Monroy
 
 ---
