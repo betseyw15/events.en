@@ -1,7 +1,7 @@
 ---
 title: Selecting a Customer Data Platform for Success
 description: With all the noise in the market about CDPs, it’s difficult to know where to focus and how to prepare for success.
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Data Governance
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
