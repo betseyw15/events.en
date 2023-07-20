@@ -25,6 +25,8 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
 + Experience Manager {#experience-manager}
   + May {#may2023} 
     + [Mastering Content & Experience Fragments](experience-manager/may2023/mastering-content-and-experience-fragments.md)
+  + July {#july2023}
+    + [Effective Security Strategies in Cloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md) 
 + Marketo {#marketo}
   + June {#june2023}
     + [Track, Analyze, and Optimize your Marketing Campaigns](marketo/june2023/marketing-campaigns.md)
