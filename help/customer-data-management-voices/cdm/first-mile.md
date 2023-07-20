@@ -1,7 +1,7 @@
 ---
 title: Streamlining Your First Mile of Data Management
 description: The increasing volume of data makes it very challenging for companies to efficiently capture digital interaction data and send it to the appropriate marketing … (Descriptions should be between 60 and 160 characters)
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Data Governance
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
