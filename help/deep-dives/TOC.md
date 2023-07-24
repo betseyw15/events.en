@@ -18,4 +18,5 @@ doc-type: live event
   + [Certification](certification.md)
   + [Email Nurture](email-nurture.md)
   + [Inheriting an Instance](inheriting-an-instance.md)
+  + [Lead Lifecycles](lead-lifecycles.md)
   + [Maximize your instance with a small team](small-team-instance.md)
