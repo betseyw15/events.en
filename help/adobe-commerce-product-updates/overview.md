@@ -17,7 +17,7 @@ Join the Adobe Commerce Product Update Webinar to learn how we are transforming 
         <img alt="2023.6.0 Release" src="https://video.tv.adobe.com/v/3422012?format=jpeg" />
       </a>
       <div>
-        <a href="2023/2023-6-0.md">
+        <a href="2023/july2023.md">
           <strong>July 2023</strong>
           <br/>
         </a>
