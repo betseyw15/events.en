@@ -4,7 +4,7 @@ description: Learn the benefits of in-app messaging as a real-time engagement ch
 solution: Journey Optimizer
 feature: In App 
 role: User
-kt: KT-13220
+kt: 13220
 thumbnail: https://video.tv.adobe.com/v/3419194?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=ABhwYw44r2g
 event-cta-url-reg: null
