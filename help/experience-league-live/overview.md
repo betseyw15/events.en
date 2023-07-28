@@ -1,7 +1,7 @@
 ---
 title: Experience League LIVE Events
 description: A collection of links to previous Experience League LIVE events
-solution: Experience Platform,Real-time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
+solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -18,8 +18,16 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
 <tr>
-  <td style="vertical-align: top;">
-    Please return to this page soon for more details about our upcoming August 2023 show!
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-8-23-23.md">
+      <img alt="Experience League LIVE Apr 21" src="assets/Aug23_exl_live_banner_web_1920_WebBanner.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-8-23-23.md">
+        <strong>API Triggered Messaging in Adobe Journey Optimizer</strong>
+      </a>
+      <br/><em>with Sandra Hausmann, Siddharth Jain, Nikhil Sharma, and Chetan Prasad</em>
+      <br/><em>August 23, 2023</em>
+    </div>
   </td>
 </tr>
 </table>
