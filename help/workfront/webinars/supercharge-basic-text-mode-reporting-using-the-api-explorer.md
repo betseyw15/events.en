@@ -9,7 +9,7 @@ exl-id: ea4716c9-2c61-4c44-9d2a-cbd4f07699d5
 ---
 # Ask the Expert - Supercharge Basic Text Mode Reporting using the API Explorer
 
-Learn about the API explorer, how to use it, and how to enhance your reports leveraging basic text mode. This webinar was recorded on January 22, 2020.
+Learn about the [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/), how to use it, and how to enhance your reports leveraging basic text mode. This webinar was recorded on January 22, 2020.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341124/?quality=12)
 
@@ -18,7 +18,7 @@ Learn about the API explorer, how to use it, and how to enhance your reports lev
 ![A chart showing examples of text mode code rules](assets/text-mode-chart.png)
 
 
-**Final “All Job Roles” column**
+**Final "All Job Roles" column**
 
 ```
 description="Primary =" indicates the user's primary job role
@@ -31,7 +31,7 @@ valueexpression=IF({user}.{roleID}={role}.{ID},CONCAT("Primary = ",{role}.{name}
 valueformat=HTML
 ```
 
-**Text Mode for “All Teams” column**
+**Text Mode for "All Teams" column**
 
 ```
 displayname=All Teams
@@ -43,7 +43,7 @@ valueexpression={name}
 valueformat=HTML
 ```
 
-**Text Mode for “All Groups” column**
+**Text Mode for "All Groups" column**
 
 ```
 displayname=All Groups
@@ -55,7 +55,7 @@ valuefield=group:name
 valueformat=HTML
 ```
 
-**Text Mode for “Direct Reports” column**
+**Text Mode for "Direct Reports" column**
 
 ```
 displayname=Direct Reports
@@ -79,7 +79,7 @@ Yes, you can use any object in the collections area. You'll want to explore and 
 
 **Question**
 
-Can you discuss “conditional use of different collections in same column (project updates vs task updates)”
+Can you discuss "conditional use of different collections in same column (project updates vs task updates)"
 
 **Answer**
 
@@ -87,7 +87,7 @@ When you're in the iteration area and you see the valuefield or valueexpression 
 
 **Question**
 
-Can you discuss if the “task updates collection is only possible in a task report?”
+Can you discuss if the "task updates collection is only possible in a task report?"
 
 **Answer**
 
@@ -206,7 +206,7 @@ For conditional groupings, a custom form (think "Western States", "Central State
 
 Calculated groupings (aka a valueexpression in a grouping) is a convenient way to get a result to show in your grouping bar. This can also be done using a calculated custom field. There are pros and cons for each approach, which are:
 
-* Valueexpressions are calculated each time your browser page is refreshed. This can be better than calculated custom fields which are recalculated whenever the object they're attached to is edited, or when the calculated fields are recalculated in a bulk edit, or when the custom form is edited and the ‘Update previous calculations’ option is selected.
+* Valueexpressions are calculated each time your browser page is refreshed. This can be better than calculated custom fields which are recalculated whenever the object they're attached to is edited, or when the calculated fields are recalculated in a bulk edit, or when the custom form is edited and the 'Update previous calculations' option is selected.
 * However, valueexpressions cannot be used in charts, conditional formatting or filter. You will need to use calculated custom fields for these.
 
 **Question**
