@@ -15,6 +15,7 @@ doc-type: live event
 
 + [Overview](overview.md)
 + Deep Dives in Marketo {#deep-dives-marketo}
+  + [APIs](api.md)
   + [Certification](certification.md)
   + [Email Nurture](email-nurture.md)
   + [Inheriting an Instance](inheriting-an-instance.md)
