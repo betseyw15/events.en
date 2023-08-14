@@ -4,7 +4,8 @@ description: Learn to measure and track velocity using [!DNL Workfront] reportin
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: 9912
+jira: KT-9912
+last-substantial-update: 2023-08-14
 exl-id: 7ed7887f-acc5-43dd-b0dc-e64341f969ca
 ---
 # Ask the Expert - Measuring velocity
@@ -24,7 +25,7 @@ Format: Date
 Calculation:
 
 ```
-IF(ISBLANK(First Commit Date),Default Baseline.Planned Completion Date,First Commit Date)
+IF(ISBLANK({DE:First Commit Date}),{defaultBaseline}.{plannedCompletionDate},{DE:First Commit Date})
 ```
 
 **First Duration**
@@ -34,7 +35,7 @@ Format: Text
 Calculation:
 
 ```
-IF(ISBLANK(First Duration),Default Baseline.Duration,First Duration)
+IF(ISBLANK({DE:First Duration}),{defaultBaseline}.{durationMinutes},{DE:First Duration})
 ```
 
 **Work-to-Commit Ratio**
@@ -44,7 +45,7 @@ Format:Number
 Calculation:
 
 ```
-ROUND(DIV(Actual Duration,First Duration),1)
+ROUND(DIV({actualDurationMinutes},{DE:First Duration}),1)
 ```
 
 **Work-to-Commit Ratio Status**
@@ -54,7 +55,7 @@ Format:Text
 Calculation:
 
 ```
-IF({Work-to-Commit Ratio}>2,"Terrible",IF({Work-to-CommitRatio}>1.6,"Poor",IF({Work-to-Commit Ratio}>1.2,"Not Bad","Exc ellent")))
+IF({DE:Work-to-Commit Ratio}>2,"Terrible",IF({DE:Work-to-Commit Ratio}>1.6,"Poor",IF({DE:Work-to-Commit Ratio}>1.2,"Not Bad","Excellent")))
 ```
 
 **Adjusted Velocity**
@@ -64,7 +65,7 @@ Format:Number
 Calculation:
 
 ```
-ROUND(DIV(Actual Duration,Duration),1)
+ROUND(DIV({actualDurationMinutes},{durationMinutes}),1)
 ```
 
 **Adjusted Velocity Status**
@@ -74,7 +75,7 @@ Format:Text
 Calculation:
 
 ```
-IF(Adjusted Velocity>2,"Terrible",IF(Adjusted Velocity>1.6,"Poor",IF(Adjusted Velocity>1.2,"Not Bad","Excellent")))
+IF({DE:Adjusted Velocity}>2,"Terrible",IF({DE:Adjusted Velocity}>1.6,"Poor",IF({DE:Adjusted Velocity}>1.2,"Not Bad","Excellent")))
 ```
 
 ## Q&A
@@ -89,8 +90,8 @@ For a situation like this you can use filtering and bulk editing to semi-automat
 
 Here are the steps:
 
-1. Determine which State values you want to map to Condition values. For example, let’s say you have a State value of “Late” and “Very Late” that both map to a Condition value of “In Trouble”
-1. Create a project report showing all projects with a State value of “Late” and “Very Late”
+1. Determine which State values you want to map to Condition values. For example, let's say you have a State value of "Late" and "Very Late" that both map to a Condition value of "In Trouble"
+1. Create a project report showing all projects with a State value of "Late" and "Very Late"
 1. Run the report. Make sure you are showing all projects (see options at lower right of the report)
 1. Click on the checkbox in the upper left of the report in the bar with column headings. This will select all the projects in the report
 1. Click on the Edit button above the report list 
@@ -105,7 +106,7 @@ How is Excellent, Not Bad, etc defined?
 
 **Answer**
 
-This was just an example, but here’s how I set it up. First I calculated two indexes:
+This was just an example, but here's how I set it up. First I calculated two indexes:
 
 Adjusted Velocity
 
@@ -113,7 +114,7 @@ The formula for this is Actual Duration/Planned Duration (which is stored in the
 
 Work-to-Commit Ratio
 
-This formula is like Adjusted Velocity except that instead of using the Planned Duration value from the final replan we want to use the Planned Duration that was first promised to the customer. We’re assuming that the Original baseline contains this information (and we’re planning from now on to ask our project managers to plan their projects in this way so that we can capture accurate data). We captured this duration value from the original baseline and called it First Duration.
+This formula is like Adjusted Velocity except that instead of using the Planned Duration value from the final replan we want to use the Planned Duration that was first promised to the customer. We're assuming that the Original baseline contains this information (and we're planning from now on to ask our project managers to plan their projects in this way so that we can capture accurate data). We captured this duration value from the original baseline and called it First Duration.
 
 By dividing Actual Duration by either Planned Duration or First Duration we end up with a number that can tell us how close we came to being on target. If the Planned Duration or First Duration are equal to the Actual Duration the index will equal 1. If Actual Duration is greater the answer will be more than 1. The greater the number the worse we did on meeting our date.
 
@@ -175,7 +176,7 @@ I would like to create a proof report. A list of projects showing how many proof
 
 Create a document report.
 
-The default view will show the version number. You’ll want to leave that there but you can change any other columns.
+The default view will show the version number. You'll want to leave that there but you can change any other columns.
 
 Group the report by Project Name.
 
@@ -197,7 +198,7 @@ Does the first commit date have to be set manually by the project owner? Or coul
 
 **Answer**
 
-The First Commit Date is captuerd from the default baseline. As long as the default baseline is the original baseline this will show the planed completion date of the project at the time it was first set to Current status.
+The First Commit Date is captuerd from the default baseline. As long as the default baseline is the original baseline this will show the planned completion date of the project at the time it was first set to Current status.
 
 **Question**
 
@@ -209,7 +210,7 @@ Calculated fields are recalculated:
 
 * When a user edits the object
 * On bulk edit with activated Recalculate Custom expressions
-* Modifications to the form with selected ‘Update previous calculations’ option
+* Modifications to the form with selected 'Update previous calculations' option
 
 **Question**
 
@@ -245,9 +246,9 @@ I am trying to determine if it is possible to create a dashboard with one area t
 
 **Answer**
 
-Let’s see if I understand your question. Suppose I have a task custom form called Tammy Form with a field in it named Tammy Field.
+Let's see if I understand your question. Suppose I have a task custom form called Tammy Form with a field in it named Tammy Field.
 
-You’re wanting a task report that will show all tasks that have Tammy Form attached and where Tammy Field is has some value in it.
+You're wanting a task report that will show all tasks that have Tammy Form attached and where Tammy Field has some value in it.
 
 Yes, you can do that. You would just need a filter in your task report with two filter rules:
 
@@ -261,7 +262,7 @@ Is there a way to create a report to look for a specific named document in the D
 
 **Answer**
 
-Yes. You need to create a Document report. It sounds like you might want to provide a specific document name each time you run the report. If that’s the case I would recommend going to Report Options and selecting Report Prompts. Add a prompt for Document >> Name.
+Yes. You need to create a Document report. It sounds like you might want to provide a specific document name each time you run the report. If that's the case I would recommend going to Report Options and selecting Report Prompts. Add a prompt for Document >> Name.
 
 **Question**
 
@@ -333,9 +334,9 @@ Is it possible to remove duplicate entries from within the grouping on an assign
 
 The best way to think about groupings in lists reports is this:
 
-First, you control what items show up in the list using the Filter tab. There will be no duplicate entries. The filter is applied to each object. If it passes through the filter it will appear once in the list, if it doesn’t it won’t appear at all.
+First, you control what items show up in the list using the Filter tab. There will be no duplicate entries. The filter is applied to each object. If it passes through the filter it will appear once in the list, if it doesn't it won't appear at all.
 
-Next grouping is applied to the filtered list. A grouping identifies one thing about the objects in the list, like the name of the portfolio it’s in (you can’t group on a list of things, only on a single thing). Then all objects with the same value will appear in that grouping, like all projects in the same portfolio. Any projects that don’t have a portfolio selected will appear in the grouping named “No Value”.
+Next grouping is applied to the filtered list. A grouping identifies one thing about the objects in the list, like the name of the portfolio it's in (you can't group on a list of things, only on a single thing). Then all objects with the same value will appear in that grouping, like all projects in the same portfolio. Any projects that don't have a portfolio selected will appear in the grouping named "No Value".
 
 As a result there is no way any objects can appear in more than one grouping. And whether an object appears in the list at all is entirely controlled by the filter (and if the person running the report has rights to view it).
 
@@ -347,11 +348,11 @@ Would you recommend any other report to track Velocity? Just a high level recomm
 
 As with any report, the first thing you need to do is decide what you want to know. The next step is to access that information, which in some cases means you need to start tracking it.
 
-One reason I decided to compare Actual Duration with two kinds of Planned Duration was because I thought it provided interesting insights about velocity. The data was also already available, so I didn’t have to start tracking it. With a few calculations I could extract the data in a form I could report on it.
+One reason I decided to compare Actual Duration with two kinds of Planned Duration was because I thought it provided interesting insights about velocity. The data was also already available, so I didn't have to start tracking it. With a few calculations I could extract the data in a form I could report on it.
 
 But you might just as well decide to track other information about tasks or projects to report on.
 
-Workfront doesn’t have any built-in velocity reports, so I would recommend you and your team brainstorm on what you want to know to determine velocity and then see what you need to track.
+Workfront doesn't have any built-in velocity reports, so I would recommend you and your team brainstorm on what you want to know to determine velocity and then see what you need to track.
 
 **Question**
 
@@ -361,7 +362,7 @@ Are you able to calculate anything at the COLUMN level? Instead of calling a cal
 
 It would have been possible to use a valueexpression in text mode to do these calculations. We could not have done First Duration or First Commit Date though, we needed to capture those in a place where they wouldn't change.
 
-As for Work-to-Commit Ratio Status and Adjusted Velocity Status, these needed to be custom fields so we could use them in the Chart tab. The Chart tab does not recognize text mode groupings, they need to be custom fields. And since we needed Work-to-Commit Ratio and Adjusted Velocity to calculate those statuses we needed them to be custom fields as well. So in this case they all needed to be custom fields, but it’s always good to consider both ways and choose what will work best. Thanks for the question.
+As for Work-to-Commit Ratio Status and Adjusted Velocity Status, these needed to be custom fields so we could use them in the Chart tab. The Chart tab does not recognize text mode groupings, they need to be custom fields. And since we needed Work-to-Commit Ratio and Adjusted Velocity to calculate those statuses we needed them to be custom fields as well. So in this case they all needed to be custom fields, but it's always good to consider both ways and choose what will work best. Thanks for the question.
 
 **Question**
 
@@ -371,7 +372,7 @@ Our projects change often due to customer delays or changes throughout. Our repo
 
 The best practice is to use a dropdown to track this. Put as many "reasons" as you can think of in there to start with, then add an "other" option to capture a reason that's not on the list. If that new reason looks or becomes common add it to your dropdown. You can easily report on things in a dropdown list, and you can group on this field (you can't group on checkboxes or a multi-select dropdown).
 
-Just another comment on this. You may not want to include all projects in your Velocity reports. If you’re fixing bugs or “going where no one has gone before” you’re probably not making the same kind of a commitment to a completion date as if you’re building a house that you’ve built many times before.
+Just another comment on this. You may not want to include all projects in your Velocity reports. If you're fixing bugs or "going where no one has gone before" you're probably not making the same kind of a commitment to a completion date as if you're building a house that you've built many times before.
 
 So make sure you focus your velocity reporting on places where it can help you meet your goals.
 
@@ -397,7 +398,7 @@ Can you create a report that looks for a specific named document in the document
 
 **Answer**
 
-Yes. You need to create a Document report. It sounds like you might want to provide a specific document name each time you run the report. If that’s the case I would recommend going to Report Options and selecting Report Prompts. Add a prompt for Document >> Name.
+Yes. You need to create a Document report. It sounds like you might want to provide a specific document name each time you run the report. If that's the case I would recommend going to Report Options and selecting Report Prompts. Add a prompt for Document >> Name.
 
 **Question**
 
@@ -435,15 +436,15 @@ The Analytics feature in Workfront provides a slick way for you to view historic
 
 But you can also get status change information using a Note report. You can filter to see status changes on projects if you are tracking the Project Status field.
 
-So first, go to Setup>Interface>Update Feeds and make sure Project Status is one of the Built-in Fields that is being tracked. If it isn’t you need to add it.
+So first, go to Setup>Interface>Update Feeds and make sure Project Status is one of the Built-in Fields that is being tracked. If it isn't you need to add it.
 
 Now create a Note report and do the following:
 
 In the Columns (View) tab:
 
-* Replace the “Note Text” column for “Audit Text”. This will display information about what the status changed from and to
-* Leave the “Project: Name” and the “Entry Date” columns
-* Click on the “Entry Date” column and then check “Sort by this column” in the Column Settings panel. If you want to see the most recent status changes on top sort it descending.
+* Replace the "Note Text" column for "Audit Text". This will display information about what the status changed from and to
+* Leave the "Project: Name" and the "Entry Date" columns
+* Click on the "Entry Date" column and then check "Sort by this column" in the Column Settings panel. If you want to see the most recent status changes on top sort it descending.
 
 In the Groupings tab:
 
