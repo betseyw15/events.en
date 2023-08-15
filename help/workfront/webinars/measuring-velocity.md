@@ -5,7 +5,7 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
-last-substantial-update: 2023-08-14
+last-substantial-update: 2023-08-15
 exl-id: 7ed7887f-acc5-43dd-b0dc-e64341f969ca
 ---
 # Ask the Expert - Measuring velocity
@@ -17,6 +17,12 @@ Learn to measure and track velocity using [!DNL Workfront] reporting. This works
 ## Custom fields used in the presentation
 
 Save some time by copying and pasting the calculations below.
+
+>[!NOTE]
+>
+>The syntax for custom field calculations has changed since the presentation was given in 2019, however the concepts and other instructions given in the presentation are still accurate. 
+
+The calculations included below have been updated to reflect the latest syntax rules.
 
 **First Commit Date**
 
