@@ -21,8 +21,7 @@ Save some time by copying and pasting the calculations below.
 >[!NOTE]
 >
 >The syntax for custom field calculations has changed since the presentation was given in 2019, however the concepts and other instructions given in the presentation are still accurate. 
-
-The calculations included below have been updated to reflect the latest syntax rules.
+>**The calculations included below have been updated to reflect the latest syntax rules.**
 
 **First Commit Date**
 
