@@ -220,7 +220,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
       <img style="width:100%" alt="Office Hours" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png"/>
       </a>
       <div>
-         <a href="/help/mbi-webinars/overview.md"><strong>Office Hours</strong></a>
+         <a href="/help/office-hours/overview.md"><strong>Office Hours</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
       </div>
       <p>
