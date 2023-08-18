@@ -74,7 +74,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
       </a>
       <div>
          <a href="/help/aem-champion-office-hours/overview.md"><strong>AEM Champion Office Hours</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Manager</em>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Commerce, Adobe Experience Manager, Adobe Campaign, Adobe Marketo, Adobe Target, Customer Journey Analytics, Real-Time CDP</em>
       </div>
       <p>
         <br/>
@@ -215,6 +215,21 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
          Marketo and Mochas will help you to gain a better understanding how to use Adobe Marketo to support your business.
       </p>
     </td>
+    </tr>
+    <tr>
+    <td>
+      <a href="/help/office-hours/overview.md">
+      <img style="width:100%" alt="Office Hours" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png"/>
+      </a>
+      <div>
+         <a href="/help/mbi-webinars/overview.md"><strong>Office Hours</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
+      </div>
+      <p>
+        <br/>
+         Office Hours is a proactive approach to case deflection by offering customers solution-specific webinars. 
+      </p>
+    </td>
     <td>
       <a href="/help/mbi-webinars/overview.md">
       <img style="width:100%" alt="MBI Webinars" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
@@ -228,8 +243,6 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
          The MBI webinar series is a periodic event for MBI customers. The webinars cover a wide range of topics and best practices for using MBI to its fullest potential.
       </p>
     </td>
-    </tr>
-    <tr> 
     <td>
       <a href="/help/skill-builder/overview.md">
       <img style="width:100%" alt="Skill Builder" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png"/>
@@ -243,6 +256,8 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
          Skill Builder is a webinar series designed to build your knowledge base and maximize your investment in Adobe Experience Cloud.
       </p>
     </td>
+    </tr>
+    <tr>     
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketo and Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
