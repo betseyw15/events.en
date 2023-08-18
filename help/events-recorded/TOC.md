@@ -22,6 +22,7 @@ user-guide-description: A collection of event recordings forcused on using Adobe
   + [Learn from your Peers](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
   + [Marketo and Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
   + [MBI Webinars](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
+  + [Office hours](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
   + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
   + [The Skill Exchange](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
   + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
