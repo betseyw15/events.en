@@ -215,8 +215,6 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
          Marketo and Mochas will help you to gain a better understanding how to use Adobe Marketo to support your business.
       </p>
     </td>
-    </tr>
-    <tr>
     <td>
       <a href="/help/office-hours/overview.md">
       <img style="width:100%" alt="Office Hours" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png"/>
@@ -230,6 +228,8 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
          Office Hours is a proactive approach to case deflection by offering customers solution-specific webinars. 
       </p>
     </td>
+    </tr>
+    <tr>    
     <td>
       <a href="/help/mbi-webinars/overview.md">
       <img style="width:100%" alt="MBI Webinars" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
@@ -255,9 +255,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
         <br/>
          Skill Builder is a webinar series designed to build your knowledge base and maximize your investment in Adobe Experience Cloud.
       </p>
-    </td>
-    </tr>
-    <tr>     
+    </td>   
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketo and Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
@@ -270,7 +268,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
         <br/>
          Experience Makers The Skill Exchange is a global series of virtual customer learning events, focusing on diving deeper into Adobe Experience Cloud solutions. This program provides opportunity to learn from Adobe product experts and expert peers through sharing of best practices and tips & tricks.
       </p>
-    </td>
+    </td> 
     <td>
       <a href="/help/workfront/overview.md">
       <img style="width:100%" alt="Workfront" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png"/>
