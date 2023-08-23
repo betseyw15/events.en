@@ -22,4 +22,5 @@ With API Triggered Campaigns, businesses can set a campaign and use it multiple 
 In this Experience League Live Session, Adobe product experts will explain how you can execute transactional and marketing use cases with API Triggered Messaging capabilities in AJO. 
 
 **Click on the image above to watch the show!**
- 
+
+Continue the discussion on the [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
