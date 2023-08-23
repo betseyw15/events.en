@@ -18,16 +18,8 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-8-23-23.md">
-      <img alt="Experience League LIVE Apr 21" src="assets/Aug23_exl_live_banner_web_1920_WebBanner.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-8-23-23.md">
-        <strong>API Triggered Messaging in Adobe Journey Optimizer</strong>
-      </a>
-      <br/><em>with Sandra Hausmann, Siddharth Jain, Nikhil Sharma, and Chetan Prasad</em>
-      <br/><em>August 23, 2023</em>
-    </div>
+  <td>
+    Please visit this page in the near future to find out about upcoming episodes, including the September 2023 episode regarding Lookalike Audiences in Real-Time Customer Data Platform!
   </td>
 </tr>
 </table>
