@@ -20,4 +20,5 @@ doc-type: live event
   + [Deliverability - Part 2](2023/deliverability-part-two.md)
   + [Lead Scoring](2023/lead-scoring.md)
   + [Lifecycle Modeling](2023/lifecycle-modeling.md)
+  + [MSI Best Practices and Optimization](2023/msi-best-practices.md)
   + [Online vs Offline Channels](2023/online-offline.md)

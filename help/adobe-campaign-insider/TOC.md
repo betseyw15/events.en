@@ -17,3 +17,5 @@ solution: Campaign
   + [Level up your cross-channel marketing with [!DNL Campaign Classic]](2022/cross-channel.md)
   + [Team, skills, and organizational design required to support cross-channel marketing](2022/team-skills-org-design.md)
   + [Time saving tips from a pro](2022/tips.md)
++ 2023 {#2023}
+  + [Customer Spotlight](2023/customer-spotlight-center-parcs.md)

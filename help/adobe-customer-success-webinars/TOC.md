@@ -11,4 +11,5 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
   + [Building the Foundation for Personalization at Scale](2023/personalization-at-scale.md)
   + [Effective Measurement Strategy](2023/measurement-strategy.md)
   + [Prioritizing Intelligence & Measurement](2023/intelligence-and-measurement.md)
+  + [Setting an Effective Audience Activation Strategy](2023/audience-activation.md)
   + [Transitioning to RTCDP](2023/aam-to-rtcdp.md)

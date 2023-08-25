@@ -9,6 +9,8 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
 + [Experience Makers](overview.md)
 + Analytics {#analytics}
   + 2023 {#2023}
+    + August {#aug2023}
+      + [Unlocking the power of Processing Rules in Adobe Analytics](analytics/aug2023/processing-rules.md)
     + February {#feb2023}
       + [Building a Data Driven Culture](analytics/feb2023/data-driven-culture.md)
       + [Building a Data Driven Culture Follow-up Q&A](analytics/feb2023/data-driven-culture-q-and-a.md)
