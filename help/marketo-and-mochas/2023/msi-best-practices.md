@@ -17,3 +17,4 @@ Have you heard of Marketo Sales Insights, or MSI? Maybe you have a license but d
 
 Cynthia and James dive into the features of MSI including interesting moments and best bets. They explain how it integrates with Salesforce, license management and strategies for optimizing your operational efficiency across the sales and marketing teams. We conclude with a live Q&A from the attendees.
 
+>[!VIDEO](https://video.tv.adobe.com/v/3422797?learn=on)
