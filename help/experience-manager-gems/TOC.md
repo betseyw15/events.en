@@ -9,6 +9,7 @@ feature-set: Experience Manager
 
 + [Overview](overview.md)
 + 2023 {#gems2023}
+  + [New Relic APM for AEM as a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
   + [AEM Certification - technical](gems2023/aem-certification-technical.md)
   + [Accelerating Experience Manager as a Cloud Service development with Rapid Development Environments](/help/experience-manager-gems/gems2023/rapid-development-environments.md)
   + [AEM Best Practices Analyzer for on premise and AMS environments](gems2023/aem-best-practices-analyzer.md)
