@@ -1,5 +1,5 @@
 ---
-title: Maximizing Value with Adobe Audience Manager | Navigating Industry Changes and Transitioning to RTCDP
+title: Maximizing Value with Adobe Audience Manager | Navigating Industry Changes and Transitioning to Real-time CDP
 description: With shifting timelines for industry changes, learn how you can continue to unlock value with Adobe Audience Manager and prepare for the transition to RTCDP from both a use case and organizational readiness perspective.
 solution: Audience Manager
 feature-set: Audience Manager
@@ -12,8 +12,8 @@ jira: KT-13689
 thumbnail: 3421282.jpeg
 ---
 
-# Maximizing Value with Adobe Audience Manager | Navigating Industry Changes and Transitioning to RTCDP
+# Maximizing Value with Adobe Audience Manager | Navigating Industry Changes and Transitioning to Real-time CDP
 
-With shifting timelines for industry changes, learn how you can continue to unlock value with Adobe Audience Manager and prepare for the transition to RTCDP from both a use case and organizational readiness perspective.
+With shifting timelines for industry changes, learn how you can continue to unlock value with Adobe Audience Manager and prepare for the transition to Real-time CDP from both a use case and organizational readiness perspective.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421282/?learn=on)

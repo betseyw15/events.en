@@ -14,4 +14,4 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
   + [Prioritizing Intelligence & Measurement](2023/intelligence-and-measurement.md)
   + [Real-time CDP Migration Readiness](2023/rtcdp-migration-readiness.md)
   + [Setting an Effective Audience Activation Strategy](2023/audience-activation.md)
-  + [Transitioning to RTCDP](2023/aam-to-rtcdp.md)
+  + [Transitioning to Real-time CDP](2023/aam-to-rtcdp.md)

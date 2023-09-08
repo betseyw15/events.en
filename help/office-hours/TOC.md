@@ -8,10 +8,12 @@ user-guide-description: Office Hours is a proactive approach to case deflection 
 
 + [Adobe Office Hours](overview.md)
 + 2023 {#2023}
-  + Adobe Campaign {#adobe-campaign-office-hours}
-    + [SMS Channel Overview & Troubleshooting Tips](2023/ac-sms-channel-overview.md)
   + Adobe Analytics {#adobe-analytics}
     + [Launch Best Practices](2023/launch-best-practices.md)
+  + Adobe Campaign {#adobe-campaign-office-hours}
+    + [SMS Channel Overview & Troubleshooting Tips](2023/ac-sms-channel-overview.md)
+  + Adobe Commerce {#adobe-commerce-office-hours}
+    + [Site-Wide Analysis Tool](2023/site-wide-analysis-tool.md) 
   + Adobe Experience Platform {#adobe-experience-platform-office-hours}
     + [Admin Console Permissions](2023/aep-admin-console-permissions.md)
   + Adobe Experience Manager {#adobe-experience-manager-office-hours}
@@ -19,8 +21,6 @@ user-guide-description: Office Hours is a proactive approach to case deflection 
     + [AEM Forms Headless Architecture](2023/aem-forms-headless-architecture.md)
     + [Migration to AEM Cloud Service](2023/migration-aemcs.md)
     + [Foundation for Optimizing Indexes](2023/optimize-indexes-aemcs.md)
-  + Adobe Commerc e{#adobe-commerce-office-hours}
-    + [Site-Wide Analysis Tool](2023/site-wide-analysis-tool.md)
   + Adobe Marketo {#adobe-marketo-office-hours}
     + [Advanced Smart List Logic & Common Pitfalls](2023/marketo-common-pitfalls.md)
   + Adobe Target {#adobe-target-office-hours}

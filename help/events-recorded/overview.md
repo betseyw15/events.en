@@ -100,7 +100,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
       </a>
       <div>
          <a href="/help/adobe-customer-success-webinars/overview.md"><strong>Adobe Customer Success Webinars</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Experience Cloud, Audience Manager, Real-Time CDP</em>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Audience Manager, Customer Journey Analytics, Experience Cloud, Real-Time CDP</em>
       </div>
       <p>
         <br/>
@@ -221,7 +221,7 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
       </a>
       <div>
          <a href="/help/office-hours/overview.md"><strong>Office Hours</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Commerce, Adobe Experience Platform, Adobe Experience Manager, Adobe Commerce, Adobe Marketo, Adobe Target, Workfront</em>
       </div>
       <p>
         <br/>
