@@ -16,8 +16,8 @@ Adobe Marketo Engage is a powerful marketing automation platform for marketers, 
 
 In this webinar, you'll learn:
 
- * Key reporting and attribution use cases and solutions using Marketo Engage. Learn how to use UTMs Parameters, Lead Sources, and Programs effectively (Program Performance Reports and Program Member Custom Fields).
- * How to analyze the effectiveness of your marketing tactics, such as reporting when using personalization in your programs.
- * Advanced attribution solutions using Marketo Measure's Full Path Model and Custom Model's actionable insights to gain a seat at the revenue table.
+* Key reporting and attribution use cases and solutions using Marketo Engage. Learn how to use UTMs Parameters, Lead Sources, and Programs effectively (Program Performance Reports and Program Member Custom Fields).
+* How to analyze the effectiveness of your marketing tactics, such as reporting when using personalization in your programs.
+* Advanced attribution solutions using Marketo Measure's Full Path Model and Custom Model's actionable insights to gain a seat at the revenue table.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421021/?learn=on)

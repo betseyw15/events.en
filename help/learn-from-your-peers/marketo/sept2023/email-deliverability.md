@@ -17,8 +17,9 @@ thumbnail: 3423966.jpeg
 Join this "Learn from your peers" webinar as Adobe Marketo Champion Beth Massura, shares how she assesses factors affecting email deliverability, acts on red flags, and ensures good deliverability using built-in features within Marketo Engage.
 
 In this webinar, you'll learn about:
- * What factors contribute to email deliverability.
- * Assessing your current state using Email Performance Reports, People Performance Reports, and Smart Lists.
- * Steps to take to reduce risks to your email deliverability, including verification protocols, maintaining database quality and using precise targeting.
+
+* What factors contribute to email deliverability.
+* Assessing your current state using Email Performance Reports, People Performance Reports, and Smart Lists.
+* Steps to take to reduce risks to your email deliverability, including verification protocols, maintaining database quality and using precise targeting.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423966/?learn=on)
