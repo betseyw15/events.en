@@ -1,6 +1,6 @@
 ---
 title: newrelic apm for aem cloud service
-description: Join us and participate in our session where we will guide you in recognizing and solving challenges that affect your end-user customers, ensuring an outstanding experience through:  Improving the efficiency of your AEM as a Cloud Service Project | Measuring the influence of external services for your AEM as a Cloud Service system | Making the most of customized and tailored views. Discover the process for accessing New Relic, a feature included by default with AEM as a Cloud Service. Don't hesitate to engage with your inquiries and questions.
+description: Join us and participate in our session where we will guide you in recognizing and solving challenges that affect your end-user customers, ensuring an outstanding experience through -  Improving the efficiency of your AEM as a Cloud Service Project | Measuring the influence of external services for your AEM as a Cloud Service system | Making the most of customized and tailored views. Discover the process for accessing New Relic, a feature included by default with AEM as a Cloud Service. Don't hesitate to engage with your inquiries and questions.
 version: Cloud Service
 feature: Developer Tools
 topic: Performance
