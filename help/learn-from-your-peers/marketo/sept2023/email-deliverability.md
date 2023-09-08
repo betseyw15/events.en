@@ -3,7 +3,7 @@ title: Boost Email Deliverability with Marketo Engage
 description: In this webinar, you'll learn about  What factors contribute to email deliverability.  Assessing your current state using Email Performance Reports, People Performance Reports, and Smart Lists.  Steps to take to reduce risks to your email deliverability, including verification protocols, maintaining database quality and using precise targeting.
 solution: Marketo Engage
 feature-set: Marketo Engage
-feature: Smart Lists, Email Editor, Email Programs, Email Setup, Database, Target Account Management, Deliverability, Performance Insights, 
+feature: Smart Lists, Email Editor, Email Programs, Email Setup, Database, Target Account Management, Deliverability, Performance Insights
 role: Admin
 level: Intermediate
 doc-type: Event
