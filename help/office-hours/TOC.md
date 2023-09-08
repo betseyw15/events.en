@@ -10,6 +10,8 @@ user-guide-description: Office Hours is a proactive approach to case deflection 
 + 2023 {#2023}
   + Adobe Campaign {#adobe-campaign-office-hours}
     + [SMS Channel Overview & Troubleshooting Tips](2023/ac-sms-channel-overview.md)
+  + Adobe Analytics {#adobe-analytics}
+    + [Launch Best Practices](2023/launch-best-practices.md)
   + Adobe Experience Platform {#adobe-experience-platform-office-hours}
     + [Admin Console Permissions](2023/aep-admin-console-permissions.md)
   + Adobe Experience Manager {#adobe-experience-manager-office-hours}
