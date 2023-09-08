@@ -38,6 +38,5 @@ RDEs allow developers to swiftly deploy and review changes, minimizing the amoun
 >[!NOTE]
 >
 >* For session specific community interactions on Experience League, please visit this [Contextual Thread](http://bit.ly/3x1Cl8x)
->* For session specific community interactions on Experience League, please visit this [Contextual Thread](https://bit.ly/3x1Cl8x)
 >
 >* To receive notifications regarding our upcoming webinars, please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/).

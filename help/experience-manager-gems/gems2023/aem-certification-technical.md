@@ -15,7 +15,7 @@ thumbnail: KT-13542.jpeg
 
 # Master the Art of Experience Manager Certification: Get Ready, Get Set, Get Certified!
 
-This webinar will be conducted on **June 28th**, 2023 (8am PST). Please register via this [event page link](https://adobe.ly/3Ni6XeL).
+This webinar has been conducted on **June 28th**, 2023. Please view the recording below.
 
 ## Session Description
 
@@ -31,3 +31,13 @@ Claim your spot today and embark on a journey to new heights with Experience Man
 
 * Ayana Nickerson, Sr. Credential Certification Program Manager, Adobe
 * Payal Banerjee, Sr. Solutions Consultant, Adobe
+
+## Webinar Recording - 06/28/2023
+
+>[!VIDEO](https://video.tv.adobe.com/v/3421028)
+
+>[!NOTE]
+>
+>* For session specific community interactions on Experience League, please visit this [Contextual Thread](https://adobe.ly/3p2CmbA)
+>
+>* To receive notifications regarding our upcoming webinars, please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/).
