@@ -30,6 +30,8 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
   + July {#july2023}
     + [Effective Security Strategies in Cloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md) 
 + Marketo {#marketo}
+  + September {#sept2023}
+    + [Boost Email Deliverability with Marketo Engage](marketo/sept2023/email-deliverability.md)
   + June {#june2023}
     + [Track, Analyze, and Optimize your Marketing Campaigns](marketo/june2023/marketing-campaigns.md)
   + May {#may2023}
