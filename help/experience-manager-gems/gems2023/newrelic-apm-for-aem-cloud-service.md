@@ -13,7 +13,9 @@ jira: KT-13920
 thumbnail: KT-13920.jpeg
 ---
 
-# Unleashing the Potential of New Relic APM for AEM as a Cloud Service. Maximize Performance and Expedite Issue Resolution.
+# Unleashing the Potential of New Relic APM for AEM as a Cloud Service
+
+Maximize Performance and Expedite Issue Resolution.
 
 This webinar will be conducted on September 20th - 5pm CEST | 8am PDT | 8.30pm IST
 
@@ -27,7 +29,7 @@ Join us in our session where we will guide you in recognizing and solving challe
 
 * Improving the efficiency of your AEM as a Cloud Service Project
 * Measuring the influence of external services for your AEM as a Cloud Service system
-* Making the most of customized and tailored views 
+* Making the most of customized and tailored views
 Discover the process for accessing New Relic, a feature included by default with AEM as a Cloud Service. Don't hesitate to engage with your inquiries and questions.
 
 ## Presenters
@@ -43,4 +45,3 @@ Discover the process for accessing New Relic, a feature included by default with
 >* For session specific community interactions on Experience League a link will be posted shortly. 
 >
 >* To receive notifications regarding our upcoming webinars, please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/).
-
