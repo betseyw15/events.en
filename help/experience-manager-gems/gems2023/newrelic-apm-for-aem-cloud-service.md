@@ -17,7 +17,7 @@ thumbnail: KT-13920.jpeg
 
 Maximize Performance and Expedite Issue Resolution.
 
-This webinar will be conducted on September 20th - 5pm CEST \| 8am PDT \| 8.30pm IST
+This webinar will be conducted on September 20th - 5pm CEST - 8am PDT - 8.30pm IST
 
 ## Registration
 
