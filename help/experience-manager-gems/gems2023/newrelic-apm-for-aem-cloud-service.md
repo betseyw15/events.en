@@ -1,6 +1,6 @@
 ---
 title: newrelic apm for aem cloud service
-description: "Join us and participate in our session where we will guide you in recognizing and solving challenges that affect your end-user customers, ensuring an outstanding experience through improving the efficiency of your AEM as a Cloud Service Project, measuring the influence of external services for your AEM as a Cloud Service system, and making the most of customized and tailored views. Discover the process for accessing New Relic, a feature included by default with AEM as a Cloud Service. Don't hesitate to engage with your inquiries and questions."
+description: Join us and participate in our session where we will guide you in recognizing and solving challenges that affect your end-user customers, ensuring an outstanding experience through improving the efficiency of your AEM as a Cloud Service Project, measuring the influence of external services for your AEM as a Cloud Service system, and making the most of customized and tailored views. Discover the process for accessing New Relic, a feature included by default with AEM as a Cloud Service. Don't hesitate to engage with your inquiries and questions.
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -30,6 +30,7 @@ Join us in our session where we will guide you in recognizing and solving challe
 * Improving the efficiency of your AEM as a Cloud Service Project
 * Measuring the influence of external services for your AEM as a Cloud Service system
 * Making the most of customized and tailored views
+
 Discover the process for accessing New Relic, a feature included by default with AEM as a Cloud Service. Don't hesitate to engage with your inquiries and questions.
 
 ## Presenters
@@ -42,6 +43,6 @@ Discover the process for accessing New Relic, a feature included by default with
 
 >[!NOTE]
 >
->* For session specific community interactions on Experience League a link will be posted shortly. 
+>* For session specific community interactions on Experience League a link will be posted shortly.
 >
 >* To receive notifications regarding our upcoming webinars, please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/).
