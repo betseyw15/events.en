@@ -1,8 +1,8 @@
 ---
-title: MBI - Ask an Expert
-description: Watch these recorded webinars for a deep dive with the MBI product team, including business transformation through intelligent data.
-landing-page-description: Watch these recorded webinars for a deep dive with the MBI product team, including business transformation through intelligent data.
-short-description: Watch these recorded webinars for a deep dive with the MBI product team, including business transformation through intelligent data.
+title: Commerce Intelligence - Ask an Expert
+description: Watch these recorded webinars for a deep dive with the Commerce Intelligence product team, including business transformation through intelligent data.
+landing-page-description: Watch these recorded webinars for a deep dive with the Commerce Intelligence product team, including business transformation through intelligent data.
+short-description: Watch these recorded webinars for a deep dive with the Commerce Intelligence product team, including business transformation through intelligent data.
 kt: 10404
 solution: Commerce,Magento Business Intelligence
 role: Leader,User,Data Architect
@@ -12,9 +12,13 @@ exl-id: a4590f96-8f23-4f14-9f69-dd15253184ed
 ---
 # MBI - Ask an Expert
 
+>[!NOTE]
+>
+>Adobe Commerce Intelligence was previously known as [!DNL Magento Business Intelligence (MBI)]. Recordings for past events reflect the previous name.
+
 Session 1:
 
-- What customers say about MBI
+- What customers say about Commerce Intelligence
 - Business transformation through intelligent data
 
 Session 2:
@@ -40,7 +44,7 @@ _Ask an Expert_ is comprised of two sessions:
 
 >[!TIP]
 >
->If you are new to MBI, the [Getting Started video series](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
+>If you are new to Commerce Intelligence, the [Getting Started video series](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
 
-- [MBI Introduction](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-- [MBI Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+- [Commerce Intelligence Introduction](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+- [Commerce Intelligence Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

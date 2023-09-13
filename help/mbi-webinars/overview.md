@@ -1,13 +1,17 @@
 ---
-title: MBI Events
-description: Explore the MBI recorded webinars, which cover a wide range of topics and best practices for using MBI to its fullest potential.
+title: Commerce Intelligence Webinars
+description: Explore the Commerce Intelligence recorded webinars, which cover a wide range of topics and best practices for using Commerce Intelligence to its fullest potential.
 exl-id: ebc973b9-a7e0-42a7-968b-17d077b67af4
 ---
-# MBI Webinars
+# Adobe Commerce Intelligence Webinars
 
-The MBI webinar series is a periodic event for MBI customers. The webinars cover a wide range of topics and best practices for using MBI to its fullest potential. 
+>[!NOTE]
+>
+>Adobe Commerce Intelligence was previously known as [!DNL Magento Business Intelligence (MBI)]. Recordings for past events reflect the previous name.
 
-Attendees from all geographies can join the events live to understand the product better and to get their questions on MBI functionality answered directly. 
+The Commerce Intelligence webinar series is a periodic event for MBI customers. The webinars cover a wide range of topics and best practices for using Commerce Intelligence to its fullest potential. 
+
+Attendees from all geographies can join the events live to understand the product better and to get their questions on Commerce Intelligence functionality answered directly. 
 
 The topics are repeated occasionally to accommodate any new questions that the customers may ask.
 
@@ -25,7 +29,7 @@ The topics are repeated occasionally to accommodate any new questions that the c
       </a>
     </div>
     <p>
-    <em>Learn about the core functionality of MBI directly from the Commerce Product team with a deep dive into pre-configured dashboards and customization options available.</em>
+    <em>Learn about the core functionality of Commerce Intelligence directly from the product team with a deep dive into pre-configured dashboards and customization options available.</em>
     <p>
   </td>
   <td>
@@ -63,5 +67,5 @@ The topics are repeated occasionally to accommodate any new questions that the c
 
 ## Useful resources
 
-- [MBI videos and tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
-- [MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html)
+- [Commerce Intelligence videos and tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
+- [Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html)

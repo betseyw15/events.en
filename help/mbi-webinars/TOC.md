@@ -1,20 +1,20 @@
 ---
-user-guide-title: MBI Events
-breadcrumb-title: MBI Events
-user-guide-description: MBI Events is a video library where experts and peers have shared their thoughts and ideas on Adobe Commerce.
+user-guide-title: Commerce Intelligence Events
+breadcrumb-title: Commerce Intelligence Events
+user-guide-description: Commerce Intelligence Events is a video library where experts and peers have shared their thoughts and ideas on Adobe Commerce Intelligence.
 ---
 
-# MBI Events  {#mbi-webinars-recordings}
+# Commerce Intelligence Events  {#commerce-intelligence-webinar-recordings}
 
 + [Overview](overview.md)
 + 2023 {#2023}
-  + [Managing Data Sets in MBI](2023/manage-data-sets.md)
+  + [Managing Data Sets in Commerce Intelligence](2023/manage-data-sets.md)
 + 2021 {#2021}
-  + [Getting Started with MBI](2021-22/getting-started.md)
-  + [Optimize Your MBI Data Warehouse](2021-22/optimize-data-warehouse.md)
-  + [MBI Dashboards Deep Dive](2021-22/dashboards-deep-dive.md)
-  + [Holiday Readiness with MBI](2021-22/holiday-readiness.md)
-  + [MBI - Ask an Expert](2021-22/ask-expert.md)
+  + [Getting Started with Commerce Intelligence](2021-22/getting-started.md)
+  + [Optimize Your Commerce Intelligence Data Warehouse](2021-22/optimize-data-warehouse.md)
+  + [Commerce Intelligence Dashboards Deep Dive](2021-22/dashboards-deep-dive.md)
+  + [Holiday Readiness with Commerce Intelligence](2021-22/holiday-readiness.md)
+  + [Commerce Intelligence - Ask an Expert](2021-22/ask-expert.md)
   
 <!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)
