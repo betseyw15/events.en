@@ -4,7 +4,7 @@ description: Watch this webinar for a guided tour of the four dashboards include
 landing-page-description: Watch this recorded webinar for a guided tour of the four dashboards included at setup with every Commerce Intelligence account.
 short-description: Watch this recorded webinar for a guided tour of the four dashboards included at setup with every Commerce Intelligence account.
 kt: 10496
-solution: Commerce, Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 343498.jpeg

@@ -4,7 +4,7 @@ description: Watch this webinar to learn about the core functionality of Commerc
 landing-page-description: Watch this recorded webinar to learn about the core functionality of Commerce Intelligence for your Adobe Commerce or Magento Open Source store.
 short-description: Watch this recorded webinar to learn about the core functionality of Commerce Intelligence for your Adobe Commerce or Magento Open Source store.
 kt: 10408
-solution: Commerce, Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 342501.jpeg

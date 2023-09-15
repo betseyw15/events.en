@@ -4,7 +4,7 @@ description: Watch this webinar to learn about some of the powerful features of 
 landing-page-description: Watch this webinar to learn about some of the powerful features of the Commerce Intelligence Data Warehouse Manager.
 short-description: Watch this webinar to learn about some of the powerful features of the Commerce Intelligence Data Warehouse Manager.
 kt: 10410
-solution: Commerce, Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 344680.jpeg

@@ -1,7 +1,7 @@
 ---
 title: Adobe Commerce Roadmap Highlights
 description: Join Ed Kennedy, Senior Product Marketing Manager for Adobe Commerce, to hear the latest updates regarding the top Adobe Commerce product investments
-solution: Commerce, Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Admin, Architect, Developer, Leader, User
 level: Beginner
 last-substantial-update: 2022-11-04
