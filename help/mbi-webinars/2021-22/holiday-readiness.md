@@ -4,7 +4,7 @@ description: Watch this webinar to learn how to use your eCommerce data for succ
 landing-page-description: Watch this recorded webinar to learn how to use your eCommerce data for success during the holiday season.
 short-description: Watch this recorded webinar to learn how to use your eCommerce data for success during the holiday season.
 kt: 10409
-solution: Commerce,Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Intermediate
 thumbnail: 342496.jpeg

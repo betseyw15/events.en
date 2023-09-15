@@ -4,7 +4,7 @@ description: Watch these recorded webinars for a deep dive with the Commerce Int
 landing-page-description: Watch these recorded webinars for a deep dive with the Commerce Intelligence product team, including business transformation through intelligent data.
 short-description: Watch these recorded webinars for a deep dive with the Commerce Intelligence product team, including business transformation through intelligent data.
 kt: 10404
-solution: Commerce,Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader,User,Data Architect
 level: Beginner,Intermediate
 thumbnail: 342409.jpeg
