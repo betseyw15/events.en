@@ -38,7 +38,7 @@ exl-id: 595f6977-935a-4859-9cfd-161d45847f85
 </table>
 
 -->
-Our latest AEM GEMs webinar on **Unleashing the Potential of New Relic APM for AEM as a Cloud Service. Maximize Performance and Expedite Issue Resolution.** has been conducted on *September 20th, 2023*. 
+Our latest AEM GEMs webinar on **Unleashing the Potential of New Relic APM for AEM as a Cloud Service. Maximize Performance and Expedite Issue Resolution** has been conducted on *September 20th, 2023*. 
 The **recording** can be found here: [New Relic APM for Adobe Experience Manager as a Cloud Service](/help/experience-manager-gems/gems2023/newrelic-apm-for-aem-cloud-service.md)
 
 >[!NOTE]
