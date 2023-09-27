@@ -18,8 +18,16 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
 <tr>
-  <td>
-    Please visit this page in the near future to find out about upcoming episodes, including the September 2023 episode regarding Lookalike Audiences in Real-Time Customer Data Platform!
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-26-23.md">
+      <img alt="Experience League LIVE Apr 21" src="assets/Oct26_exl_live_WebBanner.png">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-10-26-23.md">
+        <strong>Workfront Release Deep Dive - new Workfront Home</strong>
+      </a>
+      <br/><em>with Betsey West, Ben Robbins, and Jamie Smith</em>
+      <br/><em>October 26, 2023</em>
+    </div>
   </td>
 </tr>
 </table>

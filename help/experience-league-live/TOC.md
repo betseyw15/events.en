@@ -15,6 +15,7 @@ doc-type: live event
 
 + [Overview](overview.md)
 + Episodes {#episodes}
+  + [Ep. 28: Workfront Release Deep Dive - new Workfront Home](episodes/exl-live-episode-10-26-23.md)
   + [Ep. 27: API Triggered Messaging in Adobe Journey Optimizer](episodes/exl-live-episode-8-23-23.md)
   + [Ep. 26: Actionable audiences, in one place​, from any source, with standard controls](episodes/exl-live-episode-7-20-23.md)
   + [Ep. 25: Explore the future of Adobe Journey Optimizer with the web channel and content experimentation](episodes/exl-live-episode-6-14-23.md)
