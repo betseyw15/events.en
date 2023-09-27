@@ -6,7 +6,7 @@ thumbnail: https://video.tv.adobe.com/v/3424606?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=dvCuSQfMTZg
 event-cta-url-reg: 
 event-start-time: 2023-10-26 09:00-7
-event-guests: Siddharth Jain,Nikhil Sharma,Chetan Prasad
+event-guests: Betsey West,Ben Robbins,Jamie Smith
 
 ---
 # Workfront Release Deep Dive - New Workfront Home
