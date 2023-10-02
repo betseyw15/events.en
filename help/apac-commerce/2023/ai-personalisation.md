@@ -11,7 +11,7 @@ last-substantial-update: 2023-05-03
 jira: KT-13194
 thumbnail: 3419107.jpeg
 event-start-time: 2023-5-2 08:30-8
-exl-id: 7fd383ac-e7d1-4d04-b990-70da851f802b
+exl-id: f8493ac6-e218-4e86-b0a1-fe37ba548cdc
 ---
 # AI Powered Personalisation
 

@@ -7,9 +7,8 @@ role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate
 kt: 10786
 thumbnail: 345382.png
-exl-id: 93c3b60d-c3a2-4ba9-8282-83184c986f68
+exl-id: 420cfc41-051e-41bc-b96b-b9c889406a4b
 ---
-
 # Build a content supply chain that scales
 
 Join Marc Angelinovich and learn how to build a content supply chain that scales for personalization.

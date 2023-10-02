@@ -5,7 +5,7 @@ role: User
 level: Beginner
 kt: 9790
 thumbnail: 340623.jpeg
-exl-id: 6adc46a6-695c-4710-b8cc-1c2cf071c702
+exl-id: 33c44945-5838-471e-972d-5b331549a9e3
 ---
 # Innovating with Headless Integrations - A Closer Look
 

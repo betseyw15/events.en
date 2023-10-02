@@ -6,7 +6,7 @@ role: Admin, User
 level: Beginner, Intermediate, Experienced
 kt: 10579
 thumbnail: 343828.jpeg
-exl-id: d118e742-272f-4b90-b64d-f1a8bb8ababd
+exl-id: 1dc6d34a-fc3d-4989-8925-a6f12766105b
 ---
 # Top Tips and Tricks for Adobe Campaign Standard
 

@@ -12,7 +12,7 @@ version: Cloud Service
 kt: 7176
 type: Event
 thumbnail: 331742.jpg
-exl-id: 4f912544-210d-45f3-b1c5-1d5b857793b5
+exl-id: e819c76d-84f4-4cd6-baed-a336a40267aa
 ---
 # PWA - Turn any Site into a Progressive Web App 
 

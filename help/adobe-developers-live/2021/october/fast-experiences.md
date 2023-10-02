@@ -9,7 +9,7 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9178
 type: Event
-exl-id: b1f50bda-aaf4-487c-97a1-add23d342bd6
+exl-id: 47e84e07-441f-4947-a9d9-80d055f32b2e
 ---
 # Delivering Fast Experiences with Experience Manager Cloud Service
 

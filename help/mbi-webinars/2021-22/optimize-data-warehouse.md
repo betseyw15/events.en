@@ -8,7 +8,7 @@ solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Intermediate, Experienced
 thumbnail: 342562.jpeg
-exl-id: 34e017c3-721d-459a-8f38-76cc165e2d02
+exl-id: 9f1f0578-3182-4358-a13a-f0bc74aae8d7
 ---
 # Optimize Your Commerce Intelligence Data Warehouse
 

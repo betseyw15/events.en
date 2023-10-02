@@ -4,7 +4,7 @@ description: Get a step-by-step guideline on how to setup and configure a Share 
 uuid: 48c54652-4816-4e31-933d-5d710db40ba3
 discoiquuid: 731a0196-b5da-459c-96a6-7da08cd3756d
 targetaudience: target-audience advanced
-exl-id: 6be84631-1f4b-4240-985e-028e60b0cd4f
+exl-id: bf44898e-f455-456a-b168-912feb275aae
 ---
 # SharePoint Connector - Setup and Configuration{#sharepoint-connector-setup-and-configuration}
 

@@ -11,7 +11,7 @@ version: Cloud Service
 kt: 7270
 type: Event
 thumbnail: 332022.jpg
-exl-id: e5c3b842-c8d5-413a-9019-cfe87f1b35ef
+exl-id: dd585d52-bf00-4f7f-86cb-86b6d67c5b9d
 ---
 # Content Delivery on Experience Manager Cloud Service - Setup your project to deliver fast experiences
 

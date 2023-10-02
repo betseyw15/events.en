@@ -7,9 +7,8 @@ role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner
 kt: 10788
 thumbnail: 345378.png
-exl-id: 9d867d04-debc-4ebd-8c17-487ab83fc807
+exl-id: d42f8628-db73-4b6d-80bd-b64857c5e764
 ---
-
 # Assets for all
 
 Hear from Purnima Rachoor Roy about how [!DNL Assets Essentials] is the new [!DNL Digital Asset Management] system for departments and mid sized companies.

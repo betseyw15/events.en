@@ -7,7 +7,7 @@ doc-type: Event
 last-substantial-update: 2023-01-06
 kt: 11655
 thumbnail: 3412722.jpeg
-exl-id: 39affe8c-cb03-4161-8a1d-6ce3e8c0aaad
+exl-id: f7a309d6-e5e6-46f7-91b9-a19ce4c2c3fd
 event-start-time: 2023-6-7 08:30-8
 ---
 # Marketo and Mochas - Lead Scoring

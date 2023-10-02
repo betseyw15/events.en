@@ -7,7 +7,7 @@ feature: Cloud Manager
 topics: Development
 type: Event
 audience: developer
-exl-id: c7317bf7-d328-4e0e-b250-cbcf550ddd57
+exl-id: 697f9c88-1a1b-407c-9fe4-d48e74b46e20
 ---
 # Testing Best Practices with Cloud Manager - September 2019
 

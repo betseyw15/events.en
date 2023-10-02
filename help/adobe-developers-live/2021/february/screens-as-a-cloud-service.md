@@ -12,7 +12,7 @@ version: Cloud Service
 kt: 7164
 type: Event
 thumbnail: 331767.jpg
-exl-id: 11c79583-4260-4b83-95c3-615ac7b49f3f
+exl-id: 3ddae9b1-f480-4d84-952a-ca31bb9616f7
 ---
 # Adobe Experience Manager Screens as a Cloud Service
 

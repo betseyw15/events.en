@@ -12,7 +12,7 @@ version: Cloud Service
 kt: 7178
 type: Event
 thumbnail: 331743.jpg
-exl-id: b541fca1-de05-444a-adb5-44398d0df9ad
+exl-id: 6ce514e5-ec47-4a86-b062-a729fe15254b
 ---
 # SPA Editor 2.0 - add in-context editable content spots to any app 
 

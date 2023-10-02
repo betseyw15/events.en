@@ -10,7 +10,7 @@ level: Beginner
 last-substantial-update: 2022-12-01
 kt: 11536
 thumbnail: 3411893.jpeg
-exl-id: 3ea2e55f-9acc-4e12-8338-5cbd83264996
+exl-id: c25285f7-a497-408b-8a21-d6e47b5f0114
 ---
 # Learn Track - Getting Started
 

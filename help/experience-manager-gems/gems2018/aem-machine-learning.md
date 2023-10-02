@@ -5,7 +5,7 @@ uuid: 23acfe70-e441-414b-905d-376a4d98f0fa
 topic-tags: smart-tags
 discoiquuid: c0b3b1f6-5765-44f7-ba12-e17267e1c89e
 targetaudience: target-audience advanced
-exl-id: f4f8de53-a22c-42e8-80d5-fc308a6af5a8
+exl-id: 4e6496fc-4389-4cfa-8921-a23736f23e13
 ---
 # Machine Learning in AEM: Enhanced Smart Tags, Smart Layout and more{#machine-learning-in-aem-enhanced-smart-tags-smart-layout-and-more}
 

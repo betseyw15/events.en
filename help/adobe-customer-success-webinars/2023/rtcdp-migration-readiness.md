@@ -8,8 +8,8 @@ doc-type: Event
 last-substantial-update: 2023-09-07
 jira: KT-13899
 thumbnail: 3423829.jpeg
+exl-id: 26b27608-f2e8-4452-9258-92353dfd2ec5
 ---
-
 # Real-time CDP Migration Readiness
 
 Learn about migrating to Adobe Real-time CDP.

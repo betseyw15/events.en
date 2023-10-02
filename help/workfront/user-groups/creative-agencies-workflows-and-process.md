@@ -5,7 +5,7 @@ role: Admin, User
 level: Beginner, Intermediate
 kt: 9993
 thumbnail: 341220.jpeg
-exl-id: f7d7dba1-ffcf-4e2d-9970-d03de99b7fa3
+exl-id: ea25e50f-7b3d-4e5a-aaad-0851b10f2af6
 ---
 # Creative Agencies: Workflow & Process (Jul 14, 2020)
 

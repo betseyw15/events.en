@@ -1,7 +1,7 @@
 ---
 title: Commerce Intelligence Webinars
 description: Explore the Commerce Intelligence recorded webinars, which cover a wide range of topics and best practices for using Commerce Intelligence to its fullest potential.
-exl-id: ebc973b9-a7e0-42a7-968b-17d077b67af4
+exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
 ---
 # Adobe Commerce Intelligence Webinars
 

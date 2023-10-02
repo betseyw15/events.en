@@ -4,7 +4,7 @@ description: Learn how to use AEM Launches to work concurrently on multiple vers
 uuid: ebff46e5-e580-4a42-bb8a-55ea0fa13d9e
 discoiquuid: a18d345a-fbb4-4ace-b569-96fd95503a39
 targetaudience: target-audience advanced
-exl-id: dca9a8d0-c956-42a7-93e6-12abaf47d041
+exl-id: 5a80f708-3536-4009-a76d-38611d505a89
 ---
 # AEM Launches: concurrent preparation of multiple versions of a website (AEM 5.6) {#launches-concurrent-preparation-of-multiple-versions-of-a-website-aem}
 

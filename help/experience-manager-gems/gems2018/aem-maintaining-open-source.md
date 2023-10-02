@@ -4,7 +4,7 @@ description: Maintaining open source projects can be hard. Successful open sourc
 uuid: 94e91950-d915-4659-985a-f496e47e8963
 discoiquuid: f52fef4b-b8ba-45f6-897c-814a7367994e
 targetaudience: target-audience advanced
-exl-id: ff855f03-eb10-4e44-b604-2dd056d7ab0f
+exl-id: c9fddf02-73ec-44d9-be07-3f7fdcd62f70
 ---
 # Maintaining Open Source While Maintaining Your Sanity{#maintaining-open-source-while-maintaining-your-sanity}
 

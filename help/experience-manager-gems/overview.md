@@ -10,7 +10,7 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM Sessions
-exl-id: 595f6977-935a-4859-9cfd-161d45847f85
+exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 ---
 # Adobe Experience Manager Gems
 

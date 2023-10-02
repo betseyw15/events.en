@@ -10,7 +10,7 @@ version: Cloud Service
 kt: 7175
 type: Event
 thumbnail: 331741.jpg
-exl-id: 5c303ecd-d33e-48c6-94da-f8bbb07577f1
+exl-id: d1672427-b943-4b9f-84ed-ebf2c9c54933
 ---
 # Adobe Developer App Builder Deep Dive 
 

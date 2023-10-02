@@ -7,7 +7,7 @@ role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate
 kt: 10787
 thumbnail: 345377.png
-exl-id: 2d129fbf-bad4-468b-a2a1-46acd44600d7
+exl-id: ccd96d68-72c6-4f31-a586-cc9fd6587627
 ---
 # Simplified, integrated, and headless
 

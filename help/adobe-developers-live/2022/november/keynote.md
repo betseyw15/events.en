@@ -11,7 +11,7 @@ doc-type: Event
 last-substantial-update: 2022-11-15
 kt: 11472
 thumbnail: 3411296.jpeg
-exl-id: 0c6e95a6-63c0-40a0-a5b2-bf5a7d304a3b
+exl-id: c2d3f86e-4fed-4dbd-94be-6e2cfeaa1c1a
 ---
 # Opening Keynote
 

@@ -11,8 +11,8 @@ doc-type: Event
 last-substantial-update: 2023-09-08
 jira: KT-13920
 thumbnail: KT-13920.jpeg
+exl-id: 874cb607-f622-4ef0-9835-13b640fe57f6
 ---
-
 # Unleashing the Potential of New Relic APM for AEM as a Cloud Service
 
 Maximize Performance and Expedite Issue Resolution.

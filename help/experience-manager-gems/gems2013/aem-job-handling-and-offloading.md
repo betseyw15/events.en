@@ -4,7 +4,7 @@ description: Get a technical introduction of the advanced job handling features.
 uuid: 181e3781-8eca-4a5d-879e-15ae4e1f6649
 discoiquuid: ee4cd526-7363-4b8e-ad26-c2c937b70327
 targetaudience: target-audience advanced
-exl-id: 13888662-d1c5-4fff-b55e-38acede95396
+exl-id: bd10465b-6f45-4117-b8a0-1310422f5825
 ---
 # Introduction of Job Handling and Offloading in AEM 5.6.1. {#introduction-of-job-handling-and-offloading-in-aem}
 

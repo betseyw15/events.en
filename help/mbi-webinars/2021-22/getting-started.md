@@ -8,7 +8,7 @@ solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 342501.jpeg
-exl-id: 4d0843b1-251d-45dc-94ab-85a35b71771f
+exl-id: ac932e1b-ae0a-40a3-b7dd-948d88ded358
 ---
 # Getting Started with Commerce Intelligence
 

@@ -4,7 +4,7 @@ description: Learn about current AEM translation capabilities and best practices
 uuid: 50db5f3d-2bd0-4366-8c26-b11c4aa6a23c
 discoiquuid: 0c24228b-b674-47a7-9892-45bb26684ad1
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-exl-id: 4678fa19-9e21-40ed-b450-7f3006ed0992
+exl-id: 3d12fd42-8b35-4c6d-b1ab-2a0c38f3ca12
 ---
 # AEM 6.5 ready for the world - translation integration & best practices{#aem-ready-for-the-world-translation-integration-best-practices}
 

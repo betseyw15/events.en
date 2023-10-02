@@ -4,7 +4,7 @@ description: Delivering complex web experiences fast is challenging. In this tal
 uuid: f6338645-e05f-4b57-b576-65645d9220ed
 discoiquuid: cad28317-da2a-4aa0-a7f1-549f19ca4de1
 targetaudience: target-audience advanced
-exl-id: 8a66cda4-c856-415f-a1fd-cafc6909b7ee
+exl-id: dfb6708b-0b2e-4ee1-8983-014d1f3bc708
 ---
 # AEM Web Performance{#aem-web-performance}
 

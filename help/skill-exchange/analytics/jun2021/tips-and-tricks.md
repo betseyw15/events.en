@@ -6,7 +6,7 @@ role: User
 level: Intermediate, Experienced
 kt: 10321
 thumbnail: 342531.jpeg
-exl-id: ebb0303f-9b6b-42a3-8255-791583525af7
+exl-id: 226de6d3-471d-4294-80a3-73f9e4354d5e
 ---
 # Adobe Analytics Tips & Tricks
 

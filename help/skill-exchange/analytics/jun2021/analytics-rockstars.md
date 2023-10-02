@@ -6,7 +6,7 @@ role: User
 level: Intermediate, Experienced
 kt: 10320
 thumbnail: 342530.jpeg
-exl-id: aaf82dfe-684f-41a0-9323-a4d07735f9ce
+exl-id: 5658cd07-e46f-410c-8c6f-786a4fba1b39
 ---
 # Adobe Analytics Rockstars
 

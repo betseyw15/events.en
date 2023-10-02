@@ -5,7 +5,7 @@ role: Admin
 level: Experienced
 kt: 9991
 thumbnail: 341222.jpeg
-exl-id: cbe4cfbf-6eda-470c-a757-241c45f54029
+exl-id: 1e5dd093-1636-4b48-b317-e53dd5881d08
 ---
 # Automating Workflows with Workfront Fusion (Sep 14, 2021)
 

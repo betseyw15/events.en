@@ -1,7 +1,7 @@
 ---
 title: AEM Champion Office Hours
 description: This Adobe Experience Manager User Group (AEMUG) is facilitated by the 2022-2023 AEM Champion Class. Champions will use this AEMUG as the platform for their monthly office hours
-
+exl-id: 59afdad3-fffc-4ec4-9bdf-cdae32422737
 ---
 # AEM Champion Office Hours
 

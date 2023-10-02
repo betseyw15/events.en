@@ -4,7 +4,7 @@ description: Learn why it is critical for your team's efficiency to enable the H
 uuid: 445d4ead-8055-4624-a618-edd67ee3ec2d
 discoiquuid: 8c411732-3462-4ea1-9bca-e3e1cd6ac3f0
 targetaudience: target-audience advanced
-exl-id: dc5d1693-8d4e-4a2f-9baf-9b5ca2a3931a
+exl-id: 6cffa7ca-4b83-4564-8674-51ec7d2d734c
 ---
 # Efficiently build reusable components{#efficiently-build-reusable-components}
 

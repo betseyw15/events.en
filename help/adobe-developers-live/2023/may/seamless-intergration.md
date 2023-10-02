@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-05-27
 jira: KT-13361
 thumbnail: 3419943.jpeg
-exl-id: 174456e2-cc94-49a2-90d6-82f863e95c31
+exl-id: 38d87a81-24f6-4316-b835-8352fec09dac
 ---
 # Seamless Integration of Experience Manager Assets with Applications
 

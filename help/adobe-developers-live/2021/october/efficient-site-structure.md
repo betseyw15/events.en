@@ -9,7 +9,7 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9182
 type: Event
-exl-id: d1f1e099-2260-40f9-8d3d-dc171939e238
+exl-id: 89fe9e3d-6202-4112-a9ef-9ccc1cc2a475
 ---
 # Efficient Sites Structure - Improved Performance
 

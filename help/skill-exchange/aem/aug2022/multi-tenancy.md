@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate, Experienced
 kt: 10946
 thumbnail: 346388.jpeg
-exl-id: a3789435-28b1-4d16-8687-d3cd697ee999
+exl-id: 16ce451b-bafd-4ffe-a3be-a76500069874
 ---
 # AEM Champion Session Multi Tenancy
 

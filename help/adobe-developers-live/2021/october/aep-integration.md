@@ -8,7 +8,7 @@ role: Developer, Architect
 level: Experienced
 kt: 9222
 type: Event
-exl-id: 7ac76182-8e14-46de-afed-2cdc15819dec
+exl-id: d1e9a0ba-e446-44ad-a137-4bbfbc7f9100
 ---
 # Overview of Adobe Experience Platform integrations 
 

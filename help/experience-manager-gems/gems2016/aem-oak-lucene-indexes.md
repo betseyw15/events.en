@@ -4,7 +4,7 @@ description: We describe the features of Oak Lucene indexes and how they can be 
 uuid: 7664c6b2-3f09-4de4-9ade-b934465ac829
 discoiquuid: f69d9c38-a316-4409-94b3-5ff576034bf3
 targetaudience: target-audience advanced
-exl-id: 671b41ee-851b-460b-86d9-8b3a24587408
+exl-id: ed0e32b3-44bc-4e45-a80e-f9cfd0688e80
 ---
 # Oak Lucene Indexes{#oak-lucene-indexes}
 

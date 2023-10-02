@@ -12,7 +12,7 @@ version: Cloud Service
 kt: 7170
 type: Event
 thumbnail: 331735.jpg
-exl-id: 87c64749-6f4a-4143-9c06-d0441776f304
+exl-id: 722ca68e-a74c-4040-b047-ac153739a7a7
 ---
 # Fast Time to Value with Adobe Experience Manager Sites 
 

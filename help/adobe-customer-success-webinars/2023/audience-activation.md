@@ -8,8 +8,8 @@ doc-type: Event
 last-substantial-update: 2023-08-25
 jira: KT-13847
 thumbnail: 3423008.jpeg
+exl-id: e79a52b8-224e-45b6-884c-3d0fd9bc09a4
 ---
-
 # Setting an Effective Audience Activation Strategy
 
 This session covers,

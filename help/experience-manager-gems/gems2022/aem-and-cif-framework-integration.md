@@ -9,7 +9,7 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 10220
-exl-id: 970e633b-251a-438a-aaf1-159571fa36d2
+exl-id: 3f893f4f-8d4e-4877-9520-8d2012eb724a
 ---
 # Integrate AEM & CIF framework to build a rich and immersive e-commerce experience
 

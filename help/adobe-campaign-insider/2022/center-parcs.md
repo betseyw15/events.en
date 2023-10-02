@@ -5,7 +5,7 @@ version: Classic v7
 solution: Campaign
 kt: 10502
 thumbnail: 343521.jpeg
-exl-id: a57663e4-4e8e-4ac5-8f37-3867289eee44
+exl-id: cb22bcd6-f96c-4f9e-a3eb-ec98e4ea4615
 ---
 # Adobe Campaign Customer Spotlight - Center Parcs
 

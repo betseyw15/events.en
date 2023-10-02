@@ -6,7 +6,7 @@ role: User
 level: Beginner
 kt: 10326
 thumbnail: 342558.jpeg
-exl-id: 73051500-a000-4c9d-bb6d-d25a5e04106a
+exl-id: 865c4976-d7d2-4ee5-b812-4fda2cba12c8
 ---
 # The Power of a Smart Campaign
 

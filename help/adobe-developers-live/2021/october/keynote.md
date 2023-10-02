@@ -7,7 +7,7 @@ role: Developer, Architect
 level: Beginner, Intermediate, Experienced
 kt: 9116
 type: Event
-exl-id: cfc20237-e410-45dc-ac82-12a0074f411a
+exl-id: 3174f90a-0085-4bc0-8651-e8bfcf41b3b9
 ---
 # Opening Keynote
 

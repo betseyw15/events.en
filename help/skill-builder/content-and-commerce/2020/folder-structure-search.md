@@ -12,7 +12,7 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 7338
-exl-id: f39da510-d4d6-447e-97cc-b3f9036e14ab
+exl-id: b19bdea1-486a-400d-93b8-166f0f12d366
 ---
 # Folder Structure and Search - Adobe Experience Manager Asset Series
 

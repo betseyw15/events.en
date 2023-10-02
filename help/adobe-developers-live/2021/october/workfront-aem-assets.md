@@ -8,7 +8,7 @@ level: Beginner
 version: Cloud Service
 kt: 9135
 type: Event
-exl-id: 0ef65533-9409-4911-a379-eed988b752d8
+exl-id: 5edbac18-6e5f-4717-a7cb-5ec2ad4b3f29
 ---
 # Adobe Workfront and Adobe Experience Manager Assets
 

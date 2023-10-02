@@ -4,7 +4,7 @@ description: The AEM Developer Tools for Eclipse is a set of Eclipse plugins aim
 uuid: cb4bb28a-8370-4425-b082-3516b35f3125
 discoiquuid: dfefaa5f-0800-4d6c-99c0-430b2d960079
 targetaudience: target-audience advanced
-exl-id: 539da93f-b3be-4c66-81de-fe97fcb19727
+exl-id: 5209870a-c0fb-4241-ab21-ddf6adf233f8
 ---
 # AEM Developer Tools for Eclipse{#aem-developer-tools-for-eclipse}
 

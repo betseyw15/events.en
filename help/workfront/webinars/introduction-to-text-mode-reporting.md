@@ -5,7 +5,7 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9919
-exl-id: c9bfeb3b-a493-4c4f-a217-a7a2336d254d
+exl-id: 9199bf64-c019-4ffd-9e12-50d4f6ced4a1
 ---
 # Ask the Expert - Introduction to Text Mode Reporting
 

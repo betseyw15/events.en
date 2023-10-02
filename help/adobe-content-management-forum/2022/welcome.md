@@ -6,7 +6,7 @@ role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate, Experienced
 kt: 10784
 thumbnail: 345183.png
-exl-id: 62d5d3b3-d13c-4b8b-8a38-f1031cdb58c2
+exl-id: 046e3a51-bdd5-4357-96d2-f738e0b40934
 ---
 # Welcome address and AEM overview
 

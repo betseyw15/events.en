@@ -8,7 +8,7 @@ event-cta-url-live: https://www.youtube.com/watch?v=sNsFedPnhL8
 event-cta-url-reg: null
 event-start-time: 2023-6-14 08:00-7
 event-guests: Sandra Hausmann,Robert Calangiu,Erik Wiener,Daniel Cristian Popescu
-exl-id: 22261af0-7ac2-4fc2-be7d-f46ae86d9885
+exl-id: c5240612-29d4-4404-b12b-71e70bb780bd
 ---
 # Explore the future of Adobe Journey Optimizer with the web channel and content experimentation
 

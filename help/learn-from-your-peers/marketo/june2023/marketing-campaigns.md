@@ -8,8 +8,8 @@ last-substantial-update: 2023-06-30
 jira: KT-13564
 thumbnail: 3421021.jpeg
 event-start-time: 2023-6-30 08:30-8
+exl-id: 531d690e-8bb1-49eb-aafa-bc5db88baea7
 ---
-
 # Track, Analyze, and Optimize your Marketing Campaigns with Marketo Engage
 
 Adobe Marketo Engage is a powerful marketing automation platform for marketers, but often marketers find themselves struggling to quantify the impact of the marketing efforts. Watch this on-demand webinar to optimize your marketing programs using the reporting and analytics capabilities within Marketo Engage. 

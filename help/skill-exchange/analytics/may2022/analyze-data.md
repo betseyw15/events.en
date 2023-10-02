@@ -9,7 +9,7 @@ role: User
 level: Beginner
 kt: 10465
 thumbnail: 343330.jpeg
-exl-id: 895c49f0-104c-4abe-9772-70d89a5e794f
+exl-id: d22977a9-d7fb-4397-be3e-b8a8073da958
 ---
 # Analyzing the Data
 

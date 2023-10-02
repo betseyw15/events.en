@@ -8,7 +8,7 @@ level: Beginner, Intermediate, Experienced
 thumbnail: 336938.jpg
 kt: 8864
 type: Event
-exl-id: 179654ad-d12f-4cf2-8154-58e867c8a8ca
+exl-id: 7383654b-96ed-41d7-ac24-9e8b290d1206
 ---
 # Evolving Your Audience Center of Excellence
 

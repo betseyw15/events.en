@@ -12,7 +12,7 @@ version: Cloud Service
 kt: 7188
 type: Event
 thumbnail: 331851.jpg
-exl-id: 3c0af2d0-c672-4f69-b5c7-9467661fc15e
+exl-id: 1326926c-1bb4-4d05-ab08-a8f60701bd1a
 ---
 # Content and Commerce with Adobe Experience Manager as a Cloud Service
 

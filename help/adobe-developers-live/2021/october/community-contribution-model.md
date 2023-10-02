@@ -7,7 +7,7 @@ role: Developer, Architect
 level: Experienced
 kt: 9197
 type: Event
-exl-id: e94da13c-ac0c-40eb-a1e2-96f318074785
+exl-id: 6b07f3b8-2885-4bac-8cfd-24250a35f597
 ---
 # Adobe Commerce and the Community Contribution Model
 

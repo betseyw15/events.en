@@ -9,7 +9,7 @@ role: Admin, Developer, User
 level: Intermediate, Experienced
 kt: 10573
 thumbnail: 343816.jpeg
-exl-id: 1fdcb865-d6a1-4536-9217-2e5787199372
+exl-id: 0353e331-5ccd-47cb-ae9b-f969351ce4f5
 ---
 # Deliver Headless Experiences with Adobe Experience Manager
 

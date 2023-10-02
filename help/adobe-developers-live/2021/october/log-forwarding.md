@@ -7,7 +7,7 @@ role: Developer, Architect
 level: Beginner, Intermediate, Experienced
 kt: 9123
 type: Event
-exl-id: 996b8d07-db06-49f2-8a31-a06fada7b846
+exl-id: a2e7d00e-e7b9-4ad7-aa3e-fd3850384d07
 ---
 # Monitoring App Builder applications with Log Forwarding
 

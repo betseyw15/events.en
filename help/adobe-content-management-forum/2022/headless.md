@@ -1,6 +1,6 @@
 ---
 title: Extending Experience Manager Headless with App Builder
-description: Learn about Experience Manager Headless and Adobe App Builder. Integrate AEM with third-party systems, from event-driven integrations, scalable server-less processing to single page applications (SPA). 
+description: Learn about Experience Manager Headless and Adobe App Builder. Integrate AEM with third-party systems, from event-driven integrations, scalable server-less processing to single page applications (SPA).
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Developer Tools, APIs, Integrations
 topic: Headless, Development
@@ -8,7 +8,7 @@ role: Leader, Architect, Developer, Admin
 level: Intermediate, Experienced
 kt: 10790
 thumbnail: 345380.png
-exl-id: 84c85f98-98e5-44fe-96b4-5a6e4546cece
+exl-id: 00c4e64c-09b4-424c-b3da-fad7421b93b1
 ---
 # Extending [!DNL Experience Manager] Headless with Adobe [!DNL App Builder]
 

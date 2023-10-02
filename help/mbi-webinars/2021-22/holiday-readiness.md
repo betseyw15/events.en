@@ -8,7 +8,7 @@ solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Intermediate
 thumbnail: 342496.jpeg
-exl-id: 958d2e09-e4bd-4f6c-91d8-3aa83368013f
+exl-id: 9c05e0c7-50cd-42e8-bf7a-7e278b7060bc
 ---
 # Holiday Readiness with Commerce Intelligence
 

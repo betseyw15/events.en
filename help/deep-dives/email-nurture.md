@@ -7,7 +7,7 @@ doc-type: Event
 last-substantial-update: 2023-05-03
 jira: KT-13153
 thumbnail: 3418903.jpeg
-exl-id: 3990f951-8480-4d17-be19-ec4fa9c14f5c
+exl-id: b0773186-bffb-49f7-a9e1-7254c33c03b3
 ---
 # Email Nurture
 

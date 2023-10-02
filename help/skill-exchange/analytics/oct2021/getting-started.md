@@ -8,7 +8,7 @@ role: User
 level: Beginner
 kt: 10475
 thumbnail: 343349.jpeg
-exl-id: 0f56ab4d-f782-4af9-befa-d6ce0a9bc856
+exl-id: e7c8a227-bd03-46d8-b463-e7331233f7fb
 ---
 # Getting Started
 

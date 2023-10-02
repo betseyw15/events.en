@@ -9,8 +9,8 @@ doc-type: Event
 last-substantial-update: 2023-07-22
 jira: KT-13710
 thumbnail: 3421761.jpeg
+exl-id: 1f1ebdd3-5a66-4068-aeca-1ebe6aa01e3c
 ---
-
 # Building the Foundation for Personalization at Scale
 
 This webinar focuses on understanding the groundwork needed to orchestrate personalization at scale

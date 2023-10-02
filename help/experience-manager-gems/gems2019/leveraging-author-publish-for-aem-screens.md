@@ -4,7 +4,7 @@ description: Get a full production setup for AEM Screens and learn all necessary
 uuid: 45a68d1d-824e-4922-b440-dd53131d2bdc
 discoiquuid: ea92d8e0-1dc3-4933-9fd2-f8d240ec65ba
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-exl-id: 090088b9-dd8c-458c-bb6c-124b4d397daf
+exl-id: 27bf6d01-d720-41a1-87b2-7d1d6d29a10c
 ---
 # Leveraging author-publish for AEM Screens{#leveraging-author-publish-for-aem-screens}
 

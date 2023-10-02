@@ -9,7 +9,7 @@ doc-type: Event
 thumbnail: 332060.jpg
 kt: 7335
 type: Event
-exl-id: e97f13cf-091c-4726-b1b1-e0f683fea93a
+exl-id: 9736dd6f-ff33-41b5-80d6-1bb981bfc0b7
 ---
 # A Tale of Two Perceptions - Brands vs Consumers
 

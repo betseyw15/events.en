@@ -4,7 +4,7 @@ description: Learn about the query engine of Oak and how it compares to Jackrabb
 uuid: 110e7e51-6e0c-4eae-9bc3-063e16b0ec92
 discoiquuid: 51d59018-e137-4370-8530-9c38dca34343
 targetaudience: target-audience advanced
-exl-id: ab0851fb-7271-49c5-9f11-81ea7c7c0d47
+exl-id: dea6d73e-0659-4b9a-b338-ee5eac0bc342
 ---
 # AEM 6 Oak - MongoMK and Queries{#aem-oak-mongomk-and-queries}
 

@@ -4,7 +4,7 @@ description: Media portals are critical for organizations to share assets both i
 uuid: 0a5a3c7c-60b2-400f-b555-ca51f01e8184
 discoiquuid: 524f8a2e-dcd4-44b5-ae2f-524dff8f03ab
 targetaudience: target-audience advanced
-exl-id: 2664bee0-85d4-4f85-bdd2-841d2d5f1e35
+exl-id: 2ca69b0f-8e43-437b-9fbb-76376fb1c17d
 ---
 # Major Brand Portal Release and new reference implementation for Asset Share{#major-brand-portal-release-and-new-reference-implementation-for-asset-share}
 

@@ -4,7 +4,7 @@ description: Learn how to implement custom fields (or widgets) for Touch UI dial
 uuid: 3fe33258-ae88-42e6-917e-35a6525e5cd5
 discoiquuid: 45acb883-7202-494b-bbbb-78189c222093
 targetaudience: target-audience advanced
-exl-id: f5d7cf6e-86a8-4a59-95c4-fea76ffbdf7c
+exl-id: de13e990-fd41-4d7f-b70a-49b210c38263
 ---
 # Customize dialog fields in Touch UI{#customizing-dialog-fields-in-touch-ui}
 

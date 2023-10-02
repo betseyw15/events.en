@@ -6,7 +6,7 @@ role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
 kt: 10565
 thumbnail: 343820.jpeg
-exl-id: ddb44c5f-563b-4f42-bcdc-7eccefbe5239
+exl-id: 07a57ae6-77b9-4776-ad19-9308ba324158
 ---
 # All you need to know about Cross Device Analytics and Customer Journey Analytics
 
