@@ -9,8 +9,8 @@ doc-type: Event
 last-substantial-update: 2023-10-06
 jira: KT-14118
 thumbnail: 3424735.jpeg
+exl-id: 337a19c3-2959-492a-b0c6-87d5a7731797
 ---
-
 # A Deep Dive into Tools for AEM Sites
 
 Join Adobe Experience Manager Champion, Cindy Underwood, as she shares learnings that will equip you with the best practices for harnessing tools effectively and transforming your AEM Sites experience. Get ready to explore:
