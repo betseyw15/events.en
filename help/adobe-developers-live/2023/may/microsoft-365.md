@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-05-27
 jira: KT-13358
 thumbnail: 3419945.jpeg
-exl-id: decfe97b-cb46-432e-9b88-cfdf7e673cda
+exl-id: fc3f0acb-cf81-4994-9ad4-ee2b00e10be8
 ---
 # Developing a good editor experience with Microsoft 365/Google Workspace
 

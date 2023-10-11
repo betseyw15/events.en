@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-05-27
 jira: KT-13360
 thumbnail: 3419939.jpeg
-exl-id: ab3b5cb2-25a4-4e2f-a129-17254909042b
+exl-id: c7ac25f1-ec0d-4ba6-bc03-2ff393dd1699
 ---
 # Deep-dive into AEM Core Components for E-Mail and Forms
 

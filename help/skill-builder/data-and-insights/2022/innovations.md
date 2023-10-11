@@ -6,7 +6,7 @@ role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 kt: 10581
 thumbnail: 343818.jpeg
-exl-id: eaaf34ea-48bc-46de-81d7-6b9f4b7c012e
+exl-id: 01d0deef-eafe-47c0-8684-2c9bf709c53c
 ---
 # What's new in the Data and Insight space? 2022 Innovations
 

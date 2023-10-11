@@ -1,18 +1,22 @@
 ---
-title: Getting Started with MBI
-description: Watch this webinar to learn about the core functionality of MBI for your Adobe Commerce or Magento Open Source store.
-landing-page-description: Watch this recorded webinar to learn about the core functionality of MBI for your Adobe Commerce or Magento Open Source store.
-short-description: Watch this recorded webinar to learn about the core functionality of MBI for your Adobe Commerce or Magento Open Source store.
+title: Getting Started with Commerce Intelligence
+description: Watch this webinar to learn about the core functionality of Commerce Intelligence for your Adobe Commerce or Magento Open Source store.
+landing-page-description: Watch this recorded webinar to learn about the core functionality of Commerce Intelligence for your Adobe Commerce or Magento Open Source store.
+short-description: Watch this recorded webinar to learn about the core functionality of Commerce Intelligence for your Adobe Commerce or Magento Open Source store.
 kt: 10408
-solution: Commerce, Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 342501.jpeg
-exl-id: 4d0843b1-251d-45dc-94ab-85a35b71771f
+exl-id: ac932e1b-ae0a-40a3-b7dd-948d88ded358
 ---
-# Getting Started with MBI
+# Getting Started with Commerce Intelligence
 
-Learn about the core functionality of MBI directly from the Commerce Product team with a deep dive into pre-configured dashboards and customization options available.
+>[!NOTE]
+>
+>Adobe Commerce Intelligence was previously known as [!DNL Magento Business Intelligence (MBI)]. Recordings for past events reflect the previous name.
+
+Learn about the core functionality of Commerce Intelligence directly from the Commerce Product team with a deep dive into pre-configured dashboards and customization options available.
 
 Use cases are shared throughout, which provide illustrative examples of how merchants are gaining more insights and driving more growth in their stores with BI, starting day one.
 
@@ -22,9 +26,5 @@ Use cases are shared throughout, which provide illustrative examples of how merc
 
 ## Useful resources
 
->[!TIP]
->
->The [Getting Started video series](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) also provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
-
-[MBI Introduction](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-[MBI Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Commerce Intelligence Introduction](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+[Commerce Intelligence Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

@@ -10,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10055
 thumbnail: 341444.jpeg
-exl-id: 6ccb55f7-bf15-4f88-8822-950ca9de5e15
+exl-id: 24ba4ff1-1624-4dbc-8f5e-45cbcae650b6
 ---
 # Adobe Experience Manager as a Cloud Service: 2021 review and 2022 outlook
 

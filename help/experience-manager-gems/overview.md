@@ -10,7 +10,7 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM Sessions
-exl-id: 595f6977-935a-4859-9cfd-161d45847f85
+exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 ---
 # Adobe Experience Manager Gems
 
@@ -38,8 +38,8 @@ exl-id: 595f6977-935a-4859-9cfd-161d45847f85
 </table>
 
 -->
-Our latest AEM GEMs webinar on **Accelerating Adobe Experience Manager Cloud Service development with Rapid Development Environments** has been conducted on *February 22nd, 2023*. 
-The **recording** can be found here: [AEM Rapid Development Environments webinar](gems2023/rapid-development-environments.md)
+Our latest AEM GEMs webinar on **Unleashing the Potential of New Relic APM for AEM as a Cloud Service. Maximize Performance and Expedite Issue Resolution** has been conducted on *September 20th, 2023*. 
+The **recording** can be found here: [New Relic APM for Adobe Experience Manager as a Cloud Service](/help/experience-manager-gems/gems2023/newrelic-apm-for-aem-cloud-service.md)
 
 >[!NOTE]
 >

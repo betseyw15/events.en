@@ -4,7 +4,7 @@ description: Learn how easy it is to develop OSGi bundles and services for AEM. 
 uuid: 175dd285-ee5c-45b1-8dd5-2fc4f5964dc5
 discoiquuid: 1814b885-2832-4fda-bb36-467f77b88c7a
 targetaudience: target-audience advanced
-exl-id: 4baf91ab-3282-4432-8db4-003918deac10
+exl-id: 821b72b1-de34-45aa-9722-3041aabc774b
 ---
 # Developing OSGi Bundles and Services for AEM{#developing-osgi-bundles-and-services-for-aem}
 

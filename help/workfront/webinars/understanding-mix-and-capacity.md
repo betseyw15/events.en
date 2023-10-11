@@ -5,7 +5,7 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9913
-exl-id: 5993c6c3-0583-4d1c-94aa-2e64a699e7f1
+exl-id: 49cce53f-457b-4973-a0d9-1b5ce2272884
 ---
 # Ask the Expert - Understanding mix and capacity
 

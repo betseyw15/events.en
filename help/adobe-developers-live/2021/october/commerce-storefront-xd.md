@@ -7,7 +7,7 @@ role: Developer, Architect
 level: Experienced
 kt: 9200
 type: Event
-exl-id: 53b8bb9e-a4dc-4b96-b0f3-bfd1caacd426
+exl-id: ffdd55ed-538b-40e2-99a1-399a5e7359fd
 ---
 # Collaborative PWA Storefront Design with XD
 

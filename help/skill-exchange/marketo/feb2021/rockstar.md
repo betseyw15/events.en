@@ -6,7 +6,7 @@ role: User
 level: Beginner
 kt: 9707
 thumbnail: 340311.jpeg
-exl-id: 73cf11fe-26cc-44ac-a1a3-26c9baf5ee5e
+exl-id: 80120f0f-6a32-4241-91c6-43d4d814f032
 ---
 # Adobe [!DNL Marketo Engage] Rockstar Segment
 

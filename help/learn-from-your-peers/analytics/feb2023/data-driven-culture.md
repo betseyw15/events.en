@@ -7,7 +7,7 @@ last-substantial-update: 2023-02-09
 kt: 11836
 thumbnail: 3414131.jpeg
 event-start-time: 2023-2-2 08:30-8
-exl-id: ed094741-b524-4dc7-ac07-35b9ba85e7b8
+exl-id: eeb2e732-b568-472c-9e4d-d62b03b656dc
 ---
 # Building a Data Driven Culture
 

@@ -8,7 +8,7 @@ role: Developer, Architect
 level: Experienced
 kt: 9211
 type: Event
-exl-id: 5264256e-b636-42ca-8a35-7abaab1ebd8f
+exl-id: 3dc868f6-5ef0-4451-af67-5c125822b75f
 ---
 # Parsing PDF - Extracting PDF content intelligently into JSON format with PDF Extract API
 

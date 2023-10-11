@@ -1,16 +1,20 @@
 ---
-title: Holiday Readiness with MBI
+title: Holiday Readiness with Commerce Intelligence
 description: Watch this webinar to learn how to use your eCommerce data for success during the holiday season.
 landing-page-description: Watch this recorded webinar to learn how to use your eCommerce data for success during the holiday season.
 short-description: Watch this recorded webinar to learn how to use your eCommerce data for success during the holiday season.
 kt: 10409
-solution: Commerce,Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Intermediate
 thumbnail: 342496.jpeg
-exl-id: 958d2e09-e4bd-4f6c-91d8-3aa83368013f
+exl-id: 9c05e0c7-50cd-42e8-bf7a-7e278b7060bc
 ---
-# Holiday Readiness with MBI
+# Holiday Readiness with Commerce Intelligence
+
+>[!NOTE]
+>
+>Adobe Commerce Intelligence was previously known as [!DNL Magento Business Intelligence (MBI)]. Recordings for past events reflect the previous name.
 
 Use your eCommerce data for success during the holiday season. This webinar highlights some common seasonal analysis use cases and methods to address them using key MBI features, including:
 
@@ -29,9 +33,5 @@ Use your eCommerce data for success during the holiday season. This webinar high
 
 ## Useful resources
 
->[!TIP]
->
->If you are new to MBI, the [Getting Started video series](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
-
-[MBI User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html)
-[MBI Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html)
+[Commerce Intelligence Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

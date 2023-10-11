@@ -6,7 +6,7 @@ role: Admin, Leader, User
 level: Intermediate, Experienced
 kt: 10563
 thumbnail: 343815.jpeg
-exl-id: db2f15f5-c2d6-41bd-9cfb-5b42f8744da2
+exl-id: d770673b-4f48-4761-86df-f21a3cdfc4bc
 ---
 # Make Metadata work for your business in Adobe Experience Manager Assets
 

@@ -2,8 +2,8 @@
 title: Adobe Commerce Product Updates
 description: The latest product innovations in Adobe Commerce, presented by the Adobe Commerce product team.
 user-guide-breadcrumb: Adobe Commerce Release Updates
+exl-id: 838b1ed9-eb45-4818-9a8e-807b557d0bce
 ---
-
 # Adobe Commerce Product Updates
 
 Join the Adobe Commerce Product Update Webinar to learn how we are transforming the platform with many new and exciting capabilities! We will showcase the latest Commerce innovations and how they help you grow sales, streamline development, and boost performance.

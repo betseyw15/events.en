@@ -12,7 +12,7 @@ version: Cloud Service
 kt: 7177
 type: Event
 thumbnail: 331737.jpg
-exl-id: 9b221a85-5e8b-486c-9d47-17f939c9a59c
+exl-id: 3365d609-70e7-404c-ad4d-c9049ed00b35
 ---
 # Rapid Frontend Development - Your Future Workflow 
 

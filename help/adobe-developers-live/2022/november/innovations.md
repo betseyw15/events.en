@@ -11,7 +11,7 @@ doc-type: Event
 last-substantial-update: 2022-11-15
 kt: 11483
 thumbnail: 3411304.jpeg
-exl-id: 4bfb70a3-9511-400e-8ccb-19d7dda3827f
+exl-id: 7077c3ba-1a56-4715-a564-90fc4f4b2071
 ---
 # Latest Adobe Experience Manager Headless Innovations for Developers
 

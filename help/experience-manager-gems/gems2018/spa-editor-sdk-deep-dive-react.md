@@ -4,7 +4,7 @@ description: Deep dive with us into the development of Single-Page-Applications 
 uuid: 535ebce7-bbd9-4e84-a7a8-52254d01550e
 discoiquuid: 4aac1fad-0b99-461b-8f09-6d775de5bbec
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-exl-id: 14b718f2-495c-4553-b63b-6fe242b84ef4
+exl-id: cdb5b891-8501-464a-bdd7-1b89dd17944c
 ---
 # SPA Editor SDK Deep Dive - Part 1 - React {#spa-editor-sdk-deep-dive-part-react}
 

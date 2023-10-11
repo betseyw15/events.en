@@ -6,7 +6,7 @@ role: Admin, Data Architect, Data Engineer, User
 level: Beginner, Intermediate, Experienced
 kt: 10570
 thumbnail: 343824.jpeg
-exl-id: c3b4af01-047f-4634-a1bc-f7b0ec87936e
+exl-id: abe0f3e6-8f1e-40ce-903e-109076b29a28
 ---
 # Better together - Adobe [!DNL Marketo Engage] and Real-Time CDP
 

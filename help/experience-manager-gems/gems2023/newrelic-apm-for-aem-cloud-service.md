@@ -11,17 +11,13 @@ doc-type: Event
 last-substantial-update: 2023-09-08
 jira: KT-13920
 thumbnail: KT-13920.jpeg
+exl-id: 874cb607-f622-4ef0-9835-13b640fe57f6
 ---
-
 # Unleashing the Potential of New Relic APM for AEM as a Cloud Service
 
 Maximize Performance and Expedite Issue Resolution.
 
-This webinar will be conducted on September 20th - 5pm CEST - 8am PDT - 8.30pm IST
-
-## Registration
-
-[Please register via AEM User Group to join this session](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-harness-the-power-of-new-relic-apm-for-aem-as-a-cloud-service-boost-performance-amp-rapid-issue-fix/)
+This webinar has been conducted on **September 20th**, 2023. Please view the recording below.
 
 ## Session Description
 
@@ -41,8 +37,12 @@ Discover the process for accessing New Relic, a feature included by default with
 * Luciana Surdoiu, Head of Cloud Automation, Adobe
 * Michael Campbell, Senior AEM Site Reliability Engineer, Adobe
 
+## Webinar Recording - 09/20/2023
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424439/)
+
 >[!NOTE]
 >
->* For session specific community interactions on Experience League a link will be posted shortly.
+>* For session specific community interactions on Experience League please visit our [contextual thread](https://adobe.ly/3sV67N5).
 >
 >* To receive notifications regarding our upcoming webinars, please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/).

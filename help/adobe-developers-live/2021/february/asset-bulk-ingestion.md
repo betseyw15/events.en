@@ -12,7 +12,7 @@ version: Cloud Service
 kt: 7168
 type: Event
 thumbnail: 331769.jpg
-exl-id: ab5e14f0-e71d-407a-b0c3-cd51bd50a9ed
+exl-id: c08944f0-1ce0-43cd-9f37-ae10126b6915
 ---
 # Asset Bulk Ingestion 
 

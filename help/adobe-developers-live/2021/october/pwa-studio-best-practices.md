@@ -7,7 +7,7 @@ role: Developer, Architect
 level: Experienced
 kt: 9199
 type: Event
-exl-id: f7f84b7d-3834-4ed2-bcdf-b2576827ffca
+exl-id: 516ea10a-8783-4ddf-bed1-2415b38177cb
 ---
 # PWA Studio Best Practices for Beginners
 

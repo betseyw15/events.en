@@ -9,7 +9,7 @@ role: User
 level: Intermediate, Experienced
 kt: 10462
 thumbnail: 343324.jpeg
-exl-id: c347e8ee-9d6b-468b-85fd-a716dfdb5997
+exl-id: 05bec862-7a14-4a58-9123-7a84f23249aa
 ---
 # Navigating SPA Challenges in Test Builds & Analysis
 

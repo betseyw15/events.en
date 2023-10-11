@@ -4,7 +4,7 @@ description: Join us to know the best practices for deploying AEM Maintenance Re
 uuid: ff4d7884-c3df-44a9-9863-78a79fa58fad
 discoiquuid: 9020b761-503f-4e4a-9d4f-eb615919d716
 targetaudience: target-audience advanced
-exl-id: 55b4da7c-b21c-4ae2-9008-6d37e4f97006
+exl-id: 02ac66bc-46d4-4384-a719-23020b9285f9
 ---
 # AEM sustenance - Best practices for deploying AEM maintenance releases{#aem-sustenance-best-practices-for-deploying-aem-maintenance-releases}
 

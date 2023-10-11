@@ -7,7 +7,7 @@ role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate, Experienced
 kt: 10507
 thumbnail: 343872.jpeg
-exl-id: 87f6d0b4-1501-4182-8b4f-bf146de1d60d
+exl-id: 6faeec55-17d0-471b-8289-6cfb05cc4ee3
 ---
 # Deliverability best practices and strategies that drive results
 

@@ -5,7 +5,7 @@ uuid: 69df8fcb-4713-42a9-a986-a4ad9d4e36c6
 topic-tags: analytics
 discoiquuid: 0982386a-a34c-4401-a6d5-7aeabe7eb50c
 targetaudience: target-audience advanced
-exl-id: 3a4078d0-2e25-47c2-bb8b-fe0278b93ff7
+exl-id: 870620f5-60dd-43b0-86ed-b2bb82779531
 ---
 # Adobe Developer (IO) events - Analytics Triggers{#adobe-i-o-events-analytics-triggers}
 

@@ -4,7 +4,7 @@ description: Learn how AEM DAM manages the metadata of assets. Learn the XMP sta
 uuid: 09bce4bb-8880-41ae-b95c-1f36407191ff
 discoiquuid: 0e2538bc-7a1a-41ce-8fed-64805ca1bb89
 targetaudience: target-audience advanced
-exl-id: 0c60cfae-aa7c-4dbc-ba56-9d0b7063770a
+exl-id: 11302a97-d19e-4572-99f3-6315d0bd936e
 ---
 # Metadata Management in AEM DAM{#metadata-management-in-aem-dam}
 

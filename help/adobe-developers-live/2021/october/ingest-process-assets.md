@@ -8,7 +8,7 @@ level: Beginner
 version: Cloud Service
 kt: 9180
 type: Event
-exl-id: 35829d9d-f4bf-4c5c-9313-7e4f5f293828
+exl-id: 7bf484d6-29fc-44b5-99c1-cc3e6055c72d
 ---
 # How to ingest and process assets into Experience Manager Assets as a Cloud Service
 

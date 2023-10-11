@@ -11,7 +11,7 @@ version: Cloud Service
 kt: 7173
 type: Event
 thumbnail: 331739.jpg
-exl-id: 089d3908-49c4-47c1-8941-c59ba3befcd1
+exl-id: 31ab1743-9e0e-42db-94e0-1d630680c96f
 ---
 # Moving Adobe Experience Manager to the Cloud - Challenges, Stories, Solutions 
 

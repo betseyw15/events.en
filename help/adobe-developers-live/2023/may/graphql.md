@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-05-27
 jira: KT-13362
 thumbnail: 3419948.jpeg
-exl-id: 7418602a-e4e5-4db8-afd0-8977943ab9dc
+exl-id: 47e32914-4899-48f5-91e7-598788adf361
 ---
 # Understand GraphQL API performance options and query optimizations
 

@@ -11,7 +11,7 @@ level: Intermediate
 kt: 7179
 type: Event
 thumbnail: 331761.jpg
-exl-id: 93ee54d3-b522-47c8-91f9-eb9f9487afc9
+exl-id: 86dd2104-fad4-4ad7-bf25-e76efa753a5d
 ---
 # Experience Platform SDKs and Launch Server Side 
 

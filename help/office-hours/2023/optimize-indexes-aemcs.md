@@ -9,8 +9,8 @@ feature: Cloud Manager, Projects
 last-substantial-update: 2023-08-25
 jira: KT-13811
 thumbnail: 3422534.jpeg
+exl-id: 49021cb6-660f-461f-86ff-85d36d7fa4a3
 ---
-
 # Foundation for Optimizing Indexes with AEM Cloud Service
 
 This live session introduces indexing with AEM as a Cloud Service (AEMaaCS). We will cover - Indexing changes and how that would impact different projects, challenges customers are facing with indexes on AEMaaCS, and best practices for optimizing these indexes

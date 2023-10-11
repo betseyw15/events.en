@@ -4,7 +4,7 @@ description: Get a walk-through about the different integration features with de
 uuid: 0c7aa66b-3909-4eeb-85d6-87e7faa4db39
 discoiquuid: f9e11075-59f1-46cb-82c7-ba85864f5e33
 targetaudience: target-audience advanced
-exl-id: f9fd62b7-89e4-46d3-a3e2-40f5d856580f
+exl-id: e95f9c55-f36f-47c3-b86a-9bb045e7822c
 ---
 # IBM WebSphere Commerce integration for AEM{#ibm-websphere-commerce-integration-for-aem}
 

@@ -4,7 +4,7 @@ description: AEM Dynamic Media enables customers to scalably and cost effectivel
 uuid: 7074c98e-f9d1-4c15-b9db-dae3efda0ea0
 discoiquuid: c58473c1-d8d8-44a7-ac40-65843c77c937
 targetaudience: target-audience advanced
-exl-id: c0e407ef-4b74-4f18-812d-ff97732dae5d
+exl-id: 93ae20fb-d6fe-4275-9692-93c25edba0ef
 ---
 # Setup and Configure AEM Dynamic Media{#setup-and-configure-aem-dynamic-media}
 

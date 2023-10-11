@@ -8,7 +8,7 @@ level: Beginner
 last-substantial-update: 2022-10-31
 kt: 11371
 thumbnail: 3410646.jpeg
-exl-id: 857c5b59-fc03-42ed-aed0-506c761cda37
+exl-id: e9c1249c-8584-43f9-a6d2-b98c6ad218f9
 ---
 # Transforming data into value with MBI
 

@@ -4,7 +4,7 @@ description: Get a presentation about enhanced translation integration capabilit
 uuid: 07db1af6-e823-44cb-8502-4b4a135902c9
 discoiquuid: b05a88a0-8a38-432b-99f7-23e3799ad209
 targetaudience: target-audience advanced
-exl-id: 13dad1bb-9190-470e-a0e5-fd10b13fed57
+exl-id: ab91fcec-9ca1-40e3-9b5f-4aed8ed96b9b
 ---
 # AEM 6.1 translation integration & best practices{#aem-translation-integration-best-practices}
 

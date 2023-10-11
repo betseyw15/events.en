@@ -12,7 +12,7 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 7339
-exl-id: c2c500bf-b060-4507-af61-4c5dd1c5a8ec
+exl-id: b988b7ca-316f-4a14-9ca1-a9dc6b24aa5d
 ---
 # Metadata - Adobe Experience Manager Asset Series
 

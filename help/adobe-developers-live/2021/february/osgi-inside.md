@@ -11,7 +11,7 @@ version: Cloud Service
 kt: 7174
 type: Event
 thumbnail: 331740.jpg
-exl-id: e1ac9124-847a-4432-8ab4-eef52b2a88c7
+exl-id: d349c365-cea0-4d5c-9262-b6be05620f04
 ---
 # OSGi inside - why we love it and why you don't really need to care 
 

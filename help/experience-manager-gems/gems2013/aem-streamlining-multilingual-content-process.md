@@ -4,7 +4,7 @@ description: Learn about best practices to streamline the process of multilingua
 uuid: c4900ed3-f85b-4139-8e42-b5d1c03c36da
 discoiquuid: 77f623b6-4ca9-4122-9a48-5efe4d118865
 targetaudience: target-audience advanced
-exl-id: 17f25976-5be7-423f-bdbf-8c686e061c3d
+exl-id: 01709699-5213-4fee-824e-a6b954ab86cd
 ---
 # Streamlining multilingual content process{#streamlining-multilingual-content-process}
 

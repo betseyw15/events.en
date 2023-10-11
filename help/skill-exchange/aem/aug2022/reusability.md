@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate, Experienced
 kt: 10950
 thumbnail: 346387.jpeg
-exl-id: 5e6c4863-a700-4115-a6f9-81b64ca3591c
+exl-id: c4c1608b-5119-4060-b10d-9095a1d9adc6
 ---
 # The Power of Reusability 
 

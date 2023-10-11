@@ -5,7 +5,7 @@ version: Classic v7
 solution: Campaign
 kt: 10508
 thumbnail: 343525.jpeg
-exl-id: 5e2c8056-38f2-4469-a613-c4e1221082a9
+exl-id: 5a8473ac-01e6-42e4-95c6-2825378b7a1c
 ---
 # Adobe Campaign integrations with a marketing ecosystem
 

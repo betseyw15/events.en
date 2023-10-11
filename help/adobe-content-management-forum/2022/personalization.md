@@ -8,9 +8,8 @@ role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate
 kt: 10785
 thumbnail: 345374.png
-exl-id: d7d0dbd9-f3b5-4cc6-bc49-aaefea3201d0
+exl-id: 03cee7d4-fc5b-4d9a-b4a3-d31b93dde3ab
 ---
-
 # Deliver content personalization that drives business value
 
 Hear from Karthik Muralidharan and learn how to leverage personalization workflows with Adobe Experience Manager to generate higher ROI on the experiences you deliver.

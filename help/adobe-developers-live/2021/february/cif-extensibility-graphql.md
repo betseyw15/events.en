@@ -12,7 +12,7 @@ version: Cloud Service
 kt: 7187
 type: Event
 thumbnail: 331850.jpg
-exl-id: c41fd457-a8aa-4ab5-a7e4-67562aa77d63
+exl-id: 15776683-621e-4be4-b4ef-b9c58a4eedf4
 ---
 # Commerce Integration Framework Extensibility via GraphQL 
 

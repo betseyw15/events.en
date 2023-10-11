@@ -6,7 +6,7 @@ doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
 last-substantial-update: 2023-08-15
-exl-id: 7ed7887f-acc5-43dd-b0dc-e64341f969ca
+exl-id: 83053de2-e386-4243-a9c8-a2ad9d51790f
 ---
 # Ask the Expert - Measuring velocity
 

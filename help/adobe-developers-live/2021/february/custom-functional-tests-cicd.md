@@ -12,7 +12,7 @@ version: Cloud Service
 kt: 7409
 type: Event
 thumbnail: 332309.jpg
-exl-id: c5819fbd-b0b0-4675-9f96-43ffb83c283a
+exl-id: 5896acc7-a5b8-42a1-a57b-88fdc8dd1da2
 ---
 # Custom Functional Tests for safer CI/CD pipelines
 

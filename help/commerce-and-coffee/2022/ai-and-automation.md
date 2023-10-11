@@ -9,7 +9,7 @@ doc-type: Event
 last-substantial-update: 2023-01-06
 kt: 11653
 thumbnail: 3412709.jpeg
-exl-id: 6c6af162-7abd-4c51-b163-136fa7e86578
+exl-id: 0e9b072c-8b2d-4b85-b18a-a962d9f4d676
 ---
 # Commerce and Coffee - AI and Automation
 

@@ -6,7 +6,7 @@ role: Admin, User
 level: Beginner, Intermediate, Experienced
 kt: 10569
 thumbnail: 343826.jpeg
-exl-id: 562f17b9-b36b-42e9-8914-e43ad49f3446
+exl-id: 0ecf5ee8-6c7d-4467-9779-10fb114b7e5e
 ---
 # B2B experiences with [!DNL Marketo Engage] and Adobe Experience Cloud
 

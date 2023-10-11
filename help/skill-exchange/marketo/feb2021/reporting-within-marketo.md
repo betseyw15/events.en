@@ -6,7 +6,7 @@ role: User
 level: Beginner
 kt: 9710
 thumbnail: 340309.jpeg
-exl-id: 49e6d249-c5fc-4674-b5b6-6aa4ad6f816b
+exl-id: 87f18c5d-5bf3-4789-912c-a4072b26e940
 ---
 # Reporting within [!DNL Marketo Engage]
 

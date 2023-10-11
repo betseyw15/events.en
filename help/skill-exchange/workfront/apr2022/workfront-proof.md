@@ -6,7 +6,7 @@ role: User
 level: Intermediate, Experienced
 kt: 10315
 thumbnail: 342525.jpeg
-exl-id: 0dd2956c-2938-437b-877b-c53c297e93dd
+exl-id: 351b1ed4-ec55-43b0-9498-02da440ba593
 ---
 # The Future of Adobe Workfront Proof
 

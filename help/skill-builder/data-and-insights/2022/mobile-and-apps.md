@@ -6,7 +6,7 @@ role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
 kt: 10568
 thumbnail: 343819.jpeg
-exl-id: 84ad109b-650f-4f33-bb1d-6e3a98c46ad1
+exl-id: 4ae593bc-9219-4c8a-bcb3-07eb0c54ad44
 ---
 # Analytics and Target applications for Mobile and Apps
 

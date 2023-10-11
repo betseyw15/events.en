@@ -6,7 +6,7 @@ role: User
 level: Beginner
 kt: 9769
 thumbnail: 340594.jpeg
-exl-id: fb04fab6-5ff2-48cc-8c23-f1ef10e18b2c
+exl-id: c21810b7-824f-4abf-a65c-e760f75eaec3
 ---
 # Personalization At Scale - Harnessing the Power Of Adobe [!DNL Marketo Engage] Data To Drive Engagement
 

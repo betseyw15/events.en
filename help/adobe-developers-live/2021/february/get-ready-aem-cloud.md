@@ -11,7 +11,7 @@ version: Cloud Service
 kt: 7405
 type: Event
 thumbnail: 332308.jpg
-exl-id: 388a1e82-e341-42a9-9cde-9dc7ea5ebddf
+exl-id: 3d1d959b-af21-4268-8dc6-8ac8a910f06a
 ---
 # Get ready for the Cloud Service - Migration best practices
 

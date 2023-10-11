@@ -6,7 +6,7 @@ level: Intermediate
 kt: 11123
 thumbnail: 3409242.jpeg
 hidefromtoc: yes
-exl-id: c4d253ba-cb15-4c8b-8b98-404481d49947
+exl-id: 62885d7a-6331-4061-b570-ae04913147f7
 ---
 # A Roadmap for Value Mapping and Value Realization
 

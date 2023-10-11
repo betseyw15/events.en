@@ -9,7 +9,7 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9119
 type: Event
-exl-id: b8beef9f-1aaa-4696-9b70-ecdca641f8bf
+exl-id: 3adc1efc-c144-455c-b614-3c1ef06e1324
 ---
 # Integrate AEM Cloud Service with Adobe IO Events
 

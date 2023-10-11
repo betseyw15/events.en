@@ -5,7 +5,7 @@ role: User
 level: Intermediate, Experienced
 kt: 10468
 thumbnail: 343334.jpeg
-exl-id: 5155fa40-5170-42b7-abb1-d33bd53e7d56
+exl-id: 29e4ba8c-0072-4758-b60e-5e34f6176300
 ---
 # Top 10 Digital Analytics Doctrines to Live By
 

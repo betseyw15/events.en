@@ -8,7 +8,7 @@ level: Beginner, Intermediate, Experienced
 kt: 9727
 thumbnail: 340369.jpeg
 type: Event
-exl-id: 28a39086-09d5-4998-93e1-927df4e12766
+exl-id: b19103d0-4b5b-427e-bd26-436f29c62f75
 ---
 # Build Superb Experiences with your First-Party Data
 

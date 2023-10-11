@@ -5,7 +5,7 @@ role: Admin, User
 level: Intermediate, Experienced
 kt: 10008
 thumbnail: 341226.jpeg
-exl-id: 8ca41260-d9e3-4e57-ad3b-f3329576dd2c
+exl-id: fd13b975-1ea2-463a-bb1f-afc6bf4e97ab
 ---
 # Resource Management (May 18, 2021)
 

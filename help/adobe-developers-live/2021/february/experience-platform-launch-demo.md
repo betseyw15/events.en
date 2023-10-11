@@ -10,7 +10,7 @@ role: Developer
 level: Experienced
 kt: 7166
 thumbnail: 331734.jpg
-exl-id: 442098f1-512a-4801-8bf1-85fc84be4aca
+exl-id: 4bf107fe-f34a-407f-9cec-fc94f7496130
 ---
 # Adobe Experience Platform Launch Demo
 

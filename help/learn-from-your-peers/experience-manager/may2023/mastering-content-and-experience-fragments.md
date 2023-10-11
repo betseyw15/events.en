@@ -13,7 +13,7 @@ last-substantial-update: 2023-05-19
 jira: KT-13305
 thumbnail: 3419557.jpeg
 event-start-time: 2023-5-16 08:30-8
-exl-id: 63f9ae5b-f5ba-4b09-b2af-20824ad418d2
+exl-id: 13aa3a2f-0a66-4bb2-92c5-93da0f2e62fb
 ---
 # Mastering Content & Experience Fragments On-Demand Webinar
 

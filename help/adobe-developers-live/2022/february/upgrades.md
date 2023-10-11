@@ -5,7 +5,7 @@ role: User
 level: Beginner
 kt: 9789
 thumbnail: 340622.jpeg
-exl-id: d9c0c5bb-4a42-4ad2-b421-983d747cddaa
+exl-id: b50b6e10-cca6-4f16-84e1-070af22f9c73
 ---
 # Deep Dive on Simplifying Upgrades and the Upgrade Compatibility Tool
 

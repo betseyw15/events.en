@@ -25,10 +25,12 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
     + March {#mar2022}
       + [Telling Impactful Stories with Data](analytics/mar2022/stories-with-data.md)
 + Experience Manager {#experience-manager}
-  + May {#may2023} 
-    + [Mastering Content & Experience Fragments](experience-manager/may2023/mastering-content-and-experience-fragments.md)
+  + September {#sept2023}
+    + [A Deep Dive into Tools for AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
   + July {#july2023}
     + [Effective Security Strategies in Cloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md) 
+  + May {#may2023} 
+    + [Mastering Content & Experience Fragments](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
   + September {#sept2023}
     + [Boost Email Deliverability with Marketo Engage](marketo/sept2023/email-deliverability.md)

@@ -4,7 +4,7 @@ description: Get an introduction to the OAuth 2 framework and the Granite OAuth 
 uuid: 5fa01808-033f-456d-a024-c28f60e1e4b7
 discoiquuid: b53df422-3625-40f4-b7fe-9945f2ec71f6
 targetaudience: target-audience advanced
-exl-id: 8ab5d16c-22fc-4210-87b3-16dacb9f5254
+exl-id: e0797cec-a27b-4790-9281-a8b1d6e9b10c
 ---
 # OAuth server functionality in AEM - Embrace federation and unleash your REST APIs!{#oauth-server-functionality-in-aem-embrace-federation-and-unleash-your-rest-apis}
 

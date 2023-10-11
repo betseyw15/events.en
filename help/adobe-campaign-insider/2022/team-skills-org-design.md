@@ -7,7 +7,7 @@ role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate, Experienced
 kt: 10509
 thumbnail: 343871.jpeg
-exl-id: 20c66199-0470-48ce-b100-ca1df4949080
+exl-id: ab23d554-396c-4e20-826b-cf5dc574b78a
 ---
 # Team, skills, and organizational design required to support cross-channel marketing with Adobe Campaign
 

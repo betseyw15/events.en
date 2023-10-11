@@ -6,7 +6,7 @@ role: Admin, Architect, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 kt: 10562
 thumbnail: 343814.jpeg
-exl-id: 28f3208d-1e27-42cc-a4ba-e57e20dbee1c
+exl-id: dbbf34be-3009-4559-b347-ba8012323afa
 ---
 # Headless for Commerce and PWA Studio
 

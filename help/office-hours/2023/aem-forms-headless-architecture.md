@@ -8,8 +8,8 @@ doc-type: Event
 last-substantial-update: 2023-08-25
 jira: KT-13812
 thumbnail: 3422750.jpeg
+exl-id: ee2d35db-d2fe-4191-9043-8b00f49d95db
 ---
-
 # AEM Forms Headless Architecture
 
 In this session, we cover an introduction to headless architecture, Benefits of AEM Forms Headless, and Live Demo.

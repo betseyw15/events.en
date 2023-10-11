@@ -6,7 +6,7 @@ role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 kt: 10567
 thumbnail: 343813.jpeg
-exl-id: 3779c80f-471a-4a8d-bc94-05d4986295d3
+exl-id: edc4a48a-1429-466e-aba4-75eb5388bd72
 ---
 # All you need to know about the Adobe Commerce 2.4.4 Upgrade
 

@@ -5,7 +5,7 @@ role: Admin, User
 level: Experienced
 kt: 9979
 thumbnail: 341212.jpeg
-exl-id: 944536e0-137f-4218-88f8-4ff89a7d95bb
+exl-id: 4b691c07-61a4-4328-ba4b-d3f046700462
 ---
 # Advanced Reporting
 

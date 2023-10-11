@@ -12,8 +12,8 @@ doc-type: Event
 last-substantial-update: 2023-07-20
 jira: KT-13708
 thumbnail: KT-13708.jpeg
+exl-id: ffac5c39-a1db-4533-947f-609e4d8dc7b4
 ---
-
 # Effective Security Strategies in Cloud Service On-Demand Webinar
 
 Companies have increasingly shifted towards Cloud-based solutions, it's important to ensure that your digital experiences are secure and protected. Join Adobe Experience Manager Customer Champion, Rami El Gamal, as he discusses different aspects of security in AEM Cloud Service, including:

@@ -9,6 +9,7 @@ doc-type: Event
 last-substantial-update: 2023-08-17
 jira: KT-13815
 thumbnail: 3422626.jpeg
+exl-id: af394367-c8b8-44da-a1c4-864e443eab29
 ---
 # Adobe Experience Platform - Admin Console Permissions
 

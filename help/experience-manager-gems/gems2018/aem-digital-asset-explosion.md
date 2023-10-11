@@ -4,7 +4,7 @@ description: Learn about the digital asset explosion and AEM Assets at Adobe.
 uuid: 236f688c-82c0-46dd-bbdc-e9c8552152c4
 discoiquuid: b3ec974b-8173-4dad-b349-88c4da78ce89
 targetaudience: target-audience advanced
-exl-id: 403a3add-8b95-4362-931d-a953667b28e2
+exl-id: fd0b8f3e-c6fc-4df7-926c-c40074b6534c
 ---
 # The Digital Asset Explosion & [!DNL AEM Assets]{#the-digital-asset-explosion-aem-assets}
 

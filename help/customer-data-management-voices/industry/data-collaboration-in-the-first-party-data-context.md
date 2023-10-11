@@ -8,7 +8,7 @@ level: Beginner, Intermediate, Experienced
 type: Event
 thumbnail: 337665.jpg
 kt: 9145
-exl-id: 4381a5c0-4f74-4828-bd06-4dc2c5ef3bc6
+exl-id: 633f2927-d6e0-4370-96c6-36d1f612d5ba
 ---
 # Data Collaboration in the First-party Data Context
 

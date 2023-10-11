@@ -6,7 +6,7 @@ role: Developer
 level: Beginner
 kt: 9708
 thumbnail: 340313.jpeg
-exl-id: d84c53e1-40a4-4172-a173-73ebde451edd
+exl-id: 573d9faa-8259-451a-b729-6714f4172780
 ---
 # A Top-Rope Dive Into Custom Objects and Velocity
 

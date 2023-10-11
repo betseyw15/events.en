@@ -1,5 +1,5 @@
 ---
-title:  Customer Journey Management - Lifecycle Modeling
+title: Customer Journey Management - Lifecycle Modeling
 description: Covers setting up your lifecycle correctly from the start, properly segmenting people in the buying journey, in-product demonstration of the lifecycle modeler and various reporting and analytics available to help analyze the effectiveness of your customer segments.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,8 +8,8 @@ last-substantial-update: 2023-06-30
 jira: KT-13529
 thumbnail: 3420763.jpeg
 event-start-time: 2023-6-30 08:30-8
+exl-id: e31120ae-3bdd-4974-953b-1f007c6962a8
 ---
-
 # Customer Journey Management: Lifecycle Modeling
 
 Transparency has recently become one of the most valuable attributes of a successful marketing strategy. During this session we tackle all of the crucial questions to building credibility and knowing when and which levers to pull. Adobe's own Marketing Automation Business Advisor, Cynthia Chang and Marketo Customer Technical Advisor, James Leedom help you get ahead of these questions:

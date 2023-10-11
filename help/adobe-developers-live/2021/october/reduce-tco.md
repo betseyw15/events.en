@@ -7,7 +7,7 @@ role: Developer, Architect
 level: Experienced
 kt: 9198
 type: Event
-exl-id: 6192e4a2-e1a6-4782-8569-2f3473b5ed50
+exl-id: f7407854-aa76-4006-b4fd-b271e52e63aa
 ---
 # The evolution of Adobe Commerce to reduce your TCO
 

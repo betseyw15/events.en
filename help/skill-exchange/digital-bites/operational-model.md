@@ -6,7 +6,7 @@ level: Intermediate
 kt: 11124
 thumbnail: 3409247.jpeg
 hidefromtoc: yes
-exl-id: 76a90334-6ec4-4335-a675-6ca0ec1bae7b
+exl-id: a03cdc91-47c3-488e-846d-86059fee60ab
 ---
 # Unlock Operational Efficiency with a best-in-class Operational Model
 

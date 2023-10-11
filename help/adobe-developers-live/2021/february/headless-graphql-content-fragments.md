@@ -11,7 +11,7 @@ version: Cloud Service
 kt: 7171
 type: Event
 thumbnail: 331280.jpg
-exl-id: a545a81e-efa5-485f-a653-6cee86e29065
+exl-id: 4e43d3d4-db29-45a2-9979-59f562e427e0
 ---
 # Headless: GraphQL with Content Fragments
 

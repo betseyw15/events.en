@@ -1,7 +1,7 @@
 ---
 title: Skill Builder Overview
 description: Recorded webinar series to build your knowledge base and maximize your investment in Adobe Experience Cloud.
-exl-id: a2c07218-6f1d-434a-8b69-f6686c9f3370
+exl-id: 48b7a0ea-2fcf-4387-8f9e-0405d59acd7f
 ---
 # Skill Builder
 

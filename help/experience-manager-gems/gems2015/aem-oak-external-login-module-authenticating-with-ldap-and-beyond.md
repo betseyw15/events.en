@@ -4,7 +4,7 @@ description: See the new external login module of Apache Jackrabbit Oak. Learn t
 uuid: 97f60619-50fd-4f6d-ad77-3afb5951846c
 discoiquuid: dbc3dbdf-3bae-4ad8-a4dd-0bd28abebc58
 targetaudience: target-audience advanced
-exl-id: 74f54b4c-28dd-420e-81d9-4abe1824989b
+exl-id: 31d8076c-b61e-4d3d-bc92-0cee1852d026
 ---
 # Oak's external login module - Authenticate with LDAP and beyond{#oak-s-external-login-module-authenticating-with-ldap-and-beyond}
 

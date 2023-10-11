@@ -4,7 +4,7 @@ description: “Tough Day” was a testing tool that simulated daily loads in wo
 uuid: 6bf40482-6152-421b-bdfe-9a50176b98b7
 discoiquuid: d60dbb18-7938-4446-9928-7f5f5d1f83a1
 targetaudience: target-audience advanced
-exl-id: 17c03036-bd8c-4cc7-bb66-8600d17cb98c
+exl-id: 5e6541c4-83e3-4505-b827-407f112f2437
 ---
 # Toughday2 - A new and improved stress testing and benchmarking tool{#toughday-a-new-and-improved-stress-testing-and-benchmarking-tool}
 

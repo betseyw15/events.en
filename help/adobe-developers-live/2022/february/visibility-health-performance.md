@@ -5,7 +5,7 @@ role: User
 level: Beginner
 kt: 9792
 thumbnail: 340624.jpeg
-exl-id: 21bfc727-59b0-4ceb-b129-786b87ee814b
+exl-id: 3d1d0c3a-4d99-4d82-89e5-693e7def7378
 ---
 # Complete Visibility into the Health and Performance of your Adobe Commerce Platform
 

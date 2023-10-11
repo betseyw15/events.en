@@ -6,7 +6,7 @@ role: User
 level: Intermediate, Experienced
 kt: 10313
 thumbnail: 342523.jpeg
-exl-id: 209a2b9b-d453-4e02-a748-6f2564337513
+exl-id: bf741c04-9cd9-485a-8fa4-409cddf94547
 ---
 # 10 Tips to Wow Your Workfront
 
