@@ -17,7 +17,7 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
         <img alt="2023.9.0 Release" src="2023/assets/2023-9-0-thumb.png" />
       </a>
       <div>
-        <a href="2023/2023-8-0.md">
+        <a href="2023/2023-9-0.md">
           <strong>Release | 2023.9.0</strong>
           <br/>
         </a>
