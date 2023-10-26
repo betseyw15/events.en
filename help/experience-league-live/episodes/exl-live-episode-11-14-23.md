@@ -13,7 +13,7 @@ event-guests: Daniel Wright,Lory Mishra,Rachit Gupta
 
 Learn how you can create aggregates of event data with computed attributes to improve your segmentation, personalization, and journeys!
 
->[!VIDEO](https://video.tv.adobe.com/v/3425196/?learn=on)
+[![ExL LIVE Sept 22 2023](assets/Nov14_2023_exl_live_WebBanner.jpg)](https://www.youtube.com/watch?v=xQ-yydkLeHc)
 
 Behavioral data is a key ingredient to delivering personalized customer experiences, but it can be difficult to fully harness. Today, you may be relying on separate systems, technologists, and data engineers to create meaningful aggregates of behavioral data to deliver great experiences.
 
