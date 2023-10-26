@@ -18,15 +18,15 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-26-23.md">
-      <img alt="Experience League LIVE Apr 21" src="assets/Oct26_exl_live_WebBanner.png">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-11-14-23.md">
+      <img alt="Experience League LIVE Apr 21" src="assets/Nov14_2023_exl_live_WebBanner.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-10-26-23.md">
-        <strong>Workfront Release Deep Dive - new Workfront Home</strong>
+      <a href="episodes/exl-live-episode-11-14-23.md">
+        <strong>Get the most from your behavioral event data in Real-Time CDP and Journey Optimizer</strong>
       </a>
-      <br/><em>with Betsey West, Ben Robbins, and Jamie Smith</em>
-      <br/><em>October 26, 2023</em>
+      <br/><em>with Daniel Wright, Lory Mishra, and Rachit Gupta</em>
+      <br/><em>November 14, 2023</em>
     </div>
   </td>
 </tr>
