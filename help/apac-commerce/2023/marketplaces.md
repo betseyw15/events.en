@@ -1,7 +1,7 @@
 ---
 title: Dare to grow? Mirakl Marketplaces as a force for growth
 description: In this session you will learn how to leverage marketplaces to drive incremental revenue while delivering an exceptional customer experience and the importance of adapting to an increasingly demanding consumer market. The role of AI in personalisation as well as day-to-day operations. More and more businesses are seeing marketplaces as a strategic cornerstone of their business.
-solution: 
+solution: Commerce
 feature-set: Commerce
 feature: Best Practices, Merchandising, Personalization, Customers
 topic: Performance
@@ -26,3 +26,5 @@ Join us to discover:
 * The role of AI in personalisation as well as day-to-day operations
 
 More and more businesses are seeing marketplaces as a strategic cornerstone of their business, and those investing are reaping the rewards. Marketplace & drop ship growth was 6x higher than e-commerce alone in 2022 so it's clear that there is an opportunity in this space for those who dare to grow.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3425190/?learn=on)
