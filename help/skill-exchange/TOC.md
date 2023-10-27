@@ -61,7 +61,7 @@ event-series: The Skill Exchange
     + [Marketing Channels, Please Use Responsibly](analytics/jun2021/marketing-channels.md)
     + [Putting it All Together](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
-  + August 2023 (#aug2023)
+  + August 2023 {#aug2023}
     + Developer Track {#developer-track}
       + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
       + [Building an Effective & Scalable Style System](aem/aug2023/scalable-style-system.md)

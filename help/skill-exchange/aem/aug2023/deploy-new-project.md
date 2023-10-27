@@ -1,8 +1,7 @@
 ---
 title: AEM Developer Starter Kit
 description: This skill exchange focuses on how a new AEM developer can start and deploy a new project. It will focus on topics like AEM Project Archetype, Cloud Manager setup, and development tools.
-solution: Experience Manager Cloud Service
-version: Cloud Service
+solution: Experience Manager as a Cloud Service
 feature-set: Experience Manager, Experience Manager Sites
 feature: AEM Project Archetype, Developing
 role: User
