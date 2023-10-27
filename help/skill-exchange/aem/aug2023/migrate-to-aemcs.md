@@ -1,6 +1,6 @@
 ---
 title: Strategic & Tactical Tips to Migrate to AEM Cloud Service
-description:Migrate to AEM Cloud Service to get the latest and greatest AEM has to offer,  migrate on-premise and managed services instances to Cloud Service gain a better understanding and ability to internally sell the value of migration  Approaches to manage risks and costs of migration and efficiently leverage existing efforts  Technical tactics to incrementally accomplish migration when the task seems large
+description: Migrate to AEM Cloud Service to get the latest and greatest AEM has to offer,  migrate on-premise and managed services instances to Cloud Service gain a better understanding and ability to internally sell the value of migration  Approaches to manage risks and costs of migration and efficiently leverage existing efforts  Technical tactics to incrementally accomplish migration when the task seems large
 solution: Experience Manager Cloud Service
 version: Cloud Service
 feature-set: Experience Manager
