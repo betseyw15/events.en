@@ -22,3 +22,4 @@ doc-type: live event
   + [Lifecycle Modeling](2023/lifecycle-modeling.md)
   + [MSI Best Practices and Optimization](2023/msi-best-practices.md)
   + [Online vs Offline Channels](2023/online-offline.md)
+  + [Program Management Best Practices](2023/program-management.md)
