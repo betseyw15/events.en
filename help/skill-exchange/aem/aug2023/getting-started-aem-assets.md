@@ -11,8 +11,8 @@ doc-type: Event
 last-substantial-update: 2023-10-27
 jira: KT-14143
 thumbnail: 3424012.jpeg
+exl-id: 2ab8f8c7-bb0b-47cc-ac35-ebd3ff767c17
 ---
-
 # Skill Exchange Event Aug 2022 - AEM Web Track - Getting Started with AEM Assets
 
 In this session, you will learn how to:

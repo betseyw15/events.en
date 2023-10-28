@@ -11,8 +11,8 @@ doc-type: Event
 last-substantial-update: 2023-10-27
 jira: KT-14256
 thumbnail: KT-14256.jpeg
+exl-id: 1e50f9b2-eefb-4c37-a4b2-e0300a634fa6
 ---
-
 # Dare to grow? Mirakl Marketplaces as a force for growth
 
 In September's installment of the APAC Commerce Webinar Series, we are excited to welcome guest speakers, Cheryl Jones and Joael Pereira, joining us from Mirakl, one of Adobe's Premier Technology Partners. In this session you will learn how to leverage marketplaces to drive incremental revenue while delivering an exceptional customer experience and the importance of adapting to an increasingly demanding consumer market. You'll glean the ease and simplicity of integrating marketplaces into your Adobe Commerce store with a demo, and have the opportunity to ask our speakers questions live.

@@ -10,8 +10,8 @@ doc-type: Event
 last-substantial-update: 2023-10-27
 jira: KT-14226
 thumbnail: 3425070.jpeg
+exl-id: d3147987-3250-4d5c-a96a-e0bc41001528
 ---
-
 # Marketo and Mochas - Program Management Best Practices
 
 Programs are one of the most important elements in Marketo. Whether you're setting up folders, working on naming conventions, searching for members, checking program status's or just interested in managing best practices, this event is for you. At this Marketo & Mochas, Adobe Business Advisors, Cynthia Chang and Kate Colbert introduce the latest updates to the Program Library templates & creative assets, along with sharing program management best practices and a demonstration.

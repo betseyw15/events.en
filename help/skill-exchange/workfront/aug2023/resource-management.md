@@ -1,6 +1,6 @@
 ---
 title: Workfront Learn Track - Resource Management Foundation
-description: Workfront recently launched a new Blueprints bundle that makes diving into Resource Management as easy as possible.   A brief overview of the Resource Planner and the Workload Balancer  Steps to install the new Resource Management Blueprints 
+description: Workfront recently launched a new Blueprints bundle that makes diving into Resource Management as easy as possible.   A brief overview of the Resource Planner and the Workload Balancer  Steps to install the new Resource Management Blueprints
 solution: Workfront
 feature-set: Workfront
 feature: Resource Management
@@ -10,8 +10,8 @@ doc-type: Event
 last-substantial-update: 2023-10-27
 jira: KT-14152
 thumbnail: 3424863.jpeg
+exl-id: ce446884-62e9-4f4a-9af6-6ee38726420c
 ---
-
 # Skill Exchange Event Aug 2023 - Workfront Learn Track - Resource Management Foundation
 
 If you have been thinking of using Adobe Workfront's Resource Management tools but aren't sure where to start - this is the perfect session for you!
