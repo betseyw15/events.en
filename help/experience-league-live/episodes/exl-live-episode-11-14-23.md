@@ -4,10 +4,10 @@ description: Learn how you can create aggregates of event data with computed att
 kt: KT-14069
 thumbnail: https://video.tv.adobe.com/v/3425196?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=xQ-yydkLeHc
-event-cta-url-reg: 
+event-cta-url-reg: null
 event-start-time: 2023-11-14 09:00-7
 event-guests: Daniel Wright,Lory Mishra,Rachit Gupta
-
+exl-id: 2f33350a-6030-43e8-824b-bd69ca153485
 ---
 # Get the most from your behavioral event data in Real-Time CDP and Journey Optimizer
 
