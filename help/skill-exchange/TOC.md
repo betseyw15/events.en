@@ -61,6 +61,15 @@ event-series: The Skill Exchange
     + [Marketing Channels, Please Use Responsibly](analytics/jun2021/marketing-channels.md)
     + [Putting it All Together](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
+  + August 2023 {#aug2023}
+    + Developer Track {#developer-track}
+      + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
+      + [Building an Effective & Scalable Style System](aem/aug2023/scalable-style-system.md)
+      + [Migrate to AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
+    + Web Track {#webtrack}
+      + [Getting Started with AEM Assets](aem/aug2023/getting-started-aem-assets.md)
+      + [Leveraging a Collaborative DAM](aem/aug2023/collaborative-dam.md)
+      + [Scale for AI Readiness](aem/aug2023/metadata.md)
   + August 2022 {#aug2022}
     + Developer Track {#developer-track}
       + [Experience Makers Spotlight](aem/aug2022/spotlight.md)
@@ -95,6 +104,8 @@ event-series: The Skill Exchange
     + [Reporting within [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
     + [Ultimate Tips & Tricks For Your Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+  + August 2023 {#aug2023}
+    + [Resource Management Foundation](workfront/aug2023/resource-management.md)
   + April 2022 {#apr2022}
     + [10 Tips to Wow Your Workfront](workfront/apr2022/ten-tips.md)
     + [Calculated Fields Everyone Should Know](workfront/apr2022/calculated-fields.md)
