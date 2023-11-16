@@ -1,0 +1,20 @@
+---
+title: Ask Me Anything
+description: At the last Commerce & Coffee of the year Corey Gelato answers customer questions in this "Ask Me Anything" session. He takes questions both live and from registration, giving his strategic advice and demonstrating features in Adobe Commerce such as Live Search, category and price rules, customer segmentation and dynamic blocks, seller initiated quotes for B2B and even a sneak peek into what Corey's favorite feature of Adobe Commerce is! We hope this session helps businesses succeed during a peak season at any time of year.
+solution: Commerce
+feature-set: Commerce
+feature: Search, Categories, Price Rules, Customers, B2B
+topic: Commerce
+role: Admin, Leader, User
+level: Beginner, Intermediate, Experienced
+doc-type: Event
+last-substantial-update: 2023-11-15
+jira: KT-14449
+thumbnail: 3425651.jpeg
+---
+
+# Ask Me Anything
+
+At the last Commerce & Coffee of the year Corey Gelato answers customer questions in this "Ask Me Anything" session. He takes questions both live and from registration, giving his strategic advice and demonstrating features in Adobe Commerce such as Live Search, category and price rules, customer segmentation and dynamic blocks, seller initiated quotes for B2B and even a sneak peek into what Corey's favorite feature of Adobe Commerce is! We hope this session helps businesses succeed during a peak season at any time of year.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3425651/?learn=on)

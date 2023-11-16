@@ -9,6 +9,22 @@ feature-set: Experience Manager, Experience Manager Sites, Experience Manager As
 
 + [Overview](overview.md)
 + 2023 {#2023}
+  + November {#nov2023}
+    + [Opening Keynote](2023/november/keynote.md)
+    + Edge Delivery Services {#nov-edgedeliveryservices}
+      + [Build a website](2023/november/edge-breakout-1.md)
+      + [Website performance](2023/november/edge-breakout-2.md)
+      + [A customer deployment](2023/november/edge-breakout-3.md)
+      + [Document-based Authoring](2023/november/deep-dive.md)
+    + Headless {#nov-headless}
+      + [Headless APIs](2023/november/headless-breakout-1.md)
+      + [Universal Editor](2023/november/headless-breakout-2.md)
+      + [External data sources](2023/november/headless-breakout-3.md)
+    + Commerce {#nov-commerce}
+      + [Catalog services](2023/november/commerce-breakout-1.md)
+      + [Integrate with Amazon Sales Channel](2023/november/commerce-breakout-2.md)
+      + [Event driven extensibility](2023/november/commerce-breakout-3.md)
+      + [API Mesh](2023/november/commerce-breakout-4.md)
   + May {#may2023}
     + [Opening Keynote](2023/may/keynote.md)
     + [API tour](2023/may/new-apis.md)

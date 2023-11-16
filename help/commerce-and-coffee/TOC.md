@@ -8,6 +8,7 @@ user-guide-description: Adobe Commerce and Coffee is a video library where exper
 
 + [Overview](overview.md)
 + 2023 {#2023}
+  + [Ask Me Anything](2023/ask-me-anything.md)
   + [Peak Season Preparation](2023/peak-season-prep.md)
   + [Organic Growth](2023/organic-growth.md)
   + [7 Ways to Build Customer Loyalty and Retention](2023/loyalty-retention.md)
