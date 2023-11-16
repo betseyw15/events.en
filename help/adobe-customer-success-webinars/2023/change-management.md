@@ -10,7 +10,7 @@ jira: KT-14499
 thumbnail: 3425734.jpeg
 ---
 
-#  Change Management
+# Change Management
 
 Overview of change management strategies that include stakeholder engagement, learning & enablement, and communications that provide a structured approach for transitioning from current state to a desired future state.
 
