@@ -15,6 +15,7 @@ doc-type: live event
 
 + [Overview](overview.md)
 + Episodes {#episodes}
+  + [Ep. 30: Countdown to 2024 with the top 5 new features in Adobe Real-Time CDP](episodes/exl-live-episode-12-14-23.md)
   + [Ep. 29: Get the most from your behavioral event data in Real-Time CDP and AJO](episodes/exl-live-episode-11-14-23.md)
   + [Ep. 28: Workfront Release Deep Dive - new Workfront Home](episodes/exl-live-episode-10-26-23.md)
   + [Ep. 27: API Triggered Messaging in Adobe Journey Optimizer](episodes/exl-live-episode-8-23-23.md)

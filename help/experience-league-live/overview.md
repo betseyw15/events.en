@@ -18,15 +18,15 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-11-14-23.md">
-      <img alt="Experience League LIVE Apr 21" src="assets/Nov14_2023_exl_live_WebBanner.jpg">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-12-14-23.md">
+      <img alt="Experience League LIVE Apr 21" src="episodes/assets/Dec14_exl_live_banner_web_1920_WebBanner.png">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-11-14-23.md">
-        <strong>Get the most from your behavioral event data in Real-Time CDP and Journey Optimizer</strong>
+      <a href="episodes/exl-live-episode-12-14-23.md">
+        <strong>Countdown to 2024 with the top 5 new features in Adobe Real-Time CDP</strong>
       </a>
-      <br/><em>with Daniel Wright, Lory Mishra, and Rachit Gupta</em>
-      <br/><em>November 14, 2023</em>
+      <br/><em>with Doug Moore, Nina Caruso, and Rudi Shumpert</em>
+      <br/><em>December 14, 2023</em>
     </div>
   </td>
 </tr>
