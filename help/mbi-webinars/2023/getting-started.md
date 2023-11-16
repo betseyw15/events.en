@@ -20,11 +20,9 @@ Learn about the core functionality of Commerce Intelligence directly from the Co
 
 Use cases are shared throughout, which provide illustrative examples of how merchants are gaining more insights and driving more growth in their stores with BI, starting day one.
 
-## Video content
+>[!VIDEO](https://video.tv.adobe.com/v/3425736?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/342501?quality=12&learn=on)
-
-## Useful resources
+## Additional resources
 
 [Commerce Intelligence Introduction](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
 [Commerce Intelligence Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

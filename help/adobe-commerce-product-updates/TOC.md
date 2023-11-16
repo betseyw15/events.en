@@ -13,4 +13,5 @@ event-series: Adobe Commerce Product Updates
 
 + [Overview](overview.md)
 + 2023 {#2023}
+  + [November 2023](2023/nov2023.md)
   + [July 2023](2023/july2023.md)

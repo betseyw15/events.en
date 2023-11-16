@@ -8,9 +8,9 @@ user-guide-description: Commerce Intelligence Events is a video library where ex
 
 + [Overview](overview.md)
 + 2023 {#2023}
+  + [Getting Started with Commerce Intelligence](2023/getting-started.md)
   + [Managing Data Sets in Commerce Intelligence](2023/manage-data-sets.md)
 + 2021 {#2021}
-  + [Getting Started with Commerce Intelligence](2021-22/getting-started.md)
   + [Optimize Your Commerce Intelligence Data Warehouse](2021-22/optimize-data-warehouse.md)
   + [Commerce Intelligence Dashboards Deep Dive](2021-22/dashboards-deep-dive.md)
   + [Holiday Readiness with Commerce Intelligence](2021-22/holiday-readiness.md)

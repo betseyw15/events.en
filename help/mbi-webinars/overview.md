@@ -20,11 +20,11 @@ The topics are repeated occasionally to accommodate any new questions that the c
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/getting-started.html">
+    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
       <img alt="Getting Started with MBI" src="./assets/getting-started-mbi.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/getting-started.html">
+      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
         <strong>Getting Started with MBI</strong>
       </a>
     </div>

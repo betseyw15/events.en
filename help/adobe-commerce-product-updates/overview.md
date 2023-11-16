@@ -13,6 +13,28 @@ Join the Adobe Commerce Product Update Webinar to learn how we are transforming 
 <table style="max-width: 50%;">
   <tr>
     <td>
+      <a href="2023/nov2023.md">
+        <img alt="2023.11.0 Release" src="https://video.tv.adobe.com/v/3425732/?format=jpeg" />
+      </a>
+      <div>
+        <a href="2023/nov2023.md">
+          <strong>November 2023</strong>
+          <br/>
+        </a>
+          <!-- <em>Release date June 2023 </em> -->
+      </div>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html">Release notes</a>
+      <p>
+    </td>
+  </tr>  
+</table> 
+
+## Past Updates
+
+<table style="max-width: 50%;">
+  <tr>
+    <td>
       <a href="2023/july2023.md">
         <img alt="2023.6.0 Release" src="https://video.tv.adobe.com/v/3422012?format=jpeg" />
       </a>
