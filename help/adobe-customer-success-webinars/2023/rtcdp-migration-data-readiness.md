@@ -8,8 +8,8 @@ doc-type: Event
 last-substantial-update: 2023-11-15
 jira: KT-14386
 thumbnail: 3425603.jpeg
+exl-id: 9d2ff27d-4ab3-4963-8e0c-dd452483f0bc
 ---
-
 # Real-time CDP Data Readiness
 
 Learn the strategy behind organizational preparedness from a data readiness perspective for a streamlined Real-time CDP launch.

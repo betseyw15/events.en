@@ -10,8 +10,8 @@ doc-type: Event
 last-substantial-update: 2023-11-03
 jira: KT-14289
 thumbnail: 3425471.jpeg
+exl-id: b0496f78-40a4-4607-8c1c-5199e43fdb43
 ---
-
 # Tackling siloed channels and data with Marketo Engage and Dynamic Chat
 
 Join this "Learn from your peers" webinar as Sara Barriuso, Marketing Operations Manager at Cornerstone OnDemand - demonstrates how she drove the organization to adopt automated conversations and designed cross-channel engagement automation with Dynamic Chat, the native conversational engagement channel within Marketo Engage.

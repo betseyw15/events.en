@@ -7,7 +7,7 @@ event-cta-url-live: https://www.youtube.com/watch?v=s4WhnJifWLk
 event-cta-url-reg: null
 event-start-time: 2023-12-14 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
-
+exl-id: c2c2c560-adc1-45f4-b235-0307923cc9a8
 ---
 # Countdown to 2024 with the top 5 new features in Adobe Real-Time CDP
 

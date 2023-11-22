@@ -9,8 +9,8 @@ doc-type: Event
 last-substantial-update: 2023-11-15
 jira: KT-14419
 thumbnail: 3425637.jpeg
+exl-id: c69e338a-fb6e-4bcc-bd8e-6aaea33e1837
 ---
-
 # Adobe Developers Live Opening Keynote - November 2023
 
 What's New and What's Next for Developers
