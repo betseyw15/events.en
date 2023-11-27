@@ -12,7 +12,7 @@ jira: KT-14152
 thumbnail: 3424863.jpeg
 exl-id: ce446884-62e9-4f4a-9af6-6ee38726420c
 ---
-# Skill Exchange Event Aug 2023 - Workfront Learn Track - Resource Management Foundation
+# Resource Management Foundation
 
 If you have been thinking of using Adobe Workfront's Resource Management tools but aren't sure where to start - this is the perfect session for you!
 

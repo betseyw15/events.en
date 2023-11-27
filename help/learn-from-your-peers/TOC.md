@@ -27,6 +27,7 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
 + Experience Manager {#experience-manager}
   + September {#sept2023}
     + [A Deep Dive into Tools for AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
+    + [Developer Excellence with AEM Core Components](experience-manager/sept2023/core-components.md)
   + July {#july2023}
     + [Effective Security Strategies in Cloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md) 
   + May {#may2023} 

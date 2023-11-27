@@ -105,7 +105,15 @@ event-series: The Skill Exchange
     + [Ultimate Tips & Tricks For Your Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
   + August 2023 {#aug2023}
+    + [An Introduction to Boards](workfront/aug2023/introduction-to-boards.md)
+    + [Experience Makers Spotlight](workfront/aug2023/spotlight.md)
+    + [Growth & Continued Efficiencies](workfront/aug2023/growth-continued-efficiencies.md)
+    + [Maturing Workfront Across the Enterprise](workfront/aug2023/workfront-across-enterprise.md)
+    + [Native Integrations with Creative Cloud](workfront/aug2023/native-integtrations.md)
+    + [Purpose Driven Automations](workfront/aug2023/automations.md)
+    + [Resource Management Burnout](workfront/aug2023/resource-management-burnout.md)
     + [Resource Management Foundation](workfront/aug2023/resource-management.md)
+    + [Resource Management Starter Kit](workfront/aug2023/resource-management-starter-kit.md)
   + April 2022 {#apr2022}
     + [10 Tips to Wow Your Workfront](workfront/apr2022/ten-tips.md)
     + [Calculated Fields Everyone Should Know](workfront/apr2022/calculated-fields.md)
