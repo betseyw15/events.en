@@ -26,7 +26,7 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
       + [Telling Impactful Stories with Data](analytics/mar2022/stories-with-data.md)
 + Experience Manager {#experience-manager}
   + November {#nov2023}
-    + [Developer Excellence with AEM Core Components](experience-manager/sept2023/core-components.md)
+    + [Developer Excellence with AEM Core Components](experience-manager/nov2023/core-components.md)
   + September {#sept2023}
     + [A Deep Dive into Tools for AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
   + July {#july2023}
