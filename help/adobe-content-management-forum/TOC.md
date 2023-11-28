@@ -2,7 +2,6 @@
 user-guide-title: Adobe Content Management Forum
 user-guide-breadcrumb: Adobe Content Management Forum
 user-guide-description: Learn from Adobe experts as they discuss the current and future state of content management strategy, deliverables, challenges, and technical requirements.
-feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
 solution: Experience Manager
 ---
 

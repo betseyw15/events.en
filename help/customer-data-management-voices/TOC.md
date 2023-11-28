@@ -2,7 +2,6 @@
 user-guide-title: Customer Data Management Voices
 user-guide-breadcrumb: Customer Data Management Voices
 user-guide-description: The customer data management destination for the technical and marketing practice leader and specialist
-feature-set: Experience Platform
 ---
 
 # Customer Data Management Voices {#customer-data-management-voices-recordings}

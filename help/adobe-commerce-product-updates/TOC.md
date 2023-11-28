@@ -5,7 +5,6 @@ user-guide-description: The latest product innovations in Adobe Commerce, presen
 breadcrumb-title: Adobe Commerce Release Updates
 type: Event
 mini-toc-levels: 2
-feature-set: Commerce
 event-series: Adobe Commerce Product Updates
 ---
 

@@ -2,7 +2,6 @@
 user-guide-title: Adobe [!DNL Campaign] Insider Events
 user-guide-breadcrumb: "[!DNL Campaign] Insider Events"
 user-guide-description: Tips & tricks and inspiration for Adobe [!DNL Campaign] customers to help evolve cross-channel marketing strategies, elevate team marketing practitioner skills, and help organizations launch more advanced cross-channel marketing strategies.
-feature-set: Campaign
 solution: Campaign
 ---
 

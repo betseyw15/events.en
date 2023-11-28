@@ -2,7 +2,6 @@
 user-guide-title: Adobe Developers Live Events
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Collection of recordings from the Adobe Developer Live Content event
-feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
 ---
 
 # Adobe Developers Live Events {#adobe-developers-live-recordings}
