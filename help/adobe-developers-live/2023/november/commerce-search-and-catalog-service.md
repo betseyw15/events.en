@@ -2,6 +2,7 @@
 title: Adobe Commerce SaaS offerings Search and Catalog Service
 description: Learn about the services for Search and Catalog to enhance and optimize your storefront experiences.  This demonstration explains commerce services connector and how to leverage them with your storefront using GraphQL.
 solution: Commerce
+feature-set: Commerce
 feature: Saas, Services, Catalog Service
 topic: Development
 role: Developer, User
