@@ -3,7 +3,7 @@ title: Tackling siloed channels and data with Marketo Engage and Dynamic Chat
 description: The value of adding conversations to your marketing automation strategy to deliver cross-channel customer experiences.  How to implement primary use cases such as sales meeting booking, website content engagement, and events/webinar promotion.  Actionable recipes and tips to get a quick start on integrating Dynamic Chat into your Marketo Engage programs.
 solution: Marketo Engage
 feature-set: Marketo Engage
-feature: Dynamic Chat, Event, Programs
+feature: Dynamic Chat, Events, Programs
 role: Admin, User
 level: Beginner, Intermediate
 doc-type: Event
