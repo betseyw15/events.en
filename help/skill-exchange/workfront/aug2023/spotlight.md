@@ -2,7 +2,7 @@
 title: Experience Makers Spotlight
 description: The onboarding, upskilling and enablement of users in Workfront is an ongoing task for System Admins. Have you ever wondered how other organizations are tackling it? Join our Experience Makers Spotlight session to hear from three very different organizations about their approaches, and what they wish they had known when they were first starting out.
 solution: Workfront
-feature: Getting Started with Workfront, System Setup and Administration
+feature: Get Started with Workfront, System Setup and Administration
 topic: Administration, Architecture
 role: User
 level: Beginner

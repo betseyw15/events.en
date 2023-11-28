@@ -1,7 +1,7 @@
 ---
 title: Introduction to Adobe Commerce
 description: Learn about the current status of Adobe Commerce and some of the enhancements that have come over the past few years. Adobe Commerce is a modern enterprise solution that adapts to multiple industries and use cases, this live discussion goes into several existing customers and how they used Adobe Commerce to complete their commerce experience.
-solution: Adobe Commerce
+solution: Commerce
 feature: Best Practices
 role: Leader, User
 level: Beginner

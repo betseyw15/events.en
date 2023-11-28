@@ -1,7 +1,7 @@
 ---
 title: Learn about Adobe App Builder, Adobe IO, Webhooks and Admin UI SDK
 description: Learn about Adobe App Builder, Adobe IO, webhooks, Admin UI SDK.  This is an introduction to each new feature to help you understand common use cases.
-solution: Adobe Commerce
+solution: Commerce
 feature: App Builder
 topic: Development
 role: Developer
