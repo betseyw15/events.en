@@ -70,6 +70,7 @@ event-series: The Skill Exchange
       + [Getting Started with AEM Assets](aem/aug2023/getting-started-aem-assets.md)
       + [Leveraging a Collaborative DAM](aem/aug2023/collaborative-dam.md)
       + [Scale for AI Readiness](aem/aug2023/metadata.md)
+      + [Spotlight](aem/aug2023/spotlight.md)
   + August 2022 {#aug2022}
     + Developer Track {#developer-track}
       + [Experience Makers Spotlight](aem/aug2022/spotlight.md)
@@ -110,6 +111,7 @@ event-series: The Skill Exchange
     + [Growth & Continued Efficiencies](workfront/aug2023/growth-continued-efficiencies.md)
     + [Maturing Workfront Across the Enterprise](workfront/aug2023/workfront-across-enterprise.md)
     + [Native Integrations with Creative Cloud](workfront/aug2023/native-integtrations.md)
+    + [Opening Keynote](workfront/aug2023/opening-keynote.md)
     + [Purpose Driven Automations](workfront/aug2023/automations.md)
     + [Resource Management Burnout](workfront/aug2023/resource-management-burnout.md)
     + [Resource Management Starter Kit](workfront/aug2023/resource-management-starter-kit.md)
