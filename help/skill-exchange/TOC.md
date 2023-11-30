@@ -112,7 +112,7 @@ event-series: The Skill Exchange
     + [Native Integrations with Creative Cloud](workfront/aug2023/native-integtrations.md)
     + [Purpose Driven Automations](workfront/aug2023/automations.md)
     + [Resource Management Burnout](workfront/aug2023/resource-management-burnout.md)
-      + [Resource Management Starter Kit](workfront/aug2023/resource-management-starter-kit.md)
+    + [Resource Management Starter Kit](workfront/aug2023/resource-management-starter-kit.md)
   + April 2022 {#apr2022}
     + [10 Tips to Wow Your Workfront](workfront/apr2022/ten-tips.md)
     + [Calculated Fields Everyone Should Know](workfront/apr2022/calculated-fields.md)
