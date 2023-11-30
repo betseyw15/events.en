@@ -9,8 +9,8 @@ doc-type: Event
 last-substantial-update: 2023-11-27
 jira: KT-14572
 thumbnail: 3425811.jpeg
+exl-id: 84de9fed-07db-4c67-829a-dd770a710922
 ---
-
 # Tackle Burnout with Resource Management
 
 It's no secret that when teams are burned out at work, productivity decreases, errors increase, and engagement levels drop. Not only is this bad for an employee's health and wellness, but it can also lead to higher turnover rates and hamper innovation and creativity within the team.

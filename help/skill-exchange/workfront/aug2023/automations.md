@@ -9,8 +9,8 @@ doc-type: Event
 last-substantial-update: 2023-11-27
 jira: KT-14573
 thumbnail: 3425812.jpeg
+exl-id: 9c0ebb6b-ec36-4ff2-af03-2cc9f6e7ca91
 ---
-
 # Purpose Driven Automations
 
 Leveraging automations can unlock tremendous potential for efficiency by allowing your users to focus on the work that requires their unique skills and expertise, instead of the routine and repetitive tasks that bog can them down.

@@ -9,8 +9,8 @@ doc-type: Event
 last-substantial-update: 2023-11-27
 jira: KT-14560
 thumbnail: 3425791.jpeg
+exl-id: 2e7a541a-e98f-4d0b-bfa1-cb5d929dedfa
 ---
-
 # An Introduction to Boards
 
 Have you incorporated Adobe Workfront Boards into your collaboration toolkit?

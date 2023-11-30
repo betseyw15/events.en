@@ -10,8 +10,8 @@ doc-type: Event
 last-substantial-update: 2023-11-27
 jira: KT-14562
 thumbnail: 3425794.jpeg
+exl-id: 57571a6c-9679-4c33-b791-d6f28841d63f
 ---
-
 # Beginner’s Guide to Native Integrations
 
 Did you know Adobe Workfront has native, no-cost integrations with Adobe Creative Cloud and Experience Cloud?

@@ -1,6 +1,6 @@
 ---
 title: Maturing Workfront Across the Enterprise
-description: This session will look at some of the foundational requirements and improvement insights for growing a Workfront Implementation into an Enterprise implementation. 
+description: This session will look at some of the foundational requirements and improvement insights for growing a Workfront Implementation into an Enterprise implementation.
 solution: Workfront
 feature: System Setup and Administration, Strategic Planning
 topic: Administration, Upgrade
@@ -10,8 +10,8 @@ doc-type: Event
 last-substantial-update: 2023-11-27
 jira: KT-14571
 thumbnail: 3425810.jpeg
+exl-id: 883e61bf-ac20-445a-ba8d-387eec647743
 ---
-
 # Maturing Workfront Across the Enterprise
 
 This session will look at some of the foundational requirements and improvement insights for growing a Workfront Implementation into an Enterprise implementation. We will focus on key data elements and objects, as well as converting from “in the box” Workfront functionality to leveraging Enterprise systems (such as an ERP).

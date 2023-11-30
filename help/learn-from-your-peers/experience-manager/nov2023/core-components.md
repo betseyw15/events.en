@@ -10,8 +10,8 @@ doc-type: Event
 last-substantial-update: 2023-11-27
 jira: KT-14590
 thumbnail: 3425841.jpeg
+exl-id: 5efcf8ea-8b80-40cb-a55f-bac4d5bdaf5e
 ---
-
 # Empowering Developer Excellence with AEM Core Components
 
 Join Kartik Sharma, Adobe Experience Manager Customer Champion, as he imparts valuable insights and best practices regarding Core Components.

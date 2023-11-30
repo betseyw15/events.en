@@ -1,6 +1,6 @@
 ---
 title: Your Resource Management Starter Kit
-description: If you have been thinking of using Adobe Workfront’s Resource Management tools but aren’t sure where to start – this is the perfect session for you! Workfront recently launched a new Blueprints bundle that makes diving into Resource Management as easy as possible. 
+description: If you have been thinking of using Adobe Workfront’s Resource Management tools but aren’t sure where to start – this is the perfect session for you! Workfront recently launched a new Blueprints bundle that makes diving into Resource Management as easy as possible.
 solution: Workfront
 feature-set: Workfront
 feature: Resource Management
@@ -10,8 +10,8 @@ doc-type: Event
 last-substantial-update: 2023-11-27
 jira: KT-14561
 thumbnail: 3425792.jpeg
+exl-id: 4b828419-0f3e-46f5-8a89-8b0fb02227b9
 ---
-
 # Your Resource Management Starter Kit
 
 If you have been thinking of using Adobe Workfront’s Resource Management tools but aren’t sure where to start – this is the perfect session for you!

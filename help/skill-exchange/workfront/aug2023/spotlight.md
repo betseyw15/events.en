@@ -10,8 +10,8 @@ doc-type: Event
 last-substantial-update: 2023-11-27
 jira: KT-14570
 thumbnail: 3425809.jpeg
+exl-id: 7637ba37-0be8-4d99-b58b-3b9095a05dcf
 ---
-
 # Experience Makers Spotlight
 
 The onboarding, up-skilling and enablement of users in Workfront is an ongoing task for System Admins. Have you ever wondered how other organizations are tackling it?
