@@ -8,8 +8,8 @@ doc-type: Event
 last-substantial-update: 2023-11-30
 jira: KT-14612
 thumbnail: 3425896.jpeg
+exl-id: 17d0bc2e-2f17-4f91-8a8f-3a07038368ed
 ---
-
 # Skill Exchange Event Aug 2023 - AEM Web Track -  Experience Makers Spotlight
 
 Greg Dimeris from T.Rowe Price will share how to structure, stack and super-charge your content for maximum return on your investment. Learn how to power your Web experiences with components as your building blocks for speed and growth!
