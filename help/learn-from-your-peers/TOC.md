@@ -9,6 +9,8 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
 + [Experience Makers](overview.md)
 + Analytics {#analytics}
   + 2023 {#2023}
+    + November {#nov2023}
+      + [Impactful Data Visualizations](analytics/nov2023/impactful-data-visualizations.md)
     + August {#aug2023}
       + [Unlocking the power of Processing Rules in Adobe Analytics](analytics/aug2023/processing-rules.md)
     + February {#feb2023}
