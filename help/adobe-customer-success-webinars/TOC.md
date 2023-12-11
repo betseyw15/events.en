@@ -13,6 +13,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
   + [Content & Experiences - Personalization](2023/content-experiences-personalization.md)
   + [Customer Journey Analytics Migration Readiness](2023/cja-migration-readiness.md)
   + [Customer Journey Analytics Integration Essentials](2023/cja-integration-essentials.md)
+  + [Developing a Real-time Data Collection and Activation Strategy](2023/data-collection-activation-strategy.md)
   + [Effective Measurement Strategy](2023/measurement-strategy.md)
   + [Foundational Strategy for Campaign Orchestration](2023/foundational-strategy-campaign.md)
   + [Prioritizing Intelligence & Measurement](2023/intelligence-and-measurement.md)

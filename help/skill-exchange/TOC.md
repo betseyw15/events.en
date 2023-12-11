@@ -9,6 +9,16 @@ event-series: The Skill Exchange
 
 + [Overview](overview.md)
 + Analytics {#analytics}
+  + Aug 2023 {#aug2023}
+    + [All About Segments](analytics/aug2023/spotlight-segments.md)
+    + [Analyzing the data](analytics/aug2023/analyze-the-data.md)
+    + [Educate the casual workspace user](analytics/aug2023/spotlight.md)
+    + [Fix Your Navigation](analytics/aug2023/fix-navigation.md)
+    + [Four under used features](analytics/aug2023/data-analysis.md)
+    + [Getting Started](analytics/aug2023/getting-started.md)
+    + [Improve Your Customer Experience](analytics/aug2023/anti-conversion.md)
+    + [Keynote](analytics/aug2023/keynote.md)
+    + [Putting it all together](analytics/aug2023/putting-together.md)
   + May 2023 {#may2023}
     + [Adobe Analytics Tips & Tricks](analytics/may2023/tips-and-tricks.md)
     + [Migrate to EDDL/WebSDK](analytics/may2023/migrate.md)
@@ -66,6 +76,7 @@ event-series: The Skill Exchange
       + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
       + [Building an Effective & Scalable Style System](aem/aug2023/scalable-style-system.md)
       + [Migrate to AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
+      + [Personalized Marketing Emails](aem/aug2023/personalized-marketing-emails.md)
     + Web Track {#webtrack}
       + [Getting Started with AEM Assets](aem/aug2023/getting-started-aem-assets.md)
       + [Leveraging a Collaborative DAM](aem/aug2023/collaborative-dam.md)
