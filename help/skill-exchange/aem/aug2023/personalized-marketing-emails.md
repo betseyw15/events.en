@@ -1,8 +1,8 @@
 ---
 title: Creating Highly Personalized Marketing Emails using AEM
 description: Email communication is one of the most important ways you can reach your existing and potential new customers. Being able to create highly personalized emails efficiently can greatly increase customer engagement. When someone thinks of AEM (Adobe Experience Manager), they often think about websites and web content. But did you know that AEM can be used to create Emails as well
-feaeture-set: Experience Manager Sites
-feature: Core components, Developing
+feature-set: Experience Manager Sites
+feature: Core Components, Developing
 topic: Personalization
 role: Developer
 level: Intermediate, Experienced

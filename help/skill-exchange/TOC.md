@@ -12,7 +12,7 @@ event-series: The Skill Exchange
   + Aug 2023 {#aug2023}
     + [All About Segments](analytics/aug2023/spotlight-segments.md)
     + [Analyzing the data](analytics/aug2023/analyze-the-data.md)
-    + [Educate the casual workspace user](analytics/aug2023/spotlight.md)
+    + [Educate the casual workspace user](analytics/aug2023/spotlight-workspace-user.md)
     + [Fix Your Navigation](analytics/aug2023/fix-navigation.md)
     + [Four under used features](analytics/aug2023/data-analysis.md)
     + [Getting Started](analytics/aug2023/getting-started.md)

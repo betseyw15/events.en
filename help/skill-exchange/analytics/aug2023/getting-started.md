@@ -1,7 +1,7 @@
 ---
 title: Adobe Analytics Getting Started
 description: The “Getting Started” segment of The Skill Exchange is intended for those who are just starting out with Adobe Analytics. By the end of the session, viewers should have a better understanding of Adobe Analytics terminology and tools, as well as a beginner-level introduction to the main features of Analysis Workspace.
-feature: Analytics Basics. Workspace Basics
+feature: Analytics Basics, Workspace Basics
 role: User
 level: Beginner
 doc-type: Event
