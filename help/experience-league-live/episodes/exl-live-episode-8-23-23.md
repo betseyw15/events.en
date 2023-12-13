@@ -5,7 +5,7 @@ kt: KT-13734
 thumbnail: https://video.tv.adobe.com/v/3422169?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=eC51g4bf81s
 event-cta-url-reg: null
-event-start-time: 2023-8-23 08:00-7
+event-start-time: 2023-08-23 08:00-7
 event-guests: Siddharth Jain,Nikhil Sharma,Chetan Prasad
 exl-id: 4c3e2036-7afb-42f2-8071-17586b18aeec
 ---

@@ -8,7 +8,7 @@ kt: 13220
 thumbnail: https://video.tv.adobe.com/v/3419194?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=ABhwYw44r2g
 event-cta-url-reg: null
-event-start-time: 2023-5-24 08:30-8
+event-start-time: 2023-05-24 08:30-8
 event-guests: Sandra Hausmann,Chetan Prasad,Peter Fransen
 exl-id: 247176af-df0f-4fdd-8fc5-6491603d42f5
 ---
