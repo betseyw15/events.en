@@ -13,9 +13,9 @@ exl-id: c2c2c560-adc1-45f4-b235-0307923cc9a8
 
 Learn how new features released in 2023 can help you activate audiences more effectively and efficiently for impactful personalization.
 
-[![ExL LIVE Dec 14 2023](assets/Dec14_exl_live_banner_web_1920_WebBanner.png)](https://engage.adobe.com/ExpLeagueLive-231214.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3425754/?quality=12&learn=on)
 
-**Click on the image above to register for the show!**.
+**Watch the replay above. You can also continue the discussion regarding this session on the [Experience League Community discussion](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14)**.
 
 **Details:**
 Are you a current Real-Time CDP practitioner and looking for insight into what's new in the product, why it matters and how Adobe can help you improve your customer data management strategies? Look no further - you've come to the right spot! In this series, we'll dive deep into what's recently launched in Real-Time CDP so that you can take advantage of what's new right away and make an impact for your organization.
@@ -35,6 +35,5 @@ Coming out of this session you should expect to:
 *    Be able to start leveraging these new features today 
 *    Start improving your customer personalization efforts today!
 
-As always, this live session lets you ask questions in the chat and get answers from the experts.
 
 
