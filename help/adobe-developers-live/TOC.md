@@ -10,23 +10,34 @@ user-guide-description: Collection of recordings from the Adobe Developer Live C
 + 2023 {#2023}
   + November {#nov2023}
     + [Opening Keynote](2023/november/keynote.md)
+    + [Opening Keynote (APAC)](2023/november/keynote-apac.md)
+    + [Automating Content Workflows with App Builder](2023/november/content-workflows.md)
+    + [Back to front component development and deployment](2023/november/component-development.md)
+    + [Omnichannel content delivery](2023/november/omnichannel.md)
     + Edge Delivery Services {#nov-edgedeliveryservices}
       + [Build a website](2023/november/edge-breakout-1.md)
       + [Website performance](2023/november/edge-breakout-2.md)
       + [A customer deployment](2023/november/edge-breakout-3.md)
       + [Document-based Authoring](2023/november/deep-dive.md)
+      + [Edge Delivery Services Tech Overview](2023/november/edge-delivery-services-tech-overview.md)
     + Headless {#nov-headless}
       + [Headless APIs](2023/november/headless-breakout-1.md)
+      + [Intro to the Universal Editor](2023/november/intro-universal-editor.md)
+      + [Intro to Headless Forms](2023/november/headless-forms.md)
       + [Universal Editor](2023/november/headless-breakout-2.md)
       + [External data sources](2023/november/headless-breakout-3.md)
     + Commerce {#nov-commerce}
       + [Adobe App Builder, Adobe IO, Webhooks and Admin UI SDK](2023/november/app-builder-web-hooks-admin-ui-sdk.md)
       + [API Mesh](2023/november/commerce-breakout-4.md)
       + [Catalog services](2023/november/commerce-breakout-1.md)
+      + [Deliver Commerce performance through platform](2023/november/commerce-performance.md)
       + [Event driven extensibility](2023/november/commerce-breakout-3.md)
+      + [The future of commerce](2023/november/future-of-commerce.md)
       + [Integrate with Amazon Sales Channel](2023/november/commerce-breakout-2.md)
       + [Introduction to Adobe Commerce](2023/november/intro-to-adobe-commerce.md)
       + [Search and Catalog Service](2023/november/commerce-search-and-catalog-service.md)
+      + [Strategies to optimize your Commerce site performance](2023/november/commerce-site-performance.md)
+      + [Tracking changes on Adobe Commerce Cloud](2023/november/commerce-cloud-track-changes.md)
   + May {#may2023}
     + [Opening Keynote](2023/may/keynote.md)
     + [API tour](2023/may/new-apis.md)
