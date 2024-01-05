@@ -18,15 +18,15 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-12-14-23.md">
-      <img alt="Experience League LIVE Apr 21" src="episodes/assets/Dec14_exl_live_banner_web_1920_WebBanner.png">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-17-24.md">
+      <img alt="Experience League LIVE Apr 21" src="episodes/assets/Jan17_2024_WebBanner.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-12-14-23.md">
-        <strong>Countdown to 2024 with the top 5 new features in Adobe Real-Time CDP</strong>
+      <a href="episodes/exl-live-episode-01-17-24.md">
+        <strong>Bringing your Adobe Analytics data and analyses into Customer Journey Analytics</strong>
       </a>
-      <br/><em>with Doug Moore, Nina Caruso, and Rudi Shumpert</em>
-      <br/><em>December 14, 2023</em>
+      <br/><em>with Doug Moore, Eric Matisoff, and Bryan Skelton</em>
+      <br/><em>January 17, 2024 at 10:00am PST</em>
     </div>
   </td>
 </tr>
