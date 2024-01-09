@@ -9,7 +9,7 @@ exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
 >
 >Adobe Commerce Intelligence was previously known as [!DNL Magento Business Intelligence (MBI)]. Recordings for past events reflect the previous name.
 
-The Commerce Intelligence webinar series is a periodic event for MBI customers. The webinars cover a wide range of topics and best practices for using Commerce Intelligence to its fullest potential. 
+The Commerce Intelligence webinar series is a periodic event for Commerce Intelligence customers. The webinars cover a wide range of topics and best practices for using Commerce Intelligence to its fullest potential. 
 
 Attendees from all geographies can join the events live to understand the product better and to get their questions on Commerce Intelligence functionality answered directly. 
 
@@ -20,11 +20,11 @@ The topics are repeated occasionally to accommodate any new questions that the c
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
       <img alt="Getting Started with MBI" src="./assets/getting-started-mbi.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
         <strong>Getting Started with MBI</strong>
       </a>
     </div>
