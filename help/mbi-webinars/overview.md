@@ -21,11 +21,11 @@ The topics are repeated occasionally to accommodate any new questions that the c
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
-      <img alt="Getting Started with MBI" src="./assets/getting-started-mbi.png" />
+      <img alt="Getting Started with Commerce Intelligence" src="./assets/getting-started.png" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
-        <strong>Getting Started with MBI</strong>
+        <strong>Getting Started with Commerce Intelligence</strong>
       </a>
     </div>
     <p>
