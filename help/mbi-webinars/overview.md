@@ -9,7 +9,7 @@ exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
 >
 >Adobe Commerce Intelligence was previously known as [!DNL Magento Business Intelligence (MBI)]. Recordings for past events reflect the previous name.
 
-The Commerce Intelligence webinar series is a periodic event for MBI customers. The webinars cover a wide range of topics and best practices for using Commerce Intelligence to its fullest potential. 
+The Commerce Intelligence webinar series is a periodic event for Commerce Intelligence customers. The webinars cover a wide range of topics and best practices for using Commerce Intelligence to its fullest potential. 
 
 Attendees from all geographies can join the events live to understand the product better and to get their questions on Commerce Intelligence functionality answered directly. 
 
@@ -20,12 +20,12 @@ The topics are repeated occasionally to accommodate any new questions that the c
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
-      <img alt="Getting Started with MBI" src="./assets/getting-started-mbi.png" />
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
+      <img alt="Getting Started with Commerce Intelligence" src="./assets/getting-started.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
-        <strong>Getting Started with MBI</strong>
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
+        <strong>Getting Started with Commerce Intelligence</strong>
       </a>
     </div>
     <p>
@@ -33,11 +33,11 @@ The topics are repeated occasionally to accommodate any new questions that the c
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/manage-data-sets.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
       <img alt="Managing Data Sets in MBI" src="./assets/managing-data-sets-mbi.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/manage-data-sets.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
         <strong>Managing Data Sets in MBI</strong>
       </a>
     </div>
@@ -46,11 +46,11 @@ The topics are repeated occasionally to accommodate any new questions that the c
     <p>
   </td>
    <td>
-    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/optimize-data-warehouse.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
       <img alt="Optimize Your MBI Data Warehouse" src="./assets/optimize-data-warehouse.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/optimize-data-warehouse.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
         <strong>Optimize Your MBI Data Warehouse</strong>
       </a>
     </div>
