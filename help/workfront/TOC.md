@@ -41,5 +41,4 @@ user-guide-description: Workfront Events
 + Request Queues and Intake {#request-queues-and-intake}
   + [Request Queues and Intake Forms](user-groups/request-queues-and-intake-forms.md)
 + Releases {#releases}
-  + 2024 {#2024-releases}
-    + [24.1 Release](webinars/24-1-release-webinar.md)
+  + [24.1 Release](webinars/24-1-release-webinar.md)
