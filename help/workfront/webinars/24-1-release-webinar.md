@@ -8,7 +8,6 @@ duration: 2660
 last-substantial-update: 2024-01-17
 jira: KT-14792
 thumbnail: 3426854.jpeg
-hidefromtoc: yes
 ---
 
 # Adobe Workfront 24.1 release webinar
