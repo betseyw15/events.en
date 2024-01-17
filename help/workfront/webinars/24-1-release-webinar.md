@@ -15,3 +15,5 @@ thumbnail: 3426854.jpeg
 The webinar was held January 11 with 931 live attendees. The Workfront Product team explained the new functionality and improvements going to Production in Workfront for the 24.1 release.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426854/?learn=on)
+
+Get your questions about the release answered and discuss the release in the [Adobe Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-24-1-release-webinar/td-p/645442?profile.language=en).
