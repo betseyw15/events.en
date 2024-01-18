@@ -12,8 +12,8 @@ duration: 1802
 last-substantial-update: 2023-12-20
 jira: KT-14674
 thumbnail: 3426314.jpeg
+exl-id: d76c49db-5257-4563-b5f9-25a0bd64123d
 ---
-
 # Strategies to optimize your Commerce site performance
 
 Elevate Your Commerce Experience - Delve into our presentation on strategies for optimizing your site's performance. Discover techniques and best practices to enhance speed, responsiveness, and customer satisfaction, driving your online business forward.

@@ -8,8 +8,8 @@ duration: 1842
 last-substantial-update: 2023-12-11
 jira: KT-14666
 thumbnail: 3426006.jpeg
+exl-id: 32fdeb70-9b5f-449c-8e96-da2bd3de7cc9
 ---
-
 # Developing a Real-time Data Collection and Activation Strategy
 
 Leverage and activate on your data collection strategy to provide more timely interaction with your customers and prospects.

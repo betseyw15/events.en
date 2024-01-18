@@ -10,8 +10,8 @@ duration: 2496
 last-substantial-update: 2023-12-11
 jira: KT-14653
 thumbnail: 3425987.jpeg
+exl-id: 548d16b0-0f13-479b-ac99-69f94c6f9c0a
 ---
-
 # Skill Exchange Event Aug 2023 - Learn track - Adobe Analytics: Analyzing the data
 
 Freeform Tables are the flexible foundation of Analysis Workspace - mastering these powerful tables will take you far in your Workspace journey
