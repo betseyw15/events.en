@@ -18,16 +18,8 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-17-24.md">
-      <img alt="Experience League LIVE Apr 21" src="episodes/assets/Jan17_2024_WebBanner.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-01-17-24.md">
-        <strong>Bringing your Adobe Analytics data and analyses into Customer Journey Analytics</strong>
-      </a>
-      <br/><em>with Doug Moore, Eric Matisoff, and Bryan Skelton</em>
-      <br/><em>January 17, 2024 at 10:00am PST</em>
-    </div>
+  <td style="vertical-align: top;">
+    Come back to this page soon to get information on our show coming up on February 8th, 2024!
   </td>
 </tr>
 </table>
