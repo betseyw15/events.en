@@ -10,8 +10,8 @@ duration: 1417
 last-substantial-update: 2023-12-20
 jira: KT-14678
 thumbnail: 3426337.jpeg
+exl-id: c7ece1e5-070f-4aae-baee-08e332da4e25
 ---
-
 # Omnichannel content delivery
 
 Aligning content between inbound and outbound channels can be tough to organize. Adobe Experience Manager allows you create both inbound & outbound content, and utilize that content across the customer journey. This session covers integration patterns with Adobe Target, Adobe Campaign, Adobe Journey Optimizer and more.

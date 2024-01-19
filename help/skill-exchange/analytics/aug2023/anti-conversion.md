@@ -10,8 +10,8 @@ duration: 2448
 last-substantial-update: 2023-12-11
 jira: KT-14657
 thumbnail: 3425991.jpeg
+exl-id: 13b7b639-c833-4f3e-b4f9-ec9e2cee2505
 ---
-
 # Skill Exchange Event Aug 2023 - Grow Track - Analyzing Anti-Conversion Factors to Improve Your Customer Experience
 
 In any industry, it is important to be continuously improving your on-site experience. The purpose of anti-conversion is to look at factors that are negatively impacting your customers on-site experience with the aim of resolving them. There are many metrics that you can look at to improve your experience.

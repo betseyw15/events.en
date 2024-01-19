@@ -40,3 +40,5 @@ user-guide-description: Workfront Events
   + [Leveraging Workfront Proof](user-groups/leveraging-workfront-proof.md)
 + Request Queues and Intake {#request-queues-and-intake}
   + [Request Queues and Intake Forms](user-groups/request-queues-and-intake-forms.md)
++ Releases {#releases}
+  + [24.1 Release](webinars/24-1-release-webinar.md)
