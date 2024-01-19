@@ -18,8 +18,16 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
 <tr>
-  <td style="vertical-align: top;">
-    Come back to this page soon to get information on our show coming up on February 8th, 2024!
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-08-24.md">
+      <img alt="Experience League LIVE Feb 08" src="episodes/assets/WebBanner-Feb08-2024.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-02-08-24.md">
+        <strong>Use Case Playbooks, self-serve templates to deploy use cases in a few clicks for Real-Time CDP and Journey Optimizer</strong>
+      </a>
+      <br/><em>with Daniel Wright, Josée Monette-Healey, and Rohit Basuri</em>
+      <br/><em>Feb 08, 2024</em>
+    </div>
   </td>
 </tr>
 </table>
