@@ -13,8 +13,7 @@ exl-id: 2c2136a9-0b40-4a0a-907d-5af181568073
 
 Join Bryan, Eric, and Doug as they discuss how to quickly get moving with Customer Journey Analytics (CJA). You'll learn about using automated processes to move data and analyses from Adobe Analytics to CJA, as well as any gotchas to consider during the process. And of course, they'll have a healthy dose of fun tips and tricks along the way.
 
-[![ExL LIVE Jan 17 2024](assets/Jan17_2024_WebBanner.jpg)](https://engage.adobe.com/ExpLeagueLive-240117.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3426778/?quality=12&learn=on)
 
-As always, this live session lets you ask questions in the chat and get answers from the experts.
+**Continue the discussion on the [Experience League Community Forum discussion](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582)**.
 
-**Click the image above to register for the event!**.
