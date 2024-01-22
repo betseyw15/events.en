@@ -36,6 +36,8 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
   + May {#may2023} 
     + [Mastering Content & Experience Fragments](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
+  + January {#jan2024}
+    + [Person Scoring Mastery with Marketo Engage](marketo/jan2024/person-scoring-mastery.md)
   + November {#nov2023}
     + [Marketo Engage and Dynamic Chat](marketo/nov2023/dynamic-chat.md)
   + September {#sept2023}
