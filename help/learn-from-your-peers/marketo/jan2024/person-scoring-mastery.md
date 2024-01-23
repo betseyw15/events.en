@@ -27,9 +27,9 @@ In this webinar, you'll learn:
 
 ## Resources shared in the webinar
 
-* Marketing Nation Community Webinar Thread - [Discussion](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864)
-<-- [Worksheet] Person/Lead Scoring with Local Influence Exercises: [LINK TO BE ADDED] -->
-* The Big List of Lead Scoring Rules - [Worksheet](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf)
-* Marketo Engage Program Import Library - [Documentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html)
-* Lead Scoring Everything to Know About the Process Before, During, and After - [On-demand Webinar](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html)
-* Champion's take on lead scoring - [Blog](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849)
+* Marketing Nation Community Webinar Thread - [Discussion](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
+* Person/Lead Scoring with Local Influence Exercises: [Worksheet](../../assets/marketo/[Worksheet]%20Build%20Scoring%20Model%20and%20Local%20Flexibility%20Scoring.docx){target="_blank"}
+* The Big List of Lead Scoring Rules - [Worksheet](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
+* Marketo Engage Program Import Library - [Documentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
+* Lead Scoring Everything to Know About the Process Before, During, and After - [On-demand Webinar](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
+* Champion's take on lead scoring - [Blog](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}
