@@ -6,6 +6,7 @@ level: Beginner
 kt: 9792
 thumbnail: 340624.jpeg
 exl-id: 3d1d0c3a-4d99-4d82-89e5-693e7def7378
+duration: 1428
 ---
 # Complete Visibility into the Health and Performance of your Adobe Commerce Platform
 

@@ -7,6 +7,7 @@ event-cta-url: https://youtu.be/FEREXV826NQ
 event-start-time: 2022-02-03 09:00-8
 event-guests: Hyman Chung, Ruben Reusser
 exl-id: 434d0d98-83ab-4168-bebf-4ba2f2cb5efd
+duration: 3925
 ---
 # Introducing all new Reference Demos in AEM
 

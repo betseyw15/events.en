@@ -9,7 +9,7 @@ topic: Development, Headless
 role: Admin, Developer, Leader, User
 level: Beginner
 doc-type: Event
-duration: 1289
+duration: 1304
 last-substantial-update: 2023-12-20
 jira: KT-14677
 thumbnail: 3426336.jpeg

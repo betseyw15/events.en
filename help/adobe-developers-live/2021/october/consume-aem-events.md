@@ -10,6 +10,7 @@ version: Cloud Service
 kt: 9122
 type: Event
 exl-id: 5eea7354-481b-4162-96aa-964b04da576c
+duration: 1766
 ---
 # Build an app that consumes Adobe Experience Manager Events
 

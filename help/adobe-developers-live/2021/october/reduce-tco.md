@@ -8,6 +8,7 @@ level: Experienced
 kt: 9198
 type: Event
 exl-id: f7407854-aa76-4006-b4fd-b271e52e63aa
+duration: 1695
 ---
 # The evolution of Adobe Commerce to reduce your TCO
 

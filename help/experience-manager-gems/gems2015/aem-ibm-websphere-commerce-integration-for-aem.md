@@ -1,10 +1,10 @@
 ---
 title: IBM WebSphere Commerce integration for AEM
 description: Get a walk-through about the different integration features with deep-dives into the code. Learn how to customize, extend, and test your integration.
-uuid: 0c7aa66b-3909-4eeb-85d6-87e7faa4db39
 discoiquuid: f9e11075-59f1-46cb-82c7-ba85864f5e33
 targetaudience: target-audience advanced
 exl-id: e95f9c55-f36f-47c3-b86a-9bb045e7822c
+duration: 3336
 ---
 # IBM WebSphere Commerce integration for AEM{#ibm-websphere-commerce-integration-for-aem}
 

@@ -8,6 +8,7 @@ level: Beginner, Intermediate, Experienced
 kt: 9116
 type: Event
 exl-id: 3174f90a-0085-4bc0-8651-e8bfcf41b3b9
+duration: 2740
 ---
 # Opening Keynote
 

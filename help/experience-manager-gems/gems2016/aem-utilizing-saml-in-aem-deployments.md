@@ -1,10 +1,10 @@
 ---
 title: Utilizing SAML in Adobe Experience Manager deployments
 description: Join Sham Hassan Chikkegowda, CS Engineer, and Timothee Maret, Senior Developer, of Adobe for a review of using Security Assertion Markup Language (SAML) with your Experience Manager deployments. SAML is an XML-based, open-standard data format for exchanging authentication and authorization data between parties, in particular, between an identity provider and a service provider.  SAML is a product of the OASIS Security Services Technical Committee.
-uuid: 1fef0c03-50fc-4874-aab3-6b8908a91938
 discoiquuid: eec3e83c-b167-457e-8db7-41dfebb3b406
 targetaudience: target-audience advanced
 exl-id: 3631e05d-633f-42ef-a950-92f039081ced
+duration: 3224
 ---
 # Utilizing SAML in Adobe Experience Manager deployments{#utilizing-saml-in-adobe-experience-manager-deployments}
 

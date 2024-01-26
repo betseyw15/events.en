@@ -12,6 +12,7 @@ last-substantial-update: 2022-11-15
 kt: 11483
 thumbnail: 3411304.jpeg
 exl-id: 7077c3ba-1a56-4715-a564-90fc4f4b2071
+duration: 2597
 ---
 # Latest Adobe Experience Manager Headless Innovations for Developers
 

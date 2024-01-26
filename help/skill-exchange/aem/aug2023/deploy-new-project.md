@@ -11,6 +11,7 @@ last-substantial-update: 2023-10-27
 jira: KT-14148
 thumbnail: 3424017.jpeg
 exl-id: ee5dd2bf-034e-4b22-8123-aca06a55cfe2
+duration: 2243
 ---
 # Skill Exchange Event Aug 2023 - AEM Developer Track - AEM Developer Starter Kit
 

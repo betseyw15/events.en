@@ -13,6 +13,7 @@ kt: 7177
 type: Event
 thumbnail: 331737.jpg
 exl-id: 3365d609-70e7-404c-ad4d-c9049ed00b35
+duration: 15
 ---
 # Rapid Frontend Development - Your Future Workflow 
 

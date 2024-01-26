@@ -8,6 +8,7 @@ version: Cloud Service
 kt: 9152
 type: Event
 exl-id: ce592a15-3ed9-4bff-bc3c-b655037e22b9
+duration: 1692
 ---
 # What's new in Adobe Experience Manager Assets as a Cloud Service
 

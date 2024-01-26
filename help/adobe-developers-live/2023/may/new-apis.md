@@ -11,6 +11,7 @@ last-substantial-update: 2023-05-27
 jira: KT-13354
 thumbnail: 3419946.jpeg
 exl-id: 780834cf-fca5-4e3e-8f51-05744749222e
+duration: 2255
 ---
 # API Tour - Get to know the new APIs we shipped in the last 6 months
 

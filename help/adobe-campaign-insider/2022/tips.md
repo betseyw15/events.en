@@ -6,6 +6,7 @@ solution: Campaign
 kt: 10504
 thumbnail: 343523.jpeg
 exl-id: 52cce634-d50b-43a6-b093-64d959860cc4
+duration: 2251
 ---
 # Time saving tips from a pro!
 

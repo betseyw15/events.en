@@ -10,6 +10,7 @@ thumbnail: 332060.jpg
 kt: 7335
 type: Event
 exl-id: 9736dd6f-ff33-41b5-80d6-1bb981bfc0b7
+duration: 2404
 ---
 # A Tale of Two Perceptions - Brands vs Consumers
 

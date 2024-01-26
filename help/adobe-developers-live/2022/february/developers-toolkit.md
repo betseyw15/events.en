@@ -6,6 +6,7 @@ level: Beginner
 kt: 9786
 thumbnail: 340621.jpeg
 exl-id: e3ce0a7b-bb36-4643-bd33-3a7052cdd6cf
+duration: 1999
 ---
 # A glance into a Commerce Developer’s Toolkit
 

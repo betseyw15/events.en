@@ -9,6 +9,7 @@ level: Experienced
 kt: 9149
 type: Event
 exl-id: 1df3b772-2599-4ab9-842e-2d3c0346fc95
+duration: 1835
 ---
 # Wrangle PDFs on the web like a pro
 

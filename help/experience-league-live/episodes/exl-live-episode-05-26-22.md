@@ -4,10 +4,10 @@ description: Find out about the Web SDK. We'll show you all the basics of the We
 solution: Data Collection,Experience Platform
 kt: 10412
 thumbnail: https://video.tv.adobe.com/v/343335?format=jpeg
-event-cta-url: 
 event-start-time: 2022-05-26 09:00-7
 event-guests: Doug Moore, Eric Matisoff, Rudi Shumpert, Jeff Chasin
 exl-id: b2ea730b-d4ad-4be0-b229-7063369cba7f
+duration: 3863
 ---
 # Ask the experts: The basics of Web SDK
 

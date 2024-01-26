@@ -10,6 +10,7 @@ last-substantial-update: 2023-01-06
 kt: 11651
 thumbnail: 3412700.jpeg
 exl-id: 783a7b0d-d15e-4d6d-b29b-99d57bf15c94
+duration: 2989
 ---
 # Commerce and Coffee - Personalization
 

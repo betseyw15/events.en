@@ -11,6 +11,7 @@ last-substantial-update: 2023-05-27
 jira: KT-13357
 thumbnail: 3419942.jpeg
 exl-id: 23b7f06f-e544-4bc5-8583-1333de27cc17
+duration: 1758
 ---
 # Author Anything with Universal Editor
 

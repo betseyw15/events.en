@@ -7,6 +7,7 @@ level: Beginner, Intermediate, Experienced
 kt: 10569
 thumbnail: 343826.jpeg
 exl-id: 0ecf5ee8-6c7d-4467-9779-10fb114b7e5e
+duration: 2367
 ---
 # B2B experiences with [!DNL Marketo Engage] and Adobe Experience Cloud
 

@@ -9,6 +9,7 @@ last-substantial-update: 2023-08-07
 jira: KT-13750
 thumbnail: 3422363.jpeg
 exl-id: d11e2351-81d3-42ae-baf2-dc9b487cc9b5
+duration: 5434
 ---
 # Online vs Offline Channels
 

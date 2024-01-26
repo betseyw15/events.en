@@ -12,6 +12,7 @@ kt: 7165
 type: Event
 thumbnail: 331279.jpg
 exl-id: 667512a8-5fdf-4f1a-8082-7d765100b6b3
+duration: 14
 ---
 # Adobe Experience Manager Updates
 

@@ -12,6 +12,7 @@ last-substantial-update: 2022-11-15
 kt: 11486
 thumbnail: 3411307.jpeg
 exl-id: 25b6183d-d80a-4193-a3af-e2eccf250c6e
+duration: 497
 ---
 # Closing - Rock Star Results and What's Next for Developers
 

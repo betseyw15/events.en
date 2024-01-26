@@ -4,10 +4,10 @@ description: You've seen him on-stage at Summit. You've heard him share expert a
 solution: Analytics
 kt: 8553
 thumbnail: https://video.tv.adobe.com/v/335921?format=jpeg
-event-cta-url:
 event-start-time: 2021-07-29 09:00-7
 event-guests: Eric Matisoff,Dasha Fitzpatrick
 exl-id: 75361648-8bb6-4def-9be8-b94f106c0347
+duration: 2854
 ---
 # Experience League LIVE, Episode 1: My Three Favorite Adobe [!DNL Analytics] Implementation Tips
 

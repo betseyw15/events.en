@@ -9,6 +9,7 @@ thumbnail: 336938.jpg
 kt: 8864
 type: Event
 exl-id: 7383654b-96ed-41d7-ac24-9e8b290d1206
+duration: 2368
 ---
 # Evolving Your Audience Center of Excellence
 

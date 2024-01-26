@@ -1,10 +1,10 @@
 ---
 title: AEM sustenance - Best practices for deploying AEM maintenance releases
 description: Join us to know the best practices for deploying AEM Maintenance Releases i.e. Service Packs & Cumulative Fix Packs. We will also cover the common challenges in deploying them and demonstrate improvements done in package manager. In this session you will learn best practices, validations and monitoring tips for deployments of maintenance releases.
-uuid: ff4d7884-c3df-44a9-9863-78a79fa58fad
 discoiquuid: 9020b761-503f-4e4a-9d4f-eb615919d716
 targetaudience: target-audience advanced
 exl-id: 02ac66bc-46d4-4384-a719-23020b9285f9
+duration: 2534
 ---
 # AEM sustenance - Best practices for deploying AEM maintenance releases{#aem-sustenance-best-practices-for-deploying-aem-maintenance-releases}
 

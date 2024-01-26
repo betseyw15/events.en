@@ -1,10 +1,10 @@
 ---
 title: AEM SPA Editor
 description: As Single-Page Application (SPA) make the overall visitor experience more interactive, they are gaining popularity, even for content-centric experiences. Join us to learn more about the SPA Editor in this introduction.
-uuid: d61f7398-c3e8-475a-a3c3-f71a8106c8f4
 discoiquuid: 8c6673c0-635e-453d-abf0-5d0db313329a
 targetaudience: target-audience advanced
 exl-id: 99684051-9a66-4d33-8ed0-1362de6d2a04
+duration: 3565
 ---
 # AEM SPA Editor{#aem-spa-editor}
 

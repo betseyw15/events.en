@@ -9,6 +9,7 @@ level: Intermediate, Experienced
 kt: 10791
 thumbnail: 345381.png
 exl-id: 6a4d9c5e-7e09-46d5-af9f-306012701301
+duration: 2446
 ---
 # Developer best practices to speed time-to-market using AEM Sites
 

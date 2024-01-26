@@ -9,6 +9,7 @@ level: Beginner, Intermediate
 kt: 10785
 thumbnail: 345374.png
 exl-id: 03cee7d4-fc5b-4d9a-b4a3-d31b93dde3ab
+duration: 1594
 ---
 # Deliver content personalization that drives business value
 

@@ -10,6 +10,7 @@ last-substantial-update: 2023-09-15
 jira: KT-13928
 thumbnail: 3424021.jpeg
 exl-id: 365dab7c-ffd4-4788-a3aa-80cbfde68d09
+duration: 2650
 ---
 # Content & Experiences: The Beating Heart of Personalization
 

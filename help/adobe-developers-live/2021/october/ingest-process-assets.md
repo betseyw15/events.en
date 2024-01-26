@@ -9,6 +9,7 @@ version: Cloud Service
 kt: 9180
 type: Event
 exl-id: 7bf484d6-29fc-44b5-99c1-cc3e6055c72d
+duration: 1797
 ---
 # How to ingest and process assets into Experience Manager Assets as a Cloud Service
 

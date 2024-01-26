@@ -6,6 +6,7 @@ level: Intermediate, Experienced
 kt: 10468
 thumbnail: 343334.jpeg
 exl-id: 29e4ba8c-0072-4758-b60e-5e34f6176300
+duration: 1361
 ---
 # Top 10 Digital Analytics Doctrines to Live By
 

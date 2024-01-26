@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager Forms as a Cloud Service - Fast track your development using APIs
-description: Learn how to use Adobe Experience Manager Forms as a Cloud Service APIs to access services like Headless Delivery of Forms and Communications at scale. This session will cover how to build client applications for Synchronous and Batch Doc Gen use cases using Adobe Experience Manager Forms CS API. Participants will also get a preview of the upcoming Headless APIs for Forms that allow developers to easily build Mobile or React Apps that contain forms.
+description: Learn how to use Adobe Experience Manager Forms as a Cloud Service APIs to access services like Headless Delivery of Forms and Communications at scale. This session will cover how to build client applications for Synchronous and Batch Doc Gen use cases using Adobe Experience Manager Forms CS API. Participants will also get a preview of the upcoming Headless APIs for Forms that allow developers to easily build Mobile or React Apps that contain forms.
 solution: Experience Manager,Experience Manager Forms
 role: User
 level: Beginner
@@ -8,6 +8,7 @@ version: Cloud Service
 kt: 9189
 type: Event
 exl-id: a54293b2-a8d9-475a-b315-18c4088a2d85
+duration: 1516
 ---
 # Adobe Experience Manager Forms as a Cloud Service: Fast track your development using APIs
 

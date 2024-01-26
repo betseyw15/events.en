@@ -7,6 +7,7 @@ level: Beginner, Intermediate, Experienced
 kt: 10570
 thumbnail: 343824.jpeg
 exl-id: abe0f3e6-8f1e-40ce-903e-109076b29a28
+duration: 2385
 ---
 # Better together - Adobe [!DNL Marketo Engage] and Real-Time CDP
 

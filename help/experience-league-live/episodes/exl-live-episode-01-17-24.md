@@ -8,6 +8,7 @@ event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-240117.html
 event-start-time: 2024-01-17 10:00-7
 event-guests: Doug Moore,Eric Matisoff,Bryan Skelton
 exl-id: 2c2136a9-0b40-4a0a-907d-5af181568073
+duration: 3655
 ---
 # Bringing your Adobe Analytics data and analyses into Customer Journey Analytics
 

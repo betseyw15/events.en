@@ -12,6 +12,7 @@ last-substantial-update: 2023-10-27
 jira: KT-14256
 thumbnail: KT-14256.jpeg
 exl-id: 1e50f9b2-eefb-4c37-a4b2-e0300a634fa6
+duration: 3493
 ---
 # Dare to grow? Mirakl Marketplaces as a force for growth
 

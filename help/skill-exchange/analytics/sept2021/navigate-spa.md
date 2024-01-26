@@ -10,6 +10,7 @@ level: Intermediate, Experienced
 kt: 10462
 thumbnail: 343324.jpeg
 exl-id: 05bec862-7a14-4a58-9123-7a84f23249aa
+duration: 2167
 ---
 # Navigating SPA Challenges in Test Builds & Analysis
 

@@ -11,6 +11,7 @@ last-substantial-update: 2023-11-27
 jira: KT-14571
 thumbnail: 3425810.jpeg
 exl-id: 883e61bf-ac20-445a-ba8d-387eec647743
+duration: 2127
 ---
 # Maturing Workfront Across the Enterprise
 

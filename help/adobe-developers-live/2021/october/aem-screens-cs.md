@@ -10,6 +10,7 @@ version: Cloud Service
 kt: 9193
 type: Event
 exl-id: 6aa73e70-8fd0-4bae-a589-7cab23be5109
+duration: 1777
 ---
 # Screens Cloud Service
 

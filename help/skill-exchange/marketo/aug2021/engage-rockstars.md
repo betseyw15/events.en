@@ -7,6 +7,7 @@ level: Intermediate, Experienced
 kt: 10327
 thumbnail: 342559.jpeg
 exl-id: b7dd06e2-73f5-4b32-ac6a-63783e90b30c
+duration: 2556
 ---
 # [!DNL Marketo Engage] Rockstars
 

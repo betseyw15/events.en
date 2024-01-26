@@ -13,6 +13,7 @@ jira: KT-13522
 thumbnail: 3420726.jpeg
 event-start-time: 2023-5-1 08:30-8
 exl-id: 0f55fe3d-7cbb-4089-af3f-2ff116605dfc
+duration: 3418
 ---
 # Adobe Experience Manager Champion Office Hours - Cloud Manager
 

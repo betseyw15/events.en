@@ -7,6 +7,7 @@ level: Beginner
 kt: 10310
 thumbnail: Cannot find MPC Link.jpeg
 exl-id: edd8e9f9-9abe-4fb8-83ea-f150bedd614b
+duration: 22
 ---
 # Mastering Projects Dates & Timelines
 

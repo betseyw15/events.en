@@ -6,7 +6,7 @@ topic: Integrations
 role: Developer, User
 level: Beginner
 doc-type: Event
-duration: 1417
+duration: 1432
 last-substantial-update: 2023-12-20
 jira: KT-14678
 thumbnail: 3426337.jpeg

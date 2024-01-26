@@ -10,6 +10,7 @@ last-substantial-update: 2023-11-27
 jira: KT-14573
 thumbnail: 3425812.jpeg
 exl-id: 9c0ebb6b-ec36-4ff2-af03-2cc9f6e7ca91
+duration: 2581
 ---
 # Purpose Driven Automations
 

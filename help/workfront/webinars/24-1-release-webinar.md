@@ -4,7 +4,7 @@ description: The webinar was held January 11 with 931 live attendees. The Workfr
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
-duration: 2660
+duration: 2675
 last-substantial-update: 2024-01-17
 jira: KT-14792
 thumbnail: 3426854.jpeg

@@ -8,6 +8,7 @@ event-cta-url: https://youtu.be/b6jKxNnXFrk
 event-start-time: 2021-12-16 09:00-8
 event-guests: Mark Szulc, Sarah Xu, Zoran Nikolovski
 exl-id: e8c3e768-125b-4595-bcfc-5495f6595c3a
+duration: 3248
 ---
 # Extend AEM with Adobe App Builder
 

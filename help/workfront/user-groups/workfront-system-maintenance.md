@@ -6,6 +6,7 @@ level: Beginner, Intermediate
 kt: 10011
 thumbnail: 341213.jpeg
 exl-id: 4c6bbad9-7501-4c7c-9c31-d23ae4cd1d95
+duration: 4969
 ---
 # Workfront System Maintenance (July 27, 2021)
 

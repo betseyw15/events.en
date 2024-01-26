@@ -4,7 +4,7 @@ description: Adobe Analytics has a seemingly endless number of features and func
 role: User
 level: Intermediate, Experienced
 doc-type: Event
-duration: 2100
+duration: 2121
 last-substantial-update: 2023-12-11
 jira: KT-14656
 thumbnail: 3425990.jpeg

@@ -10,6 +10,7 @@ jira: KT-13214
 thumbnail: 3419133.jpeg
 event-start-time: 2023-5-4 08:30-8
 exl-id: 56947a3f-ce77-4b57-b780-035366f59117
+duration: 2460
 ---
 # Cracking the Personalization at Scale Code using [!DNL Marketo Engage] 
 

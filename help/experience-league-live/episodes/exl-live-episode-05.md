@@ -7,10 +7,10 @@ solution: Experience Manager
 sub-product: Experience Manager Sites
 kt: 9397
 thumbnail: https://video.tv.adobe.com/v/338798?format=jpeg
-event-cta-url: 
 event-start-time: 2021-11-18 09:00-8
 event-guests: Danny Gordon,Shankari Panchapakesan,Gabriel Walt
 exl-id: 2760b900-44b0-49bc-9d63-39a459c338f1
+duration: 3869
 ---
 # Go live faster than ever with quick site creation in Adobe Experience Manager
 

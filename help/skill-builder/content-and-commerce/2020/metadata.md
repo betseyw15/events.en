@@ -13,6 +13,7 @@ version: Cloud Service
 type: Event
 kt: 7339
 exl-id: b988b7ca-316f-4a14-9ca1-a9dc6b24aa5d
+duration: 2964
 ---
 # Metadata - Adobe Experience Manager Asset Series
 

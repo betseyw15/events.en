@@ -10,6 +10,7 @@ last-substantial-update: 2023-08-25
 jira: KT-13810
 thumbnail: 3422533.jpeg
 exl-id: 271e12a5-69b4-4bb2-a68e-f712c68cea5b
+duration: 2519
 ---
 # Migration to AEM Cloud Service
 

@@ -11,6 +11,7 @@ last-substantial-update: 2023-09-08
 jira: KT-13894
 thumbnail: 3423983.jpeg
 exl-id: d4dbc6fd-20a1-4e0e-bff7-a6fa77ae7bc4
+duration: 3419
 ---
 # Peak Season Preparation
 

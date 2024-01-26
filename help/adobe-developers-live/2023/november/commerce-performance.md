@@ -8,7 +8,7 @@ topic: Performance, Integrations
 role: Admin, Developer
 level: Beginner
 doc-type: Event
-duration: 1659
+duration: 1672
 last-substantial-update: 2023-12-20
 jira: KT-14671
 thumbnail: 3426311.jpeg

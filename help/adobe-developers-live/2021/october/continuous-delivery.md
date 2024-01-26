@@ -10,6 +10,7 @@ version: Cloud Service
 kt: 9196
 type: Event
 exl-id: d5833f38-30d3-48e2-afb9-6bb7627d36a1
+duration: 1679
 ---
 # Deep dive into Adobe Experience Manager as a Cloud Service continuous delivery model
 

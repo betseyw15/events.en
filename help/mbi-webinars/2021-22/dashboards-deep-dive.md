@@ -9,6 +9,7 @@ role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 343498.jpeg
 exl-id: f11829c9-3c7b-4da5-8ad8-762086a820b9
+duration: 2932
 ---
 # Commerce Intelligence Dashboards Deep Dive
 

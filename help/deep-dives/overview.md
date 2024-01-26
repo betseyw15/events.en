@@ -2,6 +2,7 @@
 title: Deep Dives
 description: Deep Dives is a video library where experts and peers have shared their thoughts and ideas on how to best use Adobe Marketo.
 exl-id: 21242f9e-8084-4482-8461-ba8a9e2fbd26
+duration: 15
 ---
 # Deep Dive Events
 

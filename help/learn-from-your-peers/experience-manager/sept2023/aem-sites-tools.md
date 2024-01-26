@@ -10,6 +10,7 @@ last-substantial-update: 2023-10-06
 jira: KT-14118
 thumbnail: 3424735.jpeg
 exl-id: 337a19c3-2959-492a-b0c6-87d5a7731797
+duration: 2640
 ---
 # A Deep Dive into Tools for AEM Sites
 

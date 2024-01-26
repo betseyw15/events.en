@@ -10,6 +10,7 @@ last-substantial-update: 2023-07-24
 jira: KT-13688
 thumbnail: 3421687.jpeg
 exl-id: 38145136-4868-42ea-b279-7e74704e2b53
+duration: 3506
 ---
 # Empowering B2B Success
 

@@ -2,6 +2,7 @@
 title: Adobe Content Management Forum
 description: A collection of session recordings from Adobe Content Management Forum
 exl-id: 935600fa-4fbc-4569-a3cd-f8b25c205df4
+duration: 96
 ---
 # Adobe Content Management Forum {#overview}
 

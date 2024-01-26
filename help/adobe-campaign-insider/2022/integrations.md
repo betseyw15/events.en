@@ -6,6 +6,7 @@ solution: Campaign
 kt: 10508
 thumbnail: 343525.jpeg
 exl-id: 5a8473ac-01e6-42e4-95c6-2825378b7a1c
+duration: 3717
 ---
 # Adobe Campaign integrations with a marketing ecosystem
 

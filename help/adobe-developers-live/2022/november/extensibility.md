@@ -12,6 +12,7 @@ last-substantial-update: 2022-11-15
 kt: 11484
 thumbnail: 3411305.jpeg
 exl-id: 9624f106-e48c-4c6e-81b8-adf083c8db96
+duration: 2733
 ---
 # Introduction into UI Extensibility and the New Content Fragment UI
 

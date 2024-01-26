@@ -7,6 +7,7 @@ level: Intermediate, Experienced
 kt: 10315
 thumbnail: 342525.jpeg
 exl-id: 351b1ed4-ec55-43b0-9498-02da440ba593
+duration: 1806
 ---
 # The Future of Adobe Workfront Proof
 

@@ -7,6 +7,7 @@ level: Intermediate, Experienced
 kt: 10314
 thumbnail: 342524.jpeg
 exl-id: 704dbe58-dc9a-4920-b211-9afb77798079
+duration: 3258
 ---
 # Grow Track - Experience Makers Spotlight
 

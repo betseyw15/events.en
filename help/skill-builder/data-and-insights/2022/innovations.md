@@ -7,6 +7,7 @@ level: Beginner, Intermediate, Experienced
 kt: 10581
 thumbnail: 343818.jpeg
 exl-id: 01d0deef-eafe-47c0-8684-2c9bf709c53c
+duration: 1817
 ---
 # What's new in the Data and Insight space? 2022 Innovations
 

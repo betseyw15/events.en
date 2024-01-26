@@ -7,6 +7,7 @@ level: Beginner
 kt: 9768
 thumbnail: 340595.jpeg
 exl-id: e809d8b2-37b0-4daf-8cb7-becefa24100b
+duration: 2603
 ---
 # Nurture 101 - Utilizing Engagement Programs To Engage Your Customers
 

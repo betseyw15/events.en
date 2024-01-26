@@ -10,6 +10,7 @@ last-substantial-update: 2023-11-27
 jira: KT-14564
 thumbnail: 3425803.jpeg
 exl-id: 106a2704-3220-4a8c-8ec2-e5bba341a7bf
+duration: 1436
 ---
 # Introduction to Adobe Commerce
 

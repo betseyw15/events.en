@@ -1,10 +1,10 @@
 ---
 title: Search forms made easy with the AEM querybuilder
 description: This session explains the principles behind the querybuilder compared to other query languages on the JCR stack. It shows how you can use it to build authorable search forms easily, how to build efficient searches, how to debug queries, and how you can extend it.
-uuid: 867545ac-e175-4bd8-9d17-b5423f29031f
 discoiquuid: c7e8b80f-1eb3-4fa7-9d36-c76b493bd351
 targetaudience: target-audience advanced
 exl-id: 38cea360-b900-44e3-b565-b7c493fa6822
+duration: 3652
 ---
 # Search forms made easy with the AEM querybuilder{#search-forms-made-easy-with-the-aem-querybuilder}
 

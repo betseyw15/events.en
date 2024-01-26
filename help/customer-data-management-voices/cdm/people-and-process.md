@@ -8,6 +8,7 @@ level: Beginner, Intermediate, Experienced
 kt: 10634
 thumbnail: 344313.jpeg
 exl-id: 172f471d-0e54-4b44-be21-39ac481054f3
+duration: 2982
 ---
 # CDP Best Practices - People and Process
 

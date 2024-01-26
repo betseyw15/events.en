@@ -5,7 +5,7 @@ feature: Segmentation
 role: User
 level: Beginner
 doc-type: Event
-duration: 1968
+duration: 1976
 last-substantial-update: 2023-12-11
 jira: KT-14655
 thumbnail: 3425989.jpeg

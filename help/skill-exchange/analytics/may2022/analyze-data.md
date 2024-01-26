@@ -10,6 +10,7 @@ level: Beginner
 kt: 10465
 thumbnail: 343330.jpeg
 exl-id: d22977a9-d7fb-4397-be3e-b8a8073da958
+duration: 2421
 ---
 # Analyzing the Data
 

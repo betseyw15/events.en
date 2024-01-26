@@ -7,6 +7,7 @@ level: Beginner, Intermediate, Experienced
 kt: 10579
 thumbnail: 343828.jpeg
 exl-id: 1dc6d34a-fc3d-4989-8925-a6f12766105b
+duration: 2298
 ---
 # Top Tips and Tricks for Adobe Campaign Standard
 

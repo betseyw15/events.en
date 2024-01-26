@@ -10,6 +10,7 @@ kt: 7169
 type: Event
 thumbnail: 331770.jpg
 exl-id: 8bf461e9-bf2d-4c96-b92c-c064df9650f5
+duration: 13
 ---
 # Developer Experience at Experience Cloud
 

@@ -4,7 +4,7 @@ description: Navigation is key for your visitors to find their way around your s
 role: User
 level: Intermediate, Experienced
 doc-type: Event
-duration: 2376
+duration: 2392
 last-substantial-update: 2023-12-11
 jira: KT-14658
 thumbnail: 3425992.jpeg

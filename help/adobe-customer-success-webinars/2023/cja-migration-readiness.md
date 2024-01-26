@@ -11,6 +11,7 @@ last-substantial-update: 2023-09-07
 jira: KT-13904
 thumbnail: 3423904.jpeg
 exl-id: d76db108-8011-4e01-8db2-e959c4f3b429
+duration: 2035
 ---
 # Customer Journey Analytics Migration Readiness
 

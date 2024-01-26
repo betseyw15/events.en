@@ -6,6 +6,7 @@ level: Intermediate, Experienced
 kt: 10007
 thumbnail: 341214.jpeg
 exl-id: 6203ced1-f477-4900-b786-ee299ad8feea
+duration: 1673
 ---
 # Resource & Capacity Planning, Leap 2020 (July 2, 2020)
 

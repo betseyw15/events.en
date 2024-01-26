@@ -2,6 +2,7 @@
 title: Skill Builder Overview
 description: Drive real-time personalization on any channel using online and offline data insights across your entire organization.
 exl-id: 8fd59178-ed35-4781-9bca-6438ba80d44d
+duration: 54
 ---
 # Data and insights
 

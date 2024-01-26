@@ -6,6 +6,7 @@ level: Intermediate, Experienced
 kt: 10008
 thumbnail: 341226.jpeg
 exl-id: fd13b975-1ea2-463a-bb1f-afc6bf4e97ab
+duration: 4171
 ---
 # Resource Management (May 18, 2021)
 

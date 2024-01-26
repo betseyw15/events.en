@@ -7,6 +7,7 @@ level: Beginner
 kt: 9770
 thumbnail: 340593.jpeg
 exl-id: 529a09c2-8122-4d1c-a4a5-0fcfb3406b04
+duration: 3010
 ---
 # Scalability and Efficiency Using Tokens In [!DNL Marketo Engage]
 

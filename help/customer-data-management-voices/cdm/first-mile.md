@@ -8,6 +8,7 @@ level: Beginner, Intermediate, Experienced
 kt: 10632
 thumbnail: 344311.jpeg
 exl-id: e35c6cc7-7831-4a62-9feb-9315a2bff18b
+duration: 3818
 ---
 # Streamlining Your First Mile of Data Management
 

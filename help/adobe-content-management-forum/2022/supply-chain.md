@@ -8,6 +8,7 @@ level: Beginner, Intermediate
 kt: 10786
 thumbnail: 345382.png
 exl-id: 420cfc41-051e-41bc-b96b-b9c889406a4b
+duration: 1680
 ---
 # Build a content supply chain that scales
 

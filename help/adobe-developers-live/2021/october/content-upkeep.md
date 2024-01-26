@@ -8,6 +8,7 @@ version: Cloud Service
 kt: 9135
 type: Event
 exl-id: da237121-7d66-49fc-864f-6132e3936fed
+duration: 1843
 ---
 # Content Upkeep
 

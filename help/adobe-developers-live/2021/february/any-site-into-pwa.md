@@ -13,6 +13,7 @@ kt: 7176
 type: Event
 thumbnail: 331742.jpg
 exl-id: e819c76d-84f4-4cd6-baed-a336a40267aa
+duration: 13
 ---
 # PWA - Turn any Site into a Progressive Web App 
 

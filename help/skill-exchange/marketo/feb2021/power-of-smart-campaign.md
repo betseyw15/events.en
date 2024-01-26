@@ -7,6 +7,7 @@ level: Beginner
 kt: 9711
 thumbnail: 340310.jpeg
 exl-id: f45ff2a5-f97a-45e6-b6c4-26064bebd854
+duration: 3335
 ---
 # The Power of a Smart Campaign
 

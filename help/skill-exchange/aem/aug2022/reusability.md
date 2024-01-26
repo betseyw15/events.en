@@ -7,6 +7,7 @@ level: Beginner, Intermediate, Experienced
 kt: 10950
 thumbnail: 346387.jpeg
 exl-id: c4c1608b-5119-4060-b10d-9095a1d9adc6
+duration: 2437
 ---
 # The Power of Reusability 
 

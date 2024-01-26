@@ -6,10 +6,10 @@ short-description: Learn how to use Classifications with the Activity Map to bet
 solution: Analytics
 kt: 9255
 thumbnail: https://video.tv.adobe.com/v/338108?format=jpeg
-event-cta-url: 
 event-start-time: 2021-10-21 09:00-7
 event-guests: Jenn Kunz,Adam Klintworth
 exl-id: b601414e-7892-452e-8dd3-e9d917bd9b3e
+duration: 3697
 ---
 # Who clicked that? And then what did they do?
 

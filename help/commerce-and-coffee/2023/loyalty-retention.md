@@ -11,6 +11,7 @@ jira: KT-13314
 thumbnail: 3419686.jpeg
 event-start-time: 2023-5-24 08:30-8
 exl-id: f792d456-1bf1-4b0f-b62a-0a676c14f293
+duration: 3671
 ---
 # 7 Ways to Build Customer Loyalty & Retention
 

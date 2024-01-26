@@ -7,6 +7,7 @@ level: Beginner
 kt: 10312
 thumbnail: 342521.jpeg
 exl-id: 352cbded-40d0-462d-960a-0abd93747de3
+duration: 2739
 ---
 # Learn Track - Experience Makers Spotlight
 

@@ -2,6 +2,7 @@
 title: Skill Builder - Content and Commerce
 description: Recorded webinar series to build your knowledge base and maximize your investment in Adobe Content and Commerce Solutions
 exl-id: 1ed57ee1-89d4-4697-a999-72e0fe215f87
+duration: 58
 ---
 # Content and Commerce
 

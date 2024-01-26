@@ -10,6 +10,7 @@ version: Cloud Service
 kt: 9214
 type: Event
 exl-id: c49d6c31-1b37-4c02-aa48-0dfd7362e628
+duration: 2093
 ---
 # App Builder Architecture and Technical Deep Dive
 

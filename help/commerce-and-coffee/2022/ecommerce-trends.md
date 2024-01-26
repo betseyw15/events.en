@@ -10,6 +10,7 @@ last-substantial-update: 2023-01-06
 kt: 11652
 thumbnail: 3412701.jpeg
 exl-id: 47859ed1-8c50-4866-b710-f2da41ea06bb
+duration: 3705
 ---
 # Commerce and Coffee - E-Commerce Trends
 

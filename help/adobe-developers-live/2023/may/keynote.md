@@ -11,6 +11,7 @@ last-substantial-update: 2023-05-27
 jira: KT-13353
 thumbnail: 3419949.jpeg
 exl-id: 1d0fde08-1f0f-492b-a2c3-b6e1c53bd130
+duration: 3634
 ---
 # Opening Keynote
 

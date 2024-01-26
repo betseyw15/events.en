@@ -10,6 +10,7 @@ level: Beginner, Intermediate, Experienced
 kt: 10944
 thumbnail: 346383.jpeg
 exl-id: 801bfcf6-76a7-4abd-8897-aeb00386f473
+duration: 1898
 ---
 # AEM Core Components & Style Systems
 

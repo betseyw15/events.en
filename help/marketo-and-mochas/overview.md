@@ -2,6 +2,7 @@
 title: Marketo and Mochas
 description: Marketo On-Demand Events is a video library where experts and peers have shared their thoughts and ideas on how to best use Adobe Marketo.
 exl-id: eab06791-de71-4c26-bbb6-cbdeb9f6f8ec
+duration: 15
 ---
 # Marketo and Mochas
 

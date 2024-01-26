@@ -9,6 +9,7 @@ kt: 11764
 thumbnail: 3413506.jpeg
 event-start-time: 2023-1-24 08:30-8
 exl-id: 6f3b1c89-0176-4495-8e28-c265da3581d5
+duration: 3493
 ---
 # Marketo and Mochas - Marketo Measure Attribution
 

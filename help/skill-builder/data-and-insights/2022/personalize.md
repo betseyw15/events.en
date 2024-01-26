@@ -7,6 +7,7 @@ level: Intermediate, Experienced
 kt: 10578
 thumbnail: 343821.jpeg
 exl-id: 75f166d7-4d65-4ca6-a88b-d28dc8119069
+duration: 3084
 ---
 # Personalise and automate with Adobe Target
 

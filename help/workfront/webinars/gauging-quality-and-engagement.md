@@ -1,11 +1,11 @@
 ---
 title: Ask the Expert - Gauging quality and engagement
 description: Learn to build reports that answer quality and engagement questions. This webinar was recorded on November 13, 2019.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9914
 exl-id: 76a8e418-71c7-414a-9938-e64e4e73c184
+duration: 3980
 ---
 # Ask the Expert - Gauging quality and engagement
 

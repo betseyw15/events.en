@@ -7,6 +7,7 @@ level: Intermediate, Experienced
 kt: 10329
 thumbnail: 342564.jpeg
 exl-id: b1b3d59a-6c45-4712-9eb8-d44406a6a4e9
+duration: 2379
 ---
 # Your Marketo Roadmap
 

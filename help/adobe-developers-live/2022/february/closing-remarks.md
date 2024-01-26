@@ -6,6 +6,7 @@ level: Beginner
 kt: 9787
 thumbnail: 340625.jpeg
 exl-id: 38745328-d210-4e06-8bb3-a83a1a922b3c
+duration: 724
 ---
 # Closing Remarks
 

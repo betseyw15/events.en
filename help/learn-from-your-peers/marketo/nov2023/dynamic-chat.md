@@ -11,6 +11,7 @@ last-substantial-update: 2023-11-03
 jira: KT-14289
 thumbnail: 3425471.jpeg
 exl-id: b0496f78-40a4-4607-8c1c-5199e43fdb43
+duration: 3003
 ---
 # Tackling siloed channels and data with Marketo Engage and Dynamic Chat
 

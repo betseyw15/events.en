@@ -10,6 +10,7 @@ version: Cloud Service
 kt: 9117
 type: Event
 exl-id: 08062f61-58b5-4539-94c1-dc101e0d7869
+duration: 3130
 ---
 # Cloud-native extensibility for Experience Cloud - What’s in it for Experience Manager developers
 

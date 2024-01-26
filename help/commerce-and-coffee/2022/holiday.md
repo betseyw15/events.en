@@ -10,6 +10,7 @@ last-substantial-update: 2023-01-06
 kt: 11654
 thumbnail: 3412715.jpeg
 exl-id: 8a603d4f-50d5-4221-8bcc-c6359bc91ed8
+duration: 3565
 ---
 # 2021 Holiday Retrospective
 

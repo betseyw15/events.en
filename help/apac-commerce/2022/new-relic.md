@@ -8,6 +8,7 @@ level: Beginner
 kt: 10712
 thumbnail: 345148.jpeg
 exl-id: bcc3c0cc-3a9d-4216-bb2b-ee33cb2eda06
+duration: 2456
 ---
 # New Relic Masterclass - Take Control of your Infrastructure
 

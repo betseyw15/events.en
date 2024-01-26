@@ -12,6 +12,7 @@ last-substantial-update: 2022-11-15
 kt: 11472
 thumbnail: 3411296.jpeg
 exl-id: c2d3f86e-4fed-4dbd-94be-6e2cfeaa1c1a
+duration: 3106
 ---
 # Opening Keynote
 

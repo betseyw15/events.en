@@ -1,10 +1,10 @@
 ---
 title: Building Health Checks for AEM
 description: Determining if an AEM instance is healthy is not a simple task. This session will give insight into the Health Reports section of the Operations Dashboard.
-uuid: 33d6c0e2-9bf8-443d-babe-2ceda52a1837
 discoiquuid: 8b674cc3-c88a-48a4-b113-abf3efd5069f
 targetaudience: target-audience advanced
 exl-id: 7ca119fa-1dae-4b4c-a772-71af29f5813f
+duration: 2968
 ---
 # Building Health Checks for AEM{#building-health-checks-for-aem}
 

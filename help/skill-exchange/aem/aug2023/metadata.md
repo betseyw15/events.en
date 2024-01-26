@@ -12,6 +12,7 @@ last-substantial-update: 2023-10-27
 jira: KT-14145
 thumbnail: 3424013.jpeg
 exl-id: 177a8015-6a62-462c-8f3e-7619980d3dac
+duration: 2254
 ---
 # Skill Exchange Event Aug 2022 - AEM Web Track - Scale for AI Readiness
 

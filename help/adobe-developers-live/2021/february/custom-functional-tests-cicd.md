@@ -13,6 +13,7 @@ kt: 7409
 type: Event
 thumbnail: 332309.jpg
 exl-id: 5896acc7-a5b8-42a1-a57b-88fdc8dd1da2
+duration: 1484
 ---
 # Custom Functional Tests for safer CI/CD pipelines
 

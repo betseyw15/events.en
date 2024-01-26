@@ -12,6 +12,7 @@ jira: KT-13194
 thumbnail: 3419107.jpeg
 event-start-time: 2023-5-2 08:30-8
 exl-id: f8493ac6-e218-4e86-b0a1-fe37ba548cdc
+duration: 3197
 ---
 # AI Powered Personalisation
 

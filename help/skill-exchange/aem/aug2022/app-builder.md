@@ -8,6 +8,7 @@ level: Beginner, Intermediate, Experienced
 kt: 10945
 thumbnail: 346385.jpeg
 exl-id: d19b5433-8790-4123-a132-7b0da689627d
+duration: 2331
 ---
 # Extending Adobe Experience Manager Headless with Adobe App Builder
 

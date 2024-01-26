@@ -8,6 +8,7 @@ level: Experienced
 kt: 9200
 type: Event
 exl-id: 82229f38-cd4d-4595-b348-168f9c6109c7
+duration: 1718
 ---
 # Sizing the Adobe Commerce Cloud for a large number of API requests in headless implementation
 

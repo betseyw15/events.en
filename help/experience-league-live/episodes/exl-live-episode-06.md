@@ -4,10 +4,10 @@ description: When users interact with your brand they do so in many ways and on 
 solution: Analytics
 kt: 9500
 thumbnail: https://video.tv.adobe.com/v/339318?format=jpeg
-event-cta-url:
 event-start-time: 2021-12-15 09:00-8
 event-guests: Matt Freestone,Alex Ivana,Nils Engel
 exl-id: d9be9acc-5a75-4ccb-8234-cccf9cd093be
+duration: 3613
 ---
 # Measure people instead of devices
 

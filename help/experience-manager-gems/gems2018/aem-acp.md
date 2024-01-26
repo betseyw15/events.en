@@ -1,10 +1,10 @@
 ---
 title: Adobe Experience Platform - The heart of Experience Cloud
 description: Everything starts with the Adobe Experience Platform. Discover how the platform plays a role in the experience business, helping you identify, understand, and engage customers and deliver consistent, continuous, and compelling experiences that delight them at every turn.
-uuid: 502196b9-9cfb-4652-83a4-9156434370a1
 discoiquuid: 6e050ad4-1b0c-46d0-b588-6402102f0263
 targetaudience: target-audience advanced
 exl-id: fcea7000-dbd2-47d3-af68-0a210901efa4
+duration: 2975
 ---
 # Adobe Experience Platform - The Heart of Experience Cloud{#adobe-experience-platform-the-heart-of-experience-cloud}
 

@@ -9,6 +9,7 @@ level: Experienced
 kt: 9148
 type: Event
 exl-id: 4d045381-3828-49c4-9982-32c97a566b78
+duration: 1532
 ---
 # Launch Server Side is Great, but What if it Could...
 

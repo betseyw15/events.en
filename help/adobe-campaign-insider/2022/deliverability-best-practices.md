@@ -8,6 +8,7 @@ level: Beginner, Intermediate, Experienced
 kt: 10507
 thumbnail: 343872.jpeg
 exl-id: 6faeec55-17d0-471b-8289-6cfb05cc4ee3
+duration: 3278
 ---
 # Deliverability best practices and strategies that drive results
 

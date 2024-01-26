@@ -6,6 +6,7 @@ level: Intermediate, Experienced
 kt: 10463
 thumbnail: 343332.jpeg
 exl-id: 55e7f571-02bc-4e23-ad37-b01f2c9d5023
+duration: 3233
 ---
 # Experience Makers Spotlight
 

@@ -1,10 +1,10 @@
 ---
 title: Architecture of the AEM 5.6 platform
 description: Learn about the evolution of the architecture of the AEM application platform. Since the first release of Communiqué 1, until the most recent launch of AEM 5.6, the application underwent several changes to become the versatile and extensible application platform it is today.
-uuid: 6c7d287b-4dec-4ea8-9731-881c736429d9
 discoiquuid: 3049a99b-1ee0-492d-80c3-4d31d70fa452
 targetaudience: target-audience advanced
 exl-id: 75228968-d47a-4d4a-9f55-a8ba95b8d32c
+duration: 2883
 ---
 # Architecture of the AEM 5.6 platform{#architecture-of-the-aem-platform}
 

@@ -4,7 +4,7 @@ description: Leverage & activate on your data collection strategy to provide mor
 role: Admin, Developer, Leader
 level: Intermediate
 doc-type: Event
-duration: 1842
+duration: 1858
 last-substantial-update: 2023-12-11
 jira: KT-14666
 thumbnail: 3426006.jpeg

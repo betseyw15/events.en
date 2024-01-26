@@ -6,6 +6,7 @@ level: Beginner
 kt: 9788
 thumbnail: 340626.jpeg
 exl-id: 16b8d3e2-fef0-4f90-b08d-39b087eed7d6
+duration: 1749
 ---
 # Consumption-based Solutions in the Magento Marketplace
 

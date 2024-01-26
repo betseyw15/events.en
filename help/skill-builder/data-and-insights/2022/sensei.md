@@ -7,6 +7,7 @@ level: Intermediate, Experienced
 kt: 10580
 thumbnail: 343830.jpeg
 exl-id: 4beb3600-89b1-4834-9f03-a34284264910
+duration: 3104
 ---
 # Using Sensei to take Analysis Workspace to the next level
 

@@ -6,6 +6,7 @@ level: Experienced
 kt: 9979
 thumbnail: 341212.jpeg
 exl-id: 4b691c07-61a4-4328-ba4b-d3f046700462
+duration: 2802
 ---
 # Advanced Reporting
 

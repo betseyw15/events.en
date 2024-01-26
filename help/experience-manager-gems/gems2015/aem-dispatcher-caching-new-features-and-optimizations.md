@@ -1,10 +1,10 @@
 ---
 title: Dispatcher caching - New features and optimizations
 description: Learn how to fine tune your AEM Dispatcher cache. Learn about the newest features in AEM dispatcher and some ways you can optimize your cache. The session covers new features added between versions 4.1.0 and 4.1.9.
-uuid: eb15e787-4487-4c0e-aa16-b9685bb580e8
 discoiquuid: 0d0eb59a-cc06-4b0e-960b-c82aa229f382
 targetaudience: target-audience advanced
 exl-id: 36d0784e-ab04-4af4-8308-eb62a51e36ac
+duration: 2777
 ---
 # Dispatcher caching - New features and optimizations{#dispatcher-caching-new-features-and-optimizations}
 

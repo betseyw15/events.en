@@ -8,6 +8,7 @@ level: Experienced
 kt: 9220
 type: Event
 exl-id: e9a57c6d-8b98-4d9b-8967-b9ebfadf5d37
+duration: 1653
 ---
 # An overview of Adobe Exchange, the 3rd party developer marketplace
 

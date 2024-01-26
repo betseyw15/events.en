@@ -6,7 +6,7 @@ feature: Metrics
 role: User
 level: Intermediate, Experienced
 doc-type: Event
-duration: 2448
+duration: 2476
 last-substantial-update: 2023-12-11
 jira: KT-14657
 thumbnail: 3425991.jpeg

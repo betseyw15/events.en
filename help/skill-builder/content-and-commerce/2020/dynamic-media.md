@@ -13,6 +13,7 @@ version: Cloud Service
 type: Event
 kt: 7341
 exl-id: 01149450-8d92-4ea8-a048-86559dd323b7
+duration: 3081
 ---
 # Dynamic Media- Adobe Experience Manager Asset Series
 

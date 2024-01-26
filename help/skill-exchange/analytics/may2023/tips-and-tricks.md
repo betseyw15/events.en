@@ -12,6 +12,7 @@ jira: KT-13555
 thumbnail: 3420948.jpeg
 event-start-time: 2023-5-1 08:30-8
 exl-id: 81199c9f-c44a-4346-9c5d-b819460d3487
+duration: 2531
 ---
 # Adobe Analytics Tips and Tricks - May 2023 APAC Adobe Analytics Skill Exchange Grow Track
 

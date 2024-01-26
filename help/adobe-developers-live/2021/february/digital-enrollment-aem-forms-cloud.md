@@ -12,6 +12,7 @@ kt: 7403
 type: Event
 thumbnail: 332305.jpg
 exl-id: 1b9725ec-7d85-444f-a207-72ed13a5cb33
+duration: 1636
 ---
 # Digital Enrollment Experiences with Experience Manager Forms in the Cloud
 

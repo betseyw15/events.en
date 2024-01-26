@@ -4,10 +4,9 @@ description: Learn how Use Case Playbooks can easily be deployed and unlock pote
 kt: KT-14791
 thumbnail: https://video.tv.adobe.com/v/3426930?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=EZGQ--J2M9I
-event-cta-url-reg: 
 event-start-time: 2024-02-08 09:00-7
 event-guests: Daniel Wright,Josée Monette-Healey,Rohit Basuri
-
+duration: 25
 ---
 # Use Case Playbooks, self-serve templates to deploy use cases in a few clicks
 

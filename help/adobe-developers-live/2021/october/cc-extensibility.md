@@ -9,6 +9,7 @@ level: Experienced
 kt: 9138
 type: Event
 exl-id: cf345cb3-1273-4e11-b942-24e2715deb20
+duration: 2061
 ---
 # Building Plugins for Adobe Photoshop and XD using the Unified Extensibility Platform
 

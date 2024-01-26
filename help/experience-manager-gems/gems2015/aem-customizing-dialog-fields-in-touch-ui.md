@@ -1,10 +1,10 @@
 ---
 title: Customize dialog fields in Touch UI
 description: Learn how to implement custom fields (or widgets) for Touch UI dialogs in AEM 6.1. Discover how things that were previously done with ExtJS (Classic UI) can now be done using Granite UI and Coral UI.
-uuid: 3fe33258-ae88-42e6-917e-35a6525e5cd5
 discoiquuid: 45acb883-7202-494b-bbbb-78189c222093
 targetaudience: target-audience advanced
 exl-id: de13e990-fd41-4d7f-b70a-49b210c38263
+duration: 3267
 ---
 # Customize dialog fields in Touch UI{#customizing-dialog-fields-in-touch-ui}
 

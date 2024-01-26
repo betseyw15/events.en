@@ -12,6 +12,7 @@ kt: 7404
 type: Event
 thumbnail: 332304.jpg
 exl-id: 75e88a05-780d-4b6b-85be-09eea699bb69
+duration: 1437
 ---
 # Environment variables with Adobe Experience Manager as a Cloud Service
 

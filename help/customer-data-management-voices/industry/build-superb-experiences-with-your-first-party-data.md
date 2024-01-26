@@ -9,6 +9,7 @@ kt: 9727
 thumbnail: 340369.jpeg
 type: Event
 exl-id: b19103d0-4b5b-427e-bd26-436f29c62f75
+duration: 3805
 ---
 # Build Superb Experiences with your First-Party Data
 

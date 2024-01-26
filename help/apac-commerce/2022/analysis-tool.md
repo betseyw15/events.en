@@ -8,6 +8,7 @@ level: Beginner
 kt: 10710
 thumbnail: 347334.jpeg
 exl-id: 920ad08d-5005-4275-9ba8-8eeb979b4e2c
+duration: 2483
 ---
 # Adobe Commerce Site Wide Analysis Tool
 

@@ -7,6 +7,7 @@ level: Beginner
 kt: 10311
 thumbnail: 342522.jpeg
 exl-id: 6f77698c-9955-4555-a293-3dcd43de285f
+duration: 2992
 ---
 # Considerations for Conquering User Adoption
 

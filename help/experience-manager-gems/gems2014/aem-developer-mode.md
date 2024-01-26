@@ -1,10 +1,10 @@
 ---
 title: AEM 6.0 Developer Mode
 description: Learn about the Developer Mode in AEM 6.0.
-uuid: ade5e9fd-a81a-4cec-a6ea-fff8cbaf4777
 discoiquuid: cbfc5299-e915-4ac5-8ce6-57a289b973ec
 targetaudience: target-audience advanced
 exl-id: e9f24562-7b97-46ff-aab9-865823a19a5b
+duration: 2739
 ---
 # AEM 6.0 Developer Mode{#aem-developer-mode}
 

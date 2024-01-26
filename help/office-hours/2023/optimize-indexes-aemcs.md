@@ -10,6 +10,7 @@ last-substantial-update: 2023-08-25
 jira: KT-13811
 thumbnail: 3422534.jpeg
 exl-id: 49021cb6-660f-461f-86ff-85d36d7fa4a3
+duration: 2644
 ---
 # Foundation for Optimizing Indexes with AEM Cloud Service
 

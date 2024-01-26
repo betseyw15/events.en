@@ -1,10 +1,10 @@
 ---
 title: Running AEM on MongoDB
 description: This AEM Gem will detail how to run AEM on MongoDB in a production setting. We will present the options MongoDB has for deployment, highlight recommended deployment and explain the rationale for those recommendations.
-uuid: 8ca5b7d0-b71e-481c-961c-c91ee987f374
 discoiquuid: 198f9f6e-4156-468a-88d7-6902f51dd6c1
 targetaudience: target-audience advanced
 exl-id: 1dc74724-9781-477b-a05b-e25ef9f5e15b
+duration: 3024
 ---
 # Running AEM on MongoDB{#running-aem-on-mongodb}
 

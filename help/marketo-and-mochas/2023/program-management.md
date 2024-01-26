@@ -11,6 +11,7 @@ last-substantial-update: 2023-10-27
 jira: KT-14226
 thumbnail: 3425070.jpeg
 exl-id: d3147987-3250-4d5c-a96a-e0bc41001528
+duration: 3501
 ---
 # Marketo and Mochas - Program Management Best Practices
 

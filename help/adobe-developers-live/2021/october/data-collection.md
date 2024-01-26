@@ -9,6 +9,7 @@ level: Experienced
 kt: 9140
 type: Event
 exl-id: 1ddec597-5475-41f8-9750-8c74f8f94884
+duration: 1591
 ---
 # Data Collection for digital experiences - Client Performance and the power of server-side integrations
 

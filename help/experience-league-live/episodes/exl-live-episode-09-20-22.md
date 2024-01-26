@@ -4,10 +4,10 @@ description: Adobe Target and Adobe Real-time Customer Data Platform can be inte
 solution: Target,Real-Time Customer Data Platform
 kt: 11004
 thumbnail: https://video.tv.adobe.com/v/3409425?format=jpeg
-event-cta-url: null
 event-start-time: 2022-09-20 09:00-7
 event-guests: Gina Casagrande,Brent Kostak
 exl-id: e14bea3f-e770-4780-9f51-8bd97456fb68
+duration: 3694
 ---
 # Providing a more personalized customer experience in real time
 

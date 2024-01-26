@@ -1,10 +1,10 @@
 ---
 title: AEM Query and Index Troubleshooting
 description: This is a continuation of last year's session AEM Indexing and JCR Query (Link below). It will cover the same topics, but with all-new content and have little overlap with the older presentation. Also included are new features of AEM 6.4.
-uuid: da172124-bef7-45b8-91f4-86fc37d03f5d
 discoiquuid: 7d95cb2b-9fc4-4d0e-8a70-a751f4487f77
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: 18c67108-c642-43dd-a177-b441f03a83bb
+duration: 3538
 ---
 # AEM Query and Index Troubleshooting{#aem-query-and-index-troubleshooting}
 

@@ -10,6 +10,7 @@ last-substantial-update: 2023-11-27
 jira: KT-14574
 thumbnail: 3425813.jpeg
 exl-id: fd18358c-1027-42b9-a9da-c8b7af2b6820
+duration: 3081
 ---
 # Experience Makers Spotlight - Prepare for Growth & Continued Efficiencies
 

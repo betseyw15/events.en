@@ -12,6 +12,7 @@ last-substantial-update: 2022-11-15
 kt: 11482
 thumbnail: 3411303.jpeg
 exl-id: 0d4ceb27-5df8-49cc-86c6-ea078a1ff216
+duration: 2415
 ---
 # Bring In-Context and Headless Authoring to Your Next.JS App
 

@@ -9,6 +9,7 @@ kt: 11424
 thumbnail: 3410838.jpeg
 hidefromtoc: true
 exl-id: 9ba87cee-6fe3-4d93-a9e6-92dffcce7ea9
+duration: 1021
 ---
 # Adobe Commerce Roadmap Highlights
 

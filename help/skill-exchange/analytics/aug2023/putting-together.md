@@ -5,7 +5,7 @@ feature: Visualizations
 role: User
 level: Beginner
 doc-type: Event
-duration: 2109
+duration: 2120
 last-substantial-update: 2023-12-11
 jira: KT-14654
 thumbnail: 3425988.jpeg

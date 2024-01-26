@@ -7,6 +7,7 @@ level: Beginner
 kt: 9710
 thumbnail: 340309.jpeg
 exl-id: 87f18c5d-5bf3-4789-912c-a4072b26e940
+duration: 1996
 ---
 # Reporting within [!DNL Marketo Engage]
 

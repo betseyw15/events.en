@@ -9,6 +9,7 @@ event-cta-url: https://experienceleague.adobe.com/docs/experience-league-live-ev
 event-start-time: 2022-07-21 09:00-7
 event-guests: Rudi Shumpert, Jeff Chasin, Eric Matisoff
 exl-id: ab5121f7-3e92-48a7-8bcc-a4456a4eab6e
+duration: 3825
 ---
 # Ask the experts: Datastreams and data prep
 

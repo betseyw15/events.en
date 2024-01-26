@@ -13,6 +13,7 @@ kt: 7406
 type: Event
 thumbnail: 332307.jpg
 exl-id: 42685f49-e67d-470a-918d-3895d723f06f
+duration: 1694
 ---
 # Local Build analyzers with Adobe Experience Manager as a Cloud Service 
 

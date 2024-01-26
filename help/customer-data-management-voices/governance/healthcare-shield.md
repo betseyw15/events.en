@@ -9,6 +9,7 @@ doc-type: Event
 kt: 10471
 thumbnail: 343342.jpeg
 exl-id: 90d8091f-4566-41e9-af66-b6ef70885e9e
+duration: 436
 ---
 # Adobe Real-Time Customer Data Platform and Healthcare Shield
 

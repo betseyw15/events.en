@@ -6,6 +6,7 @@ level: Beginner, Intermediate
 kt: 9992
 thumbnail: 341221.jpeg
 exl-id: 7a8f6637-c23f-454f-b3c7-8949475387ba
+duration: 2331
 ---
 # Creative Agencies: Reporting & Dashboards (Jun 14, 2020)
 

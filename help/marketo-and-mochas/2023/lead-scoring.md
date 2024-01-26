@@ -9,6 +9,7 @@ kt: 11655
 thumbnail: 3412722.jpeg
 exl-id: f7a309d6-e5e6-46f7-91b9-a19ce4c2c3fd
 event-start-time: 2023-6-7 08:30-8
+duration: 3631
 ---
 # Marketo and Mochas - Lead Scoring
 

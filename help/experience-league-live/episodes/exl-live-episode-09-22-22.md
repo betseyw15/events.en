@@ -6,10 +6,10 @@ kt: 11028
 feature: Campaigns
 role: User
 thumbnail: https://video.tv.adobe.com/v/3409504?format=jpeg
-event-cta-url: null
 event-start-time: 2022-09-22 08:30-7
 event-guests: Sandra Hausmann,Frederic Mary,Bridgette Darling
 exl-id: fa2a7641-438c-4167-80ec-46761e0b91bb
+duration: 3030
 ---
 # Execute your campaigns in Adobe Journey Optimizer
 

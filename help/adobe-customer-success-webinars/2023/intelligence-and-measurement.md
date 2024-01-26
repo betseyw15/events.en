@@ -9,6 +9,7 @@ last-substantial-update: 2023-07-22
 jira: KT-13706
 thumbnail: 3421756.jpeg
 exl-id: 2e3aa238-6eec-4bcc-aba0-09a492c3f492
+duration: 3040
 ---
 # Prioritizing Intelligence & Measurement
 

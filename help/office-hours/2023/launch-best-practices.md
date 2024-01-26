@@ -11,6 +11,7 @@ last-substantial-update: 2023-09-08
 jira: KT-13820
 thumbnail: 3422528.jpeg
 exl-id: 5b235517-efe6-4826-b51f-166a88d5bf64
+duration: 2578
 ---
 # Adobe Analytics: Launch Best Practices
 

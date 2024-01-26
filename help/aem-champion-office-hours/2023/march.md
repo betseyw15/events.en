@@ -13,6 +13,7 @@ jira: KT-13521
 thumbnail: 3420725.jpeg
 event-start-time: 2023-3-1 08:30-8
 exl-id: 7c15c370-3027-4a2f-a677-02f8c6b82fc1
+duration: 3487
 ---
 # Adobe Experience Manager Champion Office Hours - Sites Focus
 

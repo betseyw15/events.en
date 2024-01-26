@@ -9,6 +9,7 @@ last-substantial-update: 2023-11-30
 jira: KT-14612
 thumbnail: 3425896.jpeg
 exl-id: 17d0bc2e-2f17-4f91-8a8f-3a07038368ed
+duration: 2370
 ---
 # Skill Exchange Event Aug 2023 - AEM Web Track -  Experience Makers Spotlight
 

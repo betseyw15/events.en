@@ -1,12 +1,12 @@
 ---
 title: Troubleshooting AEM Replication
 description: Replication is a central feature in AEM as it allows publishing authored content to publish instances. In this session we'll analyze how to troubleshoot and react to the most common issues in replication.
-uuid: 4e4a3dc8-eb1c-4c28-a7c1-1c8c2e084e7b
 content-type: troubleshooting
 topic-tags: troubleshoot
 discoiquuid: 563fbea0-fad3-45da-8d38-5ee736bd3588
 targetaudience: target-audience new;target-audience ongoing
 exl-id: 0d8338e3-bf83-450b-a7e1-7091ea10f436
+duration: 3644
 ---
 # Troubleshooting AEM Replication{#troubleshooting-aem-replication}
 

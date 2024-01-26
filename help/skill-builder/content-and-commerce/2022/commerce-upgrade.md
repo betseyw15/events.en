@@ -7,6 +7,7 @@ level: Beginner, Intermediate, Experienced
 kt: 10567
 thumbnail: 343813.jpeg
 exl-id: edc4a48a-1429-466e-aba4-75eb5388bd72
+duration: 2571
 ---
 # All you need to know about the Adobe Commerce 2.4.4 Upgrade
 

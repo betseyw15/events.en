@@ -9,6 +9,7 @@ jira: KT-13529
 thumbnail: 3420763.jpeg
 event-start-time: 2023-6-30 08:30-8
 exl-id: e31120ae-3bdd-4974-953b-1f007c6962a8
+duration: 3772
 ---
 # Customer Journey Management: Lifecycle Modeling
 

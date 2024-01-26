@@ -8,7 +8,7 @@ topic: Performance
 role: Admin, User
 level: Beginner, Intermediate
 doc-type: Event
-duration: 1859
+duration: 1877
 last-substantial-update: 2023-12-20
 jira: KT-14673
 thumbnail: 3426313.jpeg

@@ -1,10 +1,10 @@
 ---
 title: Create online communities with AEM 6.1
 description: Learn how to leverage AEM’s powerful authoring interface to build a vibrant customer community and learn the tools to keep your fan base engaged long after launch.
-uuid: 5b685948-697f-4095-85ad-f62db189bb30
 discoiquuid: 62b6b8d4-b763-4801-9918-447a2c5deb01
 targetaudience: target-audience advanced
 exl-id: 86ceb0d8-b8ce-4ab9-8b54-68ac3dfeea95
+duration: 3473
 ---
 # Create online communities with AEM 6.1{#creating-online-communities-with-aem}
 

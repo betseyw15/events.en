@@ -8,6 +8,7 @@ level: Experienced
 kt: 9212
 type: Event
 exl-id: 61bec279-c99c-41c3-9ffc-ee6f90509ae4
+duration: 1957
 ---
 # Adobe Analytics APIs you need to know in 2021
 

@@ -11,6 +11,7 @@ last-substantial-update: 2023-11-15
 jira: KT-14429
 thumbnail: 3425633.jpeg
 exl-id: 8a13c750-9d74-4b79-b406-47625377a722
+duration: 1663
 ---
 # Adobe Developers Live Commerce Breakout 3 - November 2023
 

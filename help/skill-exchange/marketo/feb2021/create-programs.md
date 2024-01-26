@@ -7,6 +7,7 @@ level: Beginner
 kt: 9706
 thumbnail: 340308.jpeg
 exl-id: f317ea35-e460-4c2f-89ca-e3d2d088d220
+duration: 2698
 ---
 # Creating Programs Within Adobe [!DNL Marketo Engage]
 

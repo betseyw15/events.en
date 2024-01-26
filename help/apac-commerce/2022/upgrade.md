@@ -9,6 +9,7 @@ role: Leader, Architect, Developer, Data Architect, Admin, User
 level: Beginner
 thumbnail: 344453.jpeg
 exl-id: 751dca8e-8910-4cff-8ece-c83dff257ec9
+duration: 3246
 ---
 # Benefits of upgrading to Adobe Commerce 2.4.4
 

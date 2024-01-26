@@ -2,6 +2,7 @@
 title: Adobe Office Hours
 description: Office Hours is a proactive approach to case deflection by offering customers solution-specific webinars.
 exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
+duration: 53
 ---
 # Adobe Office Hours Recordings
 
