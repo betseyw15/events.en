@@ -1,12 +1,12 @@
 ---
 title: Ask the Expert - Measuring velocity
 description: Learn to measure and track velocity using [!DNL Workfront] reporting. This workshop was recorded on August 14, 2019.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
 last-substantial-update: 2023-08-15
 exl-id: 83053de2-e386-4243-a9c8-a2ad9d51790f
+duration: 4630
 ---
 # Ask the Expert - Measuring velocity
 

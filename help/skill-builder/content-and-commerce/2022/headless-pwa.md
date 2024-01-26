@@ -7,6 +7,7 @@ level: Beginner, Intermediate, Experienced
 kt: 10562
 thumbnail: 343814.jpeg
 exl-id: dbbf34be-3009-4559-b347-ba8012323afa
+duration: 2744
 ---
 # Headless for Commerce and PWA Studio
 

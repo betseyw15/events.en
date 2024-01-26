@@ -13,6 +13,7 @@ kt: 7188
 type: Event
 thumbnail: 331851.jpg
 exl-id: 1326926c-1bb4-4d05-ab08-a8f60701bd1a
+duration: 1847
 ---
 # Content and Commerce with Adobe Experience Manager as a Cloud Service
 

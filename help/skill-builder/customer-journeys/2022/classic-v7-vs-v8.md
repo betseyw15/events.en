@@ -8,6 +8,7 @@ kt: 10566
 thumbnail: 343823.jpeg
 hideFromToc: true
 hideFromSearch: true
+duration: 2282
 ---
 # Adobe [!DNL Campaign Classic] V7 vs V8
 

@@ -11,6 +11,7 @@ jira: KT-13182
 thumbnail: 3419001.jpeg
 event-start-time: 2023-4-1 08:30-8
 exl-id: 1793792e-e8ea-4f39-bdb4-e7be733e4660
+duration: 5423
 ---
 # AEM Champion Office Hours - April Edition
 

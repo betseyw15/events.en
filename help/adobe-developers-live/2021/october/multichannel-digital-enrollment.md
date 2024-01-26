@@ -8,6 +8,7 @@ version: Cloud Service
 kt: 9194
 type: Event
 exl-id: d1cd8681-ec55-4776-99bf-a41fbb755a9a
+duration: 1551
 ---
 # Adobe Experience Manager Forms Cloud Service - Secure Multi-Channel Digital Enrollment
 

@@ -9,6 +9,7 @@ role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 342501.jpeg
 exl-id: ac932e1b-ae0a-40a3-b7dd-948d88ded358
+duration: 3221
 ---
 # Getting Started with Commerce Intelligence
 

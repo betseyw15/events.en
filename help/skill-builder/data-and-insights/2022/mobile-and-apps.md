@@ -7,6 +7,7 @@ level: Intermediate, Experienced
 kt: 10568
 thumbnail: 343819.jpeg
 exl-id: 4ae593bc-9219-4c8a-bcb3-07eb0c54ad44
+duration: 2754
 ---
 # Analytics and Target applications for Mobile and Apps
 

@@ -7,6 +7,7 @@ kt: 11123
 thumbnail: 3409242.jpeg
 hidefromtoc: yes
 exl-id: 62885d7a-6331-4061-b570-ae04913147f7
+duration: 1720
 ---
 # A Roadmap for Value Mapping and Value Realization
 

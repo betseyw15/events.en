@@ -13,6 +13,7 @@ kt: 7186
 type: Event
 thumbnail: 331849.jpg
 exl-id: de37b039-a661-415f-9cce-b6bb764e7f5d
+duration: 1362
 ---
 # Asset Compute Service Extensibility
 

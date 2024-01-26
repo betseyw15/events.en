@@ -11,6 +11,7 @@ last-substantial-update: 2023-10-27
 jira: KT-14149
 thumbnail: 3424018.jpeg
 exl-id: f34a0cea-c94e-4874-b743-bf8f85ac538a
+duration: 2515
 ---
 # Skill Exchange Event Aug 2023 - AEM Developer Track - Strategic & Tactical Tips to Migrate to AEM Cloud Service
 

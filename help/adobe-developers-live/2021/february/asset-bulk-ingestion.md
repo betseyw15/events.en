@@ -13,6 +13,7 @@ kt: 7168
 type: Event
 thumbnail: 331769.jpg
 exl-id: c08944f0-1ce0-43cd-9f37-ae10126b6915
+duration: 12
 ---
 # Asset Bulk Ingestion 
 

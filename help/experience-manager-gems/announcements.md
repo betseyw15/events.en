@@ -7,6 +7,7 @@ topic: Administration
 role: User
 level: Intermediate
 hidefromtoc: true
+duration: 11
 ---
 # Adobe Experience Manager Gems
 

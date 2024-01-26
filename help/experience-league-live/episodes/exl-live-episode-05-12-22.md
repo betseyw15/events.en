@@ -6,10 +6,10 @@ kt: 10407
 thumbnail: https://video.tv.adobe.com/v/342810?format=jpeg
 feature: Push
 role: Developer
-event-cta-url: 
 event-start-time: 2022-05-12 09:30-7
 event-guests: Sandra Hausmann,Archana Chaudhary,Don Huynh
 exl-id: 3e813ced-154d-4ec6-b7a3-6800b814f123
+duration: 2963
 ---
 # Push notifications with Adobe Journey Optimizer
 

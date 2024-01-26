@@ -12,6 +12,7 @@ kt: 7173
 type: Event
 thumbnail: 331739.jpg
 exl-id: 31ab1743-9e0e-42db-94e0-1d630680c96f
+duration: 12
 ---
 # Moving Adobe Experience Manager to the Cloud - Challenges, Stories, Solutions 
 

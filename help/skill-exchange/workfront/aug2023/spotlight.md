@@ -11,6 +11,7 @@ last-substantial-update: 2023-11-27
 jira: KT-14570
 thumbnail: 3425809.jpeg
 exl-id: 7637ba37-0be8-4d99-b58b-3b9095a05dcf
+duration: 2850
 ---
 # Experience Makers Spotlight
 

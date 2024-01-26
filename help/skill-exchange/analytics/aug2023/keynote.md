@@ -4,7 +4,7 @@ description: Curious about where Adobe Analytics is headed? Ben Gaines, Director
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
-duration: 961
+duration: 973
 last-substantial-update: 2023-12-11
 jira: KT-14651
 thumbnail: 3425984.jpeg

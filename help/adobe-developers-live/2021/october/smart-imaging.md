@@ -9,6 +9,7 @@ version: Cloud Service
 kt: 9176
 type: Event
 exl-id: b3218ecd-4682-4bd1-8444-594ae925e4d8
+duration: 1757
 ---
 # Transform, Adapt, and Optimize Images through URLs
 

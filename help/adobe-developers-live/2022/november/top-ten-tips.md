@@ -12,6 +12,7 @@ last-substantial-update: 2022-11-15
 kt: 11476
 thumbnail: 3411300.jpeg
 exl-id: 1281fada-aea9-41b0-a368-27e0483e974c
+duration: 2665
 ---
 # Top 10 Tips to Speed Up Your Adobe Experience Manager Site
 

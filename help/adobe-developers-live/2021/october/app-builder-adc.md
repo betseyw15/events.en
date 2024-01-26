@@ -10,6 +10,7 @@ version: Cloud Service
 kt: 9214
 type: Event
 exl-id: 2f0533ca-a96f-4fa1-90fd-37ba37180a2f
+duration: 1898
 ---
 # An introduction to the Adobe Developer Console
 

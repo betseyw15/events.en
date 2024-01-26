@@ -7,6 +7,7 @@ level: Intermediate, Experienced
 kt: 10313
 thumbnail: 342523.jpeg
 exl-id: bf741c04-9cd9-485a-8fa4-409cddf94547
+duration: 2480
 ---
 # 10 Tips to Wow Your Workfront
 

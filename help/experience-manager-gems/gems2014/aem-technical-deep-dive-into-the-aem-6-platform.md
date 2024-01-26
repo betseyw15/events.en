@@ -1,10 +1,10 @@
 ---
 title: Technical deep dive into the AEM 6 platform
 description: Deep dive into the new repository architecture and learn the key differences and improvements for developers and operations teams.
-uuid: 8038fb68-e841-4d35-affd-c32d53e4cc8f
 discoiquuid: 1374a0f7-4456-47ba-b061-1b6d67d12d55
 targetaudience: target-audience advanced
 exl-id: 75bfdd70-c79d-4206-99fd-5f8e62b368d9
+duration: 3816
 ---
 # Technical deep dive into the AEM 6 platform{#technical-deep-dive-into-the-aem-platform}
 

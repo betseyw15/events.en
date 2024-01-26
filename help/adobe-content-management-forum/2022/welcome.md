@@ -7,6 +7,7 @@ level: Beginner, Intermediate, Experienced
 kt: 10784
 thumbnail: 345183.png
 exl-id: 046e3a51-bdd5-4357-96d2-f738e0b40934
+duration: 3180
 ---
 # Welcome address and AEM overview
 

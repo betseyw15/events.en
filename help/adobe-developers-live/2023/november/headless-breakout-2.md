@@ -12,6 +12,7 @@ last-substantial-update: 2023-11-15
 jira: KT-14425
 thumbnail: 3425635.jpeg
 exl-id: ee24d39f-0440-459c-b5c8-b05f2ab2e6c3
+duration: 1963
 ---
 # Adobe Developers Live Headless Breakout 2 - November 2023
 

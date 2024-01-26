@@ -8,6 +8,7 @@ last-substantial-update: 2023-08-17
 jira: KT-13818
 thumbnail: 3422529.jpeg
 exl-id: 920c48e0-a808-4c99-a977-35bf06e0fbc0
+duration: 1804
 ---
 # Site-Wide Analysis Tool
 

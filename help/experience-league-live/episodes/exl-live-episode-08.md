@@ -5,9 +5,9 @@ solution: Customer Journey Analytics
 kt: 9607
 thumbnail: https://video.tv.adobe.com/v/340025?format=jpeg
 event-start-time: 2022-01-25 09:00-8
-event-cta-url: 
 event-guests: Trevor Paulsen,Rohit Gossain,Alex Strawn
 exl-id: 0bc46796-e2bf-43ec-a346-14aac5b52b45
+duration: 3546
 ---
 # Customer Journey Analytics - The Inside Scoop
 

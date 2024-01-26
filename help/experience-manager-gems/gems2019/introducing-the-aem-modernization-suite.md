@@ -1,10 +1,10 @@
 ---
 title: Introducing the AEM Modernization Suite
 description: Learn how to convert static template pages to editable templates. Learn how to convert custom or legacy components to Core Component Proxies, and more.
-uuid: f1b17a0f-055f-48f4-a0be-e50318b3349d
 discoiquuid: 2bb43197-11dc-4e96-a4ec-326fef150845
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: 1a3fb1de-4c75-4527-9743-a14822566369
+duration: 3324
 ---
 # Introducing the AEM Modernization Suite{#introducing-the-aem-modernization-suite}
 

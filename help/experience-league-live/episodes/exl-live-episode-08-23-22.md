@@ -5,9 +5,9 @@ solution: Data Collection,Experience Platform
 kt: 10528
 thumbnail: https://video.tv.adobe.com/v/346610?format=jpeg
 event-start-time: 2022-08-23 09:00-7
-event-cta-url: 
 event-guests: Rudi Shumpert,Jeff Chasin,Eric Matisoff
 exl-id: 5ef987f4-37f5-473f-b9f2-1598b7e655ba
+duration: 3833
 ---
 # Ask the experts: Useful extensions in Tags (Launch) to help super charge the Web SDK
 

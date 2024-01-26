@@ -1,10 +1,10 @@
 ---
 title: Ask the Expert - Modern Work Governance for the Enterprise
 description: Learn how to develop the framework of your Center of Excellence to ensure success. This webinar was recorded on August 5, 2020.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9915
+duration: 3698
 ---
 # Ask the Expert - Modern Work Governance for the Enterprise
 

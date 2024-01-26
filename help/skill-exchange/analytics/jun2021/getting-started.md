@@ -10,6 +10,7 @@ level: Beginner
 kt: 10317
 thumbnail: 342527.jpeg
 exl-id: 414a84e8-fd22-432a-a3e3-315ad4552658
+duration: 2724
 ---
 # Adobe Analytics: Getting Started
 

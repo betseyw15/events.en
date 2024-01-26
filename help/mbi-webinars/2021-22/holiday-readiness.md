@@ -9,6 +9,7 @@ role: Leader, User, Data Architect
 level: Intermediate
 thumbnail: 342496.jpeg
 exl-id: 9c05e0c7-50cd-42e8-bf7a-7e278b7060bc
+duration: 3197
 ---
 # Holiday Readiness with Commerce Intelligence
 

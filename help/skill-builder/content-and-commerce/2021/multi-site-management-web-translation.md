@@ -13,6 +13,7 @@ version: Cloud Service
 type: Event
 kt: 8936
 exl-id: 8b54f2ed-621f-4cdb-a8d5-de58108059b3
+duration: 4098
 ---
 # Adobe Experience Manager Sites Basics
 

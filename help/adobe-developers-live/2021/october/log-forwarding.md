@@ -8,6 +8,7 @@ level: Beginner, Intermediate, Experienced
 kt: 9123
 type: Event
 exl-id: a2e7d00e-e7b9-4ad7-aa3e-fd3850384d07
+duration: 1738
 ---
 # Monitoring App Builder applications with Log Forwarding
 

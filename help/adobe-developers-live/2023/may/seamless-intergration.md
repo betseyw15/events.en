@@ -11,6 +11,7 @@ last-substantial-update: 2023-05-27
 jira: KT-13361
 thumbnail: 3419943.jpeg
 exl-id: 38d87a81-24f6-4316-b835-8352fec09dac
+duration: 2299
 ---
 # Seamless Integration of Experience Manager Assets with Applications
 

@@ -8,6 +8,7 @@ event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231114.html
 event-start-time: 2023-11-14 09:00-7
 event-guests: Daniel Wright,Lory Mishra,Rachit Gupta
 exl-id: 2f33350a-6030-43e8-824b-bd69ca153485
+duration: 3269
 ---
 # Get the most from your behavioral event data in Real-Time CDP and Journey Optimizer
 

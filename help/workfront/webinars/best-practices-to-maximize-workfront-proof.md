@@ -1,11 +1,11 @@
 ---
 title: Ask the Expert - Best Practices to Maximize Workfront Proof
 description: Learn how to configure settings, enable great reporting, and avoid common pitfalls in Proof. This webinar was recorded on February 26, 2020.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9916
 exl-id: 7d3e437d-4a6e-44b8-9eff-eabb8284c391
+duration: 5182
 ---
 # Ask the Expert - Best Practices to Maximize Workfront Proof
 

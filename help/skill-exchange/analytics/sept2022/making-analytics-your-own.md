@@ -9,6 +9,7 @@ last-substantial-update: 2022-11-11
 kt: 11440
 thumbnail: 3411012.jpeg
 exl-id: cb40d86a-dbb2-4ea2-a866-9eb47157cd5e
+duration: 2523
 ---
 # Skill Exchange Event Sept 2022 Analytics Grow Making Adobe Analytics Your Own
 

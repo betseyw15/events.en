@@ -9,6 +9,7 @@ last-substantial-update: 2023-08-25
 jira: KT-13812
 thumbnail: 3422750.jpeg
 exl-id: ee2d35db-d2fe-4191-9043-8b00f49d95db
+duration: 3004
 ---
 # AEM Forms Headless Architecture
 

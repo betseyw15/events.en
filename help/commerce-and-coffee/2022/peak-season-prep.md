@@ -10,6 +10,7 @@ last-substantial-update: 2023-01-06
 kt: 11648
 thumbnail: 3412587.jpeg
 exl-id: 56282fe4-931d-40c7-9d34-08a79ba89fa8
+duration: 3848
 ---
 # Commerce and Coffee: Peak Season Preparation
 

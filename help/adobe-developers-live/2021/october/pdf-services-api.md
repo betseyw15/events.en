@@ -9,6 +9,7 @@ level: Experienced
 kt: 9206
 type: Event
 exl-id: 6ac905cc-dd03-4d44-ad31-efe12651b4f1
+duration: 1831
 ---
 # Introduction to Adobe PDF Services API
 

@@ -10,6 +10,7 @@ role: User
 level: Intermediate
 kt: 10220
 exl-id: 3f893f4f-8d4e-4877-9520-8d2012eb724a
+duration: 3561
 ---
 # Integrate AEM & CIF framework to build a rich and immersive e-commerce experience
 

@@ -3,6 +3,7 @@ title: Adobe Developers Live February 2022
 description: A collection of videos and tutorials for Adobe Experience Manager Sites delivered as part of Adobe Developers Live  event.
 sub-product: sites, content-services
 exl-id: 60db2c54-2d2a-4ae7-bd66-b99869879be7
+duration: 73
 ---
 # Adobe Developers Live {#overview}
 

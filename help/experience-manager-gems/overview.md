@@ -11,6 +11,7 @@ level: Intermediate
 type: Event
 user-guide-description: AEM GEM Sessions
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
+duration: 89
 ---
 # Adobe Experience Manager Gems
 

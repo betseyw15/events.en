@@ -1,10 +1,10 @@
 ---
 title: eCommerce Integration Framework
 description: As part of Adobe Experience Manager, CQ 5.6 provides a new Commerce Framework to build Experience Driven Commerce websites on top of a third-party commerce platform. This session provides an overview of the framework from an architectural perspective and presents some details of the reference implementation, based on the JCR repository.
-uuid: cf925889-3538-4ae4-a82c-a8e5d30ad1ab
 discoiquuid: c2876633-70b8-46d9-b63d-581b40ec0fef
 targetaudience: target-audience advanced
 exl-id: 7751d49e-7981-463e-ba3f-e62f32adbae0
+duration: 2787
 ---
 # eCommerce Integration Framework {#ecommerce-integration-framework}
 

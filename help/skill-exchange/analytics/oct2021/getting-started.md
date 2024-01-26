@@ -9,6 +9,7 @@ level: Beginner
 kt: 10475
 thumbnail: 343349.jpeg
 exl-id: e7c8a227-bd03-46d8-b463-e7331233f7fb
+duration: 2491
 ---
 # Getting Started
 

@@ -7,6 +7,7 @@ level: Beginner
 kt: 10319
 thumbnail: 342529.jpeg
 exl-id: 9f0cd70d-4f6a-425d-8e49-9056556f6d8b
+duration: 2625
 ---
 # Adobe Analytics: Putting it All Together
 

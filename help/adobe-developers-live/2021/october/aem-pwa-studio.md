@@ -10,6 +10,7 @@ version: Cloud Service
 kt: 9142
 type: Event
 exl-id: bc428c6e-703a-4826-b2ce-c7f79a772cb5
+duration: 1796
 ---
 # Experience Manager Extension for PWA Studio
 

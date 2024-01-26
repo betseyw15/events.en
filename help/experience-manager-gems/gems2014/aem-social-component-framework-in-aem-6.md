@@ -1,10 +1,10 @@
 ---
 title: Social Component Framework in AEM 6
 description: Learn how to use and extend Social Component Framework in AEM 6. Get information on the documentation and cookbooks available.
-uuid: ea0d66a9-258c-45a7-92c9-8f43b7615080
 discoiquuid: bb43bdf0-8d8d-40c2-865f-ad675348e667
 targetaudience: target-audience advanced
 exl-id: 7a6da893-26da-4cb3-913e-1f07ce33c034
+duration: 3581
 ---
 # Social Component Framework in AEM 6{#social-component-framework-in-aem}
 

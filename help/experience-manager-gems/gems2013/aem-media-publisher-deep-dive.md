@@ -1,10 +1,10 @@
 ---
 title: AEM 5.6 Media Publisher deep dive
 description: Get an overview of the CQ 5.6 Commerce Framework from an architectural perspective. Learn the details of the reference implementation, based on the JCR repository.
-uuid: 20701264-a2fb-4f8e-a818-02247acbb2eb
 discoiquuid: a6a4f598-2f3b-4428-9237-40b1d21b482e
 targetaudience: target-audience advanced
 exl-id: 12120eb9-a324-4d0d-b969-862419d99f07
+duration: 2385
 ---
 # AEM 5.6 Media Publisher deep dive {#aem-media-publisher-deep-dive}
 

@@ -10,6 +10,7 @@ last-substantial-update: 2023-11-27
 jira: KT-14572
 thumbnail: 3425811.jpeg
 exl-id: 84de9fed-07db-4c67-829a-dd770a710922
+duration: 2301
 ---
 # Tackle Burnout with Resource Management
 

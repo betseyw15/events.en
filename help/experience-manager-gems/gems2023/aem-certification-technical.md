@@ -12,6 +12,7 @@ last-substantial-update: 2023-06-22
 jira: KT-13542
 thumbnail: KT-13542.jpeg
 exl-id: 9af6a4e5-d090-4c49-a972-6a3d164b8315
+duration: 3332
 ---
 # Master the Art of Experience Manager Certification: Get Ready, Get Set, Get Certified!
 

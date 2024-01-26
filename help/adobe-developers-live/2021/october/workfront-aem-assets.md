@@ -9,6 +9,7 @@ version: Cloud Service
 kt: 9135
 type: Event
 exl-id: 5edbac18-6e5f-4717-a7cb-5ec2ad4b3f29
+duration: 1664
 ---
 # Adobe Workfront and Adobe Experience Manager Assets
 

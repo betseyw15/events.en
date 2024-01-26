@@ -1,10 +1,10 @@
 ---
 title: AEM 6.1 translation integration & best practices
 description: Get a presentation about enhanced translation integration capabilities in AEM. Learn best practices for managing multilingual web sites.
-uuid: 07db1af6-e823-44cb-8502-4b4a135902c9
 discoiquuid: b05a88a0-8a38-432b-99f7-23e3799ad209
 targetaudience: target-audience advanced
 exl-id: ab91fcec-9ca1-40e3-9b5f-4aed8ed96b9b
+duration: 3807
 ---
 # AEM 6.1 translation integration & best practices{#aem-translation-integration-best-practices}
 

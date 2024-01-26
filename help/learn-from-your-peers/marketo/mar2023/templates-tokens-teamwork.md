@@ -9,6 +9,7 @@ last-substantial-update: 2023-03-03
 jira: KT-12415
 thumbnail: 3416250.jpeg
 exl-id: 2526c088-08da-4839-a1f4-27aa1f620340
+duration: 3440
 ---
 # Templates, tokens, and teamwork - Make your Adobe [!DNL Marketo Engage] content scalable
 

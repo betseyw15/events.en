@@ -8,6 +8,7 @@ event-cta-text: Watch the replay
 event-start-time: 2022-06-23 09:00-7
 event-guests: Rudi Shumpert, Jeff Chasin, Eric Matisoff
 exl-id: 63dadfa3-edfa-4901-ab22-1f721a2a7b7d
+duration: 3518
 ---
 # Ask the experts: Real-Time CDP Connections
 

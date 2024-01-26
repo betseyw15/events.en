@@ -6,6 +6,7 @@ level: Intermediate, Experienced
 kt: 10564
 thumbnail: 343817.jpeg
 exl-id: 2b3826a3-cab9-4b41-a405-3ea7ac1fa1ae
+duration: 2233
 ---
 # Get the most out of the Enterprise Workflow Management
 

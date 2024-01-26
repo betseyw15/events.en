@@ -9,6 +9,7 @@ topic: Administration
 role: User
 level: Intermediate
 exl-id: 6e35763d-d18a-468c-9b34-df14da7c7e2f
+duration: 3729
 ---
 # AEM GEMs feature - Customer Use Case & Implementation of AEM Headless in Use
 

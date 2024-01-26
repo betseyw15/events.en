@@ -13,6 +13,7 @@ version: Cloud Service
 type: Event
 kt: 7338
 exl-id: b19bdea1-486a-400d-93b8-166f0f12d366
+duration: 3317
 ---
 # Folder Structure and Search - Adobe Experience Manager Asset Series
 

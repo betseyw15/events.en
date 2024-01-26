@@ -8,6 +8,7 @@ level: Beginner, Intermediate, Experienced
 kt: 10633
 thumbnail: 344312.jpeg
 exl-id: 434fd1c4-e7f1-40a8-bf61-4b5a72ce3091
+duration: 3479
 ---
 # Selecting a Customer Data Platform for Success
 

@@ -1,10 +1,10 @@
 ---
 title: Machine translation in AEM
 description: Learn how AEM and Microsoft Translator deliver machine translation to enable you to extend the reach of your content, increase time to market for content, optimize costs, and increase discoverability by users through Search Engine Optimization resulting in better use of resources and increased ROI.
-uuid: c25c9806-560c-46ef-b9c0-ffe0af296ed9
 discoiquuid: c976c008-4f51-4146-8c34-265e9707be6a
 targetaudience: target-audience advanced
 exl-id: e4f4d4ec-f702-4958-913e-fb3d34421855
+duration: 3062
 ---
 # Machine translation in AEM{#machine-translation-in-aem}
 

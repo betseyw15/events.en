@@ -6,6 +6,7 @@ solution: Campaign
 kt: 10506
 thumbnail: 343524.jpeg
 exl-id: bf0a7290-d5fb-4c6c-88f0-2ceecbf794e3
+duration: 3650
 ---
 # Level up Your Cross-channel Marketing with Adobe [!DNL Campaign Classic]
 

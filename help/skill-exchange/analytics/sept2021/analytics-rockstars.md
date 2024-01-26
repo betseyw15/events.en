@@ -7,6 +7,7 @@ level: Intermediate, Experienced
 kt: 10459
 thumbnail: 343323.jpeg
 exl-id: 13dad000-8824-49a1-9fd3-227f4a8233f9
+duration: 2230
 ---
 # Rockstar Segment
 

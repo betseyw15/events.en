@@ -6,6 +6,7 @@ level: Beginner
 hide: yes
 hidefromtoc: yes
 exl-id: f9033744-4b73-4081-ae7b-af6bec257359
+duration: 7
 ---
 # Experience League LIVE Assets
 

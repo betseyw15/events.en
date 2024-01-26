@@ -9,6 +9,7 @@ thumbnail: 336939.jpg
 kt: 8866
 type: Event
 exl-id: 5adf4fd4-2302-4bd0-86eb-d20b8a3f5a7c
+duration: 2788
 ---
 # Building better experiences with customer profiles
 

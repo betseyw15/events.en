@@ -8,6 +8,7 @@ level: Experienced
 kt: 9200
 type: Event
 exl-id: 66157be8-eb97-452a-a8a5-97b1d61cd79b
+duration: 1952
 ---
 # Extending Adobe Commerce using Adobe I/O
 

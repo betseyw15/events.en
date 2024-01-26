@@ -9,6 +9,7 @@ level: Experienced
 kt: 9221
 type: Event
 exl-id: 3097134d-2a30-495c-8e98-83d46643be5a
+duration: 1485
 ---
 # Introduction to Creative Cloud Libraries and Asset Browser APIs
 

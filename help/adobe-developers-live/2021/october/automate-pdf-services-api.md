@@ -9,6 +9,7 @@ level: Experienced
 kt: 9209
 type: Event
 exl-id: 6b0c3a6a-500b-4f7f-8872-0b6d9035a485
+duration: 1791
 ---
 # Automate the creation and manipulation of PDFs using PDF Services API
 

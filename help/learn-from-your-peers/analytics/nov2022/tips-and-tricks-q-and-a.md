@@ -7,6 +7,7 @@ last-substantial-update: 2023-02-09
 kt: 11846
 thumbnail: 3414192.jpeg
 exl-id: 6eb287b6-b84f-421c-9e0b-bd8ab73741d9
+duration: 2350
 ---
 # [!DNL Adobe Analytics] Champion Tips and Tricks Follow-up Q and A
 

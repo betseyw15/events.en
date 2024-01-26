@@ -9,6 +9,7 @@ version: Cloud Service
 kt: 9192
 type: Event
 exl-id: 65e62c64-b8aa-491e-ab86-027cabf4bd2c
+duration: 1693
 ---
 # Advanced Networking with Adobe Experience Manager as a Cloud Service
 

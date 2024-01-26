@@ -8,6 +8,7 @@ level: Beginner
 kt: 10789
 thumbnail: 345379.png
 exl-id: 0e614985-a3e1-451e-89e5-baf31e704d1d
+duration: 1395
 ---
 # [!DNL Experience Manager as a Cloud Service] innovations
 

@@ -9,6 +9,7 @@ event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230425.html
 event-start-time: 2023-04-25 09:00-8
 event-guests: Rudi Shumpert,Travis Jordan,Doug Moore
 exl-id: 1c5c5c90-9772-440e-a7eb-5138d4adadb9
+duration: 3694
 ---
 # Get data collection and event forwarding up and running with just a few clicks!
 

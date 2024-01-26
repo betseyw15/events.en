@@ -8,6 +8,7 @@ level: Beginner, Intermediate
 kt: 10787
 thumbnail: 345377.png
 exl-id: ccd96d68-72c6-4f31-a586-cc9fd6587627
+duration: 1833
 ---
 # Simplified, integrated, and headless
 

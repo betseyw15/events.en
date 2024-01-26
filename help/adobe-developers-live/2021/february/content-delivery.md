@@ -12,6 +12,7 @@ kt: 7270
 type: Event
 thumbnail: 332022.jpg
 exl-id: dd585d52-bf00-4f7f-86cb-86b6d67c5b9d
+duration: 1597
 ---
 # Content Delivery on Experience Manager Cloud Service - Setup your project to deliver fast experiences
 

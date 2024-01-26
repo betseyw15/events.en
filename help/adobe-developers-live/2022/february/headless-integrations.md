@@ -6,6 +6,7 @@ level: Beginner
 kt: 9790
 thumbnail: 340623.jpeg
 exl-id: 33c44945-5838-471e-972d-5b331549a9e3
+duration: 1714
 ---
 # Innovating with Headless Integrations - A Closer Look
 

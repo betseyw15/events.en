@@ -13,6 +13,7 @@ kt: 7187
 type: Event
 thumbnail: 331850.jpg
 exl-id: 15776683-621e-4be4-b4ef-b9c58a4eedf4
+duration: 1249
 ---
 # Commerce Integration Framework Extensibility via GraphQL 
 

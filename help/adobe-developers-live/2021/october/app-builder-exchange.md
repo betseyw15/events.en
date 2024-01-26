@@ -10,6 +10,7 @@ version: Cloud Service
 kt: 9214
 type: Event
 exl-id: bbdfd53c-8bb6-4353-8a72-b5c5ce513ffd
+duration: 2092
 ---
 # App Builder Exchange
 

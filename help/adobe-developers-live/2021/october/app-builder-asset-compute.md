@@ -10,6 +10,7 @@ version: Cloud Service
 kt: 9217
 type: Event
 exl-id: b1c5f695-45f5-4009-8e5f-2c562cbea213
+duration: 1724
 ---
 # Custom Adobe Experience Manager Assets Compute Worker with App Builder and Photoshop APIs
 

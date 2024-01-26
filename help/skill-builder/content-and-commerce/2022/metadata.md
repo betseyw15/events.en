@@ -7,6 +7,7 @@ level: Intermediate, Experienced
 kt: 10563
 thumbnail: 343815.jpeg
 exl-id: d770673b-4f48-4761-86df-f21a3cdfc4bc
+duration: 2730
 ---
 # Make Metadata work for your business in Adobe Experience Manager Assets
 

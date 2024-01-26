@@ -1,10 +1,10 @@
 ---
 title: Introduction to HTL
 description: Get an introduction to HTL, a new templating engine and language implementation. HTL endeavors to supersede JSP as scripting language for Apache Sling and CQ/AEM components and strives to clearly separate presentation and logic concerns.
-uuid: 980bc4ee-8b7f-4bce-9933-8b8af4cce3d2
 discoiquuid: e53db2da-f9a4-45b8-9203-1e4084937bba
 targetaudience: target-audience advanced
 exl-id: 504fa5bb-43e7-4b8c-9291-928fb4f37d0f
+duration: 4010
 ---
 # Introduction to HTL{#introduction-to-htl}
 

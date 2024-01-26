@@ -8,6 +8,7 @@ level: Experienced
 kt: 9151
 type: Event
 exl-id: d1d39490-9ca1-4378-a856-a8aac0badd2e
+duration: 1415
 ---
 # Relevance in search creates a relevant ecommerce experience
 

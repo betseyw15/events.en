@@ -12,6 +12,7 @@ last-substantial-update: 2022-11-15
 kt: 11475
 thumbnail: 3411299.jpeg
 exl-id: 5280276d-ce7d-401d-bc7a-3e37698b678d
+duration: 2356
 ---
 # Adobe Experience Manager as a Headless CMS - Where/When/Why?
 

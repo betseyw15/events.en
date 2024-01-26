@@ -1,10 +1,10 @@
 ---
 title: AEM Fluid Experiences for headless usecases
 description: Learn about fluid experiences and its application in managing content and experiences for either headful or headless CMS scenarios. Learn about key AEM 6.3 latest capabilities that enable channel agnostic experience management use-cases, and more.
-uuid: b7ee2de4-385a-486f-80e4-741e3965ed28
 discoiquuid: 0a81aa6a-94f6-4e38-98fb-c48809899a24
 targetaudience: target-audience advanced
 exl-id: 5ab507d1-5099-4eb4-af2a-7bc312f115af
+duration: 3149
 ---
 # AEM Fluid Experiences for headless usecases{#aem-fluid-experiences-for-headless-usecases}
 

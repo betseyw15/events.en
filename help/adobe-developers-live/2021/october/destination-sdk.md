@@ -9,6 +9,7 @@ level: Experienced
 kt: 9146
 type: Event
 exl-id: 23cc8860-c1e3-4e9a-96ff-8d3c39de749e
+duration: 1582
 ---
 # Introducing Adobe Experience Platform Destination SDK
 

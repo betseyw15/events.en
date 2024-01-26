@@ -11,6 +11,7 @@ last-substantial-update: 2023-05-27
 jira: KT-13359
 thumbnail: 3419940.jpeg
 exl-id: df951e01-fa11-4315-a4d0-5cb0950d90ce
+duration: 2737
 ---
 # How to embed our latest Assets picker into other UI/products and integrate with 3rd party applications using API
 

@@ -10,6 +10,7 @@ last-substantial-update: 2023-08-17
 jira: KT-13816
 thumbnail: 3422532.jpeg
 exl-id: 8099bdbf-d26b-4483-aec3-95e313e3f455
+duration: 2767
 ---
 # AEM as a Cloud Service Deployment Failures Analysis
 

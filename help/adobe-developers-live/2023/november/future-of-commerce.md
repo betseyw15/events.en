@@ -8,7 +8,7 @@ topic: Artificial Intelligence
 role: Leader, User
 level: Beginner
 doc-type: Event
-duration: 1824
+duration: 1837
 last-substantial-update: 2023-12-20
 jira: KT-14672
 thumbnail: 3426312.jpeg

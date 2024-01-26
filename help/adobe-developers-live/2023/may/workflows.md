@@ -11,6 +11,7 @@ last-substantial-update: 2023-05-27
 jira: KT-13356
 thumbnail: 3419947.jpeg
 exl-id: 77f81cc0-6513-42a8-9c03-fbb97c4dbf29
+duration: 2643
 ---
 # Learn workflows and tips for faster deployments with Rapid Development Environments (RDE)
 

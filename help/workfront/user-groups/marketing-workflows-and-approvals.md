@@ -6,6 +6,7 @@ level: Beginner, Intermediate
 kt: 10003
 thumbnail: 341225.jpeg
 exl-id: 64b7c597-1642-49d2-bfb7-e52f9f05b1fd
+duration: 1525
 ---
 # Marketing workflows and approvals, Leap 2020 (July 1, 2020)
 

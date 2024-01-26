@@ -8,6 +8,7 @@ last-substantial-update: 2023-03-16
 jira: KT-12941
 thumbnail: 3416760.jpeg
 exl-id: aea1f3e5-3b28-432f-95df-a4eb300830c8
+duration: 3331
 ---
 # Investing in Yourself - Adobe [!DNL Marketo Engage] Certification
 

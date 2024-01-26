@@ -6,6 +6,7 @@ level: Beginner
 kt: 9789
 thumbnail: 340622.jpeg
 exl-id: b50b6e10-cca6-4f16-84e1-070af22f9c73
+duration: 1872
 ---
 # Deep Dive on Simplifying Upgrades and the Upgrade Compatibility Tool
 

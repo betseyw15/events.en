@@ -13,6 +13,7 @@ kt: 7162
 type: Event
 thumbnail: 331733.jpg
 exl-id: 68cd2f54-02be-40b9-a9b5-ea8824eded6c
+duration: 14
 ---
 # Adobe Client Data Layer - Track Your Visitor Data 
 

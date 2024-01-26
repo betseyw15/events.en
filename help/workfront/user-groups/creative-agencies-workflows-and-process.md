@@ -6,6 +6,7 @@ level: Beginner, Intermediate
 kt: 9993
 thumbnail: 341220.jpeg
 exl-id: ea25e50f-7b3d-4e5a-aaad-0851b10f2af6
+duration: 2441
 ---
 # Creative Agencies: Workflow & Process (Jul 14, 2020)
 

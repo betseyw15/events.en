@@ -5,7 +5,7 @@ feature: Analytics Basics, Workspace Basics
 role: User
 level: Beginner
 doc-type: Event
-duration: 2453
+duration: 2119
 last-substantial-update: 2023-12-11
 jira: KT-14652
 thumbnail: 3425985.jpeg

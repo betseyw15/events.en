@@ -6,6 +6,7 @@ level: Intermediate
 kt: 9989
 thumbnail: 341224.jpeg
 exl-id: bd7f1007-dff2-4966-b1cc-ed358ceb2366
+duration: 2456
 ---
 # Agile in Marketing (Sep 15, 2020)
 

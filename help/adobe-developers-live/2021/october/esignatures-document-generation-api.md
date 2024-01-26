@@ -9,6 +9,7 @@ level: Experienced
 kt: 9210
 type: Event
 exl-id: ea4d1db5-b1d1-4e5b-ba16-db9bd493e150
+duration: 1598
 ---
 # Generate documents and capture e-signatures in your apps using Document Generation and Sign APIs
 

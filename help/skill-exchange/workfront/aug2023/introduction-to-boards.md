@@ -10,6 +10,7 @@ last-substantial-update: 2023-11-27
 jira: KT-14560
 thumbnail: 3425791.jpeg
 exl-id: 2e7a541a-e98f-4d0b-bfa1-cb5d929dedfa
+duration: 2314
 ---
 # An Introduction to Boards
 

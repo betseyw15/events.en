@@ -10,6 +10,7 @@ last-substantial-update: 2023-08-17
 jira: KT-13817
 thumbnail: 3422531.jpeg
 exl-id: 334e7cb4-3417-448e-b209-e197bbf0b781
+duration: 2937
 ---
 # Marketo Engage - Advanced Smart List Logic & Common Pitfalls
 

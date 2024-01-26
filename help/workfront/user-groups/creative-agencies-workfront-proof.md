@@ -6,6 +6,7 @@ level: Beginner, Intermediate
 kt: 9999
 thumbnail: 341411.jpeg
 exl-id: 49e5bb0c-ffc5-4744-a272-4bba1c170fa7
+duration: 2358
 ---
 # Creative Agencies: Workfront Proof (August 11, 2020)
 

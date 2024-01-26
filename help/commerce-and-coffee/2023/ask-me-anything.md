@@ -12,6 +12,7 @@ last-substantial-update: 2023-11-15
 jira: KT-14449
 thumbnail: 3425651.jpeg
 exl-id: db6a7232-6a34-4b86-b66f-0dddb41e5d44
+duration: 3576
 ---
 # Ask Me Anything
 

@@ -7,6 +7,7 @@ kt: 11124
 thumbnail: 3409247.jpeg
 hidefromtoc: yes
 exl-id: a03cdc91-47c3-488e-846d-86059fee60ab
+duration: 1683
 ---
 # Unlock Operational Efficiency with a best-in-class Operational Model
 

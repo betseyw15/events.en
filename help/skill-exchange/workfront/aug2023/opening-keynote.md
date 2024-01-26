@@ -8,6 +8,7 @@ last-substantial-update: 2023-11-30
 jira: KT-14610
 thumbnail: 3425894.jpeg
 exl-id: 6d840275-3f12-4480-b442-93b0a4dab153
+duration: 694
 ---
 # Aug 2023 Workfront Opening Keynote
 

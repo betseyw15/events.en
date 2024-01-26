@@ -7,6 +7,7 @@ level: Beginner
 kt: 10577
 thumbnail: 343810.jpeg
 exl-id: 5ef53a40-1e40-4d31-996d-eeb002d25cd9
+duration: 1829
 ---
 # Innovations in Content Personalization that deliver Business Value
 

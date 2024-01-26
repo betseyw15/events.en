@@ -2,6 +2,7 @@
 title: Customer Data Management Voices
 description: Your destination as a customer data management technical and marketing practice leader and specialist.  This page is your one stop shop to hear from your peers, get inspired and learn about developments in martech.
 exl-id: 09f13bff-9f62-4146-a400-cc1d6f952eee
+duration: 117
 ---
 # Customer Data Management - Voices {#overview}
 

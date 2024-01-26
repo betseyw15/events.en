@@ -8,6 +8,7 @@ level: Experienced
 kt: 9200
 type: Event
 exl-id: ffdd55ed-538b-40e2-99a1-399a5e7359fd
+duration: 1802
 ---
 # Collaborative PWA Storefront Design with XD
 

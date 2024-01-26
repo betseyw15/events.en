@@ -7,6 +7,7 @@ level: Beginner
 kt: 9709
 thumbnail: 340312.jpeg
 exl-id: 24bc8c92-999b-4c75-9258-9c3dab31bb67
+duration: 2144
 ---
 # Get inFORMation - The Ultimate Tips & Tricks For Your Forms
 

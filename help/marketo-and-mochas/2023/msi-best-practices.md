@@ -11,6 +11,7 @@ last-substantial-update: 2023-08-25
 jira: KT-13806
 thumbnail: KT-13806.jpeg
 exl-id: cfbd847f-4693-45f9-b9a1-f1b5db67a98b
+duration: 3615
 ---
 # Marketo and Mochas - MSI Best Practices and Optimization
 

@@ -11,6 +11,7 @@ event-cta-url: https://www.youtube.com/watch?v=f1T9XU9TCJU
 event-start-time: 2022-10-25 09:00-7
 event-guests: Sandra Hausmann,Ben Tepfer,Brandon Poyfair,Jason Hickey
 exl-id: 468f1e46-7b69-41c3-8c49-948aaf2e92a3
+duration: 3666
 ---
 # Deliver the right offer at the right time with decision management
 

@@ -3,6 +3,7 @@ title: Adobe Experience League Events
 description: A collection of event recordings focused on using Adobe's Enterprise products
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
+duration: 334
 ---
 # Adobe Experience League Event Recordings {#events}
 

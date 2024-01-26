@@ -7,6 +7,7 @@ level: Beginner
 kt: 10324
 thumbnail: 342555.jpeg
 exl-id: b4d71211-5eff-440c-8fd5-9de2a248695e
+duration: 2923
 ---
 # Creating Programs within [!DNL Marketo Engage]
 

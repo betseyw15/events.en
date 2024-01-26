@@ -9,6 +9,7 @@ role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 344680.jpeg
 exl-id: 657dfb41-0364-4f45-86f7-2e09897860c7
+duration: 3410
 ---
 # Manage Data Sets in Commerce Intelligence
 

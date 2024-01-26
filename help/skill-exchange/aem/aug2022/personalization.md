@@ -8,6 +8,7 @@ topic: Personalization
 kt: 10948
 thumbnail: 346384.jpeg
 exl-id: 8bbd96e2-5a74-46a7-a622-b8f3f1a85e5f
+duration: 2309
 ---
 # Drive business value with content personalization in AEM
 

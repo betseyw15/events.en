@@ -7,6 +7,7 @@ level: Beginner, Intermediate, Experienced
 kt: 10946
 thumbnail: 346388.jpeg
 exl-id: 16ce451b-bafd-4ffe-a3be-a76500069874
+duration: 1853
 ---
 # AEM Champion Session Multi Tenancy
 

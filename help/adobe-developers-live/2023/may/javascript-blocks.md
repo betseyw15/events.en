@@ -11,6 +11,7 @@ last-substantial-update: 2023-05-27
 jira: KT-13355
 thumbnail: 3419944.jpeg
 exl-id: ba3cc23a-9179-486e-ad13-ac896fdab268
+duration: 2294
 ---
 # Hands-on creating a site with the new JavaScript blocks
 

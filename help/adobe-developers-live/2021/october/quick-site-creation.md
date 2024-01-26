@@ -10,6 +10,7 @@ version: Cloud Service
 kt: 9183
 type: Event
 exl-id: 736baf52-d3e5-43f2-b240-d8c8aa6cdfe7
+duration: 1877
 ---
 # Quick Site Creation
 

@@ -8,6 +8,7 @@ last-substantial-update: 2023-05-03
 jira: KT-13153
 thumbnail: 3418903.jpeg
 exl-id: b0773186-bffb-49f7-a9e1-7254c33c03b3
+duration: 3462
 ---
 # Email Nurture
 

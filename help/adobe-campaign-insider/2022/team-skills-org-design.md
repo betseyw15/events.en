@@ -8,6 +8,7 @@ level: Beginner, Intermediate, Experienced
 kt: 10509
 thumbnail: 343871.jpeg
 exl-id: ab23d554-396c-4e20-826b-cf5dc574b78a
+duration: 3429
 ---
 # Team, skills, and organizational design required to support cross-channel marketing with Adobe Campaign
 

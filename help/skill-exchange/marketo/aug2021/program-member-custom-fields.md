@@ -7,6 +7,7 @@ level: Intermediate, Experienced
 kt: 10328
 thumbnail: 342560.jpeg
 exl-id: a3592080-d096-4f36-9829-c2728397a257
+duration: 2028
 ---
 # Unlocking the Potential of Program Member Custom Fields
 

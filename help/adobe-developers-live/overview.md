@@ -3,6 +3,7 @@ title: Adobe Developers Live
 description: A collection of session recordings from Adobe Developers Live
 solution: Experience Cloud, Experience Manager
 exl-id: bb103c45-18c7-4ace-8ebe-bb99f8eb6a88
+duration: 156
 ---
 # Adobe Developers Live {#overview}
 

@@ -9,6 +9,7 @@ last-substantial-update: 2022-12-01
 kt: 11534
 thumbnail: 3411898.jpeg
 exl-id: 593550f8-ddc9-4552-a7d2-b96d7522fa20
+duration: 2244
 ---
 # Grow Track - Adobe Analytics ROI
 

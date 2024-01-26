@@ -7,6 +7,7 @@ level: Beginner
 kt: 10309
 thumbnail: 342519.jpeg
 exl-id: 3500ea38-b0f9-4311-a3d9-9baf58f26e20
+duration: 1742
 ---
 # Understanding Objects in Workfront
 

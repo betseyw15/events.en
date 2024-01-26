@@ -12,6 +12,7 @@ kt: 7402
 type: Event
 thumbnail: 332306.jpg
 exl-id: d279353f-a92a-48e2-888e-c0d7be5adca3
+duration: 1551
 ---
 # Developing with Adobe Experience Manager Forms in the Cloud
 

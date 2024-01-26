@@ -2,6 +2,7 @@
 title: Workfront On-Demand Events
 description: Workfront Events is a video library where experts and peers have shared their thoughts and ideas on how to use Workfront to enhance the work being done for their organizations.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
+duration: 39
 ---
 # Workfront On-Demand Events {#overview}
 

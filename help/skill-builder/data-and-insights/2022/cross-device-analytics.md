@@ -7,6 +7,7 @@ level: Intermediate, Experienced
 kt: 10565
 thumbnail: 343820.jpeg
 exl-id: 07a57ae6-77b9-4776-ad19-9308ba324158
+duration: 2573
 ---
 # All you need to know about Cross Device Analytics and Customer Journey Analytics
 

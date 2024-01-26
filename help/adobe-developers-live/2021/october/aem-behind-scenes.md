@@ -10,6 +10,7 @@ version: Cloud Service
 kt: 9118
 type: Event
 exl-id: 9d0eb3bd-aad7-4d79-8280-3cfa125f04fd
+duration: 3621
 ---
 # Behind the scenes of Adobe Experience Manager with SRE guild members
 

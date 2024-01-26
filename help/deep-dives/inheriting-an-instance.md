@@ -9,6 +9,7 @@ event-start-time: 2023-6-12 08:00-7
 jira: KT-13482
 thumbnail: 3420422.jpeg
 exl-id: 73461f7a-7a04-4c7e-b0dc-76fcb8aac15b
+duration: 3614
 ---
 # Adobe Marketo Engage Champion Deep Dive: Inheriting an Instance
 

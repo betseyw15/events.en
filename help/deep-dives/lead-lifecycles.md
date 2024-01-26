@@ -8,6 +8,7 @@ last-substantial-update: 2023-07-24
 jira: KT-13697
 thumbnail: KT-13697.jpeg
 exl-id: 03258f9b-ca5d-406b-a260-e41bc04396f8
+duration: 2916
 ---
 # Lead Lifecycles
 

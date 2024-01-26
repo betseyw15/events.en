@@ -10,6 +10,7 @@ last-substantial-update: 2023-01-06
 kt: 11653
 thumbnail: 3412709.jpeg
 exl-id: 0e9b072c-8b2d-4b85-b18a-a962d9f4d676
+duration: 3603
 ---
 # Commerce and Coffee - AI and Automation
 

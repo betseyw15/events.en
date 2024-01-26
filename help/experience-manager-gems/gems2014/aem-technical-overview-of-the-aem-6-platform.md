@@ -1,10 +1,10 @@
 ---
 title: Technical overview of the AEM 6 platform
 description: In this session, Peter Klassen - Product Manager, looks JCR Repository reloaded, performance improvements, and new scalability options.
-uuid: 53be1e40-6fe9-44b5-a015-ba7ad7801d7c
 discoiquuid: f4f6e2b0-7910-4d1d-a024-583ef17ffcda
 targetaudience: target-audience advanced
 exl-id: 505430d5-0d85-423d-83f5-59eb4deff427
+duration: 4329
 ---
 # Technical overview of the AEM 6 platform{#technical-overview-of-the-aem-platform}
 

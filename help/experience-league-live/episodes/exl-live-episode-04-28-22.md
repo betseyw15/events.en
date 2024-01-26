@@ -4,10 +4,10 @@ description: Join host Doug Moore and guests Nick Cammuso and Jackie Chevallier 
 solution: Audience Manager, Real-Time Customer Data Platform
 kt: 10358
 thumbnail: https://video.tv.adobe.com/v/342611?format=jpeg
-event-cta-url: 
 event-start-time: 2022-04-28 09:00-7
 event-guests: Nick Cammuso,Jackie Chevallier
 exl-id: a1262eef-da2b-4e79-92d8-73819bc47744
+duration: 3812
 ---
 # How do I handle all these audiences?
 

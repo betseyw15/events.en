@@ -7,7 +7,7 @@ topic: Personalization
 role: Developer
 level: Intermediate, Experienced
 doc-type: Event
-duration: 2198
+duration: 2244
 last-substantial-update: 2023-12-11
 jira: KT-14650
 thumbnail: 3425982.jpeg

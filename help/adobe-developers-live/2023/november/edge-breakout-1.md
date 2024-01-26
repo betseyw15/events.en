@@ -14,6 +14,7 @@ last-substantial-update: 2023-11-15
 jira: KT-14421
 thumbnail: 3425629.jpeg
 exl-id: 92437f71-4293-4f03-aa14-064c045c3a0e
+duration: 1868
 ---
 # Adobe Developers Live Edge Delivery Services Breakout 1 - November 2023
 

@@ -2,6 +2,7 @@
 title: Adobe [!DNL Campaign] Insider Series
 description: Tips & tricks and inspiration for Adobe [!DNL Campaign] customers to help evolve cross-channel marketing strategies, elevate team marketing practitioner skills, and help organizations launch more advanced cross-channel marketing strategies.
 exl-id: 414b8d81-ff05-47ed-b572-fb655d3dd231
+duration: 36
 ---
 # Adobe [!DNL Campaign] Insider Series
 

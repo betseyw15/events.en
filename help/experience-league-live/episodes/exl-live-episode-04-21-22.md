@@ -7,6 +7,7 @@ event-cta-url: https://youtu.be/idByz7WrhbQ
 event-start-time: 2022-04-21 09:00-7
 event-guests: Amol Anand, Sachin Mali, Sean Steimer
 exl-id: 9d5203ce-fb0d-4b0e-9508-29aeae467149
+duration: 5193
 ---
 # AEM from Headful to Headless (and everything in between)
 

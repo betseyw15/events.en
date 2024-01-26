@@ -8,6 +8,7 @@ level: Experienced
 kt: 9197
 type: Event
 exl-id: 6b07f3b8-2885-4bac-8cfd-24250a35f597
+duration: 1322
 ---
 # Adobe Commerce and the Community Contribution Model
 

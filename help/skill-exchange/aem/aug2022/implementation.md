@@ -7,6 +7,7 @@ level: Beginner, Intermediate, Experienced
 kt: 10949
 thumbnail: 346386.jpeg
 exl-id: fe61ae67-f57b-4937-8155-c9c34dfa949f
+duration: 2535
 ---
 # Maximize Your AEM Implementation: 3 Key Factors in Running Your Website Effectively
 

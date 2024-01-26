@@ -13,6 +13,7 @@ last-substantial-update: 2022-11-15
 kt: 11485
 thumbnail: 3411306.jpeg
 exl-id: be584e3d-b5d5-4f3c-8067-84274a65e7d7
+duration: 2033
 ---
 # Efficient Development on Adobe Experience Manager as a Cloud Service
 

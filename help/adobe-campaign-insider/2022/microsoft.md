@@ -6,6 +6,7 @@ solution: Campaign
 kt: 10503
 thumbnail: 343522.jpeg
 exl-id: 06995c19-c3db-4646-8ef1-52cc350d2350
+duration: 3278
 ---
 # Adobe Campaign Standard Customer Spotlight - Microsoft
 

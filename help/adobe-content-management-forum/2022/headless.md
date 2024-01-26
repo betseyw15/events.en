@@ -9,6 +9,7 @@ level: Intermediate, Experienced
 kt: 10790
 thumbnail: 345380.png
 exl-id: 00c4e64c-09b4-424c-b3da-fad7421b93b1
+duration: 1961
 ---
 # Extending [!DNL Experience Manager] Headless with Adobe [!DNL App Builder]
 

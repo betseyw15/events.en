@@ -9,6 +9,7 @@ kt: 7189
 type: Event
 thumbnail: 331852.jpg
 exl-id: d81729f3-be66-4f68-8f23-b9ca55c1154c
+duration: 1679
 ---
 # So you want to extend Adobe Experience Cloud?
 

@@ -12,6 +12,7 @@ jira: KT-13550
 thumbnail: 3420943.jpeg
 event-start-time: 2023-5-1 08:30-8
 exl-id: 0863ffdc-aa06-4ce2-aeee-c5dd7d4db619
+duration: 2297
 ---
 # User interface basics - May 2023 APAC Adobe Analytics Skill Exchange 
 

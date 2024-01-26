@@ -7,6 +7,7 @@ level: Beginner
 kt: 9766
 thumbnail: 340597.jpeg
 exl-id: f96fb348-ff59-4dac-ad7d-048a2ba96afc
+duration: 2343
 ---
 # Dynamic Content and the Power of Personalization
 

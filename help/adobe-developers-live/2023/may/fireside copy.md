@@ -10,6 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-05-27
 jira: KT-13363
 thumbnail: 3419941.jpeg
+duration: 3234
 ---
 
 # Fireside Chat with AEM Product Leaders

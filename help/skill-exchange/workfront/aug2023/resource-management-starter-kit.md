@@ -11,6 +11,7 @@ last-substantial-update: 2023-11-27
 jira: KT-14561
 thumbnail: 3425792.jpeg
 exl-id: 4b828419-0f3e-46f5-8a89-8b0fb02227b9
+duration: 2184
 ---
 # Your Resource Management Starter Kit
 

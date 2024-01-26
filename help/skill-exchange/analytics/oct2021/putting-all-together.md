@@ -10,6 +10,7 @@ level: Beginner
 kt: 10477
 thumbnail: 343350.jpeg
 exl-id: 8fbf324f-9931-4b05-b1ca-d39038592d71
+duration: 2445
 ---
 # Putting it all together
 

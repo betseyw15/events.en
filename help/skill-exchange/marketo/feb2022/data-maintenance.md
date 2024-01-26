@@ -7,6 +7,7 @@ level: Beginner
 kt: 9765
 thumbnail: 340596.jpeg
 exl-id: ba392278-96b2-46a5-bb19-95f77de74e52
+duration: 2323
 ---
 # Data Maintenance - Easy Adopted Methodologies to Keep Your Most Important Asset Clean
 

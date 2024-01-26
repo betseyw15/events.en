@@ -11,6 +11,7 @@ level: Intermediate
 kt: 10053
 thumbnail: 341311.jpeg
 exl-id: 9d5b5cd4-e401-43e1-a9ed-2c992decd45b
+duration: 3399
 ---
 # Build websites faster with AEM Headless and App Builder
 

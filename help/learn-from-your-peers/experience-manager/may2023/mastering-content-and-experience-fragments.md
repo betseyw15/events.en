@@ -14,6 +14,7 @@ jira: KT-13305
 thumbnail: 3419557.jpeg
 event-start-time: 2023-5-16 08:30-8
 exl-id: 13aa3a2f-0a66-4bb2-92c5-93da0f2e62fb
+duration: 3560
 ---
 # Mastering Content & Experience Fragments On-Demand Webinar
 

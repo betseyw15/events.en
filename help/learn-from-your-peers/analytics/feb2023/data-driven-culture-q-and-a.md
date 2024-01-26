@@ -7,6 +7,7 @@ last-substantial-update: 2023-02-16
 jira: KT-11881
 thumbnail: 3415614.jpeg
 exl-id: 0b1d8ebd-bb3c-4c28-8bc9-c561edc14a0a
+duration: 1578
 ---
 # [!DNL Adobe Analytics] Building a Data Driven Culture Follow-up Q&A
 

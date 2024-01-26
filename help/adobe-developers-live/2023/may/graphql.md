@@ -11,6 +11,7 @@ last-substantial-update: 2023-05-27
 jira: KT-13362
 thumbnail: 3419948.jpeg
 exl-id: 47e32914-4899-48f5-91e7-598788adf361
+duration: 1713
 ---
 # Understand GraphQL API performance options and query optimizations
 

@@ -6,6 +6,7 @@ level: Beginner
 kt: 9791
 thumbnail: 340620.jpeg
 exl-id: ea60443b-4736-490f-aeed-316d730037a1
+duration: 2077
 ---
 # Opening Keynote
 

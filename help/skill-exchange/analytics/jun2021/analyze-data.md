@@ -10,6 +10,7 @@ doc-type: Event
 kt: 10318
 thumbnail: 342528.jpeg
 exl-id: ae642fee-4daa-42de-988d-4d6c0070701a
+duration: 1845
 ---
 # Adobe Analytics: Analyzing the Data
 

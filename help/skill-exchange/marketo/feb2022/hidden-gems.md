@@ -7,6 +7,7 @@ level: Beginner
 kt: 9771
 thumbnail: 340591.jpeg
 exl-id: 500c79fc-75cf-40ef-8a6d-376ea30d432c
+duration: 2375
 ---
 # The Hidden Gem In Your Database: Re-Engaged Records
 

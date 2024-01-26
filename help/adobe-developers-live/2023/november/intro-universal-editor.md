@@ -8,7 +8,7 @@ topic: Development, Headless
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
-duration: 1831
+duration: 1848
 last-substantial-update: 2023-12-20
 jira: KT-14682
 thumbnail: 3426341.jpeg

@@ -9,6 +9,7 @@ last-substantial-update: 2022-11-11
 kt: 11438
 thumbnail: 3411008.jpeg
 exl-id: e6bee58f-90a5-4d38-bb99-10f5390f567a
+duration: 2474
 ---
 # Analytics Learn Experience Makers Spotlight
 

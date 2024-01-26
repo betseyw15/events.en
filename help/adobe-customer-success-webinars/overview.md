@@ -2,6 +2,7 @@
 title: Adobe Customer Success Webinars
 description: Adobe Customer Success-led webinars designed to empower you in optimizing your investment in Adobe’s Experience Cloud. Gain valuable insights to maximize the value and increase the adoption of Adobe solutions.
 exl-id: a66dabe6-c545-4226-bf0b-811d5d3e5cf1
+duration: 42
 ---
 # Adobe Customer Success Webinars {#adobe-customer-success-webinars}
 

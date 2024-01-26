@@ -12,6 +12,7 @@ last-substantial-update: 2023-11-08
 jira: KT-14353
 thumbnail: 3425521.jpeg
 exl-id: 5be2852e-ee52-4f1e-95f2-6cd3ca62a57c
+duration: 3236
 ---
 # Customer Journey Analytics Integration Essentials
 

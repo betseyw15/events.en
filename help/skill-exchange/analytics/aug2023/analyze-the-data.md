@@ -6,7 +6,7 @@ feature: Freeform Tables, Metrics
 role: User
 level: Beginner
 doc-type: Event
-duration: 2496
+duration: 2521
 last-substantial-update: 2023-12-11
 jira: KT-14653
 thumbnail: 3425987.jpeg

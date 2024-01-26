@@ -10,6 +10,7 @@ version: Cloud Service
 kt: 9119
 type: Event
 exl-id: 3adc1efc-c144-455c-b614-3c1ef06e1324
+duration: 1566
 ---
 # Integrate AEM Cloud Service with Adobe IO Events
 

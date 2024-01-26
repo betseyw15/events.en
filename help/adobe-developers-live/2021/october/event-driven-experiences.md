@@ -8,6 +8,7 @@ level: Experienced
 kt: 9137
 type: Event
 exl-id: 38a71125-d161-4271-8c7f-b57734e45c32
+duration: 1657
 ---
 # Build Event-Driven Experiences with Custom I/O Events
 

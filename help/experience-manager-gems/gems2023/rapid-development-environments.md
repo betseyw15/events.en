@@ -14,6 +14,7 @@ kt: 11797
 thumbnail: kt-11797.jpeg
 event-start-time: 2023-2-22 08:30-8
 exl-id: 365c9641-66f9-4e94-aa84-ad7c894959fe
+duration: 3387
 ---
 # Accelerating AEM as a Cloud Service development with Rapid Development Environments
 

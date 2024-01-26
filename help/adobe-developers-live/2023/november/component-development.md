@@ -9,7 +9,7 @@ topic: Development
 role: Developer
 level: Beginner
 doc-type: Event
-duration: 1865
+duration: 1878
 last-substantial-update: 2023-12-20
 jira: KT-14679
 thumbnail: 3426338.jpeg

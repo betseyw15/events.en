@@ -8,6 +8,7 @@ event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231026.html
 event-start-time: 2023-10-26 09:00-7
 event-guests: Betsey West,Ben Robbins,Jamie Smith
 exl-id: f36c96ce-d889-4549-8595-a43d815dd9af
+duration: 3132
 ---
 # Workfront Release Deep Dive - New Workfront Home
 

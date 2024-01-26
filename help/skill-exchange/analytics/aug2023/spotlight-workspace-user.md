@@ -6,7 +6,7 @@ feature: Workspace Basics
 role: User
 level: Intermediate, Experienced
 doc-type: Event
-duration: 1986
+duration: 1993
 last-substantial-update: 2023-12-11
 jira: KT-14659
 thumbnail: 3425993.jpeg

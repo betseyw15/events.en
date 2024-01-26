@@ -10,6 +10,7 @@ version: Cloud Service
 kt: 9179
 type: Event
 exl-id: a96e31ec-8079-412f-818c-ebf82b512bbd
+duration: 1889
 ---
 # Tales from the front lines - how to avoid common pitfalls in Experience Manager CS
 

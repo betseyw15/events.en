@@ -9,6 +9,7 @@ level: Experienced
 kt: 9136
 type: Event
 exl-id: 7f78af56-2d66-4e0d-a6cf-0b9c1b971804
+duration: 1287
 ---
 # An Introduction to Creative Cloud app engine APIs
 

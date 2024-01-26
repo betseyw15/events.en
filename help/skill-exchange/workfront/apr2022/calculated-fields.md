@@ -7,6 +7,7 @@ level: Intermediate, Experienced
 kt: 10316
 thumbnail: 342526.jpeg
 exl-id: 8e7d31e2-78f5-4f02-a85d-f438880a5664
+duration: 1955
 ---
 # Tips & Tricks: Calculated Fields Everyone Should Know -and How to Report on Them!
 

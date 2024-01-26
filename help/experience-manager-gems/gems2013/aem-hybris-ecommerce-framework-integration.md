@@ -1,10 +1,10 @@
 ---
 title: hybris/AEM 5.6 eCommerce framework integration
 description: Learn about our integration solution for hybris into AEM. We begin with an overview of how the connector integrates with the eCommerce framework and what the general workflows are when using this solution. Then, we go into more depth talking about how the connector can be extended and / or customized in order to adapt to project-specific needs.
-uuid: d09192f9-c9a3-43db-8538-d581838e1e27
 discoiquuid: 7fc5a2ec-df8c-44c1-95d0-050d77f82349
 targetaudience: target-audience advanced
 exl-id: d729b2b1-d279-4204-9101-68df5aee79c0
+duration: 1878
 ---
 # hybris/AEM 5.6 eCommerce framework integration{#hybris-aem-ecommerce-framework-integration}
 

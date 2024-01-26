@@ -11,6 +11,7 @@ last-substantial-update: 2023-05-27
 jira: KT-13363
 thumbnail: 3419941.jpeg
 exl-id: a8c9fc05-b80d-4c3a-a45a-c2b798757b57
+duration: 3234
 ---
 # Fireside Chat with AEM Product Leaders
 

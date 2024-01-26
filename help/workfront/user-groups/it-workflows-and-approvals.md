@@ -6,6 +6,7 @@ level: Beginner, Intermediate
 kt: 10000
 thumbnail: 341219.jpeg
 exl-id: f0f70dee-754f-442f-97a0-e5fb9d45a0e7
+duration: 1456
 ---
 # IT Workflows & Approvals (June 6, 2020)
 

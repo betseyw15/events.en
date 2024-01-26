@@ -13,6 +13,7 @@ last-substantial-update: 2023-07-20
 jira: KT-13708
 thumbnail: KT-13708.jpeg
 exl-id: ffac5c39-a1db-4533-947f-609e4d8dc7b4
+duration: 3580
 ---
 # Effective Security Strategies in Cloud Service On-Demand Webinar
 

@@ -1,11 +1,11 @@
 ---
 title: Ask the Expert - Understanding mix and capacity
 description: Learn to measure mix and capacity within your enterprise. This webinar was recorded on October 2, 2019.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9913
 exl-id: 49cce53f-457b-4973-a0d9-1b5ce2272884
+duration: 4239
 ---
 # Ask the Expert - Understanding mix and capacity
 

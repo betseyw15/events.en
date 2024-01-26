@@ -11,6 +11,7 @@ last-substantial-update: 2023-05-27
 jira: KT-13358
 thumbnail: 3419945.jpeg
 exl-id: fc3f0acb-cf81-4994-9ad4-ee2b00e10be8
+duration: 2681
 ---
 # Developing a good editor experience with Microsoft 365/Google Workspace
 

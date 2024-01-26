@@ -10,6 +10,7 @@ role: Developer
 level: Beginner
 kt: 10470
 exl-id: 70564929-78c2-4a3d-bcf7-8708fd458812
+duration: 3289
 ---
 # Looking under the hood - Cloud Manager 2022
 

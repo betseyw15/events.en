@@ -5,7 +5,7 @@ feature: Visualizations, Analysis Workspace
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
-duration: 3629
+duration: 3656
 last-substantial-update: 2023-12-08
 jira: KT-14618
 thumbnail: 3425943.jpeg

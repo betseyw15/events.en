@@ -7,6 +7,7 @@ level: Intermediate, Experienced
 kt: 10575
 thumbnail: 343829.jpeg
 exl-id: 1284cd37-5357-4210-ad90-ba5951d82df0
+duration: 1857
 ---
 # Develop and customize data models in Adobe [!DNL Campaign Classic]
 

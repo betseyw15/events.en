@@ -1,10 +1,10 @@
 ---
 title: Maintaining Open Source while maintaining your sanity
 description: Maintaining open source projects can be hard. Successful open source projects can take up a lot of your time and often you end up feeling guilty because you feel you are not spending enough time working on it. Learn a number of things that can help you stay on top of your project without the guilty feelings.
-uuid: 94e91950-d915-4659-985a-f496e47e8963
 discoiquuid: f52fef4b-b8ba-45f6-897c-814a7367994e
 targetaudience: target-audience advanced
 exl-id: c9fddf02-73ec-44d9-be07-3f7fdcd62f70
+duration: 2085
 ---
 # Maintaining Open Source While Maintaining Your Sanity{#maintaining-open-source-while-maintaining-your-sanity}
 

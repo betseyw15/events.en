@@ -11,6 +11,7 @@ last-substantial-update: 2023-11-27
 jira: KT-14562
 thumbnail: 3425794.jpeg
 exl-id: 57571a6c-9679-4c33-b791-d6f28841d63f
+duration: 2397
 ---
 # Beginner’s Guide to Native Integrations
 

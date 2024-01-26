@@ -13,6 +13,7 @@ last-substantial-update: 2023-11-15
 jira: KT-14420
 thumbnail: 3425622.jpeg
 exl-id: c9f694de-d684-43ec-a5ae-570d738b4bb0
+duration: 2881
 ---
 # Adobe Developers Live Edge Delivery and Document-based Authoring Deep Dive - November 2023
 

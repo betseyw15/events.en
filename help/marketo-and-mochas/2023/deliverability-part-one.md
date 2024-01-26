@@ -9,6 +9,7 @@ jira: KT-12926
 thumbnail: 3416666.jpeg
 event-start-time: 2023-3-24 08:30-8
 exl-id: 4a21fc22-0bd0-46a2-9edb-bb3d1031ed79
+duration: 3537
 ---
 # Marketo and Mochas - Deliverability (Part 1)
 

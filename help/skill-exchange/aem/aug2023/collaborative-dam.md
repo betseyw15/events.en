@@ -12,6 +12,7 @@ last-substantial-update: 2023-10-27
 jira: KT-14146
 thumbnail: 3424014.jpeg
 exl-id: 53380015-5bc4-4957-958f-dac466d80d91
+duration: 2206
 ---
 # Skill Exchange Event Aug 2023 - AEM Web Track - Connected Ecosystem: Leveraging a Collaborative DAM
 

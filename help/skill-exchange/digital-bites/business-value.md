@@ -7,6 +7,7 @@ kt: 11122
 thumbnail: 3409235.jpeg
 hidefromtoc: yes
 exl-id: 53a4231c-a387-49b2-b79a-a8b8124ff0f2
+duration: 1800
 ---
 # How to unlock business value across the customer journey
 

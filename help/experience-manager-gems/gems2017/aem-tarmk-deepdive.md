@@ -1,10 +1,10 @@
 ---
 title: Into the tar pit - a TarMK deep dive
 description: Ever wondered what is inside the TarMK's tar files? What is a segment and what is a record? How segment store garbage collection works and why (or why not)? This session answers these questions and many more.
-uuid: 67aed294-c1f2-422e-a568-7a2e19eb60d1
 discoiquuid: 3c650f0e-e16b-4a18-9462-90cdde8a2f10
 targetaudience: target-audience advanced
 exl-id: bcf64ff5-f8c1-4355-803e-df22cc784cc2
+duration: 4071
 ---
 # Into the tar pit: a TarMK deep dive{#into-the-tar-pit-a-tarmk-deep-dive}
 

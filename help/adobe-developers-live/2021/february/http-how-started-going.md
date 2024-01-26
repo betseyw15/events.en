@@ -9,6 +9,7 @@ kt: 7172
 type: Event
 thumbnail: 331738.jpg
 exl-id: 1621c837-6c27-4411-9747-41d9aceb3c1e
+duration: 13
 ---
 # HTTP? How it started, how it's going
 

@@ -7,6 +7,7 @@ level: Intermediate, Experienced
 kt: 10322
 thumbnail: 342532.jpeg
 exl-id: 858fbd40-c520-4974-a6f1-2d573b0a1bf6
+duration: 1952
 ---
 # Marketing Channels, Please Use Responsibly
 

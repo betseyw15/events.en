@@ -8,6 +8,7 @@ level: Experienced
 kt: 9199
 type: Event
 exl-id: 516ea10a-8783-4ddf-bed1-2415b38177cb
+duration: 1989
 ---
 # PWA Studio Best Practices for Beginners
 

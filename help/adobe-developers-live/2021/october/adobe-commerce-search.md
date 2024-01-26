@@ -8,6 +8,7 @@ level: Experienced
 kt: 9147
 type: Event
 exl-id: bb6aec83-0d5e-4890-b43f-2a9ff3497e24
+duration: 1464
 ---
 # Keeping Adobe Commerce Live Search results fresh in real-time
 

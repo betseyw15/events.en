@@ -9,6 +9,7 @@ type: Event
 thumbnail: 337665.jpg
 kt: 9145
 exl-id: 633f2927-d6e0-4370-96c6-36d1f612d5ba
+duration: 2560
 ---
 # Data Collaboration in the First-party Data Context
 

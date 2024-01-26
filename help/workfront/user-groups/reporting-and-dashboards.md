@@ -6,6 +6,7 @@ level: Beginner, Intermediate
 kt: 10005
 thumbnail: 341216.jpeg
 exl-id: b2260796-9cf5-4922-a0b0-4dec1a81ccff
+duration: 3899
 ---
 # Reporting & Dashboards (March 16, 2021)
 

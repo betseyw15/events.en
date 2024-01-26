@@ -12,6 +12,7 @@ last-substantial-update: 2023-05-17
 jira: KT-13206
 event-start-time: 2023-4-27 08:30-8
 exl-id: 7dea9fcc-9574-40b1-9f30-ca0c915dbb5d
+duration: 3615
 ---
 # Streamline Your Business with Adobe's PaaS Cloud Commerce
 

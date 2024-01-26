@@ -8,6 +8,7 @@ level: Beginner
 kt: 10788
 thumbnail: 345378.png
 exl-id: d42f8628-db73-4b6d-80bd-b64857c5e764
+duration: 1321
 ---
 # Assets for all
 

@@ -12,6 +12,7 @@ jira: KT-13553
 thumbnail: 3420946.jpeg
 event-start-time: 2023-5-1 08:30-8
 exl-id: 010aac14-f967-4d70-90da-da01fb8eceaa
+duration: 2184
 ---
 # Rockstar Tips - May 2023 APAC Adobe Analytics Skill Exchange Grow Track
 
