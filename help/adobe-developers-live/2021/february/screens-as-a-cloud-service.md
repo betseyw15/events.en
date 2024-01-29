@@ -13,7 +13,7 @@ kt: 7164
 type: Event
 thumbnail: 331767.jpg
 exl-id: 3ddae9b1-f480-4d84-952a-ca31bb9616f7
-duration: 15
+duration: 1665
 ---
 # Adobe Experience Manager Screens as a Cloud Service
 

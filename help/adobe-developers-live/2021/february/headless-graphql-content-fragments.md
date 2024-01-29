@@ -12,7 +12,7 @@ kt: 7171
 type: Event
 thumbnail: 331280.jpg
 exl-id: 4e43d3d4-db29-45a2-9979-59f562e427e0
-duration: 14
+duration: 1054
 ---
 # Headless: GraphQL with Content Fragments
 

@@ -12,7 +12,7 @@ kt: 7167
 type: Event
 thumbnail: 331768.jpg
 exl-id: 0f0c18f7-d4ef-4391-a9f8-5a3c38d779c6
-duration: 16
+duration: 1642
 ---
 # API authentication with Adobe Experience Manager as a Cloud Service
 

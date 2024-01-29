@@ -13,7 +13,7 @@ kt: 7170
 type: Event
 thumbnail: 331735.jpg
 exl-id: 722ca68e-a74c-4040-b047-ac153739a7a7
-duration: 13
+duration: 1680
 ---
 # Fast Time to Value with Adobe Experience Manager Sites 
 
