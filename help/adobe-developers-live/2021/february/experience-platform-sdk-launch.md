@@ -12,7 +12,7 @@ kt: 7179
 type: Event
 thumbnail: 331761.jpg
 exl-id: 86dd2104-fad4-4ad7-bf25-e76efa753a5d
-duration: 13
+duration: 1612
 ---
 # Experience Platform SDKs and Launch Server Side 
 

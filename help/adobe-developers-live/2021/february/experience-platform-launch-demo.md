@@ -11,7 +11,7 @@ level: Experienced
 kt: 7166
 thumbnail: 331734.jpg
 exl-id: 4bf107fe-f34a-407f-9cec-fc94f7496130
-duration: 13
+duration: 2697
 ---
 # Adobe Experience Platform Launch Demo
 

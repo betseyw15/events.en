@@ -12,7 +12,7 @@ kt: 7163
 type: Event
 thumbnail: 331278.jpg
 exl-id: f5ae88b3-d42c-4b40-9d70-e2dbb254e070
-duration: 15
+duration: 875
 ---
 # Adobe Experience Manager as a Cloud Service
 
