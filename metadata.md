@@ -8,6 +8,7 @@ type: Event
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/events.en
 index: yes
+auto-video-transcripts: true
 ---
 
 # Metadata for internal use
