@@ -19,15 +19,15 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-08-24.md">
-      <img alt="Experience League LIVE Feb 08" src="episodes/assets/WebBanner-Feb08-2024.jpg">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-29-24.md">
+      <img alt="Experience League LIVE Feb 29" src="assets/Feb29_2024_WebBanner.png">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-02-08-24.md">
-        <strong>Use Case Playbooks, self-serve templates to deploy use cases in a few clicks for Real-Time CDP and Journey Optimizer</strong>
+      <a href="episodes/exl-live-episode-02-29-24.md">
+        <strong>Leaping ahead with the new Adobe Campaign v8 UI</strong>
       </a>
-      <br/><em>with Daniel Wright, Josée Monette-Healey, and Rohit Basuri</em>
-      <br/><em>Feb 08, 2024</em>
+      <br/><em>with Sandra Hausmann, Eric Perrin, Gaël Mouëllo, Bruce Swann</em>
+      <br/><em>Feb 29, 2024</em>
     </div>
   </td>
 </tr>

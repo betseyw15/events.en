@@ -12,7 +12,6 @@ duration: 25
 
 Introducing Use Case Playbooks - an actionable catalog of industry-specific use case playbooks in Real-Time CDP and Journey Optimizer. In this webinar you'll learn about Use Case Playbooks and how they translate your marketing goals into implementation objects. We'll show you how to jump-start your organization towards building and deploying commonly known use cases for accelerated business impact and collaboration.
 
-[![ExL LIVE Feb 08 2024](assets/WebBanner-Feb08-2024.jpg)](https://www.youtube.com/watch?v=EZGQ--J2M9I)
+>[!VIDEO](https://video.tv.adobe.com/v/3426930/?quality=12&learn=on)
 
-**Click on the image above to set a YouTube Live reminder**.
-
+**Have questions about it?** Continue the discussion on this topic on the Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488).
