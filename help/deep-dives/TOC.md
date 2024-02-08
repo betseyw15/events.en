@@ -21,3 +21,4 @@ doc-type: live event
   + [Inheriting an Instance](inheriting-an-instance.md)
   + [Lead Lifecycles](lead-lifecycles.md)
   + [Maximize your instance with a small team](small-team-instance.md)
+  + [Notating Complex Processes in the Activity Log](activity-log.md)
