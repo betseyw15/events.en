@@ -17,13 +17,3 @@ Join this Experience League Live session, where Adobe Campaign product experts w
 [![ExL LIVE Feb 29 2024](../assets/Feb29_2024_WebBanner.png)](https://www.youtube.com/watch?v=ESgehCRcSgQ)
 
 **Click on the image above to set a YouTube Live reminder.**
-
-<!--- 
-
-[![ExL LIVE Feb 29 2024](../assets/Feb29_2024_WebBanner.png)](https://engage.adobe.com/ExpLeagueLive-240117.html)
-
->>[!VIDEO](https://video.tv.adobe.com/v/3427258/?quality=12&learn=on) 
-
-**Have questions about it?** Continue the discussion on this topic on the Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488).
-
---->
