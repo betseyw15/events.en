@@ -1,6 +1,6 @@
 ---
-title: Leaping ahead with the new Adobe Campaign v8 UI
-description: Join us on February 29th to learn how to plan, launch and measure cross-channel strategies using the new Adobe Campaign v8 UI, including Generative AI capabilities in beta. 
+title: Leaping ahead with the new Adobe Campaign Web User Interface
+description: Join us on February 29th to learn how to plan, launch and measure cross-channel strategies using the new Adobe Campaign Web User Interface, including Generative AI capabilities in beta. 
 kt: KT-14433
 thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
@@ -8,7 +8,7 @@ event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
 ---
-# Leaping ahead with the new Adobe Campaign v8 UI
+# Leaping ahead with the new Adobe Campaign Web User Interface
 
 Adobe Campaign v8 will have a brand-new look and feel. The reimagined user experience simplifies the campaign design process and is consistent with other Adobe Experience Cloud Solutions.  
 
