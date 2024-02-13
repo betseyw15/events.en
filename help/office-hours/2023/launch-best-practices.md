@@ -3,7 +3,7 @@ title: Launch Best Practices
 description: In this session, you will learn about - configurations, settings, & pitfalls, under-leveraged capabilities, and common troubleshooting workflows.
 solution: Analytics
 feature-set: Analytics
-feature: Launch Implementation
+feature: Tags
 role: Admin, User
 level: Beginner
 doc-type: Event

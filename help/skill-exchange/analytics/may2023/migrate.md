@@ -3,7 +3,7 @@ title: Migrate to EDDL/WebSDK - May 2023 APAC Adobe Analytics Skill Exchange Gro
 description: Why migrate to EDDL/WebSDK and what should be considered before starting the migration
 solution: Analytics
 feature-set: Analytics
-feature: Launch Implementation
+feature: Tags
 role: User
 level: Intermediate, Experienced
 doc-type: Event
