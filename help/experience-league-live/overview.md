@@ -24,7 +24,7 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
     </a>
     <div>
       <a href="episodes/exl-live-episode-02-29-24.md">
-        <strong>Leaping ahead with the new Adobe Campaign v8 UI</strong>
+        <strong>Leaping ahead with the new Adobe Campaign Web User Interface</strong>
       </a>
       <br/><em>with Sandra Hausmann, Eric Perrin, Gaël Mouëllo, Bruce Swann</em>
       <br/><em>Feb 29, 2024</em>
