@@ -14,6 +14,6 @@ Adobe Campaign v8 will have a brand-new look and feel. The reimagined user exper
 
 Join this Experience League Live session, where Adobe Campaign product experts will showcase how to plan, launch and measure cross-channel campaigns in the new user experience.
 
-[![ExL LIVE Feb 29 2024](../assets/Feb29_2024_WebBanner.png)](https://www.youtube.com/watch?v=ESgehCRcSgQ)
+[![ExL LIVE Feb 29 2024](../assets/exl-live-episode-02-29-24-web-banner.png)](https://www.youtube.com/watch?v=ESgehCRcSgQ)
 
 **Click on the image above to set a YouTube Live reminder.**
