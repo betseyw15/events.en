@@ -7,18 +7,20 @@ user-guide-description: Adobe Commerce Events is a video library where experts a
 # APAC Commerce Events {#apac-commerce-recordings}
 
 + [Overview](overview.md)
++ 2024 {$2024}
+  + [Boosting ecommerce conversions](2024/ecommerce-conversions.md)
 + 2023 {#2023}
-    + [Marketplaces as a force for growth](2023/marketplaces.md)
-    + [Peak Season Preparation](2023/peak-season-prep.md)
-    + [Composable commerce strategies](2023/composable-commerce.md)
-    + [AI-Powered Personalisation](2023/ai-personalisation.md)
-    + [Adobe's PaaS Cloud Commerce](2023/adobes-paas-cloud-commerce.md)  
+   + [Marketplaces as a force for growth](2023/marketplaces.md)
+   + [Peak Season Preparation](2023/peak-season-prep.md)
+   + [Composable commerce strategies](2023/composable-commerce.md)
+   + [AI-Powered Personalisation](2023/ai-personalisation.md)
+   + [Adobe's PaaS Cloud Commerce](2023/adobes-paas-cloud-commerce.md)  
 + 2022 {#2022}
-    + [Holiday Readiness 2022](2022/holiday.md)
-    + [New Relic Masterclass](2022/new-relic.md)
-    + [Site Wide Analysis Tool](2022/analysis-tool.md)
-    + [Transforming data into value with MBI](2022/mbi.md)
-    + [Upgrading to 2.4.4](2022/upgrade.md)
+   + [Holiday Readiness 2022](2022/holiday.md)
+   + [New Relic Masterclass](2022/new-relic.md)
+   + [Site Wide Analysis Tool](2022/analysis-tool.md)
+   + [Transforming data into value with MBI](2022/mbi.md)
+   + [Upgrading to 2.4.4](2022/upgrade.md)
 + [Release Roadmap Highlights](release-highlights.md)
   
 <!--+ Commerce Events {#commerce-events}
