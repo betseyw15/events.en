@@ -19,4 +19,4 @@ At this session of Commerce & Coffee, Sr. Commerce Strategy Consultant, Corey Ge
  
 Corey also highlights how AI can help craft targeted marketing campaigns that resonate with individual customers through personalized product descriptions, emails, and website banners. As important as it is to analyze past data, predicting future customer behavior can be just as impactful. Using predictive analytics, users can predict their customers' future buying trends, creating the opportunity for proactive personalized offerings. Corey covers how to create a better personalized shopping experience with Live Search and Chatbot features. He then shares a live demonstration of Product Recommendations, Category Merchandising, and Live Search. As always, we answer customer questions live during Q&A!
 
->[!VIDEO](https://video.tv.adobe.com/v/3427355/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427493/?learn=on)
