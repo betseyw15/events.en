@@ -19,16 +19,10 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-29-24.md">
-      <img alt="Experience League LIVE Feb 29" src="assets/exl-live-episode-02-29-24-web-banner.png">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-02-29-24.md">
-        <strong>Leaping ahead with the new Adobe Campaign Web User Interface</strong>
-      </a>
-      <br/><em>with Sandra Hausmann, Eric Perrin, Gaël Mouëllo, Bruce Swann</em>
-      <br/><em>Feb 29, 2024</em>
-    </div>
+  <td>
+    Come back soon to find out about our upcoming April 2024 show.<br/>
+    In the meantime, we'll see you at the <a href="https://summit.adobe.com/na/">Adobe Summit</a> on March 25-28, 2024!
+
   </td>
 </tr>
 </table>

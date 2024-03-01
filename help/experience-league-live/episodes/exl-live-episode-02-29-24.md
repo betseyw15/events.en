@@ -14,6 +14,8 @@ Adobe Campaign v8 will have a brand-new look and feel. The reimagined user exper
 
 Join this Experience League Live session, where Adobe Campaign product experts will showcase how to plan, launch and measure cross-channel campaigns in the new user experience.
 
-[![ExL LIVE Feb 29 2024](../assets/exl-live-episode-02-29-24-web-banner.png)](https://engage.adobe.com/ExpLeagueLive-240229.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3427258/?quality=12&learn=on)
 
-**Click on the image above to register for the event.**
+For detailed documentation about what is currently available in the Adobe Campaign Web user interface, please visit [Campaign Web User Interface - Key capabilities](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html){target="_blank"}.
+
+**Have questions about it?** Continue the discussion on this topic on the Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
