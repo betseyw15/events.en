@@ -22,6 +22,7 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
   <td>
     Come back soon to find out about our upcoming April 2024 show.<br/>
     In the meantime, we'll see you at the <a href="https://summit.adobe.com/na/">Adobe Summit</a> on March 25-28, 2024!
+
   </td>
 </tr>
 </table>

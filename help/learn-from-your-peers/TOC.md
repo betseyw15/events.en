@@ -26,6 +26,9 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
       + [Documentation Mission Possible](analytics/june2022/mission-possible.md)
     + March {#mar2022}
       + [Telling Impactful Stories with Data](analytics/mar2022/stories-with-data.md)
++ Commerce {#commerce}
+  + February {#feb2024}
+    + [Communication, Requirements, and Testing in Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
   + November {#nov2023}
     + [Developer Excellence with AEM Core Components](experience-manager/nov2023/core-components.md)

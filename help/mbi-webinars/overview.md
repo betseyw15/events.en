@@ -22,7 +22,7 @@ The topics are repeated occasionally to accommodate any new questions that the c
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
-      <img alt="Getting Started with Commerce Intelligence" src="./assets/getting-started.png" />
+      <img alt="Getting Started with Commerce Intelligence" src="https://video.tv.adobe.com/v/3425736?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
@@ -34,21 +34,21 @@ The topics are repeated occasionally to accommodate any new questions that the c
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
-      <img alt="Managing Data Sets in MBI" src="./assets/managing-data-sets-mbi.png" />
+    <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+      <img alt="Managing Data Sets in Adobe Commerce Intelligence" src="https://video.tv.adobe.com/v/3427547?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
-        <strong>Managing Data Sets in MBI</strong>
+      <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+        <strong>Managing Data Sets in Adobe Commerce Intelligence</strong>
       </a>
     </div>
     <p>
-    <em>Learn about some of the powerful features of the MBI Data Warehouse Manager, directly from the Adobe Commerce Product team. Move beyond basic report building and learn how to do more with your data.</em>
+    <em>Discover the robust functionalities of the Commerce Intelligence Data Warehouse Manager directly from the Product team.</em>
     <p>
   </td>
    <td>
     <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
-      <img alt="Optimize Your MBI Data Warehouse" src="./assets/optimize-data-warehouse.png" />
+      <img alt="Optimize Your MBI Data Warehouse" src="https://video.tv.adobe.com/v/342562?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">

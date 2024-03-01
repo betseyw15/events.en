@@ -1,6 +1,6 @@
 ---
 title: Leaping ahead with the new Adobe Campaign Web User Interface
-description: Join us on February 29th to learn how to plan, launch and measure cross-channel strategies using the new Adobe Campaign Web User Interface, including Generative AI capabilities in beta. 
+description: Join us on February 29th to learn how to plan, launch and measure cross-channel strategies using the new Adobe Campaign Web User Interface. 
 kt: KT-14433
 thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
