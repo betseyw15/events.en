@@ -21,7 +21,7 @@ Join this Experience League Live session, where Adobe Campaign product experts w
 ## Additional resources
 
 * **[Campaign Web User Interface - Key capabilities](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html){target="_blank"}**
-  *Detailed documentation about what is currently available in the Adobe Campaign Web user interface, visit [Campaign Web User Interface - Key capabilities](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html){target="_blank"}.*
+  *Detailed documentation about what is currently available in the Adobe Campaign Web user interface.*
 
 * **[Adobe Campaign Web User Interface - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
   *How to videos and tutorials on the features and capabilities of the Adobe Campaign Web User Interface.*
