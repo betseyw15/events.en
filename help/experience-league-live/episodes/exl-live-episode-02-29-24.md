@@ -16,6 +16,13 @@ Join this Experience League Live session, where Adobe Campaign product experts w
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427258/?quality=12&learn=on)
 
-For detailed documentation about what is currently available in the Adobe Campaign Web user interface, please visit [Campaign Web User Interface - Key capabilities](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html){target="_blank"}.
+**Have questions?** Continue the discussion on this topic on the Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
 
-**Have questions about it?** Continue the discussion on this topic on the Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
+## Additional resources
+
+* **[Campaign Web User Interface - Key capabilities](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html){target="_blank"}**
+  *Detailed documentation about what is currently available in the Adobe Campaign Web user interface, visit [Campaign Web User Interface - Key capabilities](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html){target="_blank"}.
+
+* **[Adobe Campaign Web User Interface - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
+  *How to videos and tutorials on the features and capabilities of the Adobe Campaign Web User Interface.
+  
