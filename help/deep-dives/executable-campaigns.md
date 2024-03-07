@@ -1,6 +1,6 @@
 ---
 title: Executable Campaigns - Learn how executables can drive efficiency & impact
-description: The session is tailored for Marketo admins and campaign operations professionals and focuses on understanding and deploying executable campaigns to add value to campaigns and programs, create efficiencies, and drive growth. 
+description: The session is tailored for Marketo admins and campaign operations professionals and focuses on understanding and deploying executable campaigns to add value to campaigns and programs, create efficiencies, and drive growth.
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -8,8 +8,8 @@ duration: 3778
 last-substantial-update: 2024-03-07
 jira: KT-15098
 thumbnail: 3427704.jpeg
+exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
 ---
-
 # Executable Campaigns - Learn how executables can drive efficiency and impact
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427704/?learn=on)

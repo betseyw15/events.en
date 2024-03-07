@@ -7,6 +7,7 @@ event-cta-url-live: https://www.youtube.com/watch?v=EZGQ--J2M9I
 event-start-time: 2024-02-08 09:00-7
 event-guests: Daniel Wright,Josée Monette-Healey,Rohit Basuri
 duration: 25
+exl-id: 8e820234-2c73-46dc-aa85-f1f089e4ae8e
 ---
 # Use Case Playbooks, self-serve templates to deploy use cases in a few clicks
 

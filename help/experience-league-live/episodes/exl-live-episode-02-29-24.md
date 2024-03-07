@@ -1,12 +1,13 @@
 ---
 title: Leaping ahead with the new Adobe Campaign Web User Interface
-description: Join us on February 29th to learn how to plan, launch and measure cross-channel strategies using the new Adobe Campaign Web User Interface. 
+description: Join us on February 29th to learn how to plan, launch and measure cross-channel strategies using the new Adobe Campaign Web User Interface.
 kt: KT-14433
 thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
+exl-id: 636d8bf5-80d9-406b-ab1e-3d5c4b1c8b8f
 ---
 # Leaping ahead with the new Adobe Campaign Web User Interface
 
@@ -25,4 +26,3 @@ Join this Experience League Live session, where Adobe Campaign product experts w
 
 * **[Adobe Campaign Web User Interface - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
   *How to videos and tutorials on the features and capabilities of the Adobe Campaign Web User Interface.*
-  

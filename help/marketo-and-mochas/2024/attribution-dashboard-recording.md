@@ -10,8 +10,8 @@ duration: 3488
 last-substantial-update: 2024-02-22
 jira: KT-14947
 thumbnail: 3427255.jpeg
+exl-id: ce78b2af-e10c-46b8-ba43-ccbca9db788c
 ---
-
 # Marketo & Mochas: Fundamentals of Attribution Dashboards Recording
 
 In this session, Adobe’s Sr. Business Advisor, Cynthia Chang and Technical Advisor, James Leedom, take us through an overview of everything you need to know about Marketo's attribution model and what you can accomplish with the native Marketo Performance Insights (MPI) dashboards.

@@ -11,8 +11,8 @@ duration: 3632
 last-substantial-update: 2024-02-22
 jira: KT-14970
 thumbnail: 3427355.jpeg
+exl-id: 94c0f1f5-0781-4f44-967a-5929028b8af4
 ---
-
 # Commerce & Coffee: Personalizing eCommerce Experiences with AI
 
 At this session of Commerce & Coffee, Sr. Commerce Strategy Consultant, Corey Gelato, takes us through the AI features available to further personalize eCommerce experiences. We go over how Adobe Commerce's AI algorithms analyze customer behavior, create segments based on their preferences, and use this data to suggest tailored products via Product Recommendations.
