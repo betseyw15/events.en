@@ -18,6 +18,7 @@ doc-type: live event
   + [APIs](api.md)
   + [Certification](certification.md)
   + [Email Nurture](email-nurture.md)
+  + [Executable Campaigns](executable-campaigns.md)
   + [Inheriting an Instance](inheriting-an-instance.md)
   + [Lead Lifecycles](lead-lifecycles.md)
   + [Maximize your instance with a small team](small-team-instance.md)
