@@ -1,7 +1,7 @@
 ---
 title: Countdown to 2024 with the top 5 new features in Adobe Real-Time CDP
 description: Learn how new features can help you activate audiences more effectively and efficiently for impactful personalization.
-kt: KT-14069
+jira: KT-14415
 thumbnail: https://video.tv.adobe.com/v/3425754?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=s4WhnJifWLk
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231214.html
@@ -23,18 +23,15 @@ Are you a current Real-Time CDP practitioner and looking for insight into what's
 
 In this session, we'll discuss and show five new features that have launched in the last several months: 
 
-1.    Computed Attributes 
-2.    Partner Data Support 
-3.    Our new Audience Framework  
-4.    Look-Alike Audiences  
-5.    New destinations, including LiveRamp 
+1. Computed Attributes 
+2. Partner Data Support 
+3. Our new Audience Framework  
+4. Look-Alike Audiences  
+5. New destinations, including LiveRamp 
 
 Coming out of this session you should expect to:
   
-*    Understand how these features work in practice, through a live demo 
-*    Learn why these capabilities are impactful, providing efficiency and value to you as a practitioner 
-*    Be able to start leveraging these new features today 
-*    Start improving your customer personalization efforts today!
-
-
-
+* Understand how these features work in practice, through a live demo 
+* Learn why these capabilities are impactful, providing efficiency and value to you as a practitioner 
+* Be able to start leveraging these new features today 
+* Start improving your customer personalization efforts today!
