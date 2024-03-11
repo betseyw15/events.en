@@ -18,7 +18,7 @@ Join Bryan, Eric, and Doug as they discuss how to quickly get moving with Custom
 
 >[!BEGINSHADEBOX "Have questions?"]
 
-**Continue the discussion on the [Experience League Community Forum discussion](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582)**.
+Continue the discussion on the [Experience League Community Forum discussion](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
 
 >[!ENDSHADEBOX]
 
