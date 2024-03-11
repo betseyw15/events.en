@@ -26,7 +26,7 @@ Continue the discussion on this topic on the Adobe Experience League [Community 
 
 Are you a current Real-Time CDP practitioner and looking for insight into what's new in the product, why it matters and how Adobe can help you improve your customer data management strategies? Look no further - you've come to the right spot! In this series, we'll dive deep into what's recently launched in Real-Time CDP so that you can take advantage of what's new right away and make an impact for your organization.
 
-# Key takeaways
+## Key takeaways
 
 In this session, we'll discuss and show five new features that have launched in the last several months: 
 
