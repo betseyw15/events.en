@@ -41,7 +41,7 @@ duration: 89
 -->
 Our latest AEM GEMs webinar on **Building Storefronts on Edge Delivery Services with Adobe Commerce** has been conducted on *March 6th, 2024*. 
 The **recording** can be found here: 
-[Building Storefronts on Edge Delivery Services with Adobe Commerce](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
+[Building Storefronts on Edge Delivery Services with Adobe Commerce](./gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 
 >[!NOTE]
 >
