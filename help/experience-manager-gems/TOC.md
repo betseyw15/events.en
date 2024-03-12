@@ -8,8 +8,8 @@ breadcrumb-title: AEM GEMs events
 
 + [Overview](overview.md)
 + 2024 {#gems2024}
-  + [Getting started with AEM Authoring and Edge Delivery Services](/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md) 
-  + [Building Storefronts on Edge Delivery Services on Adobe Commerce](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
+  + [Getting started with AEM Authoring and Edge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md) 
+  + [Building Storefronts on Edge Delivery Services on Adobe Commerce](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023 {#gems2023}
   + [New Relic APM for AEM as a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
   + [AEM Certification - technical](gems2023/aem-certification-technical.md)
