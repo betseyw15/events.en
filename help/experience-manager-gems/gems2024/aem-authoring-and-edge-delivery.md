@@ -13,6 +13,7 @@ jira: KT-15065
 thumbnail: KT-15065.jpeg
 ---
 # Webinar Date: March 13th, 2024
+
 Time: 5pm CET / 8am PST / 9.30pm IST
 Please register via the below event page link. 
 
