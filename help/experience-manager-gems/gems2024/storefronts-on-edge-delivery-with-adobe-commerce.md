@@ -12,10 +12,9 @@ last-substantial-update: 2024-02-29
 jira: KT-15066
 thumbnail: KT-15066.jpeg
 ---
-
-# Webinar Date: March 13th, 2024
+# Webinar Date: March 6th, 2024
 Time: 5pm CET / 9am PDT / 9.30pm IST
-Please register via the below event page link. 
+This webinar has been completed. Please view the recording below.
 
 # Building Storefronts on Edge Delivery Services with Adobe Commerce
 
@@ -26,11 +25,11 @@ This AEM GEMs webinar will teach you how to build a high-performance storefront 
 * Stephen Rugh, Senior Software Engineer
 * Hannes Hertach, Software Development Engineer
 
-## Webinar Registration
+## Webinar Recording
+
+>[!VIDEO](https://video.tv.adobe.com/v/3427729)
 
 >[!NOTE]
->
->* Please RSVP to this webinar via [Event page](https://adobe.ly/48cmKCV).
 > 
 >* For session specific community interactions on Experience League please visit our [contextual thread](https://adobe.ly/48m4dEm).
 >

@@ -39,14 +39,15 @@ duration: 89
 </table>
 
 -->
-Our latest AEM GEMs webinar on **Unleashing the Potential of New Relic APM for AEM as a Cloud Service. Maximize Performance and Expedite Issue Resolution** has been conducted on *September 20th, 2023*. 
-The **recording** can be found here: [New Relic APM for Adobe Experience Manager as a Cloud Service](/help/experience-manager-gems/gems2023/newrelic-apm-for-aem-cloud-service.md)
+Our latest AEM GEMs webinar on **Building Storefronts on Edge Delivery Services with Adobe Commerce** has been conducted on *March 6th, 2024*. 
+The **recording** can be found here: 
+[Building Storefronts on Edge Delivery Services with Adobe Commerce](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 
 >[!NOTE]
 >
 > Sign up to be notified on upcoming AEM GEMs webinars at [Adobe's AEM User Group](https://aem-augs.adobe.com/).
 
-## 2022 Relaunch of AEM GEMs
+## AEM GEMs - technical webinars around AEM - for developers delivered by developers
 
 Welcome to **AEM GEMs** - our webinar series of technical deep dives on Adobe Experience Manager, delivered by Adobe experts. This series is a complement of the product documentation and of all other technical channels regarding Adobe Experience Manager, allowing developers to get in touch and go deep on a specific topic. 
 
@@ -55,9 +56,7 @@ The webinars will be conducted regularly, including the following:
 * A maximum duration of 60 minutes
 * Q&A at the end and chat experts available throughout the webinar
 * Recording available after each webinar
-* Webinar is free of charge
-
-All our AEM GEMs webinars are free of charge and conducted virtually. 
+* All AEM GEMs webinars are free of charge and conducted virtually, only registration is required.
 
 Register at [Adobe's AEM User Group](https://aem-augs.adobe.com/) to get notified about our upcoming webinars.
 
