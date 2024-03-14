@@ -39,13 +39,13 @@ duration: 89
 </table>
 
 -->
-Our latest AEM GEMs webinar on **Building Storefronts on Edge Delivery Services with Adobe Commerce** has been conducted on *March 6th, 2024*. 
+Our latest AEM GEMs webinar on **Getting started with AEM Authoring and Edge Delivery Services** has been conducted on *March 13th, 2024*. 
 The **recording** can be found here: 
-[Building Storefronts on Edge Delivery Services with Adobe Commerce](./gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
+[Getting started with AEM Authoring and Edge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
 
 >[!NOTE]
 >
-> Sign up to be notified on upcoming AEM GEMs webinars at [Adobe's AEM User Group](https://aem-augs.adobe.com/).
+> Sign up to be notified about upcoming AEM GEMs webinars - [Adobe's AEM User Group](https://aem-augs.adobe.com/).
 
 ## AEM GEMs - technical webinars around AEM - for developers delivered by developers
 
