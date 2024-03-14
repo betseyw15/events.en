@@ -15,8 +15,7 @@ thumbnail: KT-15065.jpeg
 ---
 # Webinar Date: March 13th, 2024
 
-Time: 5pm CET / 8am PST / 9.30pm IST
-Please register via the below event page link. 
+This webinar has been completed - please watch the recording below.
 
 ## Getting started with AEM Authoring and Edge Delivery Services
 
@@ -26,11 +25,11 @@ This AEM GEMs webinar includes a presentation and demo to show you how AEM autho
 
 * Dirk Rudolph, Mgr, Software Development, Adobe
 
-## Webinar Registration
+## Webinar Recording
+
+>[!VIDEO](https://video.tv.adobe.com/v/3427919/)
 
 >[!NOTE]
->
->* Please register/RSVP to this webinar via [Event page](https://adobe.ly/4bz9T0H).
 > 
 >* For session specific community interactions on Experience League please visit our [contextual thread](https://adobe.ly/3uIj6D7).
 >
