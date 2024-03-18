@@ -9,6 +9,7 @@ user-guide-description: Adobe Commerce Events is a video library where experts a
 + [Overview](overview.md)
 + 2024 {#2024}
   + [Boosting ecommerce conversions](2024/ecommerce-conversions.md)
+  + [Innovation Spotlight Webinar](2024/innovation-spotlight.md)
 + 2023 {#2023}
    + [Marketplaces as a force for growth](2023/marketplaces.md)
    + [Peak Season Preparation](2023/peak-season-prep.md)
