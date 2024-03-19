@@ -14,7 +14,7 @@ jira: KT-15011
 thumbnail: 3427501.jpeg
 exl-id: 2bb76c43-fda5-4ebb-832e-4ab54166076a
 ---
-# Streamlining E-Commerce: A Focused Approach on  Communication, Requirements, and Testing in Agile SDLC
+# Streamlining E-Commerce: A Focused Approach on Communication, Requirements, and Testing in Agile SDLC
 
 Join Adobe Commerce expert and advocate, Tyler Granlund, as he dives into streamlining e-commerce through Agile Software Development Life Cycle (SDLC) practices.  
 
