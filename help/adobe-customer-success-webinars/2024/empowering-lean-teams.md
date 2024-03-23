@@ -8,8 +8,8 @@ duration: 2499
 last-substantial-update: 2024-03-11
 jira: KT-15114
 thumbnail: 3427800.jpeg
+exl-id: 1dc9fcb7-66d8-4394-a97f-deff20813794
 ---
-
 # Empowering Lean Teams
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427800/?learn=on)

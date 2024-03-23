@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3392
 last-substantial-update: 2024-03-18
 jira: KT-15182
+exl-id: dcdf76f7-3327-4564-b68f-925506715ac4
 ---
-
 # Adobe Commerce Innovation Spotlight Webinar
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427965/?learn=on)
