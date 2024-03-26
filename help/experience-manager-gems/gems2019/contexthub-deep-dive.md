@@ -22,6 +22,6 @@ Presenter slides, Date: 03/20/2019
 
 ContextHub sample package:  
 
-Artur's mentioned ContextHub sample package will be available as zip file again shortly.  
+Artur's mentioned ContextHub sample package is available as zip file here:
 
-
+[Get File](/assets/contexthub-gems-deep-dive-1.0.zip)
