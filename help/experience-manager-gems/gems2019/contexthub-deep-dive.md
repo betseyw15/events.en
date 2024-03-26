@@ -24,4 +24,4 @@ ContextHub sample package:
 
 Artur's mentioned ContextHub sample package is available as zip file here:
 
-[Get File](/gems2019/assets/contexthub-gems-deep-dive-1.0.zip)
+[Get File](/help/experience-manager-gems/assets/contexthub-gems-deep-dive-1.0.zip)
