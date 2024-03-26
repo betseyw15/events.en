@@ -22,6 +22,6 @@ Presenter slides, Date: 03/20/2019
 
 ContextHub sample package:  
 
-Artur's mentioned ContextHub sample package is available on:  
+Artur's mentioned ContextHub sample package is available as zip file:  
 
-[https://github.com/grubyak/aem/tree/master/content-packages/gems/2019-03-20-contexthub-deep-dive](https://github.com/grubyak/aem/tree/master/content-packages/gems/2019-03-20-contexthub-deep-dive)
+[Get zip File](/assets/contexthub-gems-deep-dive-1.0.zip)
