@@ -15,6 +15,8 @@ doc-type: live event
 
 + [Overview](overview.md)
 + Episodes {#episodes}
+  + [Ep. 35: New Code-Based Experience Channel in Journey Optimizer](episodes/exl-live-episode-04-24-24.md)
+  + [Ep. 34: Marketo Measure's New Discover Dashboards](episodes/exl-live-episode-04-18-24.md)
   + [Ep. 33: Leaping ahead with the new Adobe Campaign v8 UI](episodes/exl-live-episode-02-29-24.md)
   + [Ep. 32: Use Case Playbooks, self-serve templates to deploy use cases in a few clicks](episodes/exl-live-episode-02-08-24.md)
   + [Ep. 31: Bringing your Adobe Analytics data and analyses into Customer Journey Analytics](episodes/exl-live-episode-01-17-24.md)
