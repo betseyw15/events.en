@@ -17,7 +17,10 @@ duration: 89
 
 <img alt="Digital Experiences" src="./assets/ADX_Gems.png"/>
 
-## Previous AEM GEMs event!
+## Upcoming AEM GEMs event 
+
+April 17, 2024 - **Getting started with Edge Delivery Services for AEM Forms**
+Please RSVP / Register [here](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-getting-started-with-edge-delivery-services-for-aem-forms/)
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -39,6 +42,9 @@ duration: 89
 </table>
 
 -->
+
+## Previous AEM GEMs event
+
 Our latest AEM GEMs webinar on **Getting started with AEM Authoring and Edge Delivery Services** has been conducted on *March 13th, 2024*. 
 The **recording** can be found here: 
 [Getting started with AEM Authoring and Edge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
