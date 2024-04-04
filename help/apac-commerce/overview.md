@@ -13,6 +13,19 @@ The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Com
 <table>
 <tr>
   <td>
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
+      <img alt="Adobe Commerce Innovation Spotlight Webinar" src="https://video.tv.adobe.com/v/3427965?format=jpeg" />
+    </a>
+     <div>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
+        <strong>Adobe Commerce Innovation Spotlight Webinar</strong>
+      </a>
+    </div>
+    <p>
+    <em>Join us for inspiration on how to adopt the latest features and architecture to deliver the best experience to your customers and grow your business!In this webinar.</em>
+    <p>
+  </td> 
+  <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
       <img alt="Adobe Commerce Site Wide Analysis Tool" src="https://video.tv.adobe.com/v/3419132?format=jpeg" />
     </a>
@@ -38,19 +51,6 @@ The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Com
     <em>Harness the power of AI for an exceptional customer experience with Adobe's investment in AI and its integration into Commerce.</em>
     <p>
   </td>
-  <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-      <img alt="Composable commerce strategies for scalable and agile e-commerce" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
-    </a>
-     <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-        <strong>Composable commerce strategies for scalable and agile e-commerce</strong>
-      </a>
-    </div>
-    <p>
-    <em>Join us for an insightful webinar that will delve into the world of composable architecture and how it is revolutionising the e-commerce landscape.</em>
-    <p>
-  </td>  
 </tr>
 </table>
 
