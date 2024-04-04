@@ -8,7 +8,7 @@ breadcrumb-title: AEM GEMs events
 
 + [Overview](overview.md)
 + 2024 {#gems2024}
-  + [Getting started with Edge Delivery Services for AEM Forms](/gems2024/edge-delivery-for-aem-forms.md)
+  + [Getting started with Edge Delivery Services for AEM Forms](gems2024/edge-delivery-for-aem-forms.md)
   + [Getting started with AEM Authoring and Edge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md) 
   + [Building Storefronts on Edge Delivery Services on Adobe Commerce](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023 {#gems2023}
