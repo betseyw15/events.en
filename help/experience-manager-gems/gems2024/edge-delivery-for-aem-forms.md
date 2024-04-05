@@ -24,10 +24,10 @@ Learn how to create and publish AEM Forms using Edge Delivery Services and deliv
 * Arun Taneja, Product Management Director, Adobe
 * Vijay Kumar Jalagari, Sr. Engineering Manager, Adobe
 
-## Webinar Recording
+## Webinar Community Interaction
 
 >[!NOTE]
 > 
->* For session specific community interactions on Experience League a contextual thread will be available shotly.
+>* For session specific community interactions on Experience League please visit the respective [Contextual Thread](https://adobe.ly/4aCz0OE).
 >
 >* To receive notifications on our upcoming webinars, please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/).
