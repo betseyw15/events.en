@@ -20,7 +20,7 @@ duration: 89
 ## Upcoming AEM GEMs event 
 
 May 29, 2024 - **Edge Delivery Services & AEM Assets**
-Registration will be open soon.
+Registration will be open soon...
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
