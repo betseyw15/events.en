@@ -19,8 +19,8 @@ duration: 89
 
 ## Upcoming AEM GEMs event 
 
-April 17, 2024 - **Getting started with Edge Delivery Services for AEM Forms**
-Please RSVP / Register [here](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-getting-started-with-edge-delivery-services-for-aem-forms/)
+May 29, 2024 - **Edge Delivery Services & AEM Assets**
+Registration will be open soon.
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -45,9 +45,9 @@ Please RSVP / Register [here](https://aem-augs.adobe.com/events/details/adobe-ex
 
 ## Previous AEM GEMs event
 
-Our latest AEM GEMs webinar on **Getting started with AEM Authoring and Edge Delivery Services** has been conducted on *March 13th, 2024*. 
+Our latest AEM GEMs webinar on **Getting started with Edge Delivery Services for AEM Forms** has been conducted on *April 17th, 2024*. 
 The **recording** can be found here: 
-[Getting started with AEM Authoring and Edge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+[Getting started with Edge Delivery Services for AEM Forms](/gems2024/edge-delivery-for-aem-forms.md)
 
 >[!NOTE]
 >
