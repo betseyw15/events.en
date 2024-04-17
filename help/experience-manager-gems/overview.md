@@ -47,11 +47,11 @@ Registration will be open soon.
 
 Our latest AEM GEMs webinar on **Getting started with Edge Delivery Services for AEM Forms** has been conducted on *April 17th, 2024*. 
 The **recording** can be found here: 
-[Getting started with Edge Delivery Services for AEM Forms](/gems2024/edge-delivery-for-aem-forms.md)
+[Getting started with Edge Delivery Services for AEM Forms](gems2024/edge-delivery-for-aem-forms.md)
 
 >[!NOTE]
 >
-> Sign up to be notified about upcoming AEM GEMs webinars - [Adobe's AEM User Group](https://aem-augs.adobe.com/).
+> Sign up to be notified about upcoming AEM GEMs webinars and other AEM related events - [Adobe's AEM User Group](https://aem-augs.adobe.com/).
 
 ## AEM GEMs - technical webinars around AEM - for developers delivered by developers
 
@@ -63,8 +63,6 @@ The webinars will be conducted regularly, including the following:
 * Q&A at the end and chat experts available throughout the webinar
 * Recording available after each webinar
 * All AEM GEMs webinars are free of charge and conducted virtually, only registration is required.
-
-Register at [Adobe's AEM User Group](https://aem-augs.adobe.com/) to get notified about our upcoming webinars.
 
 ## Experience League Community
 
