@@ -5,7 +5,6 @@ solution: Journey Optimizer
 feature: In App
 role: User
 kt: 13220
-thumbnail: https://video.tv.adobe.com/v/3419194?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=ABhwYw44r2g
 event-start-time: 2023-05-24 08:30-8
 event-guests: Sandra Hausmann,Chetan Prasad,Peter Fransen

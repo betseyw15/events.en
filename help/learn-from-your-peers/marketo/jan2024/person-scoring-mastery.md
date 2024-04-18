@@ -9,8 +9,8 @@ duration: 2428
 last-substantial-update: 2024-01-22
 jira: KT-14816
 thumbnail: 3426914.jpeg
+exl-id: 673a6d3a-1a8e-4a2e-b2df-528ace76d743
 ---
-
 # Person Scoring Mastery with Marketo Engage: Localized Nuances in a Global Framework
 
 As an administrator, you develop the Marketo Engage person scoring model based on the real business value of the scoring elements compared to each other. But what if that business value varies in different markets? How do you allow for local influences without losing consistency across your organization?

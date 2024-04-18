@@ -5,7 +5,6 @@ solution: Journey Optimizer
 kt: 11028
 feature: Offers
 role: User
-thumbnail: https://video.tv.adobe.com/v/3410560?format=jpeg
 event-cta-text: Set Reminder
 event-cta-url: https://www.youtube.com/watch?v=f1T9XU9TCJU
 event-start-time: 2022-10-25 09:00-7

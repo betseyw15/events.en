@@ -11,8 +11,8 @@ duration: 3409
 last-substantial-update: 2024-02-22
 jira: KT-14982
 thumbnail: 3427454.jpeg
+exl-id: e5d14f6e-3a26-4829-8d37-0feee95135a0
 ---
-
 # A beginner's guide to boosting ecommerce conversions
 
 For ecommerce retailers, conversions are vital – turning site visitors into paying customers. If you're an e-commerce leader struggling with cart abandonment and subpar conversion rates, you're not alone. On average, customers abandon their carts 77.5% of the time.
