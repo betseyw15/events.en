@@ -14,3 +14,4 @@ jira: KT-15343
 Join the Adobe Advocacy Team & select Adobe Champions to discover How to Submit a Standout Adobe Champion Application. We will review program eligibility and the diverse "Acts of Advocacy," to make your application the best it can be! We will guide you through the application process, timeline of the application window and program benefits.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428431/?learn=on)
+
