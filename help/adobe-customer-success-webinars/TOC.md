@@ -9,6 +9,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
 + [Adobe Customer Success Webinars](overview.md)
 + 2024 {#2024}
   + [Data Stream Prioritization](2024/data-stream-prioritization.md)
+  + [Empowering Lean Teams](2024/empowering-lean-teams.md)
   + [Strategic Leadership](2024/strategic-leadership.md)
 + 2023 {#2023}
   + [Building the Foundation for Personalization at Scale](2023/personalization-at-scale.md)

@@ -8,8 +8,8 @@ duration: 1984
 last-substantial-update: 2024-02-22
 jira: KT-14986
 thumbnail: 3427463.jpeg
+exl-id: 44cd83a5-d318-4fb1-b145-5840616df4ec
 ---
-
 # Strategic Leadership
 
 Acquire the tactics to effectively achieve organizational goals through strategic influence.
