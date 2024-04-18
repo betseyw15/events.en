@@ -12,6 +12,14 @@ duration: 25
 
 Marketo Measure has completely revamped the Discover Dashboards. This is not just little enhancements and additions; this is a complete makeover. The boards have been reimagined and most importantly, simplified. These new boards are much more intuitive and user-friendly to get you the data you need—quickly and easily!
 
-[![ExL LIVE Jan 17 2024](assets/WebBanner-April18-2024.jpg)](https://engage.adobe.com/ExpLeagueLive-240418.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3428093/?quality=12&learn=on)
 
-**[Register now](https://engage.adobe.com/ExpLeagueLive-240418.html) for the event!** 
+Topics discussed:
+
+* Attribution Philosophy in a B2B Marketing world
+* Shifting your reporting mindset to revenue
+* Discover pro tips for strategically segmenting and enhancing the data
+* Learn how to resolve commonly made mistakes
+* Which new prebuilt dashboards are available and how to get the most from them
+* Newly available metrics and how to use them to elevate business insights
+* How to build and save custom reports
