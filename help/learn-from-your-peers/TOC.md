@@ -51,3 +51,4 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
     + [Cracking the Personalization at Scale Code using [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
   + March {#mar2023}
     + [How to Make Your [!DNL Adobe Marketo Engage] Content Scalable](marketo/mar2023/templates-tokens-teamwork.md)
++ [Learn how to submit a standout Adobe Champion Application](./adobe-champion-application.md)
