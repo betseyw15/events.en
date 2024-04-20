@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2447
 last-substantial-update: 2024-04-19
 jira: KT-15347
+exl-id: bdfc3a26-0af1-4f39-b9ed-2842fecea17c
 ---
-
 # Unlocking Powerful Workflow Automation: Practical Applications of Marketo Engage REST API
 
 Discover the power of the Marketo Engage REST API, empowering you to streamline your marketing operations workflows, reduce manual labor, and free up time for revenue-driving activities. Using REST API will enable you to leverage automation tools such as Zapier to trigger automated workflows and programming languages like Python to perform actions in bulk.
