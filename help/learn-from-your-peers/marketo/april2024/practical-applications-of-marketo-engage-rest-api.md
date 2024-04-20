@@ -23,4 +23,4 @@ In this webinar, you will:
 >[!VIDEO](https://video.tv.adobe.com/v/3428435/?learn=on)
 
 
-Join the conversation on the Marketing Nation Community Webinar Thread - [Discussion](https://nation.marketo.com/t5/product-discussions/webinar-april-17th-8am-pst-unlocking-powerful-workflow/td-p/346330){target="_blank"}
+Join the conversation on the [Marketing Nation Community Webinar Thread](https://nation.marketo.com/t5/product-discussions/webinar-april-17th-8am-pst-unlocking-powerful-workflow/td-p/346330){target="_blank"}.
