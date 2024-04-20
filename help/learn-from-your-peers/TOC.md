@@ -39,7 +39,7 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
   + May {#may2023} 
     + [Mastering Content & Experience Fragments](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
-  + April {#april2024}
+  + April 2024 {#april2024}
     + [Practical Applications of Marketo Engage REST API](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
   + January 2024 {#jan2024}
     + [Person Scoring Mastery with Marketo Engage](marketo/jan2024/person-scoring-mastery.md)
