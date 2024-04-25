@@ -20,16 +20,8 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 <table>
 <tr>
   
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-24-24.md">
-      <img alt="Experience League LIVE Apr 21" src="episodes/assets/WebBanner-Apr24-2024.jpg">
-    </a>
-    <div>
-      <a href="/help/experience-league-live/episodes/exl-live-episode-04-18-24.md">
-        <strong>New Code-Based Experience Channel in Journey Optimizer</strong>
-      </a>
-      <br/><em>with Sandra Hausmann, Robert Calangiu, and Brent Kostak</em>
-      <br/><em>April 24, 2024</em>
-    </div>
+  <td style="vertical-align: top;">
+    <strong>Come back to this page later to get details on our May 16th show. Spoiler alert - we're going to be talking about migrating Analytics from AppMeasurement to the Web SDK!</strong>
   </td>
 </tr>
 </table>
