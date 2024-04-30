@@ -1,5 +1,5 @@
 ---
-title: This is the way...to migrate Analytics to Web SDK 
+title: This is the way...to migrate Analytics to Web SDK
 description: Learn the latest and greatest (NEW) way to migrate Adobe Analytics to the Web SDK
 kt: KT-15382
 thumbnail: https://video.tv.adobe.com/v/3428791?format=jpeg
@@ -7,6 +7,7 @@ event-cta-url-live: https://www.youtube.com/watch?v=J4fuB2fki8o
 event-start-time: 2024-04-18 09:00-7
 event-guests: Doug Moore,Mitch Rice,Joe Khoury
 duration: 25
+exl-id: c762dfe2-07b8-4eac-afa4-d94636d0b5b5
 ---
 # This is the way...to migrate Analytics to Web SDK 
 
@@ -22,4 +23,3 @@ Learn the latest and greatest (NEW) way to migrate Adobe Analytics to the Web SD
 We'll configure a data stream on the edge, and install and configure the Web SDK extension in our Tags property. We'll show how to migrate different rule types from the Analytics extension to the Web SDK.
 
 Don't miss this chance to ask questions in the chat during this livestream event and get answers from the experts.
-
