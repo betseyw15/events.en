@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3185
 last-substantial-update: 2024-04-25
 jira: KT-15385
+exl-id: d8e22e01-724a-4b0c-855b-0adb29e98d30
 ---
-
 # Using Webhooks to Transfer Data
 
 Sometimes the whole rigmarole of getting an API created, tested, and deployed isn’t needed. Instead, you can self-serve with a webhook to execute a variety of data transfers into your CRM or other integrated systems. Join Darshil Shah and Josh Arrington to learn how to use this feature and propel yourself to efficiency quickly! Moderated by John Grundy.
