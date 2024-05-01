@@ -37,3 +37,4 @@ Continue the discussion on the [Experience League Community Forum discussion](ht
 * It is recommended to create a catch-all for elements that don't exist in CGA and then edit them in the destination project.
 * Previously, it was believed that calculated metrics and segments had to be recreated when migrating to CGA, but now there is an option to migrate them.
 * To ensure that calculated metrics and segments are included in the migration, they need to be applied to a table or visualization in Adobe Analytics.
+

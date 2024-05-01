@@ -24,3 +24,4 @@ Learn the latest and greatest (NEW) way to migrate Adobe Analytics to the Web SD
 We'll configure a data stream on the edge, and install and configure the Web SDK extension in our Tags property. We'll show how to migrate different rule types from the Analytics extension to the Web SDK.
 
 Don't miss this chance to ask questions in the chat during this livestream event and get answers from the experts.
+

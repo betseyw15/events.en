@@ -22,3 +22,4 @@ With so many demands on your time and attention, you need to be able to create a
 Watch the video above to view this live stream event, where Adobe [!DNL Analytics] experts gave some great tips on customizing and accessing insights in Analysis Workspace and the [!DNL Analytics] Dashboards app.
 
 Have questions about it? Continue the discussion on this topic on the Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037).
+

@@ -25,3 +25,4 @@ In this Experience League Live Session, Adobe product experts will explain how y
 **Click on the image above to watch the show!**
 
 Continue the discussion on the [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
+

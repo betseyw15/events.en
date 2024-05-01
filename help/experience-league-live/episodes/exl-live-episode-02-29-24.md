@@ -45,3 +45,4 @@ The new Campaign web user interface is important because it provides a unified a
 
 * **[Adobe Campaign Web User Interface - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
   *How to videos and tutorials on the features and capabilities of the Adobe Campaign Web User Interface.*
+

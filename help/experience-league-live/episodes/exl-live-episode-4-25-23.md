@@ -22,3 +22,4 @@ If you are new to Adobe's modern data collection tools and nervous to jump into 
 Start the video above to view a replay of this live stream event.
 
 Have questions about it? Continue the discussion on this topic on the Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476).
+

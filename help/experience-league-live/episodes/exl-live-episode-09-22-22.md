@@ -19,3 +19,4 @@ Journey Optimizer's new Campaigns functionality allows you to deliver one-time s
 In this Experience League Live episode, originally held on September 22, 2022, see host Sandra Hausmann and product experts Bridgette Darling and Frederic Mary as they discuss the use cases this new feature covers and demonstrate how to easily set up and execute a Campaign in Journey Optimizer. Learn about how you will use both Campaigns and Journeys to deliver compelling personalized customer experiences and how the new in-line messaging workflow is leveraged in each of these two canvases.
 
 Continue the discussion on this topic in the [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-execute-your/m-p/547896#M52). We hope to hear from you!
+

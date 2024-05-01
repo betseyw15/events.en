@@ -22,3 +22,4 @@ Site loading times & overall performance have a direct impact on customers satis
 Watch the video above to view this live stream event, where Adobe experience delivery experts discussed what to consider, and what steps you can take to boost performance.
 
 **Have questions about it?** Continue the discussion on this topic on the Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513#M36836).
+

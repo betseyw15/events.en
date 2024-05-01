@@ -20,3 +20,4 @@ And reporting on user interaction with your web or mobile property is what enabl
 We'll also cover tips to understand and leverage attribution reporting. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/338108/?quality=12&learn=on)
+
