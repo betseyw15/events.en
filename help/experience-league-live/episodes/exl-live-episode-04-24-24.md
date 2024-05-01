@@ -2,9 +2,10 @@
 title: New Code-Based Experience Channel in Journey Optimizer
 description: Activate inbound surfaces and granular personalization control with developer-centric actions.
 kt: KT-14776
-thumbnail: https://video.tv.adobe.com/v/3428095?format=jpeg
+solution: Journey Optimizer
+feature: Code-based Experiences
 event-cta-url-live: https://www.youtube.com/watch?v=ZKa4OatgQjk
-event-start-time: 2024-04-18 08:30-7
+event-start-time: 2024-04-24 08:30-7
 event-guests: Sandra Hausmann,Robert Calangiu,Brent Kostak
 duration: 25
 exl-id: 94725433-1bc2-40a4-835a-2cfac9af1fd9

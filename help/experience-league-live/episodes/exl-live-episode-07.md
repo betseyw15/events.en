@@ -2,8 +2,8 @@
 title: Extend AEM with Adobe App Builder
 description: Developing microservices, integrating backend systems and automating workflows has never been so easy.
 solution: Experience Manager
+feature: App Builder
 kt: 9501
-thumbnail: https://video.tv.adobe.com/v/339319?format=jpeg
 event-cta-url: https://youtu.be/b6jKxNnXFrk
 event-start-time: 2021-12-16 09:00-8
 event-guests: Mark Szulc, Sarah Xu, Zoran Nikolovski

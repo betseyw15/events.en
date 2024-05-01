@@ -1,9 +1,9 @@
 ---
 title: How do I handle all these audiences?
 description: Join host Doug Moore and guests Nick Cammuso and Jackie Chevallier as they look at how to use both Audience Manager (AAM) and Real-Time Customer Data Platform … (Descriptions should be between 60 and 160 characters)
-solution: Audience Manager, Real-Time Customer Data Platform
+solution: Audience Manager, Real-Time Customer Data Platform, Experience Platform
+feature: Audiences
 kt: 10358
-thumbnail: https://video.tv.adobe.com/v/342611?format=jpeg
 event-start-time: 2022-04-28 09:00-7
 event-guests: Nick Cammuso,Jackie Chevallier
 exl-id: a1262eef-da2b-4e79-92d8-73819bc47744

@@ -2,8 +2,8 @@
 title: Ask the experts - The basics of Web SDK
 description: Find out about the Web SDK. We'll show you all the basics of the Web SDK, including reasoning behind it, how it works, and important use cases that it powers.
 solution: Data Collection,Experience Platform
+feature: Data Collection
 kt: 10412
-thumbnail: https://video.tv.adobe.com/v/343335?format=jpeg
 event-start-time: 2022-05-26 09:00-7
 event-guests: Doug Moore, Eric Matisoff, Rudi Shumpert, Jeff Chasin
 exl-id: b2ea730b-d4ad-4be0-b229-7063369cba7f

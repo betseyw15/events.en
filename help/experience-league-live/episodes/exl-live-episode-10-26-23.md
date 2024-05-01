@@ -2,7 +2,8 @@
 title: Workfront Release Deep Dive - New Workfront Home
 description: Hear from Workfront customers about how New Home is working for them and their users.
 kt: KT-14069
-thumbnail: https://video.tv.adobe.com/v/3424606?format=jpeg
+solution: Workfront
+feature: Work Management
 event-cta-url-live: https://www.youtube.com/watch?v=dvCuSQfMTZg
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231026.html
 event-start-time: 2023-10-26 09:00-7
