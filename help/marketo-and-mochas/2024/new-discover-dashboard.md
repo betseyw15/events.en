@@ -1,12 +1,13 @@
 ---
 title: New Discover Dashboards
-description: Learn about the 9 new Discover Dashboards now available to all Marketo Measure instances. These newly released dashboards offer dynamic perspectives and enhanced insights across crucial metrics such as Revenue, Attributed Revenue, ROI, Engagement, Lead Velocity, Opportunity Velocity, and Web Traffic. 
+description: Learn about the 9 new Discover Dashboards now available to all Marketo Measure instances. These newly released dashboards offer dynamic perspectives and enhanced insights across crucial metrics such as Revenue, Attributed Revenue, ROI, Engagement, Lead Velocity, Opportunity Velocity, and Web Traffic.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3619
 last-substantial-update: 2024-05-01
 jira: KT-15339
+exl-id: 7f69f653-e293-4fec-a38d-211bc6dac4e1
 ---
 # New Discover Dashboards
 

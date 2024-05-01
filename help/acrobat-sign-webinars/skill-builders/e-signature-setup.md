@@ -1,6 +1,6 @@
 ---
 title: Prepare Your Agreements for e-signature
-description: Learn about three easy ways to set up your documents for e-signature. 
+description: Learn about three easy ways to set up your documents for e-signature.
 feature: Sign
 role: User
 level: Beginner
@@ -8,8 +8,8 @@ doc-type: Event
 duration: 1796
 last-substantial-update: 2024-04-30
 jira: KT-15293
+exl-id: 599f4121-b27b-41af-8220-2f0b1716e3d5
 ---
-
 # Prepare Your Agreements for e-signature
 
 Learn about three easy ways to set up your documents for e-signature. Whether they’re PDFs, Microsoft 365 files, or even a simple image file, this session will give you the tools you need to get that document signed. We’ll cover three methods: Adobe Acrobat Sign’s simple drag-and-drop authoring environment Set up a PDF form in Adobe Acrobat Use text tags for speedy document authoring.

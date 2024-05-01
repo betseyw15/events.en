@@ -8,8 +8,8 @@ doc-type: Event
 duration: 1006
 last-substantial-update: 2024-04-30
 jira: KT-15304
+exl-id: 6e7deb3b-a960-436a-8393-fd15132cea4c
 ---
-
 # Notarize Integration
 
 Notarize integration-the faster and easier way to notarize your documents.

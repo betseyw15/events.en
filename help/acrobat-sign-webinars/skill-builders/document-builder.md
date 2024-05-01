@@ -8,8 +8,8 @@ doc-type: Event
 duration: 1109
 last-substantial-update: 2024-04-30
 jira: KT-15302
+exl-id: a504550f-d650-47ba-a06e-082449b37e99
 ---
-
 # Document Builder for Adobe Acrobat Sign
 
 Give your sales team an edge with pre-populated proposals, contracts, invoices, and more in seconds by automating everyday tasks like preparing data-driven docs right in Salesforce. Document Builder allows you to dynamically generate a document using Salesforce data prior to sending for signature, making a once cumbersome process more simplistic and streamlined. We’ll walk through the step-by-step process which will be sure to help save you time and effort.

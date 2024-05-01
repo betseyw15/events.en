@@ -1,6 +1,6 @@
 ---
 title: Work with e-signatures in your Microsoft apps
-description: Expand the way you use your Microsoft apps like Word, Outlook, and Sharepoint by adding Adobe Acrobat Sign to your existing workflows. 
+description: Expand the way you use your Microsoft apps like Word, Outlook, and Sharepoint by adding Adobe Acrobat Sign to your existing workflows.
 feature: Sign, Integrations
 role: User
 level: Beginner
@@ -8,8 +8,8 @@ doc-type: Event
 duration: 1352
 last-substantial-update: 2024-04-30
 jira: KT-15294
+exl-id: cee60efb-793c-45d5-bfe4-bfede95c357c
 ---
-
 # Work with e-signatures in your Microsoft apps
 
 Expand the way you use your Microsoft apps like Word, Outlook, and Sharepoint by adding Adobe Acrobat Sign to your existing workflows. This session will teach you how to start streamlining document processes in common Microsoft apps so you don’t need to context switch just to get a signature or check a status.

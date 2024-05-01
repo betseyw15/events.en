@@ -8,8 +8,8 @@ doc-type: Event
 duration: 851
 last-substantial-update: 2024-04-30
 jira: KT-15300
+exl-id: 0a963b37-e5eb-4dcc-a9b1-34646e1c8749
 ---
-
 # Advanced Reporting for Acrobat Sign
 
 Learn about the analytics and reports available in Acrobat Sign - and see how you can view data to help deliver the insights you need to drive your business forward.

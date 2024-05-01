@@ -8,8 +8,8 @@ doc-type: Event
 duration: 1143
 last-substantial-update: 2024-04-30
 jira: KT-15295
+exl-id: 15b61eb5-3a5f-4dbe-94ac-2d4a20976566
 ---
-
 # Advanced Tips for Sending Documents for Signature
 
 Take a deeper dive into all the options available when sending agreements for signature. In this session you’ll learn about: Sending to multiple recipients Available recipient roles (signer, form filler, delegator, and others) Adding a CC field Password protection, and more.

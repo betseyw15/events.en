@@ -1,6 +1,6 @@
 ---
 title: Post a Fillable, Signable Web Form
-description: Learn how to create a web form allowing anyone to complete and sign — without you needing to initiate the transaction or even know the email address of the signer. 
+description: Learn how to create a web form allowing anyone to complete and sign — without you needing to initiate the transaction or even know the email address of the signer.
 feature: Sign, Form
 role: User
 level: Beginner
@@ -8,8 +8,8 @@ doc-type: Event
 duration: 1570
 last-substantial-update: 2024-04-30
 jira: KT-15296
+exl-id: de00b727-129b-4ae7-bfec-97795b616fb6
 ---
-
 # Post a Fillable, Signable Web Form
 
 Learn how to create a web form allowing anyone to complete and sign — without you needing to initiate the transaction or even know the email address of the signer. You’ll also see how to prepare a document template that can be used for individual signature transactions, as well as for posting to a unique URL for broad sharing.

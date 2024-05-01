@@ -1,6 +1,6 @@
 ---
 title: Workflow Automations Powered by Microsoft Power Automate
-description: Harness all the automation capabilities with Microsoft’s low-code/no-code solution, Power Automate, directly in Adobe Acrobat Sign. 
+description: Harness all the automation capabilities with Microsoft’s low-code/no-code solution, Power Automate, directly in Adobe Acrobat Sign.
 feature: Integrations
 role: User
 level: Intermediate
@@ -8,8 +8,8 @@ doc-type: Event
 duration: 1109
 last-substantial-update: 2024-04-30
 jira: KT-15303
+exl-id: 72fc12aa-05fe-4856-9c34-bb61f6f3a295
 ---
-
 # Workflow Automations Powered by Microsoft Power Automate
 
 Harness all the automation capabilities with Microsoft’s low-code/no-code solution, Power Automate, directly in Adobe Acrobat Sign. Come hear how non-developers have the power and flexibility to create next generation workflows. In this session, you’ll learn how to: Set up the workflow integration to get started Jumpstart your workflow creation with pre-made templates Leverage a vast ecosystem of connectors to integrate Acrobat Sign into your packaged and custom applications Increase productivity and extend the capabilities of Acrobat Sign.
@@ -23,5 +23,3 @@ Harness all the automation capabilities with Microsoft’s low-code/no-code solu
  * ​Additionally, Power Automate allows users to create and use automated workflows within Adobe Acrobat Sign without the need to involve IT staff.
  * These automated workflows can increase efficiency, productivity, and reduce errors.
  * Power Automate also allows non-administrators to create workflows, providing a platform for users to automate tasks and processes by creating flows that connect different applications and services. It offers a wide range of triggers and actions that can be used to build customized workflows based on specific business needs.
-
-

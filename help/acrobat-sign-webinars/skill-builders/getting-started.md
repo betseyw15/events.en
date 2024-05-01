@@ -1,6 +1,6 @@
 ---
 title: Acrobat Sign 101 - Getting Started
-description: Learn the basics of Acrobat Sign to start getting documents signed fast. 
+description: Learn the basics of Acrobat Sign to start getting documents signed fast.
 feature: Sign
 role: User
 level: Beginner
@@ -8,8 +8,8 @@ doc-type: Event
 duration: 1623
 last-substantial-update: 2024-04-30
 jira: KT-15292
+exl-id: 30be76bf-738d-4716-8de6-6f5387dbf905
 ---
-
 # Acrobat Sign 101 - Getting Started
 
 Learn the basics of Acrobat Sign to start getting documents signed fast. We’ll show you how to: Prepare and send your documents for e-signature View what your signers see Manage and track the progress of agreements Create your own signature, and more.

@@ -8,8 +8,8 @@ doc-type: Event
 duration: 1108
 last-substantial-update: 2024-04-30
 jira: KT-15297
+exl-id: c1774a2e-478b-4bec-be9f-69db9e0ef615
 ---
-
 # Collect Many Signatures with One Click
 
 Learn how the Send in Bulk feature in Acrobat Sign can save you time. If you need to need multiple individuals to sign unique copies of an enterprise-wide policy update, an NDA or any other document, Send in Bulk allows you to prepare the file once, send to multiple signers with one click and easily track responses.
