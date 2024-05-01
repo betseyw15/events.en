@@ -2,7 +2,8 @@
 title: This is the way...to migrate Analytics to Web SDK
 description: Learn the latest and greatest (NEW) way to migrate Adobe Analytics to the Web SDK
 kt: KT-15382
-thumbnail: https://video.tv.adobe.com/v/3428791?format=jpeg
+solution: Analytics,Data Collection
+feature: Implementation Basics, Tags
 event-cta-url-live: https://www.youtube.com/watch?v=J4fuB2fki8o
 event-start-time: 2024-04-18 09:00-7
 event-guests: Doug Moore,Mitch Rice,Joe Khoury

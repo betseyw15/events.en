@@ -2,7 +2,8 @@
 title: Countdown to 2024 with the top 5 new features in Adobe Real-Time CDP
 description: Learn how new features can help you activate audiences more effectively and efficiently for impactful personalization.
 jira: KT-14415
-thumbnail: https://video.tv.adobe.com/v/3425754?format=jpeg
+solution: Real-Time Customer Data Platform, Experience Platform
+feature: Destinations, Audiences
 event-cta-url-live: https://www.youtube.com/watch?v=s4WhnJifWLk
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231214.html
 event-start-time: 2023-12-14 09:00-7

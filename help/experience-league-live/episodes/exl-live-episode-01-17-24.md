@@ -2,7 +2,8 @@
 title: Bringing your Adobe Analytics data and analyses into Customer Journey Analytics
 description: Learn how new automated processes can help you move you analytics and data from Adobe Analytics to Adobe Customer Journey Analytics.
 jira: KT-14746
-thumbnail: https://video.tv.adobe.com/v/3426778?format=jpeg
+solution: Analytics,Customer Journey Analytics
+feature: Experience Cloud Integration
 event-cta-url-live: https://www.youtube.com/watch?v=BkAjaMPgpgE
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-240117.html
 event-start-time: 2024-01-17 10:00-7

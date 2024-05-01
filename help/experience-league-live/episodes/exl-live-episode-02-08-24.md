@@ -1,8 +1,9 @@
 ---
 title: Enhance ecommerce engagement with Use Case Playbooks, self-serve templates to deploy ecommerce use cases in a few clicks
-description: Learn how Use Case Playbooks in Adobe Real-Time CDP and Adobe Journey Optimizer can easily be deployed and unlock potential improve ecommerce customer enagement.
+description: Learn how Use Case Playbooks in Adobe Real-Time CDP and Adobe Journey Optimizer can easily be deployed and unlock potential improve ecommerce customer engagement.
 jira: KT-14791
-thumbnail: https://video.tv.adobe.com/v/3426930?format=jpeg
+solution: Experience Platform, Real-Time Customer Data Platform
+feature: Playbooks
 event-cta-url-live: https://www.youtube.com/watch?v=EZGQ--J2M9I
 event-start-time: 2024-02-08 09:00-7
 event-guests: Daniel Wright,Josée Monette-Healey,Rohit Basuri

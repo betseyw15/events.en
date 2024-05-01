@@ -2,7 +2,6 @@
 title: Introducing all new Reference Demos in AEM
 description: Learn the fastest way to provision, demo, and explore features of AEM as a Cloud Service with the Reference Demos add-on.
 solution: Experience Manager
-thumbnail: https://video.tv.adobe.com/v/340236?format=jpeg
 event-cta-url: https://youtu.be/FEREXV826NQ
 event-start-time: 2022-02-03 09:00-8
 event-guests: Hyman Chung, Ruben Reusser

@@ -2,8 +2,8 @@
 title: Ask the experts - Real-Time CDP Connections
 description: In this second of three livestream sessions regarding data collection for the Adobe Experience Cloud, our favorite experts will provide an extensive look at Adobe's RTCDP Connections product, where customers can forward events to non-Adobe destinations using a server-side tag management system.
 solution: Data Collection,Experience Platform
+feature: Event Forwarding
 kt: 10490
-thumbnail: https://video.tv.adobe.com/v/344251?format=jpeg
 event-cta-text: Watch the replay
 event-start-time: 2022-06-23 09:00-7
 event-guests: Rudi Shumpert, Jeff Chasin, Eric Matisoff

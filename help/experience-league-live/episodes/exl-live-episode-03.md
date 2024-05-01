@@ -5,7 +5,6 @@ solution: Campaign
 feature: Deliverability
 role: User
 kt: 8581
-thumbnail: https://video.tv.adobe.com/v/337219?format=jpeg
 event-start-time: 2021-09-22 09:00-7
 event-guests: Sandra Hausmann,Bruce Swann,Alyssa Nahatis,Stephen Ford
 exl-id: f31c00e6-0981-4224-b4c5-1bab123e9587
