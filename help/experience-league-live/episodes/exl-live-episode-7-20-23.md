@@ -18,3 +18,4 @@ The new Audience Portal and Composition features have taken segmentation and aud
 >[!VIDEO](https://video.tv.adobe.com/v/3421425/?quality=12&learn=on)
 
 Have questions about this show? Continue the discussion on this topic on the Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-actionable/m-p/607073#M366).
+

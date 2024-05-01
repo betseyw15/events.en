@@ -31,3 +31,4 @@ In this first of three livestream sessions regarding data collection for the Ado
 * [Adobe Experience Platform Debugger overview and download](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
 * [Mobile SDK Docs](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
 * [Hybrid app collection information](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}
+

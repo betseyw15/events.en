@@ -16,3 +16,4 @@ Join host Doug Moore and guests Nick Cammuso and Jackie Chevallier as they look 
 >[!VIDEO](https://video.tv.adobe.com/v/342611/?quality=12&learn=on)
 
 To continue the conversation about this session, please visit the [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/experience-league-live-post-session-discussion-how-do-i-handle/m-p/450340#M419), where we will also answer questions that we didn't have time to answer live in the session.
+

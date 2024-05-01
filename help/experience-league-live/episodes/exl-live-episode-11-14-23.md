@@ -21,3 +21,4 @@ Behavioral data is a key ingredient to delivering personalized customer experien
 In this Experience League Live Session, product experts will show you how "computed attributes" in Real-Time CDP and Journey Optimizer can help you use a simple UI to create behavioral aggregates as profile attributes that can be used for enhanced segmentation and personalization.
 
 **Continue the discussion regarding this topic on the show's [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722#M5){target="_blank"}**.
+

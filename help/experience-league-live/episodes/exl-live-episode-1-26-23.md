@@ -22,3 +22,4 @@ Data collection is all-important at Adobe! You need to be able to trust the data
 Watch the video above to view this live stream event, where Adobe data collection experts gave a recap on important recent updates, as well as a glimpse into upcoming roadmap items.
 
 Have questions about it? Continue the discussion on this topic on the Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316).
+

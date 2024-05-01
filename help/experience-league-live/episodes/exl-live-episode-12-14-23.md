@@ -43,3 +43,4 @@ Coming out of this session you should expect to:
 * Learn why these capabilities are impactful, providing efficiency and value to you as a practitioner 
 * Be able to start leveraging these new features today 
 * Start improving your customer personalization efforts today!
+
