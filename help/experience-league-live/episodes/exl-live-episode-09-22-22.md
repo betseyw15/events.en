@@ -4,7 +4,6 @@ description: Adobe Target and Adobe Real-time Customer Data Platform can be inte
 solution: Journey Optimizer
 feature: Campaigns
 kt: 11028
-feature: Campaigns
 role: User
 event-start-time: 2022-09-22 08:30-7
 event-guests: Sandra Hausmann,Frederic Mary,Bridgette Darling
