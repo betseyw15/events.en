@@ -15,6 +15,7 @@ doc-type: live event
 
 + [Overview](overview.md)
 + 2024 {#2024}
+  + [New Discover Dashboards](2024/new-discover-dashboard.md)
   + [Attribution Dashboards Recording](2024/attribution-dashboard-recording.md)
 + 2023 {#2023}
   + [Attribution](2023/attribution.md)

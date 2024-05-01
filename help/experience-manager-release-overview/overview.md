@@ -20,9 +20,8 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
       <div>
         <a href="2024/2024-3-0.md">
           <strong>Release | 2024.3.0</strong>
-          <br/>
         </a>
-          <em>Release date April 2024 </em>
+          <p><em>Release date April 2024 </em></p>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
