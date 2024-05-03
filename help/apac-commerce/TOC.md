@@ -9,6 +9,8 @@ user-guide-description: Adobe Commerce Events is a video library where experts a
 + [Overview](overview.md)
 + 2024 {#2024}
   + [Innovation Spotlight Webinar](2024/innovation-spotlight.md)
+  + [How Visionary Thinking is Transforming Commerce](2024/visionary-thinking.md)
+  + [7 ways to grow an eCommerce business organically](2024/grow-ecommerce-business.md)
 + 2023 {#2023}
    + [AI-Powered Personalisation](2023/ai-personalisation.md)
    + [Adobe's PaaS Cloud Commerce](2023/adobes-paas-cloud-commerce.md)  
