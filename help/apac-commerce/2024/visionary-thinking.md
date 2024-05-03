@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3419
 last-substantial-update: 2024-05-03
 jira: KT-15448
+exl-id: a495d5f0-a567-4a17-913a-15d01441ab27
 ---
-
 # The Creative Edge: How Visionary Thinking is Transforming Commerce
 
 The Creative Edge: How Visionary Thinking is Transforming Ecommerce delves into the forefront of innovation where Gen AI is revolutionising the creative landscape, offering unprecedented insights and possibilities. Attendees will learn how AI is streamlining the management of brand and style guidelines, ensuring consistency across various platforms and channels.
