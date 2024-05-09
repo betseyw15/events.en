@@ -11,8 +11,8 @@ doc-type: Event
 duration: 3933
 last-substantial-update: 2024-05-09
 jira: KT-15435
+exl-id: a6bb36bb-6bea-4ee0-b5e3-021d02d3de20
 ---
-
 # Expedia and Leading Brands Evolve their Organization from Adobe Analytics to Customer Journey Analytics
 
 Join us for an exciting webinar as we explore the next evolution of analytics, featuring Jake Winter, principal lead at Adswerve, Erika Ulmer, Senior Manager, Data Product Management at Expedia, Ben Gaines, Director of Product Management at Adobe and Trevor Paulsen, Director of Product Management at Adobe who will share their first-hand experience of up leveling their organizations with Adobe Customer Journey Analytics.
