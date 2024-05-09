@@ -4,7 +4,7 @@ description: explore the next evolution of analytics, featuring Jake Winter, pri
 solution: Analytics, Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Adobe Analytics Integration
-topic: migration
+topic: Migration
 role: Architect, Developer
 level: Intermediate
 doc-type: Event
