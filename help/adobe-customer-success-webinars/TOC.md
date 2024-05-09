@@ -10,6 +10,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
 + 2024 {#2024}
   + [Data Stream Prioritization](2024/data-stream-prioritization.md)
   + [Empowering Lean Teams](2024/empowering-lean-teams.md)
+  + [Expedia moves from Adobe Analytics to Customer Journey Analytics](2024/expedia-aa-to-cja.md)
   + [Strategic Leadership](2024/strategic-leadership.md)
 + 2023 {#2023}
   + [Building the Foundation for Personalization at Scale](2023/personalization-at-scale.md)
