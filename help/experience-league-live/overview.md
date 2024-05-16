@@ -20,16 +20,9 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 <table>
 <tr>
   
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-05-16-24.md">
-      <img alt="Experience League LIVE May 16, 2024" src="episodes/assets/WebBanner-May16-2024.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-05-16-24.md">
-        <strong>This is the way...to migrate Analytics to Web SDK</strong>
-      </a>
-      <br/><em>with Doug Moore, Mitch Rice, and Joe Khoury</em>
-      <br/><em>May 16, 2024</em>
-    </div>
+  <td style="vertical-align: top;"><b>Come back to this page soon to learn more about our June 2024 shows:</b><br/>
+    * H1 2024 Releases for Adobe Real-Time Customer Data Platform<br/>
+    * Adobe Workfront Unified Review & Approvals
   </td>
 </tr>
 </table>
