@@ -1,6 +1,6 @@
-﻿---
+---
 title: Accelerator Day
-description: View on-demand videos from the Adobe Commerce Accelerator Day. These videos include a full day of innovation sessions around Adobe Commerce in partnership with the Commonwealth Bank of Australia.
+description: View on-demand videos from the Adobe Commerce Accelerator Day with the Commonwealth Bank of Australia.
 solution: Commerce
 topic: Commerce
 last-update: May 2024
