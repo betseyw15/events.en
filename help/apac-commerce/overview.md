@@ -13,11 +13,11 @@ The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Com
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/accelerator-day.html">
-      <img alt="Accelerator Day" src="https://video.tv.adobe.com/v/xxx?format=jpeg" />
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html">
+      <img alt="Accelerator Day" src="https://video.tv.adobe.com/v/3429276?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/accelerator-day.html">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html">
         <strong>Adobe Commerce Accelerator Day</strong>
       </a>
     </div>
