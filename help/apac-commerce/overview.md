@@ -13,6 +13,19 @@ The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Com
 <table>
 <tr>
   <td>
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html">
+      <img alt="Accelerator Day" src="https://video.tv.adobe.com/v/3429276?format=jpeg" />
+    </a>
+     <div>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html">
+        <strong>Adobe Commerce Accelerator Day</strong>
+      </a>
+    </div>
+    <p>
+    <em>Adobe and Commonwealth Bank of Australia (CBA) showcase innovations in commerce, cloud, and payment solutions.</em>
+    <p>
+  </td>
+  <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
       <img alt="Adobe Commerce Innovation Spotlight Webinar" src="https://video.tv.adobe.com/v/3427965?format=jpeg" />
     </a>
@@ -36,19 +49,6 @@ The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Com
     </div>
     <p>
     <em>Explore the integration of creativity and commerce.</em>
-    <p>
-  </td>
-  <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/grow-ecommerce-business.html">
-      <img alt="Benefits of upgrading to Adobe Commerce 2.4.4" src="https://video.tv.adobe.com/v/3428817?format=jpeg" />
-    </a>
-     <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/grow-ecommerce-business.html">
-        <strong>7 ways to grow an eCommerce business organically</strong>
-      </a>
-    </div>
-    <p>
-    <em>Gain valuable insights and practical tips for growing an e-commerce business organically through SEO strategies</em>
     <p>
   </td>
 </tr>

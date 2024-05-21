@@ -8,6 +8,18 @@ user-guide-description: Adobe Commerce Events is a video library where experts a
 
 + [Overview](overview.md)
 + 2024 {#2024}
+  + [Accelerator Day](2024/accelerator-day/overview.md)
+  + Accelerator Day{#accelerator-day}
+    + [Hidden: Navigating tomorrow](./2024/accelerator-day/navigating-tomorrow.md)
+    + [Hidden: Panel Beyond Borders](./2024/accelerator-day/panel-beyond-borders.md)
+    + [Hidden: Experience Evolution](./2024/accelerator-day/experience-evolution.md)
+    + [Hidden: Panel Tapping into Tomorrow](./2024/accelerator-day/panel-tapping-into-tomorrow.md)
+    + [Hidden: Next-gen Commerce](./2024/accelerator-day/next-gen-commerce.md)
+    + [Hidden: Beneath the Surface](./2024/accelerator-day/beneath-the-surface.md)
+    + [Hidden: Lightning Speed](./2024/accelerator-day/lightning-speed.md)
+    + [Hidden: Composability](./2024/accelerator-day/composability.md)
+    + [Hidden: Cross-Channel Symphony](./2024/accelerator-day/cross-channel-symphony.md)
+    + [Hidden: The Art of Commerce](./2024/accelerator-day/the-art-of-commerce.md)
   + [Innovation Spotlight Webinar](2024/innovation-spotlight.md)
   + [How Visionary Thinking is Transforming Commerce](2024/visionary-thinking.md)
   + [7 ways to grow an eCommerce business organically](2024/grow-ecommerce-business.md)
