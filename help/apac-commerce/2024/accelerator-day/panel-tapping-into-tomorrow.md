@@ -10,7 +10,7 @@ duration: 1918
 last-substantial-update: 2024-05-21
 jira: KT-15541
 hidefromtoc: true
-badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html" 
+badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview" 
 ---
 
 # Tapping into tomorrow: Payment trends down under (Panel discussion)
@@ -24,3 +24,5 @@ Presented by:
 + James Roberts, General Manager Fraud and Scams Strategy and Governance - CBA
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429268/?learn=on)
+
+[< Back to Adobe Commerce Accelerator Day](./overview.md)

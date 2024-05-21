@@ -10,7 +10,7 @@ duration: 869
 last-substantial-update: 2024-05-21
 jira: KT-15540
 hidefromtoc: true
-badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html" 
+badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview" 
 ---
 
 # Experience evolution: Commerce, data and you
@@ -20,3 +20,5 @@ An overview and demonstration of personalisation for Commerce utilising real-tim
 + Presented by Mike Lynch, Enterprise Commerce Specialist - Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429266/?learn=on)
+
+[< Back to Adobe Commerce Accelerator Day](./overview.md)

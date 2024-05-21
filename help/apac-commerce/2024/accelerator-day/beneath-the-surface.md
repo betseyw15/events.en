@@ -10,7 +10,7 @@ duration: 1590
 last-substantial-update: 2024-05-21
 jira: KT-15543
 hidefromtoc: true
-badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html" 
+badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview" 
 ---
 
 # Beneath the surface: Exploring payment architecture
@@ -23,3 +23,5 @@ Presenters:
 + Luke Jericho, Crew Lead, Head of eCommerce - CBA
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429270/?learn=on)
+
+[< Back to Adobe Commerce Accelerator Day](./overview.md)

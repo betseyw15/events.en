@@ -10,7 +10,7 @@ duration: 1582
 last-substantial-update: 2024-05-21
 jira: KT-15546
 hidefromtoc: true
-badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html" 
+badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview" 
 ---
 
 # Cross-channel symphony: Orchestrating commerce excellence
@@ -23,3 +23,5 @@ Speakers:
 + Graham Bell, Head of ANZ Sales - DotDigital
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429273/?learn=on)
+
+[< Back to Adobe Commerce Accelerator Day](./overview.md)

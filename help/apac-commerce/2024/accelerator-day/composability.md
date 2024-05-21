@@ -10,7 +10,7 @@ duration: 1432
 last-substantial-update: 2024-05-21
 jira: KT-15545
 hidefromtoc: true
-badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html" 
+badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview" 
 ---
 
 # Composability: App Builder, API Mesh and Headless
@@ -20,3 +20,5 @@ Overview of the latest developments on the Adobe Commerce and App Builder platfo
 + Presented by Jason Ford, Head of ANZ Solution Engineering - Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429272/?learn=on)
+
+[< Back to Adobe Commerce Accelerator Day](./overview.md)

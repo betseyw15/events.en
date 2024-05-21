@@ -9,7 +9,7 @@ duration: 1619
 last-substantial-update: 2024-05-21
 jira: KT-15544
 hidefromtoc: true
-badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html" 
+badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview" 
 ---
 
 # Lightning speed: Adobe's Edge Delivery Services
@@ -19,3 +19,5 @@ The latest details and demonstration on Adobe's lightning fast Edge Delivery Ser
 + Presented by Kam Radhakrishnan, Senior Solution  Engineer - Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429271/?learn=on)
+
+[< Back to Adobe Commerce Accelerator Day](./overview.md)

@@ -9,7 +9,7 @@ duration: 1608
 last-substantial-update: 2024-05-21
 jira: KT-15547
 hidefromtoc: true
-badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html" 
+badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview" 
 ---
 
 # The art of commerce
@@ -19,3 +19,5 @@ Showcase of live customer examples on Adobe Commerce, demonstrating the cutting 
 + Presented by Carl Screwvala, Senior Solutions Engineer - Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429274/?learn=on)
+
+[< Back to Adobe Commerce Accelerator Day](./overview.md)
