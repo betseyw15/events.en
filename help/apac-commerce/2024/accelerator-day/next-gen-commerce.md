@@ -1,5 +1,5 @@
 ---
-title: Next-Gen Commerce - The rise of Gen AI applications
+title: Next-gen commerce - The rise of Gen AI applications
 description: Overview and demonstrations of AI in Commerce, Adobe's latest generative AI through Adobe Express and how it can be leveraged for commerce and content teams in the real world.
 topic: Commerce
 role: Admin, Developer, Leader, User
