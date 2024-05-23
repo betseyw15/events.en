@@ -9,9 +9,9 @@ duration: 1033
 last-substantial-update: 2024-05-21
 jira: KT-15537
 hidefromtoc: true
-badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview" 
+badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview"
+exl-id: a092d1aa-4f76-4f14-83ce-936b3063440e
 ---
-
 # Navigating tomorrow: Commerce roadmap, insights and innovations
 
 A recap of Adobe Commerce sessions at Summit 2024, some of the new innovations Coming to the Adobe Commerce platform on the near term roadmap. 

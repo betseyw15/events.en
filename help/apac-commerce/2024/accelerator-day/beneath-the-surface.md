@@ -10,9 +10,9 @@ duration: 1590
 last-substantial-update: 2024-05-21
 jira: KT-15543
 hidefromtoc: true
-badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview" 
+badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview"
+exl-id: 9b148be1-f74c-44ff-9f96-9834d5d4b5ce
 ---
-
 # Beneath the surface: Exploring payment architecture
 
 Overview session on the latest for the Commonwealth Bank's Powerboard payment orchestration platform and its use cases for online business.

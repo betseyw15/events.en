@@ -6,9 +6,9 @@ topic: Commerce
 last-update: May 2024
 jira: KT-15549
 mini-toc-levels: 2
-badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview" 
+badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview"
+exl-id: b5e122a1-4ea9-4a4f-b99a-63a5a2266d33
 ---
-
 # Adobe Commerce Accelerator Day
 
 On May 7, 2024, in partnership with the Commonwealth Bank of Australia (CBA), Adobe hosted customers and partners at the CBA auditorium in Sydney. This event was a full day of innovation sessions around Adobe Commerce, the Adobe Experience Cloud, and Commonwealth's Banks latest payment developments for the PowerBoard payments orchestration platform.
@@ -35,4 +35,3 @@ You can find videos of the sessions below to watch on demand.
 |**Composability: App Builder, API Mesh & Headless**|Overview of the latest developments on the Adobe Commerce and App Builder platform for extensibility of digital experience through headless, composable innovation|<ul><li>Jason Ford - Head of ANZ Solution Engineering, Adobe</li></ul>|[Watch the video](./composability.md)|
 |**Cross-Channel Symphony: Orchestrating Commerce Excellence**|A fireside chat hosted by Matt Palmer from Adobe on how DotDigital is driving innovation, personalization and one-to-one messaging in partnership with Adobe Commerce|<ul><li> Matt Palmer - Senior Partner Sales Manager, Adobe</li><li>Graham Bell - Head of ANZ Sales, DotDigital</li></ul>|[Watch the video](./cross-channel-symphony.md)|
 |**The Art of Commerce**|Showcase of live customer examples on Adobe Commerce, demonstrating the cutting edge of what is possible, with Solution Partner innovations at the forefront|<ul><li>Carl Screwvala - Senior Solutions Engineer, Adobe</li></ul>|[Watch the video](./the-art-of-commerce.md)|
-

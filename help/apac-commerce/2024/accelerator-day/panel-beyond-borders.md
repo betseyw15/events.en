@@ -9,9 +9,9 @@ duration: 2234
 last-substantial-update: 2024-05-21
 jira: KT-15539
 hidefromtoc: true
-badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview" 
+badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview"
+exl-id: 44174e44-f84e-4a94-ab4b-2c31f2684612
 ---
-
 # Beyond borders:  Projections for future commerce (Panel discussion)
 
 Panel discussion hosted by Allyce Truscott from Adobe on the challenges and solutions for running an online business in the current economic climate.
