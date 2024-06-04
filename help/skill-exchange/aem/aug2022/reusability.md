@@ -11,6 +11,6 @@ duration: 2437
 ---
 # The Power of Reusability 
 
-We will discuss how to utilize experience fragments to drive reuse and efficiency across your ecosystem.  This will impact ROI and drive velocity.  Attendees will gain an understanding of how to position and utilize experience fragments. Attendees. will learn how apply this feature to enhance speed in powering the digital experience for your customers.
+Let's discuss how to utilize experience fragments to drive reuse and efficiency across your ecosystem to impact ROI and drive velocity. In this session, you will learn how apply this feature to enhance speed in powering the digital experience for your customers, and ultimately achieve scale for your business.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346387/?quality=12&learn=on)
