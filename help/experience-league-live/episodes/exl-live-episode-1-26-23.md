@@ -2,8 +2,8 @@
 title: Data collection highlights and roadmap
 description: Data collection is all-important at Adobe! You need to be able to trust the data you work with. We've had an eventful last year with releases and have great things coming up.
 solution: Data Collection,Experience Platform,Analytics,Real-Time Customer Data Platform,Customer Journey Analytics
+feature: Data Collection
 kt: 11645
-thumbnail: https://video.tv.adobe.com/v/3412963?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=Gj_FDCMgU8I
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230126.html
 event-start-time: 2023-01-26 09:00-8
@@ -22,3 +22,4 @@ Data collection is all-important at Adobe! You need to be able to trust the data
 Watch the video above to view this live stream event, where Adobe data collection experts gave a recap on important recent updates, as well as a glimpse into upcoming roadmap items.
 
 Have questions about it? Continue the discussion on this topic on the Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316).
+

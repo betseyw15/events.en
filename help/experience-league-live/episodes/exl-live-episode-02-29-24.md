@@ -2,7 +2,8 @@
 title: Leaping ahead with the new Adobe Campaign Web User Interface
 description: Learn to be more efficient when it comes to planning, launching and measuring cross-channel marketing strategies including email marketing and social media marketing using the new Adobe Campaign Web User Interface.
 jira: KT-14433
-thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
+solution: Campaign v8 Web User Interface
+feature: Configuration
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
@@ -44,3 +45,4 @@ The new Campaign web user interface is important because it provides a unified a
 
 * **[Adobe Campaign Web User Interface - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
   *How to videos and tutorials on the features and capabilities of the Adobe Campaign Web User Interface.*
+

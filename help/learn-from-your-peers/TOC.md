@@ -39,15 +39,18 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
   + May {#may2023} 
     + [Mastering Content & Experience Fragments](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
-  + January {#jan2024}
+  + April 2024 {#april2024}
+    + [Practical Applications of Marketo Engage REST API](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
+  + January 2024 {#jan2024}
     + [Person Scoring Mastery with Marketo Engage](marketo/jan2024/person-scoring-mastery.md)
-  + November {#nov2023}
+  + November 2023 {#nov2023}
     + [Marketo Engage and Dynamic Chat](marketo/nov2023/dynamic-chat.md)
-  + September {#sept2023}
+  + September 2023 {#sept2023}
     + [Boost Email Deliverability with Marketo Engage](marketo/sept2023/email-deliverability.md)
-  + June {#june2023}
+  + June 2023 {#june2023}
     + [Track, Analyze, and Optimize your Marketing Campaigns](marketo/june2023/marketing-campaigns.md)
-  + May {#may2023}
+  + May 2023 {#may2023}
     + [Cracking the Personalization at Scale Code using [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
-  + March {#mar2023}
+  + March 2023 {#mar2023}
     + [How to Make Your [!DNL Adobe Marketo Engage] Content Scalable](marketo/mar2023/templates-tokens-teamwork.md)
++ [Learn how to submit a standout Adobe Champion Application](./adobe-champion-application.md)

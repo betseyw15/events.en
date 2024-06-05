@@ -13,6 +13,19 @@ The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Com
 <table>
 <tr>
   <td>
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html">
+      <img alt="Accelerator Day" src="https://video.tv.adobe.com/v/3429276?format=jpeg" />
+    </a>
+     <div>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html">
+        <strong>Adobe Commerce Accelerator Day</strong>
+      </a>
+    </div>
+    <p>
+    <em>Adobe and Commonwealth Bank of Australia (CBA) showcase innovations in commerce, cloud, and payment solutions.</em>
+    <p>
+  </td>
+  <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
       <img alt="Adobe Commerce Innovation Spotlight Webinar" src="https://video.tv.adobe.com/v/3427965?format=jpeg" />
     </a>
@@ -26,29 +39,16 @@ The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Com
     <p>
   </td> 
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
-      <img alt="Adobe Commerce Site Wide Analysis Tool" src="https://video.tv.adobe.com/v/3419132?format=jpeg" />
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/visionary-thinking.html">
+      <img alt="Adobe Commerce Site Wide Analysis Tool" src="https://video.tv.adobe.com/v/3428818?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
-        <strong>Streamline Your Business with Adobe's PaaS Cloud Commerce</strong>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/visionary-thinking.html">
+        <strong>The Creative Edge - How Visionary Thinking is Transforming Commerce</strong>
       </a>
     </div>
     <p>
-    <em>Join our webinar to discover the benefits of Adobe's Commerce Cloud PaaS solution, whether you're self-hosting and curious about PaaS or an existing customer seeking to optimize your setup.</em>
-    <p>
-  </td>
-  <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/ai-personalisation.html">
-      <img alt="Benefits of upgrading to Adobe Commerce 2.4.4" src="https://video.tv.adobe.com/v/3419107?format=jpeg" />
-    </a>
-     <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/ai-personalisation.html">
-        <strong>AI Powered Personalisation</strong>
-      </a>
-    </div>
-    <p>
-    <em>Harness the power of AI for an exceptional customer experience with Adobe's investment in AI and its integration into Commerce.</em>
+    <em>Explore the integration of creativity and commerce.</em>
     <p>
   </td>
 </tr>

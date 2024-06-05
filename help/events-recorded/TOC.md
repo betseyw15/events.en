@@ -8,6 +8,7 @@ user-guide-description: A collection of event recordings forcused on using Adobe
 
 + [Overview](overview.md)
 + By series {#series}
+  + [Acrobat Sign Webinars](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html)
   + [Adobe Campaign Insider Series](https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html)
   + [Adobe Content Management Forum](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
   + [Adobe Commerce Product Updates](https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html)
@@ -29,6 +30,8 @@ user-guide-description: A collection of event recordings forcused on using Adobe
   + [Skill Exchange](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
   + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
 + By solution {#solution}
+  + Acrobat Sign {#as}
+    + [Acrobat Sign Webinars](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html)
   + Adobe Acrobat Services {#aas}
     + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
   + Adobe Audience Manager {#aam}

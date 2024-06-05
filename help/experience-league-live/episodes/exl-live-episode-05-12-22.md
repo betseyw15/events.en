@@ -3,7 +3,6 @@ title: Push notifications with Adobe Journey Optimizer
 description: Push notifications help you reach your mobile app users at any time - especially when they are not actively using your app. Journey Optimizer supports push not… (Descriptions should be between 60 and 160 characters)
 solution: Journey Optimizer
 kt: 10407
-thumbnail: https://video.tv.adobe.com/v/342810?format=jpeg
 feature: Push
 role: Developer
 event-start-time: 2022-05-12 09:30-7
@@ -22,3 +21,4 @@ Push notifications help you reach your mobile app users at any time - especially
 [Download the Android AEPSampleAPP](https://github.com/adobe/aepsdk-sample-app-android)
 
 To continue the conversation about this session, please visit the [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869).
+

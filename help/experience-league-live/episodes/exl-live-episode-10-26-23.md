@@ -2,7 +2,8 @@
 title: Workfront Release Deep Dive - New Workfront Home
 description: Hear from Workfront customers about how New Home is working for them and their users.
 kt: KT-14069
-thumbnail: https://video.tv.adobe.com/v/3424606?format=jpeg
+solution: Workfront
+feature: Work Management
 event-cta-url-live: https://www.youtube.com/watch?v=dvCuSQfMTZg
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231026.html
 event-start-time: 2023-10-26 09:00-7
@@ -21,3 +22,4 @@ The entirely revamped Workfront Home page has become a powerhouse of productivit
 In this Experience League Live Session, product expert Ben Robbins will walk you through the new Home experience, including new admin layout controls and exciting enhancements coming in 2024. And Workfront customer Jamie Smith will share insights on how the new Home experience is boosting productivity at AT&T.
 
 **To continue the discussion, please visit the [Experience League Community Post!](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**
+

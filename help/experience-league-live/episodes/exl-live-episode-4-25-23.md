@@ -2,8 +2,8 @@
 title: Get data collection and event forwarding up and running with just a few clicks!
 description: With a few clicks, Adobe's data collection quick start workflows will set up multiple things on the backend to save you time and make sure your setup is correct.
 solution: Data Collection,Experience Platform,Analytics,Real-Time Customer Data Platform,Customer Journey Analytics
+feature: Data Collection
 kt: 13041
-thumbnail: https://video.tv.adobe.com/v/3417927?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=jGjIKIWFNsM
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230425.html
 event-start-time: 2023-04-25 09:00-8
@@ -22,3 +22,4 @@ If you are new to Adobe's modern data collection tools and nervous to jump into 
 Start the video above to view a replay of this live stream event.
 
 Have questions about it? Continue the discussion on this topic on the Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476).
+

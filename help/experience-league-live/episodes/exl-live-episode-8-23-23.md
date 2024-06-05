@@ -2,7 +2,8 @@
 title: API Triggered Messaging in Adobe Journey Optimizer
 description: Learn how to use REST APIs for contextual, personalized and real time transactional and marketing communications.
 kt: KT-13734
-thumbnail: https://video.tv.adobe.com/v/3422169?format=jpeg
+solution: Journey Optimizer
+feature: API
 event-cta-url-live: https://www.youtube.com/watch?v=eC51g4bf81s
 event-start-time: 2023-08-23 08:00-7
 event-guests: Siddharth Jain,Nikhil Sharma,Chetan Prasad
@@ -24,3 +25,4 @@ In this Experience League Live Session, Adobe product experts will explain how y
 **Click on the image above to watch the show!**
 
 Continue the discussion on the [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
+

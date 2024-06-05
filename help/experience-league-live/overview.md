@@ -19,31 +19,13 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-18-24.md">
-      <img alt="Experience League LIVE Apr 21" src="episodes/assets/WebBanner-April18-2024.jpg">
-    </a>
-    <div>
-      <a href="/help/experience-league-live/episodes/exl-live-episode-04-18-24.md">
-        <strong>Marketo Measure's New Discover Dashboards</strong>
-      </a>
-      <br/><em>with Ian Michels, Kate Colbert, and James Leedom</em>
-      <br/><em>April 18, 2024</em>
-    </div>
-  </td>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-24-24.md">
-      <img alt="Experience League LIVE Apr 21" src="episodes/assets/WebBanner-Apr24-2024.jpg">
-    </a>
-    <div>
-      <a href="/help/experience-league-live/episodes/exl-live-episode-04-18-24.md">
-        <strong>New Code-Based Experience Channel in Journey Optimizer</strong>
-      </a>
-      <br/><em>with Sandra Hausmann, Robert Calangiu, and Brent Kostak</em>
-      <br/><em>April 24, 2024</em>
-    </div>
+  
+  <td style="vertical-align: top;"><b>Come back to this page soon to learn more about our June 2024 shows:</b><br/>
+    * H1 2024 Releases for Adobe Real-Time Customer Data Platform<br/>
+    * Adobe Workfront Unified Review & Approvals
   </td>
 </tr>
 </table>
-
 
 </div>
 

@@ -1,9 +1,9 @@
 ---
 title: Ask the experts - Useful extensions in Tags (Launch) to help super charge the Web SDK
 description: Are you thinking about migrating your implementation to the new Adobe Web SDK?  We will run through some of our favorite extensions in the Adobe Tags library that will help as you take your data collection to the next level.
-solution: Data Collection,Experience Platform
+solution: Data Collection, Experience Platform
+feature: Tags
 kt: 10528
-thumbnail: https://video.tv.adobe.com/v/346610?format=jpeg
 event-start-time: 2022-08-23 09:00-7
 event-guests: Rudi Shumpert,Jeff Chasin,Eric Matisoff
 exl-id: 5ef987f4-37f5-473f-b9f2-1598b7e655ba
@@ -98,3 +98,4 @@ Continue the discussion on this topic in the [Experience League Community discus
 * [Ask the experts - The basics of Web SDK](exl-live-episode-05-26-22.md)
 * [Ask the experts - RTCDP Connections](exl-live-episode-06-23-22.md)
 * [Ask the experts - Datastreams and data prep](exl-live-episode-07-21-22.md)
+
