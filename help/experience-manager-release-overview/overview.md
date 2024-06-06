@@ -22,7 +22,7 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
           <strong>Release | 2024.5.0</strong>
         </a>
       </div>
-      <p><em>Release date May 2024 </em></p>
+      <em>Release date May 2024 </em>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
       </p>
@@ -43,10 +43,7 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
           <strong>Release | 2024.4.0</strong>
         </a>
       </div>
-      <p><em>Release date April 2024 </em></p>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
-      </p>
+      <em>Release date April 2024 </em>
     </td>
     <td>
       <a href="2024/2024-3-0.md">
@@ -57,10 +54,7 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
           <strong>Release | 2024.3.0</strong>
         </a>
       </div>
-      <p><em>Release date April 2024 </em></p>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
-      </p>
+      <em>Release date April 2024 </em>
     </td>
     <td>
       <a href="2024/2024-1-0.md">
@@ -73,9 +67,6 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
         </a>
           <em>Release date January 2024 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
-      <p>
     </td>
   </tr>
   <tr>
@@ -90,9 +81,6 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
         </a>
           <em>Release date November 2023 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
-      <p>
     </td>
     <td>
       <a href="2023/2023-10-0.md">
@@ -105,9 +93,6 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
         </a>
           <em>Release date October 2023 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
-      <p>
     </td>
     <td>
       <a href="2023/2023-9-0.md">
@@ -120,9 +105,6 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
         </a>
           <em>Release date September 2023 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
-      <p>
     </td>
   </tr>
   <tr>    
@@ -137,9 +119,6 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
         </a>
           <em>Release date August 2023 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
-      <p>
     </td>
     <td>
       <a href="2023/2023-7-0.md">
@@ -152,9 +131,6 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
         </a>
           <em>Release date July 2023 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
-      <p>
     </td>
     <td>
       <a href="2023/2023-6-0.md">
@@ -167,9 +143,6 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
         </a>
           <em>Release date June 2023 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
-      <p>
     </td>
   </tr>
 </table>
