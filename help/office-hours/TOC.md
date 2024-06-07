@@ -7,6 +7,9 @@ user-guide-description: Office Hours is a proactive approach to case deflection 
 # Adobe Office Hours {#office-hours}
 
 + [Adobe Office Hours](overview.md)
++ 2024 {#2024}
+  + Adobe Marketo {#adobe-marketo-office-hours-2024}
+    + [Champion Office Hours - May](2024/champion-office-hours.md)
 + 2023 {#2023}
   + Adobe Analytics {#adobe-analytics}
     + [Launch Best Practices](2023/launch-best-practices.md)

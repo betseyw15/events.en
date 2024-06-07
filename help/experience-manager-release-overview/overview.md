@@ -41,6 +41,7 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
       <div>
         <a href="2024/2024-4-0.md">
           <strong>Release | 2024.4.0</strong>
+          </br>
         </a>
       </div>
       <em>Release date April 2024 </em>
@@ -52,6 +53,7 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
       <div>
         <a href="2024/2024-3-0.md">
           <strong>Release | 2024.3.0</strong>
+          </br>
         </a>
       </div>
       <em>Release date April 2024 </em>
