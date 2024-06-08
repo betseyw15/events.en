@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2148
 last-substantial-update: 2024-06-07
 jira: KT-15558
+exl-id: 1ab0e81c-50eb-4416-baa1-e80572ffe783
 ---
-
 # Maximizing Efficiency with Adobe Workfront: Lean Teams Webinar
 
 Insightful strategies and practical approaches for organizations aiming to streamline their operations and enhance productivity through lean methodologies. Hosted by industry experts, the webinar dives into the core principles of lean thinking and its application within Adobe Workfront.

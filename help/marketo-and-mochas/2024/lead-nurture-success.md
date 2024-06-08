@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3544
 last-substantial-update: 2024-06-07
 jira: KT-15604
+exl-id: 7afdf1ae-a73a-4b04-92bf-6deacc2925fc
 ---
-
 # Marketo & Mochas: Laying the Foundation for Lead Nurture Success
 
 Join Business Advisors, Cynthia Chang and Carly Gaver, as they share insights on maximizing lead nurturing in Adobe Marketo Engage. 

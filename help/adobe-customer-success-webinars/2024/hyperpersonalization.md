@@ -7,8 +7,8 @@ doc-type: Event
 duration: 2360
 last-substantial-update: 2024-06-07
 jira: KT-15559
+exl-id: e6dc873d-ff2c-453e-95fa-f8b0ecd3b491
 ---
-
 # Personalization Maturity: The Path to Hyperpersonalization
 
 Inform on the new era of hyperpersonalization. We’ll build a foundation on a personalization maturity model, discuss common blockers, and provide tactical tips for getting started.

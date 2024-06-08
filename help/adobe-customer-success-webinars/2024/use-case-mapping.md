@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2421
 last-substantial-update: 2024-06-07
 jira: KT-15560
+exl-id: ebc38b82-52a7-4f8c-8ac7-f6e9f3fd2c55
 ---
-
 # Adobe Real-time CDP - Use Case Mapping to Solution Capabilities
 
 This webinar explores key ways to explore and prioritize use cases, map them to specific Real-time CDP features, and ensure alignment to business outcomes and value.

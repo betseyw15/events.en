@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3340
 last-substantial-update: 2024-06-07
 jira: KT-15557
+exl-id: 6e71cc1e-f1bd-4c78-9fee-90ba0e0bce47
 ---
-
 # Navigating Change: A Senior Leadership Webinar on Effective Change Management
 
 Delve into the nuances of Change Management and provide strategic insights to empower you in steering your organization through transformational journeys.

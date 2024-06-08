@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3280
 last-substantial-update: 2024-06-07
 jira: KT-15561
+exl-id: 862e7cf3-079e-4a43-a4c2-3f7157e8efe9
 ---
-
 # Web SDK Migration Essentials
 
 Understand the differences in App Measurement/AT.js vs. Web SDK, how to migrate, considerations in timing the migration, options for migrating and expected data differences.
@@ -21,4 +21,3 @@ Understand the differences in App Measurement/AT.js vs. Web SDK, how to migrate,
 * Migration Steps and Considerations
 * Timing the Migrations
 * Common Missteps and Pitfalls to Avoid
-
