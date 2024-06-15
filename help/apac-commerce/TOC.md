@@ -20,6 +20,7 @@ user-guide-description: Adobe Commerce Events is a video library where experts a
     + [Hidden: Composability](./2024/accelerator-day/composability.md)
     + [Hidden: Cross-Channel Symphony](./2024/accelerator-day/cross-channel-symphony.md)
     + [Hidden: The Art of Commerce](./2024/accelerator-day/the-art-of-commerce.md)
+  + [Commerce & Composability](2024/commerce-and-composability.md)
   + [Innovation Spotlight Webinar](2024/innovation-spotlight.md)
   + [How Visionary Thinking is Transforming Commerce](2024/visionary-thinking.md)
   + [7 ways to grow an eCommerce business organically](2024/grow-ecommerce-business.md)
