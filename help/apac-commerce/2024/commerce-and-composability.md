@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3594
 last-substantial-update: 2024-06-15
 jira: KT-15741
+exl-id: 2be2bcd3-b595-4362-a7f8-91b1001da874
 ---
-
 # Enabling diverse business models with Commerce & Composability
 
 In May’s instalment of the APAC Commerce Webinar Series, we will welcome Sharon Selvaraj, Solution Architect Adobe Customer Solutions, to share how you can enable diverse business models with Adobe Commerce & composable architecture.
