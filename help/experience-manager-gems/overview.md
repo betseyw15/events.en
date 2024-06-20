@@ -19,8 +19,7 @@ duration: 89
 
 ## Upcoming AEM GEMs event 
 
-May 29, 2024 - **Edge Delivery Services & AEM Assets**
-Registration will be open soon...
+Upcoming webinars will be announced in July 2024.
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -45,9 +44,9 @@ Registration will be open soon...
 
 ## Previous AEM GEMs event
 
-Our latest AEM GEMs webinar on **Getting started with Edge Delivery Services for AEM Forms** has been conducted on *April 17th, 2024*. 
+Our latest AEM GEMs webinar on **Improving the developer experience for AEM Assets with our new APIs and Events** has been conducted on *June 19th, 2024*. 
 The **recording** can be found here: 
-[Getting started with Edge Delivery Services for AEM Forms](gems2024/edge-delivery-for-aem-forms.md)
+[Improving the developer experience for AEM Assets with our new APIs and Events](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
 
 >[!NOTE]
 >

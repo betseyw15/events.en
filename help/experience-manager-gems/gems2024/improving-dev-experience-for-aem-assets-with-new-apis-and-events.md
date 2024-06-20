@@ -12,8 +12,7 @@ duration: 3600
 ---
 # Webinar Date: June 19th, 2024
 
-This webinar will be broadcasted on Wednesday, June 19th - 5pm CEST / 8am PDT / 8.30pm IST.
-Please register via our [event page](https://adobe.ly/3wLRpdI). 
+This webinar has been conducted on Wednesday, June 19th - 5pm CEST / 8am PDT / 8.30pm IST. Please view the recording below.
 
 ## Improving the developer experience for AEM Assets with our new APIs and Events
 
@@ -28,10 +27,12 @@ AEM developers will have the opportunity to explore the newly introduced Assets 
 * Ian Reasor, Senior Computer Scientist, Adobe
 * Ievgen Nedoviesov, Manager, Software Engineering, Adobe
 
-## Webinar Community Interaction
+## Webinar Recording
+
+>[!VIDEO](https://video.tv.adobe.com/v/3430198)
 
 >[!NOTE]
 > 
->* For session specific community interactions on Experience League please visit the respective [Contextual Thread](https://adobe.ly/3UQXwFO).
+>* For session specific community interactions on this webinar on Experience League please visit the respective [Contextual Thread](https://adobe.ly/3UQXwFO).
 >
 >* To receive notifications on our upcoming webinars, please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/).
