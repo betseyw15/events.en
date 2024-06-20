@@ -8,6 +8,7 @@ user-guide-description: Commerce Intelligence Events is a video library where ex
 
 + [Overview](overview.md)
 + 2024 {#2024}
+  + [FAQ in Commerce Intelligence](2024/faq-in-commerce-intelligence.md)
   + [Manage Data Sets in Adobe Commerce Intelligence](2024/manage-data-sets-adobe-commerce.md)
 + 2023 {#2023}
   + [Getting Started with Commerce Intelligence](2023/getting-started.md)

@@ -8,10 +8,15 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
 
 + [Adobe Customer Success Webinars](overview.md)
 + 2024 {#2024}
+  + [Adobe Workfront - Lean Teams](2024/workfront-lean-teams.md)
   + [Data Stream Prioritization](2024/data-stream-prioritization.md)
+  + [Effective Change Management](2024/effective-change-management.md)
   + [Empowering Lean Teams](2024/empowering-lean-teams.md)
   + [Expedia moves from Adobe Analytics to Customer Journey Analytics](2024/expedia-aa-to-cja.md)
+  + [Hyperpersonalization](2024/hyperpersonalization.md)
   + [Strategic Leadership](2024/strategic-leadership.md)
+  + [Use Case Mapping to Solution Capabilities](2024/use-case-mapping.md)
+  + [Web SDK Migration Essentials](2024/web-sdk-migration.md)
 + 2023 {#2023}
   + [Building the Foundation for Personalization at Scale](2023/personalization-at-scale.md)
   + [Change Management](2023/change-management.md)
