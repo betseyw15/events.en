@@ -20,9 +20,16 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 <table>
 <tr>
   
-  <td style="vertical-align: top;"><b>Come back to this page soon to learn more about our June 2024 shows:</b><br/>
-    * H1 2024 Releases for Adobe Real-Time Customer Data Platform<br/>
-    * Adobe Workfront Unified Review & Approvals
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
+      <img alt="Experience League LIVE June 26" src="episodes/assets/WebBanner-June26-2024.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-06-26-24.md">
+        <strong>How the latest Adobe Real-Time CDP releases can move the needle for your business</strong>
+      </a>
+      <br/><em>with Nina Caruso, Rudi Shumpert, and Doug Moore</em>
+      <br/><em>June 26, 2024</em>
+    </div>
   </td>
 </tr>
 </table>
