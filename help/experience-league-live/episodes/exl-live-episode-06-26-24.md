@@ -10,7 +10,8 @@ event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
 duration: 25
 
 ---
-# How the latest Adobe Real-Time CDP releases can move the needle for your business 
+# How the latest Adobe Real-Time CDP releases can move the needle for your business
+
 Learn about the latest features in Adobe Real-Time CDP that have launched in the last several months and see how they can make a difference to your business.
 
 [![ExL LIVE Jan 17 2024](assets/WebBanner-June26-2024.jpg)](https://engage.adobe.com/ExpLeagueLive-240626.html)
