@@ -14,9 +14,9 @@ duration: 25
 
 Learn about the latest features in Adobe Real-Time CDP that have launched in the last several months and see how they can make a difference to your business.
 
-[![ExL LIVE Jan 17 2024](assets/WebBanner-June26-2024.jpg)](https://engage.adobe.com/ExpLeagueLive-240626.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3430515/?quality=12&learn=on)
 
-[REGISTER NOW!](https://engage.adobe.com/ExpLeagueLive-240626.html)
+To continue the discussion, please visit our [discussion on the Experience League Community](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-how-the-latest/m-p/685150#M67){target="_blank"}.
 
 **Details**: Are you a current Real-Time CDP practitioner and looking for insight into what's new in the product, why it matters and how Adobe can help you improve your customer data management strategies? Look no further – you've come to the right spot! In this series, we'll dive deep into what's recently launched in Real-Time CDP so that you can take advantage of what's new right away and make an impact for your organization.  
 In this session, we'll discuss and show five new features that have launched in the last several months:
@@ -31,7 +31,5 @@ Coming out of this session you should expect to:
  
 * Understand how these features work in practice, through a live demo 
 * Learn why these capabilities are impactful, providing efficiency and value to you as a practitioner 
-* Be able to start leveraging these new features today 
-
-As always, this live session lets you ask questions in the chat and get answers from the experts.
+* Be able to start leveraging these new features today
 
