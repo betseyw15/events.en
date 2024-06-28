@@ -18,3 +18,24 @@ With lead nurturing, marketers can communicate consistently across channels, bri
 Carly will also lead a live demonstration, guiding you through setting up an Engagement Program using the Best Practice Template from the Marketo Program Library. As always, we will also be answering your questions live during Q&A!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429436/?learn=on)
+
+## Top 3 Key Takeaways on Lead Nurturing
+
+
+**Importance of Lead Nurturing**
+
+* Lead nurturing is crucial for building effective relationships with potential customers.
+* It involves sharing resources, providing useful information, educating on products and services, and personalizing interactions.
+* Helps increase a prospect's propensity to buy, builds trust, enhances brand and thought leadership, and shortens the sales cycle.
+
+**Strategies for Effective Lead Nurturing**
+
+* Define clear goals, align marketing and sales efforts, identify target audiences, and segment data effectively.
+* Select the right types of nurture campaigns, repurpose existing content, create new content, and use tools like Marketo. 
+* Utilize existing content, segment audiences, personalize content, optimize based on performance metrics, and measure success.
+
+*Optimizing Email Campaigns and Decision-Making*
+
+* Consider using nested programs or events nurture program templates for complex email campaigns. 
+* Align the decision to stop nurturing leads with the goal of the nurture campaign.
+* Encourage engagement through accessing past recordings, upcoming events, downloading resources, filling out surveys, and reaching out to account managers for queries.

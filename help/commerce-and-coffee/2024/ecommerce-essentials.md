@@ -16,3 +16,25 @@ In this session, Senior Commerce Strategy Consultant, Corey Gelato, explores the
 Corey will also share a live demonstration of category merchandising techniques ranging from manual organization to more automated smart product assignments as well as content and customer management best practices.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429437/?learn=on)
+
+## Key points
+
+Top 3 Key Takeaways from the Webinar "Mastering eCommerce Essentials" with Cory Gelato:
+
+**Merchandising and Personalization**
+
+* Utilizing machine learning algorithms for merchandising can significantly impact sales and customer satisfaction. 
+* Personalized product recommendations based on individual customer experiences enhance engagement and conversion rates. 
+* Effective merchandising rules combined with machine learning lead to tailored recommendations, improving the overall shopping experience.
+
+**Marketing and Promotions Strategy**
+
+* Marketing and promotions are essential for successful eCommerce strategies targeting both consumers and businesses. 
+* Strategies like discounts, special offers, and loyalty programs incentivize purchases, drive conversions, and foster customer loyalty.
+* Leveraging multiple channels such as social media, email marketing, and SEO enhances customer engagement and retention. 
+
+**Customer Segmentation for Personalized Experiences**
+
+* Utilizing customer attributes and segmentation allows for creating personalized experiences based on customer interests like fitness preferences, leading to enhanced customer engagement and satisfaction. 
+* Implementing loyalty programs with reward points for various actions such as registration, newsletter sign-ups, and referrals can drive customer retention and incentivize desired behaviors, ultimately fostering customer loyalty. 
+* Tailoring promotions based on specific data points and creating special catalogs for distinct customer groups through category permissions and shared catalogs can significantly improve the shopping experience, increasing customer engagement and conversion rates. 

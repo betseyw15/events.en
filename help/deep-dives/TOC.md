@@ -15,12 +15,14 @@ doc-type: live event
 
 + [Overview](overview.md)
 + Deep Dives in Marketo {#deep-dives-marketo}
+  + [Admin Console Migration](admin-console.md)
   + [APIs](api.md)
   + [Certification](certification.md)
   + [Email Nurture](email-nurture.md)
   + [Executable Campaigns](executable-campaigns.md)
   + [Inheriting an Instance](inheriting-an-instance.md)
   + [Lead Lifecycles](lead-lifecycles.md)
+  + [Leveraging PMCF Fields for Scalability](pmcf-fields.md)
   + [Maximize your instance with a small team](small-team-instance.md)
   + [Notating Complex Processes in the Activity Log](activity-log.md)
   + [Using Webhooks to Transfer Data](webhooks.md)
