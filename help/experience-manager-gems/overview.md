@@ -17,9 +17,9 @@ duration: 89
 
 <img alt="Digital Experiences" src="./assets/ADX_Gems.png"/>
 
-## Upcoming AEM GEMs event 
+## Upcoming AEM GEMs webinar - Integrating Private GitHub Repositories in AEM Cloud Manager
 
-Upcoming webinars will be announced in July 2024.
+This webinar will be conducted on Wednesday, July 31st - 5pm CEST / 8am PDT / 8.30pm IST. Note that only registration is required for this webinar - please register [here](https://adobe.ly/3LmXfGk).
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
