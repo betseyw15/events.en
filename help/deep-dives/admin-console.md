@@ -15,7 +15,7 @@ jira: KT-15797
 
 An exclusive MUG Leader training on the upcoming Adobe Admin Console Migration. This meeting will be in a “Train the Trainer” style format so that you can take what you learn and educate your chapters on this upcoming change.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430626/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
 ## Overview
 
