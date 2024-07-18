@@ -13,10 +13,8 @@ jira: KT-15797
 
 # Preparing for Marketo Engage on Adobe Identity
 
-An exclusive training on the upcoming Adobe Admin Console Migration. This meeting will be in a “Train the Trainer” style format so that you can take what you learn and educate your chapters on this upcoming change.
-
 >[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
 ## Overview
 
-The training session primarily focused on the migration of Marketo Engage to Adobe Identity using the Adobe Admin console. It covered essential aspects like user migration, roles, permissions, workspace management, and support transition. The session detailed the migration process, including subscription migration, user verification, system admin roles, and user management in the new console. Emphasis was placed on email verification, user access management, and the roles of different admins involved in the migration. Common queries about deactivated users, workspace setup, and support on the Marketo Engage community during the migration were also addressed.
+The primary focus of this training session is the migration of Marketo Engage to Adobe Identity and Adobe Admin console. It covers essential aspects in each stage (product, user, and support transition) of migration journey with a greater emphasis on user migration – what changes or does not change, actions required by your organization’s admins or users, and communications from Adobe at each milestone. It dives deeper into key areas such as scheduling of a migration date in the pre-migration phase, what to expect during the user migration, and how to navigate the migration console during self-migration. Complete with the links to helpful resources and 4 key steps to prepare your organization.
