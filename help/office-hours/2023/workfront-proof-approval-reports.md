@@ -19,3 +19,4 @@ In this session, we will cover:
 * Identify and troubleshoot common user-reported issues
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430509/?learn=on)
+
