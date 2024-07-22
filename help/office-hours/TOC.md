@@ -30,3 +30,6 @@ user-guide-description: Office Hours is a proactive approach to case deflection 
     + [JavaScript Library Overview, Debugging Tips & Tricks](2023/target-debugging-tips-and-tricks.md)
   + Workfront {#workfront-office-hours}
     + [Fix Duplicate Contacts](2023/workfront-fix-duplicate-contacts.md)
+    + [Proof Approval Reports](2023/workfront-proof-approval-reports.md)
+
+    
