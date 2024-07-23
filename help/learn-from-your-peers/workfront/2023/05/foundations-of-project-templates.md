@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3664
 last-substantial-update: 2024-07-16
 jira: KT-15823
+exl-id: b8c4d196-8b74-4309-b15e-79b1d6d57e36
 ---
-
 # Foundations of project templates
 
 Project templates allow you to create specific, repeatable processes so you can avoid "reinventing the wheel," but does everything need to be a template? How many templates is too many? And what's the best way to update them?  

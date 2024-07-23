@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3714
 last-substantial-update: 2024-07-16
 jira: KT-15817
+exl-id: 0355b630-0d15-460b-b434-79b846f216fd
 ---
-
 # Workflow and process design webinar
 
 As your experience with Workfront grows, the processes that you and your team (and OTHER teams) will want to manage in Workfront will also undoubtedly grow. Before you start building, we recommend you document and design your new process outside of Workfront first. Why would you do that? And what does it look like?  

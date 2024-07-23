@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3682
 last-substantial-update: 2024-07-16
 jira: KT-15822
+exl-id: a3fc6790-7ae6-4d6e-b2ee-6d2dcb6129f6
 ---
-
 # Finding efficiencies in Workfront with automation 
 
 As an Adobe Workfront System Admin, do you find yourself completing maintenance tasks over and over – deleting templates that aren't being used, updating users' license types, etc. It's important to keep your instance clean, but there must be a better way!  

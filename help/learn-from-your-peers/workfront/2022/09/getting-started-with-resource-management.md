@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3629
 last-substantial-update: 2024-07-16
 jira: KT-15816
+exl-id: 8d1b25a6-1224-4158-9f67-7997b6cf2e67
 ---
-
 # Getting started with resource management
 
 Using Adobe Workfront to manage your resources is the DREAM - knowing the work that needs to be done, what resources you can access, and assigning them (accurately!) based on their availability. And it is absolutely a reality! Hundreds of Workfront customers do exactly this, every day.  

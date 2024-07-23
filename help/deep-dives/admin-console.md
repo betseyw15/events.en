@@ -9,8 +9,8 @@ doc-type: Event
 duration: 3416
 last-substantial-update: 2024-06-28
 jira: KT-15797
+exl-id: 811852d0-9900-43cc-b6d8-29c8b2fef40c
 ---
-
 # Preparing for Marketo Engage on Adobe Identity
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)

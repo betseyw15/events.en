@@ -10,8 +10,8 @@ doc-type: Event
 duration: 4138
 last-substantial-update: 2024-06-28
 jira: KT-15770
+exl-id: c6a900b4-de55-46a4-85cc-2d222c344d83
 ---
-
 # Overview of security in Adobe Commerce
 
 In June’s installment of the APAC Commerce Webinar Series, we will welcome Smita Verma, Senior Product Manager, Adobe Digital Experience, to share an overview of security in Adobe Commerce.

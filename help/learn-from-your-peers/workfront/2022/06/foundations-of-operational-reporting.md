@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3672
 last-substantial-update: 2024-07-16
 jira: KT-15813
+exl-id: 3f98a8e2-c288-4270-b6ea-b21d5751ae2b
 ---
-
 # Learn From Your Peers Webinar: Foundations of Operational Reporting
 
 There are MANY things you can report on in Workfront, but do you know what you, as a System Administrator, should be measuring?   

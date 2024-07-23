@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3638
 last-substantial-update: 2024-07-16
 jira: KT-15827
+exl-id: 51619ec3-f5d5-48a9-aa29-fbaa2289a576
 ---
-
 # Staffing your Workfront system admin practice
 
 Whether you're supporting your first team in Adobe Workfront or a seasoned pro managing multiple groups, having System Administrators on board to make key setup and process decisions with scalability in mind is essential.  

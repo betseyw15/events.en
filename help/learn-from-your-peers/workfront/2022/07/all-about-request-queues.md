@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3611
 last-substantial-update: 2024-07-16
 jira: KT-15814
+exl-id: fa9b2c3b-62ac-4f4f-9aec-2e696be5ef48
 ---
-
 # All about request queues
 
 There's more to Request Queues than requesting work 

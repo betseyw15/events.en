@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3647
 last-substantial-update: 2024-07-16
 jira: KT-15818
+exl-id: e9f90ac6-2b16-4495-b7d5-ba29237160b7
 ---
-
 # Successful end user adoption 
 
 Being an Adobe Workfront System Administrator is more than just understanding the software and implementing features. System Admins carry the responsibility for communicating a clear connection with your end users for WHY your organization is using Workfront – AND, what's in it for them. 

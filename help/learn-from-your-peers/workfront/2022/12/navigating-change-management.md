@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3634
 last-substantial-update: 2024-07-16
 jira: KT-15819
+exl-id: ed2935e2-007f-4b7b-96e6-2fe0856c32a8
 ---
-
 # Navigating change management
 
 Change is inevitable, but rarely easy. Any change – personal or professional – can lead to feelings of stress, excitement, anxiety, and more. We can't help it! It's how our brains are wired. BUT... it is possible to become comfortable with change.

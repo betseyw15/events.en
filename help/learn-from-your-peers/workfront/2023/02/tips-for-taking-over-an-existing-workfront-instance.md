@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3641
 last-substantial-update: 2024-07-16
 jira: KT-15820
+exl-id: 742737b9-4177-4a21-a883-ba6b67d67195
 ---
-
 # Tips for taking over an existing Workfront instance
 
 At some point you may find yourself taking over an instance of Workfront you didn't initially set up. Would you know where to start? How would you uncover why things were implemented the way they were? Where would you find documentation and answers?  

@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3667
 last-substantial-update: 2024-07-16
 jira: KT-15812
+exl-id: 22a90abe-f339-4d18-8cfe-0822b86f570d
 ---
-
 # Leveraging the group admin
 
 Group Administrator vs. System Administrator. Who owns what?  

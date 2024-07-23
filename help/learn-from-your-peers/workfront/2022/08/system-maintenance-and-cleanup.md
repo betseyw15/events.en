@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3639
 last-substantial-update: 2024-07-16
 jira: KT-15815
+exl-id: 454c5870-84f5-4a77-bb99-717ff47e4090
 ---
-
 # System maintenance and cleanup
 
 A key responsibility for Workfront System Administrators is understanding - and then executing - regular system maintenance and cleanup tasks. But what does that mean? And how often should you be doing it?  

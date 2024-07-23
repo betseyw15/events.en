@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3686
 last-substantial-update: 2024-07-16
 jira: KT-15808
+exl-id: 3f7e6991-5e18-4637-9ab4-d1deca267040
 ---
-
 # Understanding user management
 
 In order for people to do or access certain things in Workfront, they need to be setup correctly. This involves their license and their access levels. Once your users are in Workfront, you also need to consider how they'll be organized into groups and teams.  

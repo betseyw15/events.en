@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3629
 last-substantial-update: 2024-07-16
 jira: KT-15821
+exl-id: 49248573-9997-4dcd-b618-7af7264e7982
 ---
-
 # Improving user experience with interface design
 
 Is your Workfront interface customized to create an optimal experience for power users AND individuals who only occasionally log in (and everyone in between)?   

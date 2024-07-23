@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3649
 last-substantial-update: 2024-07-16
 jira: KT-15825
+exl-id: d1cec74c-aeca-4832-a7e7-be1e9cee112c
 ---
-
 # Learn From Your Peers Webinar: Communicating with End Users
 
 When we ask Workfront System admins how they are communicating with their end users, there really isn't a "one size fits all" answer. Some Admins talk regularly with their end users, some only communicate when there are major changes. Some engage directly with people, while others go through Group Admins or SMEs.

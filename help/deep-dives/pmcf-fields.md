@@ -2,7 +2,7 @@
 title: Leveraging PMCF Fields for Scalability
 description: This discusses the use of Program Member Custom Fields (PMCF) in Marketo for scalability. The session covers definitions, purposes, rules, and use cases for PMCFs. Best practices for using PMCFs to change data, reference information, and track unique event data like UTM parameters for webinars. Overall, PMCFs are a valuable tool for marketers looking to manage and scale complex marketing programs in Marketo.
 solution: Marketo Engage
-feature-set: "Marketo Engage"
+feature-set: Marketo Engage
 feature: Field Management
 role: Admin, Developer, User
 level: Intermediate, Experienced
@@ -10,8 +10,8 @@ doc-type: Event
 duration: 3059
 last-substantial-update: 2024-06-28
 jira: KT-15784
+exl-id: 9fd094c3-d6ad-410e-aeae-1b6bf3f012bd
 ---
-
 # Leveraging PMCF Fields for Scalability
 
 In the "Adobe Marketo Engage Champion Deep Dive" video, the presenters discuss the use of Program Member Custom Fields (PMCF) in Marketo for scalability. The session covers definitions, purposes, rules, and use cases for PMCFs. Best practices for using PMCFs to change data, reference information, and track unique event data like UTM parameters for webinars. Overall, PMCFs are a valuable tool for marketers looking to manage and scale complex marketing programs in Marketo.

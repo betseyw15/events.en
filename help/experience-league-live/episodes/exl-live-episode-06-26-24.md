@@ -8,7 +8,7 @@ event-cta-url-live: https://www.youtube.com/live/Cw5004YGMbc
 event-start-time: 2024-06-26 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
 duration: 25
-
+exl-id: 3adbdd2b-1c05-4b63-804d-17536eea31fe
 ---
 # How the latest Adobe Real-Time CDP releases can move the needle for your business
 

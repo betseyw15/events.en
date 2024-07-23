@@ -8,7 +8,7 @@ feature-set: Workfront
 feature: Workfront Proof
 last-substantial-update: 2024-07-22
 jira: KT-15775
-
+exl-id: 5727144f-7776-4220-a139-3413a0eefcf5
 ---
 # Proof Approval Reports
 
@@ -19,4 +19,3 @@ In this session, we will cover:
 * Identify and troubleshoot common user-reported issues
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430509/?learn=on)
-

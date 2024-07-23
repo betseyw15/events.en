@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3715
 last-substantial-update: 2024-07-16
 jira: KT-15824
+exl-id: 02d88c39-f53c-4529-ab0e-aebf0f2dff42
 ---
-
 # Establishing a Workfront center of excellence
 
 What exactly is a Center of Excellence and why should you create one for Workfront?  

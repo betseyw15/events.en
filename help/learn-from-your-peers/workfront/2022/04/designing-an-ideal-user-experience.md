@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3640
 last-substantial-update: 2024-07-16
 jira: KT-15811
+exl-id: f7acb26b-528a-41fc-a38d-73ed078bfda6
 ---
-
 # Designing an ideal user experience
 
 Now that your users are set up and organized in Workfront, how do you build an experience for them that's so delightful, they not only use it, they LIKE using it?
