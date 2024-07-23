@@ -1,12 +1,15 @@
 ---
-title: Adobe Office Hours
-description: Office Hours is a proactive approach to case deflection by offering customers solution-specific webinars.
+title: Experience Cloud Tech Sessions
+description: Enhance your Adobe Experience Cloud skills with live and on-demand Tech Sessions led by Adobe experts. Get actionable tips and strategies anytime for a seamless learning experience.
 exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
 duration: 53
 ---
-# Adobe Office Hours Recordings
+# Experience Cloud Tech Sessions Recordings
 
-The Customer Office Hours program is a proactive approach to case deflection by offering customers solution-specific webinars covering common pitfalls, hot issues, self-troubleshooting and tips for success with Adobe Experience Cloud solutions. Office Hours expands Support's impact to customers outside of traditional case-by-case interactions. The combination of data-driven topic selection plus subject matter expertise adds value by providing timely, relevant clarity to current customer pain points. The sessions provide customers with a live, educational training that not only assists customer adoption & retention but is also a highly impactful case deflection strategy.
+
+![Experience Cloud Tech Sessions](./assets/tech-sessions-banner.png){align="center"}
+
+Unlock the full potential of Adobe Experience Cloud with live and on-demand Tech Sessions. These webinars are thoughtfully designed to go beyond traditional support. Led by seasoned Adobe experts, the sessions provide valuable tips, tricks, and strategies to help you navigate technical solutions with confidence, avoiding common pitfalls. Adobe experts are technical support engineers who address top concerns and actively work on day-to-day cases. With both live and on-demand options, you have the flexibility to access the information whenever you need it, ensuring a seamless learning experience.
 
 >[!TIP]
 >

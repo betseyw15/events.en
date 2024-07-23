@@ -1,15 +1,15 @@
 ---
-user-guide-title: Adobe Office Hours
-user-guide-breadcrumb: Adobe Office Hours
-user-guide-description: Office Hours is a proactive approach to case deflection by offering customers solution-specific webinars. 
+user-guide-title: Experience Cloud Tech Sessions
+user-guide-breadcrumb: Experience Cloud Tech Sessions
+user-guide-description: Experience Cloud Tech Sessions is a proactive approach to case deflection by offering customers solution-specific webinars. 
 ---
 
-# Adobe Office Hours {#office-hours}
+# Experience Cloud Tech Sessions {#tech-sessions}
 
-+ [Adobe Office Hours](overview.md)
++ [Experience Cloud Tech Sessions](overview.md)
 + 2024 {#2024}
   + Adobe Marketo {#adobe-marketo-office-hours-2024}
-    + [Champion Office Hours - May](2024/champion-office-hours.md)
+    + [Champion Tech Sessions - May](2024/champion-office-hours.md)
 + 2023 {#2023}
   + Adobe Analytics {#adobe-analytics}
     + [Launch Best Practices](2023/launch-best-practices.md)

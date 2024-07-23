@@ -367,24 +367,24 @@ Stay in the loop on exclusive events and webinars to expand your learning. Visit
       </a>
     </div>
   </div>
-</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Office Hours" tabIndex="15">
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Experience Cloud Tech Sessions" tabIndex="15">
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" title="Office Hours" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png" alt="Office Hours">
+        <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html" title="Experience Cloud Tech Sessions" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-cloud-tech-sessions.png" alt="Experience Cloud Tech Sessions">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" title="Office Hours">Office Hours</a>
+              <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html" title="Experience Cloud Tech Sessions">Experience Cloud Tech Sessions</a>
           </p>
           <p class="is-size-6">
-         Office Hours is a proactive approach to case deflection by offering customers solution-specific webinars.</p>
+            Unlock Adobe Experience Cloud with Adobe expert-led Tech Sessions, available live and on-demand for seamless learning.</p>
       </div>
-      <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+      <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Learn more</span>
       </a>
     </div>
