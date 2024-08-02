@@ -37,6 +37,6 @@ During this AEM GEMs webinar, we will show how you can get the most out of addin
 
 >[!NOTE]
 >
->* For webinar / topic specific community interactions on this webinar on Experience League please visit the respective [Contextual Thread](tbd).
+>* For webinar / topic specific community interactions on this webinar on Experience League please visit the respective [Contextual Thread](https://adobe.ly/4f1jhMo).
 >
 >* To receive notifications on our upcoming webinars, please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/).
