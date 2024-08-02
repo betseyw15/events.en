@@ -17,9 +17,9 @@ duration: 89
 
 <img alt="Digital Experiences" src="./assets/ADX_Gems.png"/>
 
-## Upcoming AEM GEMs webinar - Integrating Private GitHub Repositories in AEM Cloud Manager
+## Upcoming AEM GEMs webinar - Integrating AEM Assets with Edge Delivery Services
 
-This webinar will be conducted on Wednesday, July 31st - 5pm CEST / 8am PDT / 8.30pm IST. Note that only registration is required for this webinar - please register [here](https://adobe.ly/3LmXfGk).
+This webinar will be conducted on Wednesday, August 21st - 5pm CEST / 8am PDT / 8.30pm IST. Note that only registration is required for this webinar - please register [here](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-integrating-aem-assets-with-edge-delivery-services/).
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -42,11 +42,11 @@ This webinar will be conducted on Wednesday, July 31st - 5pm CEST / 8am PDT / 8.
 
 -->
 
-## Previous AEM GEMs event
+## Previous AEM GEMs webinar
 
-Our latest AEM GEMs webinar on **Improving the developer experience for AEM Assets with our new APIs and Events** has been conducted on *June 19th, 2024*. 
+Our latest AEM GEMs webinar on **Integrating Private GitHub Repositories in AEM Cloud Manager** has been conducted on *July 31st, 2024*. 
 The **recording** can be found here: 
-[Improving the developer experience for AEM Assets with our new APIs and Events](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
+[Integrating Private GitHub Repositories in AEM Cloud Managers](gems2024/private-github-for-aem-cloud-manager.md)
 
 >[!NOTE]
 >

@@ -13,7 +13,7 @@ exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
 ---
 # Webinar Date: July 31st, 2024
 
-This webinar will be conducted on Wednesday, July 31st - 5pm CEST / 8am PDT / 8.30pm IST. Note that only registration is required for this webinar - please register [here](https://adobe.ly/3LmXfGk).
+This webinar has been completed - please view the recording below.
 
 ## Integrating Private GitHub Repositories in AEM Cloud Manager
 
@@ -29,12 +29,14 @@ During this AEM GEMs webinar, we will show how you can get the most out of addin
 * Shankari Panchapakesan, Principal Product Manager, Adobe
 * Florin Stancu, Software Development Engineer, Adobe
 
-## Webinar Registration
+## Webinar Recording
+
+>[!VIDEO](https://video.tv.adobe.com/v/3432350)
+
+## Webinar Community Interaction
 
 >[!NOTE]
-> 
->* This webinar is free of charge, only registration is required. Please register [here](https://adobe.ly/3LmXfGk).
 >
->* For webinar / topic specific community interactions on this webinar on Experience League please visit the respective [Contextual Thread](https://adobe.ly/4f1jhMo).
+>* For webinar / topic specific community interactions on this webinar on Experience League please visit the respective [Contextual Thread](tbd).
 >
 >* To receive notifications on our upcoming webinars, please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/).

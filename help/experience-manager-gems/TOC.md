@@ -8,6 +8,7 @@ breadcrumb-title: AEM GEMs events
 
 + [Overview](overview.md)
 + 2024 {#gems2024}
+  + [Integrating AEM Assets with Edge Delivery Services](gems2024/edge-delivery-for-aem-assets.md)
   + [Integrating Private GitHub Repositories in AEM Cloud Manager](gems2024/private-github-for-aem-cloud-manager.md)
   + [Improving the developer experience for AEM Assets with our new APIs and Events](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
   + [Getting started with Edge Delivery Services for AEM Forms](gems2024/edge-delivery-for-aem-forms.md)
