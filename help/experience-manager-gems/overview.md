@@ -19,7 +19,7 @@ duration: 89
 
 ## Upcoming AEM GEMs webinar - Integrating AEM Assets with Edge Delivery Services
 
-This webinar will be conducted on Wednesday, August 21st - 5pm CEST / 8am PDT / 8.30pm IST. Note that only registration is required for this webinar - please register [here](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-integrating-aem-assets-with-edge-delivery-services/).
+This webinar will be conducted on Wednesday, August 21st - 5pm CEST / 8am PDT / 8.30pm IST. Note that only registration is required for this webinar - please register [here](https://adobe.ly/3LTT3hg).
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
