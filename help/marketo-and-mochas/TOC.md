@@ -15,6 +15,7 @@ doc-type: live event
 
 + [Overview](overview.md)
 + 2024 {#2024}
+  + [Maturity Part 1 - Laying the Foundation](2024/maturity-part1-foundation.md)
   + [Lead Nurture Success](2024/lead-nurture-success.md)
   + [New Discover Dashboards](2024/new-discover-dashboard.md)
   + [Attribution Dashboards Recording](2024/attribution-dashboard-recording.md)
