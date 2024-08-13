@@ -58,8 +58,8 @@ Welcome to **AEM GEMs** - our webinar series of technical deep dives on Adobe Ex
 
 The webinars will be conducted regularly, including the following:
 
-* A maximum duration of 60 minutes
-* Q&A at the end and chat experts available throughout the webinar
+* A maximum duration of 60 minutes per webinar
+* < 15 mins of Q&A at the end and chat experts available throughout the webinar
 * Recording available after each webinar
 * All AEM GEMs webinars are free of charge and conducted virtually, only registration is required.
 
