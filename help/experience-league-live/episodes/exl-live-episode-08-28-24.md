@@ -1,6 +1,6 @@
 ---
 title: Summer Spotlight - Three must try features in Adobe Journey Optimizer
-description: Supercharge your customer engagement this summer with Adobe Journey Optimizer's three features: journey experimentation, frequency capping, and multi-lingual messaging.
+description: Supercharge your customer engagement this summer with Adobe Journey Optimizer's three features - journey experimentation, frequency capping, and multi-lingual messaging
 kt: KT-15471
 solution: Journey Optimizer
 feature: Experimentation, Frequency Rules
