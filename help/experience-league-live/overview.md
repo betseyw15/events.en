@@ -20,8 +20,16 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 <table>
 <tr>
   
-  <td style="vertical-align: top;">
-      <b>Come back soon to learn of new, upcoming shows! In the meantime, view our previous episodes by clicking links below or in the left navigation.</b>
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-08-28-24.md">
+      <img alt="Experience League LIVE Aug 28" src="episodes/assets/WebBanner-aug-28-2024.png">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-08-28-24.md">
+        <strong>Summer Spotlight - Three must try features in Adobe Journey Optimizer</strong>
+      </a>
+      <br/><em>with Sandra Hausmann, Keara Fausett, Aaron Forrest, and Justin Grover</em>
+      <br/><em>August 28, 2024</em>
+    </div>
   </td>
 </tr>
 </table>

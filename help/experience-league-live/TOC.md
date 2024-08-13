@@ -15,6 +15,7 @@ doc-type: live event
 
 + [Overview](overview.md)
 + Episodes {#episodes}
+  + [Ep. 38: Summer Spotlight - Three must try features in Adobe Journey Optimizer](episodes/exl-live-episode-08-28-24.md)
   + [Ep. 37: How the latest Adobe Real-Time CDP releases can move the needle for your business](episodes/exl-live-episode-06-26-24.md)
   + [Ep. 36: This is the way...to migrate Analytics to Web SDK ](episodes/exl-live-episode-05-16-24.md)
   + [Ep. 35: New code-based experience channel in Journey Optimizer](episodes/exl-live-episode-04-24-24.md)
