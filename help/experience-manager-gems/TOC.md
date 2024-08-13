@@ -8,6 +8,7 @@ breadcrumb-title: AEM GEMs events
 
 + [Overview](overview.md)
 + 2024 {#gems2024}
+  + [What's new in Rapid Development Environments?](gems2024/rapid-development-environment-news.md)
   + [Integrating AEM Assets with Edge Delivery Services](gems2024/edge-delivery-for-aem-assets.md)
   + [Integrating Private GitHub Repositories in AEM Cloud Manager](gems2024/private-github-for-aem-cloud-manager.md)
   + [Improving the developer experience for AEM Assets with our new APIs and Events](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
