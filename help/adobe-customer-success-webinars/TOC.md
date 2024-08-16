@@ -17,6 +17,9 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
   + [Strategic Leadership](2024/strategic-leadership.md)
   + [Use Case Mapping to Solution Capabilities](2024/use-case-mapping.md)
   + [Web SDK Migration Essentials](2024/web-sdk-migration.md)
+  + [AEP App Services Integrations for Customer Use Cases](2024/aep-apps-services-integrations.md)
+  + [Commerce & Coffee: Strategies for B2B eCommerce](2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md)
+  + [Marketo Measure & Mochas: Activities and Custom Models](2024/marketo-measure-and-mochas-activities-and-custom-models.md)
 + 2023 {#2023}
   + [Building the Foundation for Personalization at Scale](2023/personalization-at-scale.md)
   + [Change Management](2023/change-management.md)
