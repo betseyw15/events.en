@@ -14,7 +14,7 @@ duration: 3600
 
 This webinar will be conducted on September 4, 2024 - 5pm CEST / 8am PDT / 8.30pm IST. 
 The webinar is free of charge, only registration is required.
-To join, please register [here](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-whats-new-in-rapid-development-environments/).
+To join, please register [here](https://adobe.ly/4cwc5W4).
 
 ## What's new in Rapid Development Environments?
 
@@ -31,6 +31,6 @@ RDEs allow developers to swiftly deploy and review changes, minimizing the amoun
 
 >[!NOTE]
 >
->* For session specific community interactions on Experience League please visit the respective Contextual Thread which will be available on August 23. 
+>* For session specific community interactions on Experience League please visit the respective [Contextual Thread](https://adobe.ly/3M8MFTE) . 
 >
 >* To receive notifications on our upcoming webinars, please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/).
