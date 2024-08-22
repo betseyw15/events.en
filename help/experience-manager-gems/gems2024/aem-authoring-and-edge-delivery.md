@@ -16,7 +16,7 @@ exl-id: ef0cf02c-1670-4286-bf2e-1563a5307820
 ---
 # Webinar Date: March 13th, 2024
 
-This webinar has been completed - please watch the recording below.
+This webinar has been completed - please view the recording below.
 
 ## Getting started with AEM Authoring and Edge Delivery Services
 

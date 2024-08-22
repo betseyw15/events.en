@@ -12,9 +12,7 @@ duration: 3600
 ---
 # Webinar Date: August 21st, 2024
 
-This webinar will be conducted on August 21, 2024 - 5pm CEST / 8am PDT / 8.30pm IST. 
-The webinar is free of charge, only registration is required.
-To join, please register [here](https://adobe.ly/3LTT3hg).
+This webinar has been completed - please view the recording below.
 
 ## Integrating AEM Assets with Edge Delivery Services
 
@@ -25,8 +23,10 @@ During this AEM GEMs webinar, we will show how you can use AEM Assets in your si
 * Satya Deep Maheshwari, Principal Scientist, Adobe
 * Ashutosh Shroti, Sr. Computer Scientist, Adobe
 
-## Webinar Community Interaction
+## Webinar Recording
 
+>[!VIDEO](https://video.tv.adobe.com/v/3433046/)
+>
 >[!NOTE]
 >
 >* For session specific community interactions on Experience League please visit the respective [Contextual Thread](https://adobe.ly/4aCz0OE). 

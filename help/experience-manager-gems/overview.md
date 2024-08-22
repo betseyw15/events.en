@@ -17,9 +17,10 @@ duration: 89
 
 <img alt="Digital Experiences" src="./assets/ADX_Gems.png"/>
 
-## Upcoming AEM GEMs webinar - Integrating AEM Assets with Edge Delivery Services
+## Upcoming AEM GEMs webinar - What's new in Rapid Development Environments for AEM?
 
-This webinar will be conducted on Wednesday, August 21st - 5pm CEST / 8am PDT / 8.30pm IST. Note that only registration is required for this webinar - please register [here](https://adobe.ly/3LTT3hg).
+This webinar will be conducted on Wednesday, September 4th - 5pm CEST / 8am PDT / 8.30pm IST. Note, that only registration is required for this webinar. 
+If interested to join, please register [here](https://adobe.ly/3LTT3hg).
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -44,9 +45,9 @@ This webinar will be conducted on Wednesday, August 21st - 5pm CEST / 8am PDT / 
 
 ## Previous AEM GEMs webinar
 
-Our latest AEM GEMs webinar on **Integrating Private GitHub Repositories in AEM Cloud Manager** has been conducted on *July 31st, 2024*. 
+Our latest AEM GEMs webinar on **Integrating AEM Assets with Edge Delivery Services** has been conducted on *August 21st, 2024*. 
 The **recording** can be found here: 
-[Integrating Private GitHub Repositories in AEM Cloud Managers](gems2024/private-github-for-aem-cloud-manager.md)
+[Integrating AEM Assets with Edge Delivery Services](gems2024/edge-delivery-for-aem-assets.md)
 
 >[!NOTE]
 >
