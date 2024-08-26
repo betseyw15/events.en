@@ -17,7 +17,6 @@ user-guide-description: Workfront Events
 + Agile {#agile}
   + [Agile in Marketing](user-groups/agile-in-marketing.md)
 + Reporting and Dashboards {#reporting-and-dashboards}
-  + [Advanced Reporting](user-groups/advanced-reporting.md)
   + [Creative Agencies: Reporting and Dashboards](user-groups/creative-agencies-reporting-and-dashboards.md)
   + [Gauging quality and engagement](webinars/gauging-quality-and-engagement.md)
   + [Introduction to Text Mode Reporting](webinars/introduction-to-text-mode-reporting.md)
