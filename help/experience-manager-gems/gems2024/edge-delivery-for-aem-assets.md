@@ -29,6 +29,6 @@ During this AEM GEMs webinar, we will show how you can use AEM Assets in your si
 >
 >[!NOTE]
 >
->* For session specific community interactions on Experience League please visit the respective [Contextual Thread](https://adobe.ly/4aCz0OE). 
+>* For session specific community interactions on Experience League please visit the respective [Contextual Thread](https://adobe.ly/3LSCVfX). 
 >
 >* To receive notifications on our upcoming webinars, please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/).
