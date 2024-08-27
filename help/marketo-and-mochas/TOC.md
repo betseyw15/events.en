@@ -19,6 +19,7 @@ doc-type: live event
   + [Lead Nurture Success](2024/lead-nurture-success.md)
   + [New Discover Dashboards](2024/new-discover-dashboard.md)
   + [Attribution Dashboards Recording](2024/attribution-dashboard-recording.md)
+  + [Activities and Custom Models](2024/marketo-measure-and-mochas-activities-and-custom-models.md)
 + 2023 {#2023}
   + [Attribution](2023/attribution.md)
   + [Deliverability - Part 1](2023/deliverability-part-one.md)
