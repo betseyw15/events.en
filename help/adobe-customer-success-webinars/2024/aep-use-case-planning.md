@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3022
 last-substantial-update: 2024-08-26
 jira: KT-16038
+exl-id: 1d30c85d-3e78-4cc1-94f5-0a5b63d20ab2
 ---
-
 # From Vision to Value: AEP Use Case Planning
 
 The session is designed to provide insights on use case planning and activation, specifically focusing on value mapping, strategy alignment, and maximizing business value through Key Performance Indicators (KPIs).

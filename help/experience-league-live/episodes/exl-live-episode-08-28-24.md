@@ -6,9 +6,9 @@ solution: Journey Optimizer
 feature: Experimentation, Frequency Rules
 event-cta-url-live: https://www.youtube.com/live/u_UEsl2Nw3M
 event-start-time: 2024-08-28 09:00-7
-event-guests: Sandra Hausmann, Keara Fausett, Aaron Forrest, Justin Grover 
+event-guests: Sandra Hausmann, Keara Fausett, Aaron Forrest, Justin Grover
 duration: 25
-
+exl-id: 858bc394-66a4-4d35-bf53-ed9e2bd47a5d
 ---
 # Summer Spotlight - Three must try features in Adobe Journey Optimizer
 
@@ -23,4 +23,4 @@ As the summer heats up, so do the opportunities to engage with your customers in
 
 Discover how journey experimentation can help you fine-tune your customer interactions for optimal results across your journeys. Learn to implement frequency capping to avoid over-communicating and ensure your messages hit the mark. Explore the benefits of multilingual messaging to connect with diverse audiences within their preferred languages.  
 
-This summertime event will enhance your omni-channel marketing strategies and make the most of the season's engagement opportunities. Don't miss out on this chance to elevate your customer journeys and campaigns to drive success with Adobe Journey Optimizer. 
+This summertime event will enhance your omni-channel marketing strategies and make the most of the season's engagement opportunities. Don't miss out on this chance to elevate your customer journeys and campaigns to drive success with Adobe Journey Optimizer.

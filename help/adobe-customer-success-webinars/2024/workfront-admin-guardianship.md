@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3455
 last-substantial-update: 2024-08-27
 jira: KT-16037
+exl-id: b5997fdf-7e5c-4a96-8968-0898dd8f1ab7
 ---
-
 # Fundamentals of Workfront System and Group Admin Guardianship
 
 Learn to adequately determine your Workfront instance’s proper ratio of System Administrators to Group administrators and why letting go of a few keys to the kingdom doesn’t have to be as risky or scary as one might initially perceive. This recording will overview best practices regarding admin staffing, distributing administrative workload, maintaining data integrity and scalability in their enterprise instances while also sharing some of the effort.

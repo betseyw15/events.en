@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3294
 last-substantial-update: 2024-08-27
 jira: KT-16036
+exl-id: 2ff99ad3-4876-4760-af0f-c48a0c772e2e
 ---
-
 # Journey Optimizer Mobile Capabilities
 
 This introductory session to Adobe Journey Optimizer will empower beginners to create SMS and Push channel customer experiences that drive results using personalization. We will discuss fragment usage and personalization.

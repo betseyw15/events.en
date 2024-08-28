@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2209
 last-substantial-update: 2024-08-28
 jira: KT-16033
+exl-id: 0037c5c6-9a04-441d-979b-43d064189e0c
 ---
-
 # Maximizing Efficiency: Lean Teams and Customer Journey Analytics
 
 The webinar will demonstrate how integrating these concepts can drive efficiency, enhance customer experiences, and support data-driven decision-making within organizations.

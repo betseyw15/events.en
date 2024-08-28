@@ -8,8 +8,8 @@ doc-type: Event
 duration: 1932
 last-substantial-update: 2024-08-28
 jira: KT-16034
+exl-id: 037f8493-dc3e-4af6-8a2b-76877a7611ce
 ---
-
 # Target Personalization: Getting Started with Recommendations & Category Affinity
 
 Learn how to build a strong foundation for getting started with Recommendations. Receive a better understanding of the algorithms that power Recs, and how to leverage Recs successfully.
