@@ -15,6 +15,7 @@ doc-type: live event
 
 + [Overview](overview.md)
 + Episodes {#episodes}
+  + [Ep. 40: AI Bash - Unlocking the Power of AI Assistant in Adobe Experience Platform Applications and Campaign](episodes/exl-live-episode-09-26-24.md)
   + [Ep. 39: Are you ready to level up your mobile analytics app?](episodes/exl-live-episode-09-18-24.md)
   + [Ep. 38: Summer Spotlight - Three must try features in Adobe Journey Optimizer](episodes/exl-live-episode-08-28-24.md)
   + [Ep. 37: How the latest Adobe Real-Time CDP releases can move the needle for your business](episodes/exl-live-episode-06-26-24.md)
