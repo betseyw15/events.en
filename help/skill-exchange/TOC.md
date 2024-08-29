@@ -8,7 +8,16 @@ event-series: The Skill Exchange
 # The Skill Exchange {#the-skill-exchange-recordings}
 
 + [Overview](overview.md)
++ Adobe Commerce {#commerce}
+  + Aug 2024 {#aug2024}
+    + [Boosting Adobe Commerce Performance](commerce/aug2024/commerce-performance.md)
+    + [Maximizing SEO Throughout Migration Workflows](commerce/aug2024/seo-migration-workflows.md)
 + Analytics {#analytics}
+  + Aug 2024 {#aug2024}
+    + [High-Level Attribution Concepts](analytics/aug2024/attribution-concepts.md)
+    + [Uncovering Valuable Insights](analytics/aug2024/uncover-valuable-insights.md)
+    + [Using Calculated Metrics](analytics/aug2024/calculated-metrics.md)
+    + [Visualizations with Analysis Workspace](analytics/aug2024/spotlight-visualizations.md)
   + Aug 2023 {#aug2023}
     + [All About Segments](analytics/aug2023/spotlight-segments.md)
     + [Analyzing the data](analytics/aug2023/analyze-the-data.md)
@@ -71,6 +80,10 @@ event-series: The Skill Exchange
     + [Marketing Channels, Please Use Responsibly](analytics/jun2021/marketing-channels.md)
     + [Putting it All Together](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
+  + August 2024 {#aug2024}
+      + [AEM Sites with Universal Editor](aem/aug2024/universal-editor.md)
+      + [Master Headless and SPA Editor Approaches](aem/aug2024/headless-spa-editor.md)
+      + [Digital Asset Managment Strategies](aem/aug2024/spotlight-dam-strategies.md)
   + August 2023 {#aug2023}
     + Developer Track {#developer-track}
       + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
@@ -119,10 +132,13 @@ event-series: The Skill Exchange
   + August 2024 {#aug2024}
     + [Opening Keynote](workfront/aug2024/keynote.md)
     + [Customizing the Workload Balancer](workfront/aug2024/workload-balancer.md)
+    + [Data Quality](workfront/aug2024/data-quality.md)
     + [Enhance your Approval Experience](workfront/aug2024/approval-experience.md)
+    + [Workfront Fusion and Boards](workfront/aug2024/fusion-boards.md)
     + [Marketing Content Supply Chain](workfront/aug2024/content-supply-chain.md)
     + [Process Enhancements & Operational Efficiencies](workfront/aug2024/spotlight-process-operations.md)
     + [Retention and Engagement Journeys](workfront/aug2024/retention-engagement-journey.md)
+    + [Tailoring Workfront Home Pages](workfront/aug2024/tailoring-homepages.md)
     + [Transforming Process Flows to Workfront Wins](workfront/aug2024/spotlight-process-flows.md)
   + August 2023 {#aug2023}
     + [An Introduction to Boards](workfront/aug2023/introduction-to-boards.md)
