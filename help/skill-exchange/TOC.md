@@ -116,6 +116,14 @@ event-series: The Skill Exchange
     + [Reporting within [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
     + [Ultimate Tips & Tricks For Your Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+  + August 2024 {#aug2024}
+    + [Opening Keynote](workfront/aug2024/keynote.md)
+    + [Customizing the Workload Balancer](workfront/aug2024/workload-balancer.md)
+    + [Enhance your Approval Experience](workfront/aug2024/approval-experience.md)
+    + [Marketing Content Supply Chain](workfront/aug2024/content-supply-chain.md)
+    + [Process Enhancements & Operational Efficiencies](workfront/aug2024/spotlight-process-operations.md)
+    + [Retention and Engagement Journeys](workfront/aug2024/retention-engagement-journey.md)
+    + [Transforming Process Flows to Workfront Wins](workfront/aug2024/spotlight-process-flows.md)
   + August 2023 {#aug2023}
     + [An Introduction to Boards](workfront/aug2023/introduction-to-boards.md)
     + [Experience Makers Spotlight](workfront/aug2023/spotlight.md)
