@@ -14,7 +14,7 @@ jira: KT-15974
 
 In this session, we will explore the fundamentals of Adobe Analytics, focusing on deriving actionable insights from data and understanding user behavior. We will dive into traffic patterns, external factors, error tracking, and customizing tracking while emphasizing the importance of collaboration and catering to stakeholder needs.
 
- ## Key takeaways
+## Key takeaways
 
 1. Learn how to approach user behavior analysis within Analysis Workspace
 2. Understand the importance of context, patterns and error tracking
