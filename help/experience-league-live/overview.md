@@ -20,15 +20,15 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 <table>
 <tr>
   
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-08-28-24.md">
-      <img alt="Experience League LIVE Aug 28" src="episodes/assets/WebBanner-aug-28-2024.png">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-18-24.md">
+      <img alt="Experience League LIVE Aug 28" src="episodes/assets/WebBanner-09-18-2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-08-28-24.md">
-        <strong>Summer Spotlight - Three must try features in Adobe Journey Optimizer</strong>
+      <a href="episodes/exl-live-episode-09-18-24.md">
+        <strong>Are you ready to level up your mobile analytics app?</strong>
       </a>
-      <br/><em>with Sandra Hausmann, Keara Fausett, Aaron Forrest, and Justin Grover</em>
-      <br/><em>August 28, 2024</em>
+      <br/><em>with Daniel Wright, Mitch Rice, and Kevin Lind</em>
+      <br/><em>September 18, 2024 at 8:30 PT</em>
     </div>
   </td>
 </tr>
