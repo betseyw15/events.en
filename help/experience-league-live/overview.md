@@ -33,6 +33,22 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
   </td>
 </tr>
 </table>
+<table>
+<tr>
+  
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-26-24.md">
+      <img alt="Experience League LIVE Aug 28" src="episodes/assets/WebBanner-09-26-2024.png">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-09-18-24.md">
+        <strong>Explore how AI Assistant transforms customer interactions and enhances productivity in Adobe Experience Cloud Applications and Adobe Campaign. </strong>
+      </a>
+      <br/><em>with Rachel Hannessian, Amarnath Vannararth, and Arthur Lacroix</em>
+      <br/><em>September 26, 2024 at 8:30 PT</em>
+    </div>
+  </td>
+</tr>
+</table>
 
 </div>
 

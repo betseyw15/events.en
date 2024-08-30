@@ -13,7 +13,7 @@ duration: 25
 
 Explore how AI Assistant transforms customer interactions and enhances productivity in Adobe Experience Cloud Applications and Adobe Campaign. 
 
-[![ExL LIVE September 26 2024](assets/ep40-web-banner.png)](https://www.youtube.com/watch?v=J48CNmcV7wc)
+[![ExL LIVE September 26 2024](/help/experience-league-live/episodes/assets/WebBanner-09-26-2024.png)](https://www.youtube.com/watch?v=J48CNmcV7wc)
 
 **[Set a reminder to the show on YouTube](https://www.youtube.com/watch?v=J48CNmcV7wc){target="_blank"}**
 
