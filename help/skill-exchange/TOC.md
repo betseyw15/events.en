@@ -10,7 +10,7 @@ event-series: The Skill Exchange
 + [Overview](overview.md)
 + Adobe Commerce {#commerce}
   + Aug 2024 {#aug2024}
-    + [Opening Keynote](workfront/aug2024/keynote.md)
+    + [Opening Keynote](commerce/aug2024/keynote.md)
     + [Boosting Adobe Commerce Performance](commerce/aug2024/commerce-performance.md)
     + [Effective Extensibility](commerce/aug2024/extensibility.md)
     + [Maximizing SEO Throughout Migration Workflows](commerce/aug2024/seo-migration-workflows.md)
@@ -88,7 +88,6 @@ event-series: The Skill Exchange
       + [AEM Sites with Universal Editor](aem/aug2024/universal-editor.md)
       + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
       + [Cohesive Experiences with AEM Customization and Governance](aem/aug2024/customize-elements.md)
-      + [Customize elements](aem/aug2024/customize-elements.md)
       + [Master Headless and SPA Editor Approaches](aem/aug2024/headless-spa-editor.md)
       + [Digital Asset Managment Strategies](aem/aug2024/spotlight-dam-strategies.md)
   + August 2023 {#aug2023}
