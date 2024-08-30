@@ -1,6 +1,6 @@
 ---
 title: Opening Keynote
-description: AEM: Opening Keynote
+description: AEM Opening Keynote
 solution: Experience Manager
 role: User
 level: Beginner, Intermediate, Experienced
