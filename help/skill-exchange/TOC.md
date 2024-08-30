@@ -10,10 +10,13 @@ event-series: The Skill Exchange
 + [Overview](overview.md)
 + Adobe Commerce {#commerce}
   + Aug 2024 {#aug2024}
+    + [Opening Keynote](workfront/aug2024/keynote.md)
     + [Boosting Adobe Commerce Performance](commerce/aug2024/commerce-performance.md)
+    + [Effective Extensibility](commerce/aug2024/extensibility.md)
     + [Maximizing SEO Throughout Migration Workflows](commerce/aug2024/seo-migration-workflows.md)
 + Analytics {#analytics}
   + Aug 2024 {#aug2024}
+    + [Opening Keynote](analytics/aug2024/keynote.md)
     + [High-Level Attribution Concepts](analytics/aug2024/attribution-concepts.md)
     + [Uncovering Valuable Insights](analytics/aug2024/uncover-valuable-insights.md)
     + [Using Calculated Metrics](analytics/aug2024/calculated-metrics.md)
@@ -81,7 +84,11 @@ event-series: The Skill Exchange
     + [Putting it All Together](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
   + August 2024 {#aug2024}
+      + [Opening Keynote](aem/aug2024/keynote.md)
       + [AEM Sites with Universal Editor](aem/aug2024/universal-editor.md)
+      + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
+      + [Cohesive Experiences with AEM Customization and Governance](aem/aug2024/customize-elements.md)
+      + [Customize elements](aem/aug2024/customize-elements.md)
       + [Master Headless and SPA Editor Approaches](aem/aug2024/headless-spa-editor.md)
       + [Digital Asset Managment Strategies](aem/aug2024/spotlight-dam-strategies.md)
   + August 2023 {#aug2023}
@@ -106,6 +113,11 @@ event-series: The Skill Exchange
       + [Drive business value with content personalization in AEM](aem/aug2022/personalization.md)
       + [Maximize Your AEM Implementation](aem/aug2022/implementation.md)
 + Marketo {#marketo}
+  + August 2024 {#aug2024}
+    + [Opening Keynote](marketo/aug2024/keynote.md)
+    + [Advanced Applications of Engagement Programs](marketo/aug2024/advanced-applications-engagment-programs.md)
+    + [Retention and Engagement Journeys](marketo/aug2024/retention-engagement-journey.md)
+    + [Smart List Logic](marketo/aug2024/smart-list-logic.md)
   + February 2022 {#feb2022}
     + [Data Maintenance](marketo/feb2022/data-maintenance.md)
     + [Dynamic Content and the Power of Personalization](marketo/feb2022/dynamic-content.md)
@@ -137,7 +149,6 @@ event-series: The Skill Exchange
     + [Workfront Fusion and Boards](workfront/aug2024/fusion-boards.md)
     + [Marketing Content Supply Chain](workfront/aug2024/content-supply-chain.md)
     + [Process Enhancements & Operational Efficiencies](workfront/aug2024/spotlight-process-operations.md)
-    + [Retention and Engagement Journeys](workfront/aug2024/retention-engagement-journey.md)
     + [Tailoring Workfront Home Pages](workfront/aug2024/tailoring-homepages.md)
     + [Transforming Process Flows to Workfront Wins](workfront/aug2024/spotlight-process-flows.md)
   + August 2023 {#aug2023}

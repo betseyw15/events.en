@@ -1,7 +1,7 @@
 ---
 title: Leveraging Customer Engagement Data Insights for Powerful Retention and Engagement Journeys
 description: Analyze your customer data and reports and apply insights to effectively segment your audience in Marketo Engage. Use different program types and automation techniques to segment your audience and transition them seamlessly through engagement, product sale, and renewal stages. Create hyper-personalized content with person or program-level tokens and Velocity Scripting "
-solution: Workfront
+solution: Marketo
 role: User
 level: Intermediate, Experienced
 doc-type: Event
