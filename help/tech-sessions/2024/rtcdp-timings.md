@@ -1,7 +1,7 @@
 ---
 title: Real-Time Content Data Platform Timings and What to Expect
 description: An insightful webinar with Seth Burke, Adobe's Global Lead, as he delves into the best practices for navigating the Real-Time Content Data Platform (RTCDP). Seth guides you through the intricacies of data ingestion, audience evaluation, and export timing, and highlights key limitations at each stage.
-solution: Real-Time Content Data Platform
+solution: Real-Time Customer Data Platform
 role: Admin
 level: Beginner
 doc-type: Event
