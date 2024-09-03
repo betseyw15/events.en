@@ -20,7 +20,7 @@ duration: 89
 ## Upcoming AEM GEMs webinar - What's new in Rapid Development Environments for AEM?
 
 This webinar will be conducted on Wednesday, September 4th - 5pm CEST / 8am PDT / 8.30pm IST. Note, that only registration is required for this webinar. 
-If interested to join, please register [here](https://adobe.ly/3LTT3hg).
+If interested to join, please register [here](https://adobe.ly/3yWr9OY).
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
