@@ -25,4 +25,5 @@ doc-type: live event
   + [Leveraging PMCF Fields for Scalability](pmcf-fields.md)
   + [Maximize your instance with a small team](small-team-instance.md)
   + [Notating Complex Processes in the Activity Log](activity-log.md)
+  + [Unlocking Global Marketing](global-marketing.md)
   + [Using Webhooks to Transfer Data](webhooks.md)
