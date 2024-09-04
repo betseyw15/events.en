@@ -14,6 +14,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
   + [AEP Use Case Planning](2024/aep-use-case-planning.md)
   + [AI-Empowered Copywriting](2024/ai-copywriting.md)
   + [Data Stream Prioritization](2024/data-stream-prioritization.md)
+  + [Edge Network & Mobile Personalization](2024/edge-network-mobile-personalization.md)
   + [Effective Change Management](2024/effective-change-management.md)
   + [Empowering Lean Teams](2024/empowering-lean-teams.md)
   + [Expedia moves from Adobe Analytics to Customer Journey Analytics](2024/expedia-aa-to-cja.md)
