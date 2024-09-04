@@ -1,6 +1,6 @@
 ---
 title: Unlocking Global Marketing with Marketo Engage - Adobe Champion Deep Dive - August 2024
-description: Your organization is ready to leverage Marketo Engage to support multiple languages, countries, business units and/or products and you want to start this transformation on the right track. Join for us the August Deep Dive for a comprehensive guide on the intricacies of launching, maintaining, and reporting on global marketing initiatives. We’ll cover how to structure your data and instance using workspaces and partitions, how to comply with varied legal requirements across the globe, and how to support your campaigns with segmentations, snippets, dynamic content, and more.
+description: Your organization is ready to leverage Marketo Engage to support multiple languages, countries, business units and/or products and you want to start this transformation on the right track. Join for us the August Deep Dive for a comprehensive guide on the intricacies of launching, maintaining, and reporting on global marketing initiatives. We'll cover how to structure your data and instance using workspaces and partitions, how to comply with varied legal requirements across the globe, and how to support your campaigns with segmentations, snippets, dynamic content, and more.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -12,7 +12,7 @@ jira: KT-16119
 
 # Unlocking Global Marketing with Marketo Engage - Adobe Champion Deep Dive - August 2024
 
-Your organization is ready to leverage Marketo Engage to support multiple languages, countries, business units and/or products and you want to start this transformation on the right track. Join for us the August Deep Dive for a comprehensive guide on the intricacies of launching, maintaining, and reporting on global marketing initiatives. We’ll cover how to structure your data and instance using workspaces and partitions, how to comply with varied legal requirements across the globe, and how to support your campaigns with segmentations, snippets, dynamic content, and more.
+Your organization is ready to leverage Marketo Engage to support multiple languages, countries, business units and/or products and you want to start this transformation on the right track. Join for us the August Deep Dive for a comprehensive guide on the intricacies of launching, maintaining, and reporting on global marketing initiatives. We'll cover how to structure your data and instance using workspaces and partitions, how to comply with varied legal requirements across the globe, and how to support your campaigns with segmentations, snippets, dynamic content, and more.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433245/?learn=on)
 
