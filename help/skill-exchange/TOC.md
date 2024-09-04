@@ -96,6 +96,7 @@ event-series: The Skill Exchange
       + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
       + [Enhancing Content Supply Chain](aem/aug2024/spotlight-content-supply-chain.md)
       + [Master Headless and SPA Editor Approaches](aem/aug2024/headless-spa-editor.md)
+      + [Metadata, Content Structure, and Taxonomy](aem/aug2024/dam-performance.md)
       + [Print Production](aem/aug2024/print-production.md)
   + August 2023 {#aug2023}
     + Developer Track {#developer-track}
