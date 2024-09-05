@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2612
 last-substantial-update: 2024-08-29
 jira: KT-16092
+exl-id: d2f864b0-27da-45db-b319-deef87758fef
 ---
-
 # Experience Makers Spotlight: Get the Most Out of AEM: A Practitioner's Guide to Efficiency
 
 ## Spotlight Speaker #1

@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2447
 last-substantial-update: 2024-08-30
 jira: KT-16002
+exl-id: d1d2bbdb-1020-4a9f-8f9f-13363776d03b
 ---
-
 # Show your Impact on the Customer Journey: Leverage Marketo Engage’s Lifecycle Management and Analytics
 
 By tracking your customer journey in Marketo Engage, Marketing teams can gain actionable insights spanning — how quickly prospects convert, if MQLs are being engaged by Sales, and your win rate — thus increasing influence on lead generation and pipeline. Join us live as we teach you how to define customer journey stages, set up a lifecycle management program, and how to use native functionalities to pull insights that answer key reporting questions.

@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2056
 last-substantial-update: 2024-08-30
 jira: KT-16082
+exl-id: 6f438557-34f1-4cdf-88f1-b26d514af49f
 ---
-
 # Personalizing the Customer Experience
 
 In today's dynamic market, mastering content management and personalization is pivotal for businesses striving to thrive. Join as we delve into the core of Adobe Commerce's capabilities, unveiling the keys to crafting personalized experiences that resonate deeply with your audience. Discover how a robust content management and personalization strategy can not only lead to boosting conversions and revenue, but how it is the cornerstone for cultivating lasting customer loyalty. Corey will guide you through an in-depth exploration of best practices, showcasing how to leverage key capabilities like Customer Segments, Page Builder, Dynamic Blocks, Widgets, and more to their fullest potential. 

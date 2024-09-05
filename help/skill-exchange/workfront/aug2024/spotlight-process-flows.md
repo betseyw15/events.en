@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2741
 last-substantial-update: 2024-08-29
 jira: KT-16103
+exl-id: a3494fbd-803f-4ac3-8d40-c99d61b9d69e
 ---
-
 # Experience Makers Spotlight: Transforming Process Flows to Workfront Wins
 
 Ever feel overwhelmed trying to create Workfront templates and request queues that your teams will actually use? We've got your back! Join two Workfront Community Advisors from Accenture and Quad who will share practical tips and real-life examples that meet business needs while streamlining your work. 

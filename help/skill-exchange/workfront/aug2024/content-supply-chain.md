@@ -8,8 +8,8 @@ doc-type: Event
 duration: 1727
 last-substantial-update: 2024-08-29
 jira: KT-16100
+exl-id: 9a35284f-fed1-4d00-bf6a-ec90c9ecef37
 ---
-
 # Marketing Content Supply Chain for Workfront
 
 If you are in Marketing, the pressure for faster content production – while maintaining quality and being under budget – continues to rise. Two years ago, Mattel was feeling this very real pressure and partnered with Workfront to establish a best-in-class solution. 

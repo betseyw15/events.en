@@ -8,7 +8,7 @@ event-cta-url-live: https://www.youtube.com/live/QKz1slMT36Y
 event-start-time: 2024-09-18 08:30-7
 event-guests: Daniel Wright,Mitch Rice,Kevin Lind
 duration: 25
-
+exl-id: e97232c7-fa04-4d68-83eb-792ac140332e
 ---
 # Are you ready to level up your mobile analytics app?
 

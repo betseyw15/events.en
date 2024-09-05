@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2569
 last-substantial-update: 2024-08-30
 jira: KT-15972
+exl-id: b59ee10f-cc6e-4b85-8ea6-ce639e63bf5a
 ---
-
 # Experience Makers Spotlight
 
 ## Analysis Workspace Features You May Not Be Using

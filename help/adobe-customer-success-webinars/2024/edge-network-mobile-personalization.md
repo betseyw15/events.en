@@ -7,8 +7,8 @@ doc-type: Event
 duration: 3460
 last-substantial-update: 2024-09-04
 jira: KT-16137
+exl-id: 235124fa-ff68-44d7-8e8e-70ce67a19134
 ---
-
 # Insights into Edge Network and Mobile Personalization with Adobe Solutions
 
 Understand how the Edge architecture works and how to debug implementations using Assurance

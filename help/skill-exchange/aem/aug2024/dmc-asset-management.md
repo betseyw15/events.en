@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2118
 last-substantial-update: 2024-08-30
 jira: KT-16094
+exl-id: 3cbeb1e3-08c2-4108-979b-bb2e8f81b4d4
 ---
-
 # Scaling Efficiency: Leveraging Adobe Dynamic Media Classic for High-Volume Creative Assets
 
 In today's fast-paced advertising industry, keeping up with the demand for high-quality, high volume advertising assets can be a daunting challenge. Harness the power of Adobe Dynamic Media Classic to streamline and scale your creative production process, enabling the efficient generation of thousands of customized graphics on demand.

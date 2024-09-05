@@ -8,8 +8,8 @@ doc-type: Event
 duration: 642
 last-substantial-update: 2024-08-30
 jira: KT-15979
+exl-id: 9d52c522-8600-4812-997c-dc0182e79236
 ---
-
 # Opening Keynote: Empowering Teams with Data
 
 Empowering teams with data is essential for driving innovation and enhancing productivity. This keynote will explore why data democratization is crucial, best practices for implementation, and how Adobe Analytics and Customer Journey Analytics provide the tools to succeed. 

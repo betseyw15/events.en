@@ -8,6 +8,7 @@ event-cta-url-live: https://www.youtube.com/live/u_UEsl2Nw3M
 event-start-time: 2024-09-26 08:30-7
 event-guests: Sandra Hausmann, Rachel Hanessian, Amarnath Vannararth, Arthur Lacroix
 duration: 25
+exl-id: 063a829a-219b-4d7a-b2f5-034630557dbe
 ---
 # AI Bash - Unlocking the Power of AI Assistant in Adobe Experience Platform Applications and Campaign
 
@@ -19,6 +20,4 @@ Explore how AI Assistant transforms customer interactions and enhances productiv
 
 **Show Details**:
 
-AI-driven tools are transforming the way we engage customers and streamline workflows. Join our AI-themed Experience League Live show to keep up at the pace of innovation and learn how Adobe's capabilities will accelerate your productivity. 
-
-
+AI-driven tools are transforming the way we engage customers and streamline workflows. Join our AI-themed Experience League Live show to keep up at the pace of innovation and learn how Adobe's capabilities will accelerate your productivity.

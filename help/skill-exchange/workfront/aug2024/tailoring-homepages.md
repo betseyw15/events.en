@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2681
 last-substantial-update: 2024-08-29
 jira: KT-16105
+exl-id: 533c3a8b-60d7-4f6c-ac1a-fcd9dda0d63a
 ---
-
 # Home Sweet Home: Tailoring Workfront Home Pages 101
 
 The refreshed Adobe Workfront Home page is designed to provide a seamless landing experience, enabling users to quickly find and focus on priority work items. Workfront Admins can easily customize the design and arrangement of widgets, filters, columns, and groupings on a canvas, eliminating the need to spend considerable time creating custom UIs while enhancing the overall user experience. Join Jeremy Flores, Sr. Product Manager at Adobe, as he guides you through the New Home Admin Controls. In this session, you’ll learn: 

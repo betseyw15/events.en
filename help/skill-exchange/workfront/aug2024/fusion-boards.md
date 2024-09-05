@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2414
 last-substantial-update: 2024-08-29
 jira: KT-16104
+exl-id: 05c64912-9aad-4555-ab48-4066d1ad9564
 ---
-
 # Workfront Fusion + Boards: A Powerful Productivity Pairing
 
 Workfront Fusion on its own is automagical, enabling process automations and integrations with ease and without requiring a fleet of developers. But team it up with Boards? It's a match made in productivity heaven! 

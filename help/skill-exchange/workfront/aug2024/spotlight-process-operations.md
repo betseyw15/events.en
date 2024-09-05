@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2404
 last-substantial-update: 2024-08-29
 jira: KT-16099
+exl-id: ce5a8f39-c8ac-4a47-baaf-7b105e8b5f5a
 ---
-
 # Experience Maker’s Spotlight: Process Enhancements & Operational Efficiencies
 
 Getting the most out of Workfront involves continuous improvement and change. Yet as operational leaders or System Administrators it is inevitable that resources, time and scope will always compete for attention. So how do you “keep the lights on” and optimize at the same time? Join our Experience Makers Spotlight session to hear from two different organizations on how they tackle optimizations and system enhancements, from prioritization to change management to communicating the results. 

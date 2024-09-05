@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2812
 last-substantial-update: 2024-08-29
 jira: KT-15977
+exl-id: 0afb81ca-f039-4831-b5c2-ccb92bc209e5
 ---
-
 # Experience Makers Spotlight
 
 ## First half - Unleash the power of visualizations with Analysis Workspace

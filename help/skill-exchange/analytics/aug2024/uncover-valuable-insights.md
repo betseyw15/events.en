@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2422
 last-substantial-update: 2024-08-29
 jira: KT-15974
+exl-id: 7f47be30-b667-416d-a198-543630fa47d9
 ---
-
 # From Data to Action: Uncovering Valuable Insights
 
 In this session, we will explore the fundamentals of Adobe Analytics, focusing on deriving actionable insights from data and understanding user behavior. We will dive into traffic patterns, external factors, error tracking, and customizing tracking while emphasizing the importance of collaboration and catering to stakeholder needs.

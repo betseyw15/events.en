@@ -8,8 +8,8 @@ doc-type: Event
 duration: 558
 last-substantial-update: 2024-08-30
 jira: KT-16009
+exl-id: fd3247eb-4596-4cac-bbe4-b7ad8c1bf6b2
 ---
-
 # Opening Keynote
 
 Opening Keynote featuring Raj Patel

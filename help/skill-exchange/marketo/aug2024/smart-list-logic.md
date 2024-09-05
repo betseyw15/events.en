@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2250
 last-substantial-update: 2024-08-30
 jira: KT-16000
+exl-id: f9ebb3f5-6389-42af-995b-a33eb9024bbe
 ---
-
 # Conquering Smart List Logic to Reach your Campaign Audience
 
 Smart Campaigns are the powerful engines that drive the automation magic of Marketo Engage, and an essential component is targeting the right audience using the Smart List tab. Join us as we break down the complexities of Smart Campaigns, filters and triggers, and advanced Smart List logic. You will learn how to harness the full potential of Smart Campaigns to reach your marketing program goals.

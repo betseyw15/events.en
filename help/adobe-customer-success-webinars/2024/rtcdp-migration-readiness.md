@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2385
 last-substantial-update: 2024-08-28
 jira: KT-16030
+exl-id: e1e41ef7-706a-4d6c-8761-f6bc26778c29
 ---
-
 # Real-time Customer Data Platform Migration Readiness
 
 Find out how to migrate to Adobe Real-time Customer Data Platform and what level of effort is required,

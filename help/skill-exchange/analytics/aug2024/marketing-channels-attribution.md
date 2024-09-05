@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2176
 last-substantial-update: 2024-08-30
 jira: KT-15975
+exl-id: e5f614e4-6a80-40ef-a662-f1442be68f08
 ---
-
 # Mastering Marketing Channels and Attribution in Adobe Analytics
 
 In today's fast-paced digital marketing landscape, deciphering how users discover and engage with your website or mobile app is paramount for optimizing campaigns and boosting ROI. This session will delve into the intricacies of configuring marketing channels in Adobe Analytics and leveraging attribution models to provide actionable insights for your marketing strategy.

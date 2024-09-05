@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2650
 last-substantial-update: 2024-09-03
 jira: KT-16131
+exl-id: dbdda6ae-335c-45db-8090-62eaf0385ad7
 ---
-
 # Lightning Speed: Adobe’s Edge Delivery Service
 
 In the August installment of the APAC Commerce Webinar Series, we will welcome Kamalesh Radhakrishnan, Senior Solutions Consultant, to share an overview of Lightning Speed with Adobe’s Edge Delivery Service.

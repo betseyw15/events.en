@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2098
 last-substantial-update: 2024-08-30
 jira: KT-16008
+exl-id: d2f93a70-d569-43eb-b836-7358bdf99a0e
 ---
-
 # Boost Performance and Experiment with A/B Testing
 
 Join us to transform your approach to marketing in Marketo Engage with A/B testing— we’ll teach you how to turn your programs into a controlled experiment with measurable success. By testing variations in your emails and landing pages, you can uncover what best resonates with your audience and why. In this session, you will learn: 

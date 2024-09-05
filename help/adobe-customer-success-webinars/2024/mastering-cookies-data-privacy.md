@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3354
 last-substantial-update: 2024-08-28
 jira: KT-16032
+exl-id: d2ab94b7-7324-41cf-a2ef-551aa629a3d2
 ---
-
 # Privacy-First Analytics: Mastering Cookies and Data Privacy in Adobe Analytics and Customer Journey Analytics
 
 In today’s world of data privacy, managing data consumption and cookie consent is of major importance. In this video you will learn Adobe best practices for Analytics and Customer Journey Analytics out-of-the-box tools.

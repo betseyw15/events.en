@@ -8,8 +8,8 @@ doc-type: Event
 duration: 1683
 last-substantial-update: 2024-08-30
 jira: KT-16090
+exl-id: 9887dc02-f301-444f-afdd-283020d3c03b
 ---
-
 # The Bedrock of Success with Your DAM: Metadata, Content Structure, and Taxonomy
 
 Join this session to gain insights into common strategy mistakes customers make that slow down their DAM’s performance and contribute to low user adoption. Customer Success Manager Andrea Hardeman and AEM Architect Tommy Miller will guide you through a composite scenario-based approach and demonstrate how you can leverage the learnings from other customers’ challenges.

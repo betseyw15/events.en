@@ -1,6 +1,6 @@
 ---
 title: Experience Makers Spotlight - Enhancing Content Supply Chain - Content Velocity & Integrations
-description: Enhance your content supply chain through the support of external agencies, enabled by Adobe Express, AEM Assets and Brand Portal integration. You will learn how to set up the integration for optimized content supply chain workflows, enterprise-level controls, including share link expiration, forensic watermarking, private projects, and much more! 
+description: Enhance your content supply chain through the support of external agencies, enabled by Adobe Express, AEM Assets and Brand Portal integration. You will learn how to set up the integration for optimized content supply chain workflows, enterprise-level controls, including share link expiration, forensic watermarking, private projects, and much more!
 solution: Experience Manager
 role: Developer, User
 level: Intermediate, Experienced
@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2420
 last-substantial-update: 2024-08-30
 jira: KT-16096
+exl-id: fe85bbef-a838-43bc-bb95-3c8bf6c4f931
 ---
-
 # Experience Makers Spotlight: Enhancing Content Supply Chain: Content Velocity & Integrations
 
 ## Spotlight Speaker #1

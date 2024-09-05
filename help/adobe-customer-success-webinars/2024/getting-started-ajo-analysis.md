@@ -8,8 +8,8 @@ doc-type: Event
 duration: 3218
 last-substantial-update: 2024-08-28
 jira: KT-16031
+exl-id: 5cdd8fe0-32e5-4799-9695-73f37c80917c
 ---
-
 # Getting Started with Adobe Journey Optimizer Analysis in Customer Journey Analytics
 
 This session is intended to demonstrate the way Customer Journey Analytics and Adobe Journey Optimizer work together to streamline the measurement of multiple Adobe Journey Optimizer campaigns and journeys.

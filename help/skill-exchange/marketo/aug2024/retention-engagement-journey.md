@@ -8,8 +8,8 @@ doc-type: Event
 duration: 2091
 last-substantial-update: 2024-08-29
 jira: KT-16003
+exl-id: f470b2cd-2bac-4fa6-ac09-f64336b16493
 ---
-
 # Leveraging Customer Engagement Data Insights for Powerful Retention and Engagement Journeys
 
 Does your organization manage multiple brands or product lines? Or do you have numerous email nurtures that need orchestration? Join this session to discover how to connect the dots across channels and harness customer engagement data to deliver hyper-personalized content during the customer retention and engagement stages.
