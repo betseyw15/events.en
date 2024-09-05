@@ -17,7 +17,7 @@ duration: 89
 
 <img alt="Digital Experiences" src="./assets/ADX_Gems.png"/>
 
-## Upcoming AEM GEMs webinar - Unlocking the Power of AEM Sites: Master the Content Management APIs
+## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
 
 This webinar will be conducted on Wednesday, October 9th - 5pm CEST / 8am PDT / 8.30pm IST. Note, that only registration is required for this webinar. 
 If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
