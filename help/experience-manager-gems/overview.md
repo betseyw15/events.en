@@ -17,10 +17,10 @@ duration: 89
 
 <img alt="Digital Experiences" src="./assets/ADX_Gems.png"/>
 
-## Upcoming AEM GEMs webinar - What's new in Rapid Development Environments for AEM?
+## Upcoming AEM GEMs webinar - Unlocking the Power of AEM Sites: Master the Content Management APIs
 
-This webinar will be conducted on Wednesday, September 4th - 5pm CEST / 8am PDT / 8.30pm IST. Note, that only registration is required for this webinar. 
-If interested to join, please register [here](https://adobe.ly/3yWr9OY).
+This webinar will be conducted on Wednesday, October 9th - 5pm CEST / 8am PDT / 8.30pm IST. Note, that only registration is required for this webinar. 
+If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -45,9 +45,12 @@ If interested to join, please register [here](https://adobe.ly/3yWr9OY).
 
 ## Previous AEM GEMs webinar
 
-Our latest AEM GEMs webinar on **Integrating AEM Assets with Edge Delivery Services** has been conducted on *August 21st, 2024*. 
-The **recording** can be found here: 
-[Integrating AEM Assets with Edge Delivery Services](gems2024/edge-delivery-for-aem-assets.md)
+Our latest AEM GEMs webinar on **What's new in Rapid Development Environments for AEM?** has been conducted on *September 4th, 2024*. 
+The **recording** will be availble soon... 
+
+<!--
+[What's new in Rapid Development Environments for AEM?](gems2024/rapid-development-environment-news.md)
+-->
 
 >[!NOTE]
 >
