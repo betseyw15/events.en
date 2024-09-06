@@ -13,9 +13,8 @@ exl-id: 3cf88775-de57-4d1a-aa86-b6e93b47cfcf
 ---
 # Webinar Date: September 4th, 2024
 
-This webinar will be conducted on September 4, 2024 - 5pm CEST / 8am PDT / 8.30pm IST. 
-The webinar is free of charge, only registration is required.
-To join, please register [here](https://adobe.ly/4cwc5W4).
+This webinar has been completed on September 4, 2024 - 5pm CEST / 8am PDT / 8.30pm IST. 
+Please view the recording below.
 
 ## What's new in Rapid Development Environments for AEM?
 
@@ -27,6 +26,10 @@ RDEs allow developers to swiftly deploy and review changes, minimizing the amoun
 * Karl Pauls, Senior Computer Scientist, Adobe
 * Remo Liechti, Software Development Engineer, Adobe 
 * Julian Sedding, Software Development Engineer, Adobe
+
+## Webinar Recording
+
+>[!VIDEO](https://video.tv.adobe.com/v/3433337/)
 
 ## Webinar Community Interaction
 

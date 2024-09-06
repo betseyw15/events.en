@@ -46,11 +46,8 @@ If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
 ## Previous AEM GEMs webinar
 
 Our latest AEM GEMs webinar on **What's new in Rapid Development Environments for AEM?** has been conducted on *September 4th, 2024*. 
-The **recording** will be availble soon... 
-
-<!--
+The **recording** can be viewed here:
 [What's new in Rapid Development Environments for AEM?](gems2024/rapid-development-environment-news.md)
--->
 
 >[!NOTE]
 >
