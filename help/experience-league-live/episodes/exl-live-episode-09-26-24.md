@@ -16,7 +16,7 @@ Explore how AI Assistant transforms customer interactions and enhances productiv
 
 [![ExL LIVE September 26 2024](/help/experience-league-live/episodes/assets/WebBanner-09-26-2024.png)](https://www.youtube.com/watch?v=J48CNmcV7wc)
 
-**[Set a reminder to the show on YouTube](https://www.youtube.com/watch?v=J48CNmcV7wc){target="_blank"}**
+**[Register now](https://engage.adobe.com/ExpLeagueLive-240926.html){target="_blank"}**
 
 **Show Details**:
 
