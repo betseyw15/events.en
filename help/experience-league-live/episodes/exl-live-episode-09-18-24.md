@@ -14,7 +14,8 @@ exl-id: e97232c7-fa04-4d68-83eb-792ac140332e
 
 In this session, you will learn how to use the Edge Bridge extension to bridge the gap for migration. We will provide step-by-step instructions on how to configure your mobile properties and update your client-side implementation to use Edge Bridge.
 
-[!VIDEO](https://video.tv.adobe.com/v/3434575)
+>[!VIDEO](https://video.tv.adobe.com/v/3434575/?quality=12&learn=on)
+
 
 **To continue the discussion, please visit our [discussion on the Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}.**
 
