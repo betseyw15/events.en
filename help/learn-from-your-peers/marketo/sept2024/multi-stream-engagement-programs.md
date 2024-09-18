@@ -27,3 +27,11 @@ This Learn from Your Peers sessions discussed the setup and management of engage
 * Transitioning Strategies: Utilizing smart campaigns for transitioning between streams within an engagement program provides control and automation. ​ Understanding when and how to transition leads based on factors like lifecycle stages or content exhaustion is essential for effective lead nurturing.
 
 * Program Success Metrics: Defining clear success metrics for engagement programs is vital for measuring effectiveness. ​ Whether it's email clicks, website visits, or other actions, having defined success criteria helps in evaluating the performance and impact of the engagement programs accurately. ​
+
+## Resources used in this presentation
+
+* [Understanding Engagement Programs](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
+* [Understanding the Engagement Score](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
+* [Adding a Program to an Engagement Program Stream](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
+* [Program Import Library Overview](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
+* [Marketing Nation Community discussion thread](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)
