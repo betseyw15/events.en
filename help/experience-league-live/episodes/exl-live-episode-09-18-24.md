@@ -16,7 +16,6 @@ In this session, you will learn how to use the Edge Bridge extension to bridge t
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434575/?quality=12&learn=on)
 
-
 **To continue the discussion, please visit our [discussion on the Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}.**
 
 **Show Details**: 
