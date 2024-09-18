@@ -18,6 +18,7 @@ In this session, you will learn how to use the Edge Bridge extension to bridge t
 
 **To continue the discussion, please visit our [discussion on the Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}.**
 
+
 **Show Details**: 
 You have been using Adobe Analytics in your mobile app to gain insights into your digital business and understand how your customers use your app.
 
