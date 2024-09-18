@@ -39,6 +39,8 @@ user-guide-description: "Collection of recordings from [!DNL Experience Makers L
   + May {#may2023} 
     + [Mastering Content & Experience Fragments](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
+  + September 2024 {#sept2024}
+    + [Multi-Stream Engagement Programs](marketo/sept2024/multi-stream-engagement-programs.md)
   + July 2024 {#july2024}
     + [The Marketer's Map: Strategizing, Building, and Analyzing Marketo Campaigns](marketo/july2024/marketers-map-marketo-campaigns.md)
   + April 2024 {#april2024}
