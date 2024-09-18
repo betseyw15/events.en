@@ -28,7 +28,7 @@ This Learn from Your Peers sessions discussed the setup and management of engage
 
 * Program Success Metrics: Defining clear success metrics for engagement programs is vital for measuring effectiveness. ​ Whether it's email clicks, website visits, or other actions, having defined success criteria helps in evaluating the performance and impact of the engagement programs accurately. ​
 
-## Resources used in this presentation
+## Resources referenced in this presentation
 
 * [Understanding Engagement Programs](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
 * [Understanding the Engagement Score](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
