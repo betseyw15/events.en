@@ -14,9 +14,9 @@ exl-id: e97232c7-fa04-4d68-83eb-792ac140332e
 
 In this session, you will learn how to use the Edge Bridge extension to bridge the gap for migration. We will provide step-by-step instructions on how to configure your mobile properties and update your client-side implementation to use Edge Bridge.
 
-[![ExL LIVE Aug 28 2024](assets/WebBanner-09-18-2024.jpg)](https://www.youtube.com/live/QKz1slMT36Y)
+[!VIDEO](https://video.tv.adobe.com/v/3434575)
 
-**[Set a reminder to the show on YouTube](https://www.youtube.com/live/QKz1slMT36Y){target="_blank"}**
+**To continue the discussion, please visit our [discussion on the Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}.**
 
 **Show Details**: 
 You have been using Adobe Analytics in your mobile app to gain insights into your digital business and understand how your customers use your app.
