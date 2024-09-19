@@ -18,11 +18,11 @@ Explore how to systematically engage and nurture customer relationships with mul
 
 ## Summary
 
-This Learn from Your Peers sessions discussed the setup and management of engagement programs in Marketo. It covered topics such as planning, building, and reporting within engagement programs. Key points included choosing between trip nurture and engagement programs, using smart campaigns for transitions, deciding between emails and default programs, and understanding program success metrics. ​ The discussion also touched on topics like transitioning content, managing different languages, utilizing dynamic content, and setting up multiple streams based on lifecycle stages or product families. The webinar emphasized the importance of testing, program availability, and utilizing engagement scores for reporting purposes. ​
+This Learn from Your Peers session discussed the setup and management of engagement programs in Marketo Engage. It covered topics such as planning, building, and reporting within engagement programs. Key points included choosing between drip nurture and engagement programs, using smart campaigns for transitions, deciding between emails and default programs, and understanding program success metrics. ​ The discussion also touched on topics like transitioning content, managing different languages, utilizing dynamic content, and setting up multiple streams based on lifecycle stages or product families. The webinar emphasized the importance of testing, program availability, and utilizing engagement scores for reporting purposes. ​
 
 ## Key Takeaways
 
-* Choosing the Right Program Type: Understanding the difference between trip nurture and engagement programs is crucial. ​ Engagement programs offer more flexibility and complexity for nurturing leads effectively compared to trip nurture programs. ​
+* Choosing the Right Program Type: Understanding the difference between drip nurture and engagement programs is crucial. ​ Engagement programs offer more flexibility and complexity for nurturing leads effectively compared to drip nurture programs. ​
 
 * Transitioning Strategies: Utilizing smart campaigns for transitioning between streams within an engagement program provides control and automation. ​ Understanding when and how to transition leads based on factors like lifecycle stages or content exhaustion is essential for effective lead nurturing.
 
