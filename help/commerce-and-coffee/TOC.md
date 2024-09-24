@@ -9,6 +9,7 @@ user-guide-description: Adobe Commerce and Coffee is a video library where exper
 + [Overview](overview.md)
 + 2024 {#2024}
   + [Ecommerce Essentials](2024/ecommerce-essentials.md)
+  + [Peak Season Preparation](2024/peak-season-prep.md)
   + [Personalizing eCommerce Experiences with AI](2024/personalize-ecommerce.md)
   + [Strategies for B2B eCommerce](2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md)
 + 2023 {#2023}
