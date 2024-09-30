@@ -14,6 +14,27 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
 <table style="max-width: 50%;">
   <tr>
     <td>
+      <a href="2024/2024-9-0.md">
+        <img alt="2024.9.0 Release" src="https://video.tv.adobe.com/v/3433381?format=jpeg" />
+      </a>
+      <div>
+        <a href="2024/2024-9-0.md">
+          <strong>Release | 2024.9.0</strong>
+        </a>
+      </div>
+      <em>Release date September 2024 </em>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
+      </p>
+    </td>
+  </tr>  
+</table> 
+
+## Past Updates
+
+<table style="max-width: 50%;">
+  <tr>
+    <td>
       <a href="2024/2024-8-0.md">
         <img alt="2024.8.0 Release" src="https://video.tv.adobe.com/v/3433381?format=jpeg" />
       </a>
@@ -27,13 +48,6 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
       </p>
     </td>
-  </tr>  
-</table> 
-
-## Past Updates
-
-<table style="max-width: 50%;">
-  <tr>
     <td>
       <a href="2024/2024-7-0.md">
         <img alt="2024.7.0 Release" src="https://video.tv.adobe.com/v/3431707?format=jpeg" />
@@ -62,6 +76,8 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
       </p>
      </td>
+  </tr>
+  <tr> 
      <td>
       <a href="2024/2024-5-0.md">
         <img alt="2024.5.0 Release" src="2024/assets/2024-5-0-thumb.png" />
@@ -74,8 +90,6 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
       </div>
       <em>Release date May 2024 </em>
     </td>
-  </tr>
-  <tr> 
     <td>
       <a href="2024/2024-4-0.md">
         <img alt="2024.4.0 Release" src="2024/assets/2024-4-0-thumb.png" />
@@ -100,6 +114,8 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
       </div>
       <em>Release date April 2024 </em>
     </td>   
+  </tr>
+  <tr> 
     <td>
       <a href="2024/2024-1-0.md">
         <img alt="2024.1.0 Release" src="2024/assets/2024-1-0-thumb.png" />
@@ -112,8 +128,6 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
           <em>Release date January 2024 </em>
       </div>
     </td>
-  </tr>
-  <tr>     
     <td>
       <a href="2023/2023-11-0.md">
         <img alt="2023.11.0 Release" src="2023/assets/2023-11-0-thumb.png" />
@@ -136,18 +150,6 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
           <br/>
         </a>
           <em>Release date October 2023 </em>
-      </div>
-    </td>
-    <td>
-      <a href="2023/2023-9-0.md">
-        <img alt="2023.9.0 Release" src="2023/assets/2023-9-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2023/2023-9-0.md">
-          <strong>Release | 2023.9.0</strong>
-          <br/>
-        </a>
-          <em>Release date September 2023 </em>
       </div>
     </td>
   </tr>
