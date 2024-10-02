@@ -7,8 +7,6 @@ feature: Audiences
 event-cta-url-live: https://youtube.com/live/ghN-XWdBLvg
 event-start-time: 2024-10-24 08:30-7
 event-guests: Doug Moore,Alyssa Espiritu,Abhijit Ghosh,Arthur Lacroix
-duration: 
-exl-id: 
 ---
 # Harmonize Audiences in Experience Ecosystems - Federated Audience Composition in Experience Platform
 
