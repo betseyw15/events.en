@@ -17,28 +17,23 @@ Experience League LIVE is a live streaming show produced by the Experience Leagu
 
 ## Upcoming Experience League LIVE events
 
-More events coming soon !
-
-<!-- 
-
 <table>
 <tr>
   
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-26-24.md">
-      <img alt="Experience League LIVE Aug 28" src="episodes/assets/WebBanner-09-26-2024.png">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-40-2024-10-24.md">
+      <img alt="Experience League LIVE Oct 24" src="episodes/assets/ep41-web-banner.png">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-09-18-24.md">
-        <strong>Explore how AI Assistant transforms customer interactions and enhances productivity in Adobe Experience Cloud Applications and Adobe Campaign. </strong>
+      <a href="episodes/exl-live-episode-40-2024-10-24.md">
+        <strong>Learn about how Federated Audience Composition provides a comprehensive approach to audience curation and activation with Real-Time CDP and Journey Optimizer. </strong>
       </a>
-      <br/><em>with Rachel Hannessian, Amarnath Vannararth, and Arthur Lacroix</em>
-      <br/><em>September 26, 2024 at 8:30 PT</em>
+      <br/><em>with Alyssa Espiritu, Abhijit Ghosh, and Arthur Lacroix</em>
+      <br/><em>October 24, 2024 at 8:30 PT</em>
+      <br/><br/><a href="https://www.youtube.com/watch?v=J48CNmcV7wc">Bookmark the show on YouTube</a>
     </div>
   </td>
 </tr>
 </table> 
-
--->
 
 </div>
 
