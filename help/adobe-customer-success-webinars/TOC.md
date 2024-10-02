@@ -21,6 +21,7 @@ user-guide-description: Adobe Customer Success-led webinars designed to empower 
   + [Fundamentals of Workfront System and Group Admin Guardianship](2024/workfront-admin-guardianship.md)
   + [Getting Started with Adobe Journey Optimizer Analysis](2024/getting-started-ajo-analysis.md)
   + [Getting Started with Real-Time Customer Data Platform](2024/getting-started-rtcdp.md)
+  + [Harnessing AI for Customer Experience](2024/ai-customer-experience.md)
   + [Lean Teams and Customer Journey Analytics](2024/lean-teams-cja.md)
   + [Mastering Cookies and Data Privacy](2024/mastering-cookies-data-privacy.md)
   + [Target Personalization](2024/target-personalization.md)
