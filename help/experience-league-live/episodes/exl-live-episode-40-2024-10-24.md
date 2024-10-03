@@ -14,7 +14,7 @@ Learn about how Federated Audience Composition provides a comprehensive approach
 
 <img alt="Experience League LIVE October 24 2024" src="../episodes/assets/ep41-web-banner.png">
 
-[Bookmark the show on YouTube](https://www.youtube.com/watch?v=J48CNmcV7wc) 
+[Bookmark the show on YouTube](https://youtube.com/live/ghN-XWdBLvg) 
 
 **Show Details**: 
 Gain expanded access to enterprise data warehouses to compose audiences and power brand-initiated and in-the-moment experiences.
