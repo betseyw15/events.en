@@ -28,8 +28,8 @@ Expect great content, practical demonstrations, and actionable takeaways that yo
 ## Presenters
 
 * Mathias Siegel, Principal Product Manager, Adobe
-* Gilles Knobloch, Director of Engineering, Adobe
-* Andreea Miruna Moise, Engineering Manager, Adobe 
+* Catalina Dumitru, Software Development Engineer, Adobe
+* Lénárd Palkó, Senior Software Development Engineer, Adobe 
 * Prashant Kumar Singh, Computer Scientist, Adobe
 
 ## Webinar Community Interaction
