@@ -1,6 +1,6 @@
 ---
 title: Unveiling Content Cards for Adobe Journey Optimizer
-description: Learn about Content Cards. A new versatile messaging channel in Adobe Journey Optimizer that enhances user engagement without being intrusive.
+description: Learn about Content Cards - a new versatile messaging channel in Adobe Journey Optimizer that enhances user engagement without being intrusive.
 kt: KT-16237
 solution: Journey Optimizer
 feature: Journey Optimizer
